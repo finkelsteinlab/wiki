@@ -4,6 +4,8 @@ title: "S. pyogenes Cas1 and Cas2 Purification"
 
 <!-- migrated from DokuWiki page protocols:spycas1cas2 -->
 
+Used in our paper:[^paper-1]
+
 ## Contents
 
 1. [Buffers and Reagents](#1-buffers-and-reagents)
@@ -88,3 +90,5 @@ title: "S. pyogenes Cas1 and Cas2 Purification"
    4. Add buffer to elute the protein. Collect 1mL fractions and monitor by Bradford to determine where protein elutes.
    5. Run fractions on 12% SDS PAGE gel.
 9. Combine protein-containing fractions, aliquot, freeze with liquid nitrogen, and store at -80.
+
+[^paper-1]: Ma et al. (2021). [Disintegration promotes proto-spacer integration by the Cas1-Cas2 complex](https://finkelsteinlab.org/papers/paper/cas1-cas2-complex). *eLife*.

@@ -4,6 +4,8 @@ title: "FtsK trimer purifcation"
 
 <!-- migrated from DokuWiki page protocols:ftsk_trimer_purification -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 Please include the names of the plasmids that are required to purify this protein
 
 ## Contents
@@ -127,3 +129,6 @@ Please include the names of the plasmids that are required to purify this protei
 11. Pool the fractions of interest.
 12. Dialyze the fractions in dialysis buffer. Three times buffer exchange every hour.
 13. Freeze the purified FtsK using liquid nitrogen.
+
+[^paper-1]: Lee et al. (2012). [Single-molecule imaging of DNA curtains reveals mechanisms of KOPS sequence targeting by the DNA translocase FtsK](https://finkelsteinlab.org/papers/paper/curtains-kops-ftsk). *Proc Natl Acad Sci USA*.
+[^paper-2]: Lee et al. (2014). [Single-molecule imaging of FtsK translocation reveals mechanistic features of protein-protein collisions on DNA](https://finkelsteinlab.org/papers/paper/ftsk-collisions-curtains). *Mol. Cell*.

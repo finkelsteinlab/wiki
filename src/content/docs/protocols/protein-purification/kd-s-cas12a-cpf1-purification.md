@@ -4,6 +4,8 @@ title: "KD's Cas12a (Cpf1) Purification"
 
 <!-- migrated from DokuWiki page protocols:cas12a_kd_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5][^paper-6]
+
 ## Contents
 
 1. [Buffers](#1-buffers)
@@ -205,3 +207,10 @@ title: "KD's Cas12a (Cpf1) Purification"
 ## 5. References
 
 - See [reagents compatible with Strep Tactin](http://www.iba-lifesciences.com/strep-tag-strep-tactin-resins-technology.html) (dead link) for maximum concentrations allowed in buffers.
+
+[^paper-1]: Strohkendl et al. (2018). [Kinetic Basis for DNA Target Specificity of CRISPR-Cas12a](https://finkelsteinlab.org/papers/paper/cas12a-kinetics). *Mol. Cell*.
+[^paper-2]: Jones et al. (2021). [Massively parallel kinetic profiling of natural and engineered CRISPR nucleases](https://finkelsteinlab.org/papers/paper/nucleaseq). *Nature Biotechnology*.
+[^paper-3]: Strohkendl et al. (2021). [Inhibition of CRISPR-Cas12a DNA Targeting by Nucleosomes and Chromatin](https://finkelsteinlab.org/papers/paper/Cas12a-nucleosomes). *Science Advances*.
+[^paper-4]: Sinan et al. (2024). [Kinetic dissection of pre-crRNA binding and processing by CRISPR-Cas12a](https://finkelsteinlab.org/papers/paper/Kinetic-dissection-of-pre-crRNA-binding). *RNA*.
+[^paper-5]: Nalefski et al. (2025). [Unleashing high trans-substrate cleavage kinetics of Cas12a for nucleic acid diagnostics](https://finkelsteinlab.org/papers/paper/Cas12a-trans-cleavage-diagnostics). *Nucleic Acids Research*.
+[^paper-6]: Sinan et al. (2025). [One-Pot Isothermal Linear Amplification and Cas12a-Based Nucleic Acid Detection](https://finkelsteinlab.org/papers/paper/One-Pot-Isothermal-Cas12a-Detection). *ACS Synthetic Biology*.

@@ -4,6 +4,8 @@ title: "GP32 Single Stranded Binding Protein"
 
 <!-- migrated from DokuWiki page protocols:single_stranded_binding_protein_gp32 -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 GP32 binds to single stranded DNA to promote stabilization. Each molecule binds to 7-9 nucleotides. GP32 also has interactions with many other replication proteins that are still being discerned.
 
 ## Contents
@@ -92,3 +94,6 @@ GP32 binds to single stranded DNA to promote stabilization. Each molecule binds 
    - 10% Glycerol
 2. **Check the pH of storage buffer and adjust if necessary**
 3. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
+
+[^paper-1]: Myler et al. (2016). [Single-molecule imaging reveals the mechanism of Exo1 regulation by single-stranded DNA binding proteins](https://finkelsteinlab.org/papers/paper/exo1-ssb-curtains). *Proc Natl Acad Sci USA*.
+[^paper-2]: Blevins et al. (2021). [Characterization of the T4 gp32-ssDNA complex by native, cross-linking, and ultraviolet photodissociation mass spectrometry](https://finkelsteinlab.org/papers/paper/T4-gp32-ssDNA-complex). *Chem Sci*.

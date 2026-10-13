@@ -4,6 +4,8 @@ title: "scRFC wild-type Purification"
 
 <!-- migrated from DokuWiki page protocols:scrfc_purification -->
 
+Used in our paper:[^paper-1]
+
 Relication Factor C (RFC) consists of five protein subunits and binds PCNA and load onto DNA mainly during replication.
 
 ## Contents
@@ -73,3 +75,5 @@ Relication Factor C (RFC) consists of five protein subunits and binds PCNA and l
 6. Combine the fractions with nice bands on the gel.
 7. aliquot ~10ul for each tube, freeze in N2, store in -80C.
 8. Determine the concentration of your protein by BSA standard curve. (yRFC = 249000Da)
+
+[^paper-1]: Kim et al. (2017). [Efficient modification of λ-DNA substrates for single-molecule studies](https://finkelsteinlab.org/papers/paper/lambda-modification). *Sci Rep*.

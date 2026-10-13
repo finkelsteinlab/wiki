@@ -4,6 +4,8 @@ title: "Cas13d (SNAP-EsCas13d) Purification"
 
 <!-- migrated from DokuWiki page protocols:cas13d_purification -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 **Add DTT before use.**
 
 ## Contents
@@ -97,3 +99,6 @@ title: "Cas13d (SNAP-EsCas13d) Purification"
 ### 2.2 Day1
 
 ### 2.3 Day2
+
+[^paper-1]: Kuo et al. (2024). [Massively Parallel Profiling of RNA-targeting CRISPR-Cas13d](https://finkelsteinlab.org/papers/paper/Massively-Parallel-Profiling-CRISPR-Cas13d). *Nature Communications*.
+[^paper-2]: Chou et al. (2026). [Structural basis for target discrimination and activation by Cas13d](https://finkelsteinlab.org/papers/paper/Cas13d-structure). *Science Advances*.

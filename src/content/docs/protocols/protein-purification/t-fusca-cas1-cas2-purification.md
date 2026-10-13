@@ -4,6 +4,8 @@ title: "T. fusca Cas1-Cas2 purification"
 
 <!-- migrated from DokuWiki page protocols:cas1_cas2 -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 Purification adapted from Ke lab protocol.
 
 ## Contents
@@ -68,3 +70,6 @@ Purification adapted from Ke lab protocol.
 5. Run the complex over an S-200 gel filtration column.
 6. Collect the peak fractions and run on a gel to confirm Sortase labeling and complex formation.
 7. Freeze the fractions in liquid nitrogen and store at -80’.
+
+[^paper-1]: Dillard et al. (2018). [Assembly and Translocation of a CRISPR-Cas Primed Acquisition Complex](https://finkelsteinlab.org/papers/paper/PAC-Cell). *Cell*.
+[^paper-2]: Dillard et al. (2019). [Sortase-mediated fluorescent labeling of CRISPR complexes](https://finkelsteinlab.org/papers/paper/sortase-labeling). *Methods in Enzymology*.

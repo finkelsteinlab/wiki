@@ -4,6 +4,8 @@ title: "Expression and Purification of Human Histone 3x FLAG tagged hH2A"
 
 <!-- migrated from DokuWiki page protocols:3xflag_h2a_purification -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 ## Contents
 
 1. [General Notes](#1-general-notes)
@@ -113,3 +115,6 @@ Reagent preparation:
 - be sure to increase all SP-spharose resin to over 25 mL
 - be sure to use ≤100 mM NaCl in the SAU-100 buffer for Q-SP tandem columns **the protein will not bind the resin otherwise**
 - be sure to use **two** 5 mL Q-SP columns in tandem
+
+[^paper-1]: Brown et al. (2016). [Dynamic DNA binding licenses a repair factor to bypass roadblocks in search of DNA lesions](https://finkelsteinlab.org/papers/paper/dna-bypass-roadblocks). *Nature Communications*.
+[^paper-2]: Myler et al. (2017). [Single-molecule imaging reveals how Mre11-Rad50-Nbs1 initiates DNA break repair](https://finkelsteinlab.org/papers/paper/mrn-dna-curtains). *Molecular Cell*.

@@ -4,6 +4,8 @@ title: "T4Mre11-His6 Purification"
 
 <!-- migrated from DokuWiki page protocols:t4mrpurification -->
 
+Used in our paper:[^paper-1]
+
 Mre11 is part of the MR complex present int he T4 phage. Mre11 has nuclease activity and binds DNA. It has human and yeast homologs.
 
 ## Contents
@@ -83,3 +85,5 @@ Mre11 is part of the MR complex present int he T4 phage. Mre11 has nuclease acti
      - 20% glycerol
 2. Aliquot fractions into 10-20 uL in 10 uL Eppendorf tubes and flash freeze with liquid nitrogen.
 3. Store fractions at -80 C.
+
+[^paper-1]: Myler et al. (2017). [Single-molecule imaging reveals how Mre11-Rad50-Nbs1 initiates DNA break repair](https://finkelsteinlab.org/papers/paper/mrn-dna-curtains). *Molecular Cell*.

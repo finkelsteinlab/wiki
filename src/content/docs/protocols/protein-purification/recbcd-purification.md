@@ -4,6 +4,8 @@ title: "RecBCD Purification"
 
 <!-- migrated from DokuWiki page protocols:recbcd_purification -->
 
+Used in our paper:[^paper-1]
+
 This 3-4 day protocol is to purify wtRecBCD from 3-6 liters of cell culture. The protocol is adapted from Wigley’s crystal structure paper: [NATURE-V432-P187-2004](http://www.nature.com/nature/journal/v432/n7014/abs/nature02988.html). All RecBCD constructs were generated from plasmids provided by Jeff Gelles.
 
 To save time, it is recommended that all columns be pre-washed in appropriate buffers and liquid cultures pre-warmed to 37oC before adding cells.
@@ -119,3 +121,5 @@ Be very careful about setting maximum pressure on AKTA. The MonoQ can take more 
 
 1. Aliquot samples.
 2. Flash freeze in liquid nitrogen and store in the -80C freezer.
+
+[^paper-1]: Robison et al. (2014). [Rapid prototyping of multichannel microfluidic devices for single-molecule DNA curtain imaging](https://finkelsteinlab.org/papers/paper/microfluidic-devices-curtains). *Anal. Chem*.

@@ -4,6 +4,8 @@ title: "Exo1 Purification"
 
 <!-- migrated from DokuWiki page protocols:exo1_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5]
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -34,3 +36,9 @@ title: "Exo1 Purification"
 13. The most concentrated fraction from the SP column is then developed on a Superdex 200 column equilibrated in A buffer. Pool highest concentration fractions.
 14. Aliquot sample, snap freeze with liquid nitrogen, and store at -80°C.
 15. The typical yield from 2L of Sf21 cells is ~80-100 μg of ~300-400 nM EXO1-biotin.
+
+[^paper-1]: Myler et al. (2016). [Single-molecule imaging reveals the mechanism of Exo1 regulation by single-stranded DNA binding proteins](https://finkelsteinlab.org/papers/paper/exo1-ssb-curtains). *Proc Natl Acad Sci USA*.
+[^paper-2]: Myler et al. (2017). [Single-molecule imaging reveals how Mre11-Rad50-Nbs1 initiates DNA break repair](https://finkelsteinlab.org/papers/paper/mrn-dna-curtains). *Molecular Cell*.
+[^paper-3]: Soniat et al. (2019). [Assembling the Human Resectosome on DNA Curtains](https://finkelsteinlab.org/papers/paper/human-resectosome). *Methods Mol Biol*.
+[^paper-4]: Soniat et al. (2019). [RPA phosphorylation inhibits DNA resection](https://finkelsteinlab.org/papers/paper/rpa-phosphorylation). *Molecular Cell*.
+[^paper-5]: Soniat et al. (2023). [The MRN complex and topoisomerase IIIa–RMI1/2 synchronize DNA resection motor proteins](https://finkelsteinlab.org/papers/paper/MRN-DNA-Resection). *Journal of Biological Chemistry*.

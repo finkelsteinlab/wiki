@@ -4,6 +4,8 @@ title: "Φ29 (phi29) DNA Polymerase Purification"
 
 <!-- migrated from DokuWiki page protocols:protocols:φ29_polymerase_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 phi29 DNA Polymerase is the replicative polymerase from the Bacillus subtilis phage phi29 (Φ29). This polymerase has exceptional strand displacement and processive synthesis properties. The polymerase has an inherent 3´→5’ proofreading exonuclease activity.
 
 ## Contents
@@ -104,3 +106,7 @@ phi29 DNA Polymerase is the replicative polymerase from the Bacillus subtilis ph
    3. Spin samples at 15000 rpm for 3 minutes.
    4. Load onto gel and run 150-180V (lower V = nicer runs/gels).
 3. Check the DNA to protein ratio (260/280) using the nanodrop.
+
+[^paper-1]: Gibb et al. (2012). [Single-stranded DNA curtains for real-time single-molecule visualization of protein-nucleic acid interactions](https://finkelsteinlab.org/papers/paper/ssdna-curtains). *Anal. Chem*.
+[^paper-2]: Gallardo et al. (2015). [High-Throughput Universal DNA Curtain Arrays for Single-Molecule Fluorescence Imaging](https://finkelsteinlab.org/papers/paper/dna-curtain-arrays). *Langmuir*.
+[^paper-3]: Soniat et al. (2017). [Next-Generation DNA Curtains for Single-Molecule Studies of Homologous Recombination](https://finkelsteinlab.org/papers/paper/hr-methods-enzymology-chapter). *Methods in Enzymology*.

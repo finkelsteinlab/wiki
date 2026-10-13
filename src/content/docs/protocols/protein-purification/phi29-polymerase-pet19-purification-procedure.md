@@ -4,6 +4,8 @@ title: "Phi29 Polymerase (pET19) Purification Procedure"
 
 <!-- migrated from DokuWiki page protocols:phi29_polymerase_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4]
+
 Plasmid cloned from the previous phi29 into pET19. Adapted by J. Schaub for better purificaiton.
 
 ## Contents
@@ -73,3 +75,8 @@ Lysis Buffer + High NaCl: (25 mL)
 9. Dialyze in Dialysis Buffer with addition of SUMO Protease.
 10. Dialyze for 4 hours at 4C.
 11. Freeze in aliquots in L2. Store in -80C.
+
+[^paper-1]: Schaub et al. (2018). [Assessing Protein Dynamics on Low-Complexity Single-Stranded DNA Curtains](https://finkelsteinlab.org/papers/paper/low-complexity-ssdna-curtains). *Langmuir*.
+[^paper-2]: Zhang et al. (2020). [RADX condenses single-stranded DNA to antagonize RAD51 loading](https://finkelsteinlab.org/papers/paper/RADX-condensation). *Nucleic Acids Research*.
+[^paper-3]: Schaub et al. (2022). [Polymerase theta-helicase promotes end joining by stripping single-stranded DNA-binding proteins and bridging DNA ends](https://finkelsteinlab.org/papers/paper/Pol-theta-end-joining). *NAR*.
+[^paper-4]: Kozlov et al. (2022). [How Glutamate Promotes Liquid-liquid Phase Separation and DNA Binding Cooperativity of E. coli SSB Protein](https://finkelsteinlab.org/papers/paper/SSB-protein). *J. Mol. Bio*.

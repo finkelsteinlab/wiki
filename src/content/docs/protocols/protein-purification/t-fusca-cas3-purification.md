@@ -4,6 +4,8 @@ title: "T. fusca Cas3 Purification"
 
 <!-- migrated from DokuWiki page protocols:cas3_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 ## Contents
 
 1. [Buffers and Reagents](#1-buffers-and-reagents)
@@ -80,3 +82,7 @@ The numbers represent fractions that where run on an SDS-page gel (shown). Boxed
 ## 3. References
 
 Purification from Huo et al 2014: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156918/>
+
+[^paper-1]: Jung et al. (2017). [Massively Parallel Biophysical Analysis of CRISPR-Cas Complexes on Next Generation Sequencing Chips](https://finkelsteinlab.org/papers/paper/champ-cascade). *Cell*.
+[^paper-2]: Dillard et al. (2018). [Assembly and Translocation of a CRISPR-Cas Primed Acquisition Complex](https://finkelsteinlab.org/papers/paper/PAC-Cell). *Cell*.
+[^paper-3]: Dillard et al. (2019). [Sortase-mediated fluorescent labeling of CRISPR complexes](https://finkelsteinlab.org/papers/paper/sortase-labeling). *Methods in Enzymology*.

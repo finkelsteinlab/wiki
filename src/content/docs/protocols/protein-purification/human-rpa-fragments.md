@@ -4,6 +4,8 @@ title: "Human RPA Fragments"
 
 <!-- migrated from DokuWiki page protocols:hrpa-fragments -->
 
+Used in our paper:[^paper-1]
+
 Replication protein A (RPA) is a protein that binds single-stranded DNA in eukaryotic cells. During DNA replication, RPA prevents single-stranded DNA (ssDNA) from winding back on itself or from forming secondary structures
 
 Plasmids and protocol were adapted form Mauro Modesti: [PubMed 21909885](https://pubmed.ncbi.nlm.nih.gov/21909885/)
@@ -163,3 +165,5 @@ After the Q column, run a gel to estimate concentration and purity. If concentra
      - 50% glycerol
 2. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
 3. Store fractions at -80 C.
+
+[^paper-1]: Myler et al. (2016). [Single-molecule imaging reveals the mechanism of Exo1 regulation by single-stranded DNA binding proteins](https://finkelsteinlab.org/papers/paper/exo1-ssb-curtains). *Proc Natl Acad Sci USA*.

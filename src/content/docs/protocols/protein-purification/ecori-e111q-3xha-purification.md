@@ -4,6 +4,8 @@ title: "EcoRI(E111Q-3xHA) Purification"
 
 <!-- migrated from DokuWiki page protocols:protocols:ecori_purification -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 ## Contents
 
 1. [Transform](#1-transform)
@@ -72,3 +74,6 @@ title: "EcoRI(E111Q-3xHA) Purification"
    - 50% Glycerol
 2. **CHECK THE PH OF STORAGE BUFFER AND ADJUST TO 7.5**
 3. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
+
+[^paper-1]: Brown et al. (2016). [Dynamic DNA binding licenses a repair factor to bypass roadblocks in search of DNA lesions](https://finkelsteinlab.org/papers/paper/dna-bypass-roadblocks). *Nature Communications*.
+[^paper-2]: Dillard et al. (2018). [Assembly and Translocation of a CRISPR-Cas Primed Acquisition Complex](https://finkelsteinlab.org/papers/paper/PAC-Cell). *Cell*.

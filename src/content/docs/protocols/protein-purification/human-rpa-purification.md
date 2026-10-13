@@ -4,6 +4,8 @@ title: "Human RPA purification"
 
 <!-- migrated from DokuWiki page protocols:hrpa-purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5][^paper-6][^paper-7][^paper-8][^paper-9][^paper-10]
+
 Replication protein A (RPA) is a protein that binds single-stranded DNA in eukaryotic cells. During DNA replication, RPA prevents single-stranded DNA (ssDNA) from winding back on itself or from forming secondary structures
 
 Plasmids and protocol were adapted form Mauro Modesti: [PubMed 21909885](https://pubmed.ncbi.nlm.nih.gov/21909885/)
@@ -156,3 +158,14 @@ After the Q column, run a gel to estimate concentration and purity. If concentra
      - 50% glycerol
 2. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
 3. Store fractions at -80 C.
+
+[^paper-1]: Gallardo et al. (2015). [High-Throughput Universal DNA Curtain Arrays for Single-Molecule Fluorescence Imaging](https://finkelsteinlab.org/papers/paper/dna-curtain-arrays). *Langmuir*.
+[^paper-2]: Myler et al. (2016). [Single-molecule imaging reveals the mechanism of Exo1 regulation by single-stranded DNA binding proteins](https://finkelsteinlab.org/papers/paper/exo1-ssb-curtains). *Proc Natl Acad Sci USA*.
+[^paper-3]: Myler et al. (2017). [Single-molecule imaging reveals how Mre11-Rad50-Nbs1 initiates DNA break repair](https://finkelsteinlab.org/papers/paper/mrn-dna-curtains). *Molecular Cell*.
+[^paper-4]: Schaub et al. (2018). [Assessing Protein Dynamics on Low-Complexity Single-Stranded DNA Curtains](https://finkelsteinlab.org/papers/paper/low-complexity-ssdna-curtains). *Langmuir*.
+[^paper-5]: Soniat et al. (2019). [Assembling the Human Resectosome on DNA Curtains](https://finkelsteinlab.org/papers/paper/human-resectosome). *Methods Mol Biol*.
+[^paper-6]: Soniat et al. (2019). [RPA phosphorylation inhibits DNA resection](https://finkelsteinlab.org/papers/paper/rpa-phosphorylation). *Molecular Cell*.
+[^paper-7]: Zhang et al. (2020). [RADX condenses single-stranded DNA to antagonize RAD51 loading](https://finkelsteinlab.org/papers/paper/RADX-condensation). *Nucleic Acids Research*.
+[^paper-8]: Jack et al. (2022). [Compartmentalization of telomeres through DNA-scaffolded phase separation](https://finkelsteinlab.org/papers/paper/telomeres-phase-separation). *Dev. Cell*.
+[^paper-9]: Schaub et al. (2022). [Polymerase theta-helicase promotes end joining by stripping single-stranded DNA-binding proteins and bridging DNA ends](https://finkelsteinlab.org/papers/paper/Pol-theta-end-joining). *NAR*.
+[^paper-10]: Soniat et al. (2023). [The MRN complex and topoisomerase IIIa–RMI1/2 synchronize DNA resection motor proteins](https://finkelsteinlab.org/papers/paper/MRN-DNA-Resection). *Journal of Biological Chemistry*.

@@ -4,6 +4,8 @@ title: "SUMO Protease Purification Protocol"
 
 <!-- migrated from DokuWiki page protocols:sumo_protease_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5]
+
 ## Contents
 
 1. [Buffers](#1-buffers)
@@ -74,3 +76,9 @@ title: "SUMO Protease Purification Protocol"
 - There is noticeable protein precipitation in the elution and dialysis steps, but I still had plenty of protein at the end of the prep, so do not worry about it.
 
 Jeff (2016_02_04)
+
+[^paper-1]: Schaub et al. (2018). [Assessing Protein Dynamics on Low-Complexity Single-Stranded DNA Curtains](https://finkelsteinlab.org/papers/paper/low-complexity-ssdna-curtains). *Langmuir*.
+[^paper-2]: Dillard et al. (2018). [Assembly and Translocation of a CRISPR-Cas Primed Acquisition Complex](https://finkelsteinlab.org/papers/paper/PAC-Cell). *Cell*.
+[^paper-3]: Kuo et al. (2024). [Massively Parallel Profiling of RNA-targeting CRISPR-Cas13d](https://finkelsteinlab.org/papers/paper/Massively-Parallel-Profiling-CRISPR-Cas13d). *Nature Communications*.
+[^paper-4]: Dillard et al. (2025). [Mechanism of Cas9 inhibition by AcrIIA11](https://finkelsteinlab.org/papers/paper/Cas9-inhibition-AcrIIA11). *Nucleic Acids Research*.
+[^paper-5]: Chou et al. (2026). [Structural basis for target discrimination and activation by Cas13d](https://finkelsteinlab.org/papers/paper/Cas13d-structure). *Science Advances*.

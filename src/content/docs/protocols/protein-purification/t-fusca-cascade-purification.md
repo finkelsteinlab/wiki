@@ -4,6 +4,8 @@ title: "T. fusca Cascade Purification"
 
 <!-- migrated from DokuWiki page protocols:cascade_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 Cascade papers: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156918/> and <https://www.ncbi.nlm.nih.gov/pubmed/28666122>
 
 ## Contents
@@ -79,3 +81,7 @@ Multiple collection steps are for troubleshooting in case of failure
 3. confirm the fractions using SDS-PAGE.
 4. pool the clean peak fractions.
 5. Concentrate, add 10% glycerol to the sample, freeze with liquid N2, and store in -80’.
+
+[^paper-1]: Jung et al. (2017). [Massively Parallel Biophysical Analysis of CRISPR-Cas Complexes on Next Generation Sequencing Chips](https://finkelsteinlab.org/papers/paper/champ-cascade). *Cell*.
+[^paper-2]: Dillard et al. (2018). [Assembly and Translocation of a CRISPR-Cas Primed Acquisition Complex](https://finkelsteinlab.org/papers/paper/PAC-Cell). *Cell*.
+[^paper-3]: Dillard et al. (2019). [Sortase-mediated fluorescent labeling of CRISPR complexes](https://finkelsteinlab.org/papers/paper/sortase-labeling). *Methods in Enzymology*.

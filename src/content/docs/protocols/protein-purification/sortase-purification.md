@@ -4,6 +4,8 @@ title: "Sortase Purification"
 
 <!-- migrated from DokuWiki page protocols:protocols_sortase_purification -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 Plasmid were purchased from Addgene.
 
 ## Contents
@@ -71,3 +73,6 @@ Plasmid were purchased from Addgene.
 
 1. Add 10% glycerol and freeze in 50 uL aliquots.
 2. Run samples on gel to determine concentration (Sortase labeling is Sortase concentration dependent).
+
+[^paper-1]: Dillard et al. (2018). [Assembly and Translocation of a CRISPR-Cas Primed Acquisition Complex](https://finkelsteinlab.org/papers/paper/PAC-Cell). *Cell*.
+[^paper-2]: Dillard et al. (2019). [Sortase-mediated fluorescent labeling of CRISPR complexes](https://finkelsteinlab.org/papers/paper/sortase-labeling). *Methods in Enzymology*.

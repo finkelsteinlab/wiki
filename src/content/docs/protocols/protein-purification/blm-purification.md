@@ -4,6 +4,8 @@ title: "BLM Purification"
 
 <!-- migrated from DokuWiki page protocols:blm_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -43,3 +45,7 @@ title: "BLM Purification"
 19. Determine proteins concentration using Bradford assay or BSA.
 20. Aliquot sample and snap freeze with liquid nitrogen and store at -80°C.
 21. The typical yield from 2 L of Sf21 cells is ~75-100 μg of ~300-400 nM protein.
+
+[^paper-1]: Soniat et al. (2019). [Assembling the Human Resectosome on DNA Curtains](https://finkelsteinlab.org/papers/paper/human-resectosome). *Methods Mol Biol*.
+[^paper-2]: Soniat et al. (2019). [RPA phosphorylation inhibits DNA resection](https://finkelsteinlab.org/papers/paper/rpa-phosphorylation). *Molecular Cell*.
+[^paper-3]: Soniat et al. (2023). [The MRN complex and topoisomerase IIIa–RMI1/2 synchronize DNA resection motor proteins](https://finkelsteinlab.org/papers/paper/MRN-DNA-Resection). *Journal of Biological Chemistry*.

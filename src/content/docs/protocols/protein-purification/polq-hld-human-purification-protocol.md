@@ -4,6 +4,8 @@ title: "PolQ HLD (Human) Purification Protocol"
 
 <!-- migrated from DokuWiki page protocols:polq_hld_purification -->
 
+Used in our paper:[^paper-1]
+
 Plasmid gifted by the Richard Pomerantz Lab. Adapted by J. Schaub for PolQ cloned into the common lab pET19 vector.
 
 ## Contents
@@ -115,3 +117,5 @@ Plasmid gifted by the Richard Pomerantz Lab. Adapted by J. Schaub for PolQ clone
 ## 4. Notes
 
     I see two common truncation products. Do not know how to remove them as of now. Pomerantz Lab purified protein did not have these truncation products. - Jeff 5.17.18
+
+[^paper-1]: Schaub et al. (2022). [Polymerase theta-helicase promotes end joining by stripping single-stranded DNA-binding proteins and bridging DNA ends](https://finkelsteinlab.org/papers/paper/Pol-theta-end-joining). *NAR*.

@@ -4,6 +4,8 @@ title: "DNA2 Purification"
 
 <!-- migrated from DokuWiki page protocols:dna2_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -35,3 +37,7 @@ title: "DNA2 Purification"
 14. Determine proteins concentration using Bradford assay.
 15. Aliquot sample and snap freeze with liquid nitrogen and store at -80°C.
 16. The typical yield from 2L of SF21 cells is ~100-125 μg of purified DNA2 at ~400-600 nM.
+
+[^paper-1]: Soniat et al. (2019). [Assembling the Human Resectosome on DNA Curtains](https://finkelsteinlab.org/papers/paper/human-resectosome). *Methods Mol Biol*.
+[^paper-2]: Soniat et al. (2019). [RPA phosphorylation inhibits DNA resection](https://finkelsteinlab.org/papers/paper/rpa-phosphorylation). *Molecular Cell*.
+[^paper-3]: Soniat et al. (2023). [The MRN complex and topoisomerase IIIa–RMI1/2 synchronize DNA resection motor proteins](https://finkelsteinlab.org/papers/paper/MRN-DNA-Resection). *Journal of Biological Chemistry*.

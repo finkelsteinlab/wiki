@@ -4,6 +4,8 @@ title: "Rad51 (Human) Purification Protocol"
 
 <!-- migrated from DokuWiki page protocols:protocols_rad51_purification -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 Plasmid and Protocol from Dr. Mauro Modesti. Adapted by J. Schaub.
 
 ## Contents
@@ -106,3 +108,6 @@ Plasmid and Protocol from Dr. Mauro Modesti. Adapted by J. Schaub.
 - This protocol was specifically written for the C319S (for fluorescent labeling). The protocol can be changed for the WT RAD51.
 
 Jeff (2016_07_11)
+
+[^paper-1]: Zhang et al. (2020). [RADX condenses single-stranded DNA to antagonize RAD51 loading](https://finkelsteinlab.org/papers/paper/RADX-condensation). *Nucleic Acids Research*.
+[^paper-2]: Schaub et al. (2022). [Polymerase theta-helicase promotes end joining by stripping single-stranded DNA-binding proteins and bridging DNA ends](https://finkelsteinlab.org/papers/paper/Pol-theta-end-joining). *NAR*.

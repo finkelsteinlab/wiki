@@ -4,6 +4,8 @@ title: "3xFLAG Lac1"
 
 <!-- migrated from DokuWiki page protocols:protocols:3xflag_laci_purification -->
 
+Used in our papers:[^paper-1][^paper-2]
+
 Lac1 repressor with 3xFLAG epitope at the C-terminus
 
 ## Contents
@@ -73,3 +75,6 @@ Lac1 repressor with 3xFLAG epitope at the C-terminus
    - 50% Glycerol
 2. **CHECK THE PH OF STORAGE BUFFER AND ADJUST TO 7.5**
 3. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
+
+[^paper-1]: Kim et al. (2017). [Efficient modification of λ-DNA substrates for single-molecule studies](https://finkelsteinlab.org/papers/paper/lambda-modification). *Sci Rep*.
+[^paper-2]: Dillard et al. (2018). [Assembly and Translocation of a CRISPR-Cas Primed Acquisition Complex](https://finkelsteinlab.org/papers/paper/PAC-Cell). *Cell*.

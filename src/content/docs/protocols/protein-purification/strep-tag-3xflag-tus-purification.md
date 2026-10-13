@@ -4,6 +4,8 @@ title: "Strep-Tag 3xFLAG Tus Purification"
 
 <!-- migrated from DokuWiki page protocols:tuspurificationprotocol -->
 
+Used in our paper:[^paper-1]
+
 ## Contents
 
 1. [Preparation](#1-preparation)
@@ -76,3 +78,5 @@ title: "Strep-Tag 3xFLAG Tus Purification"
 ## 5. Source
 
 Protocol from Ilya. Modified by Jami.
+
+[^paper-1]: Kuo et al. (2024). [Massively Parallel Profiling of RNA-targeting CRISPR-Cas13d](https://finkelsteinlab.org/papers/paper/Massively-Parallel-Profiling-CRISPR-Cas13d). *Nature Communications*.

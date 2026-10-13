@@ -4,6 +4,8 @@ title: "MRN Purification"
 
 <!-- migrated from DokuWiki page protocols:mrn_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -57,3 +59,7 @@ title: "MRN Purification"
 25. Equilibrate a Superose 6 30/300 GL Increase column on an FPLC with A and B buffers.
 26. Take the highest concentration sample from SP and load it on the column using a 500 µL injection loop. Pool highest concentration fractions.
 27. Aliquot sample, snap freeze with liquid nitrogen, and store at -80°C.
+
+[^paper-1]: Myler et al. (2017). [Single-molecule imaging reveals how Mre11-Rad50-Nbs1 initiates DNA break repair](https://finkelsteinlab.org/papers/paper/mrn-dna-curtains). *Molecular Cell*.
+[^paper-2]: Myler et al. (2019). [Purification and Biophysical Characterization of the Mre11-Rad50-Nbs1 Complex](https://finkelsteinlab.org/papers/paper/mre1-rad50-nbs1-complex). *Methods Mol Biol*.
+[^paper-3]: Soniat et al. (2023). [The MRN complex and topoisomerase IIIa–RMI1/2 synchronize DNA resection motor proteins](https://finkelsteinlab.org/papers/paper/MRN-DNA-Resection). *Journal of Biological Chemistry*.

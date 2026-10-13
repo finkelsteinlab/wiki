@@ -4,6 +4,8 @@ title: "Phosphorylated RPA Purification"
 
 <!-- migrated from DokuWiki page protocols:prpa_purification -->
 
+Used in our paper:[^paper-1]
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -27,3 +29,5 @@ title: "Phosphorylated RPA Purification"
 6. Incubated at 37˚C for 2 hours.
 7. Purify from the extract by using a 1 mL HiTrap Q.
 8. Assay by western blot using antibodies for pRPA at S4/S8, T21, and S33.
+
+[^paper-1]: Soniat et al. (2019). [RPA phosphorylation inhibits DNA resection](https://finkelsteinlab.org/papers/paper/rpa-phosphorylation). *Molecular Cell*.

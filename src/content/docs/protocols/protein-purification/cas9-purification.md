@@ -4,6 +4,8 @@ title: "Cas9 Purification"
 
 <!-- migrated from DokuWiki page protocols:cas9 -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 ## Contents
 
 1. [Buffers and Reagents](#1-buffers-and-reagents)
@@ -113,3 +115,7 @@ title: "Cas9 Purification"
 ## 5. References
 
 - Original Publication: [PubMed 22745249](https://pubmed.ncbi.nlm.nih.gov/22745249/)
+
+[^paper-1]: Jones et al. (2021). [Massively parallel kinetic profiling of natural and engineered CRISPR nucleases](https://finkelsteinlab.org/papers/paper/nucleaseq). *Nature Biotechnology*.
+[^paper-2]: Strohkendl et al. (2021). [Inhibition of CRISPR-Cas12a DNA Targeting by Nucleosomes and Chromatin](https://finkelsteinlab.org/papers/paper/Cas12a-nucleosomes). *Science Advances*.
+[^paper-3]: Hibshman et al. (2024). [Unraveling the mechanisms of PAMless DNA interrogation by SpRY-Cas9](https://finkelsteinlab.org/papers/paper/PAMless-DNA-SpRY-Cas9). *Nature Communications*.

@@ -4,6 +4,8 @@ title: "scRPA-GFP-His6 Purification"
 
 <!-- migrated from DokuWiki page protocols:scrpapurification -->
 
+Used in our paper:[^paper-1]
+
 Replication protein A (RPA) is a protein that binds single-stranded DNA in eukaryotic cells. During DNA replication, RPA prevents single-stranded DNA (ssDNA) from winding back on itself or from forming secondary structures.
 
 ## Contents
@@ -121,3 +123,5 @@ Replication protein A (RPA) is a protein that binds single-stranded DNA in eukar
      - 50% glycerol
 2. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
 3. Store fractions at -80 C.
+
+[^paper-1]: Gibb et al. (2012). [Single-stranded DNA curtains for real-time single-molecule visualization of protein-nucleic acid interactions](https://finkelsteinlab.org/papers/paper/ssdna-curtains). *Anal. Chem*.

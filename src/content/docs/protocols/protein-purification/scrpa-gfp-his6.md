@@ -4,6 +4,8 @@ title: "scRPA-GFP-His6"
 
 <!-- migrated from DokuWiki page gfp_expression_and_purification -->
 
+Used in our paper:[^paper-1]
+
 RPA binds single stranded DNA. GFP fluoresces in green. Together we can see when this fusion binds to ssDNA. For Mauro Modesti plasmids
 
 ## Contents
@@ -129,3 +131,5 @@ RPA binds single stranded DNA. GFP fluoresces in green. Together we can see when
      - 50% glycerol
 2. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
 3. Store fractions at -80 C.
+
+[^paper-1]: Gibb et al. (2012). [Single-stranded DNA curtains for real-time single-molecule visualization of protein-nucleic acid interactions](https://finkelsteinlab.org/papers/paper/ssdna-curtains). *Anal. Chem*.

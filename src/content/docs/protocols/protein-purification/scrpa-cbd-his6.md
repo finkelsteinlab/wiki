@@ -4,6 +4,8 @@ title: "scRPA-CBD-His6"
 
 <!-- migrated from DokuWiki page protocols:scrpacbd -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 RPA binds single stranded DNA. GFP fluoresces in green. Together we can see when this fusion binds to ssDNA. For Mauro Modesti plasmids
 
 ## Contents
@@ -139,3 +141,7 @@ At this point, after the HisTrap FF column, the RPA is in 1xlysis buffer with **
      - 50% glycerol
 2. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
 3. Store fractions at -80 C.
+
+[^paper-1]: Myler et al. (2016). [Single-molecule imaging reveals the mechanism of Exo1 regulation by single-stranded DNA binding proteins](https://finkelsteinlab.org/papers/paper/exo1-ssb-curtains). *Proc Natl Acad Sci USA*.
+[^paper-2]: Eichmiller et al. (2018). [Coordination of Rad1-Rad10 interactions with Msh2-Msh3, Saw1 and RPA is essential for functional 3' non-homologous tail removal](https://finkelsteinlab.org/papers/paper/rad-msh-saw-rpa). *Nucleic Acids Research*.
+[^paper-3]: Soniat et al. (2019). [RPA phosphorylation inhibits DNA resection](https://finkelsteinlab.org/papers/paper/rpa-phosphorylation). *Molecular Cell*.

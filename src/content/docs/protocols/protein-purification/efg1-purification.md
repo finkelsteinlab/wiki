@@ -4,6 +4,8 @@ title: "Efg1 Purification"
 
 <!-- migrated from DokuWiki page protocols:efg1_purification -->
 
+Used in our paper:[^paper-1]
+
 ## Contents
 
 1. [Buffers](#1-buffers)
@@ -77,3 +79,5 @@ Transform plasmid into BL21 (DE3) cells.
 ## 5. Notes
 
 **All purification steps (except sonication) are done at room temperature to avoid aggregation of this protein. This protocol yields ~50uM Efg1.**
+
+[^paper-1]: Frazer et al. (2020). [Epigenetic cell fate in Candida albicans is controlled by transcription factor condensates acting at super-enhancer-like elements](https://finkelsteinlab.org/papers/paper/epigenetic-cell-fate). *Nature Microbiology*.

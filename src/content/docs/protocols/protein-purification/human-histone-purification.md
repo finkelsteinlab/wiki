@@ -4,6 +4,8 @@ title: "Human Histone Purification"
 
 <!-- migrated from DokuWiki page protocols:human_histone_purification -->
 
+Used in our papers:[^paper-1][^paper-2][^paper-3]
+
 ## Contents
 
 1. [Expression and Purification of Human Histone H2A](#1-expression-and-purification-of-human-histone-h2a)
@@ -230,3 +232,7 @@ The following procedures pertain to histones H2B and H4 tagged with 3xFLAG.
 
 - Till Bartke, Michiel Vermeulen, Blerta Xhemalce, Samuel C. Robson, Matthias Mann, Tony Kouzarides: Nucleosome-Interacting Proteins Regulated by DNA and Histone Methylation. Cell, Volume 143, Issue 3, 470-484, 29 October 2010
 - Ja Yil Lee and Eric C. Greene : Assembly of Recombinant Nucleosomes on Nanofabricated DNA Curtains for Single-Molecule Imaging, Methods in Molecular Biology, vol.778, 2011
+
+[^paper-1]: Gallardo et al. (2015). [High-Throughput Universal DNA Curtain Arrays for Single-Molecule Fluorescence Imaging](https://finkelsteinlab.org/papers/paper/dna-curtain-arrays). *Langmuir*.
+[^paper-2]: Brown et al. (2016). [Dynamic DNA binding licenses a repair factor to bypass roadblocks in search of DNA lesions](https://finkelsteinlab.org/papers/paper/dna-bypass-roadblocks). *Nature Communications*.
+[^paper-3]: Myler et al. (2017). [Single-molecule imaging reveals how Mre11-Rad50-Nbs1 initiates DNA break repair](https://finkelsteinlab.org/papers/paper/mrn-dna-curtains). *Molecular Cell*.
