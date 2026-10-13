@@ -35,7 +35,7 @@ Various molecular biology kits frequently come with a manual that explains the g
 
 - [Protein Purification](/wiki/protocols/protein-purification/protein-purification/) booklets.
 
-## 4. Buffers for your Bench
+## 4. Useful Buffers for your Bench
 
 | Buffer | Recommended Volume | Recipe/Notes |
 |:---|----|----|
