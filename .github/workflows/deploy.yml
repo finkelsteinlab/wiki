@@ -22,6 +22,8 @@ jobs:
         with:
           fetch-depth: 0 # full history: each page shows who last edited it
       - uses: withastro/action@v3
+        with:
+          node-version: 24 # Astro 7 needs Node >= 22.12
   deploy:
     needs: build
     runs-on: ubuntu-latest
