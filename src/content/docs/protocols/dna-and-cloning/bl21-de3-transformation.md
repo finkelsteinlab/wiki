@@ -1,10 +1,16 @@
 ---
-title: "BL21 DE3 transformation"
+title: "BL21 (DE3) transformation"
 ---
 
 <!-- migrated from DokuWiki page protocols:bl21_de3_transformation -->
 
 This protocol is used in heat induced transformations. It is adapted from the Promega protocol for their BL21 (DE3) cells. I also like to use Promega competent cells. These cells are located in the -80 AA2.5c.
+
+**Genotype.** Promega now sells this strain only as BL21 (DE3) pLysS ([L1191](https://www.promega.com/products/cloning-and-dna-markers/bacterial-strains-and-competent-cells/bl21_de3_plyss-competent-cells/), 5 × 200 µl; L1195, 20 × 50 µl):
+
+> F<sup>–</sup>, *ompT*, *hsdS*<sub>B</sub> (r<sub>B</sub><sup>–</sup>, m<sub>B</sub><sup>–</sup>), *dcm*, *gal*, λ(DE3), pLysS, Cm<sup>r</sup>
+
+BL21 (DE3) without pLysS has the same genotype minus pLysS and Cm<sup>r</sup>. pLysS expresses T7 lysozyme, which lowers leaky expression from T7 promoters; it is chloramphenicol resistant, so keep chloramphenicol in the plates and medium.
 
 ## Contents
 
