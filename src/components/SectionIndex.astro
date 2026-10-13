@@ -1,0 +1,20 @@
+---
+// Lists every page in a docs folder, alphabetically. Section index pages use it,
+// so new pages show up without anyone editing the index.
+import { getCollection } from 'astro:content';
+
+interface Props {
+  dir: string;
+}
+
+const { dir } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const pages = (await getCollection('docs'))
+  .filter((p) => p.id.startsWith(`${dir}/`) && !p.id.slice(dir.length + 1).includes('/'))
+  .filter((p) => !p.id.endsWith('/index'))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title, 'en', { sensitivity: 'base' }));
+---
+
+<ul>
+  {pages.map((p) => <li><a href={`${base}/${p.id}/`}>{p.data.title}</a></li>)}
+</ul>
