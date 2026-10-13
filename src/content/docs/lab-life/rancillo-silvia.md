@@ -75,19 +75,25 @@ So you are tired of the classic and bold flavor of an espresso and you want some
 
 <img src="/wiki/media/instruments/lavazza_espresso_super_crema.jpg" width="250" alt="Lavazza Espresso Super Crema" />
 
-```text
-* {{instruments:meritage.jpg?150|Cuvee}}  9G
-* {{instruments:third_coast_roast.png?150|Third Coast}}
-  * Sumatra 10F
-  * Columbia Doesn't matter because it's terrible
-  * Ethiopia 10E It's really Ethiopia or nothing.
-  * Mexico No thoughts whatsoever...it's not off putting. **Second thought**: if you use 8.5 of coffee and pack it with about thirty two pounds of pressure you get a pretty tasty brew.
-  * Costa Rica 10H
-  * Ecuador 10H
-  * El Guapo Espresso 10F Fabulous
-  * Peru 10D
-* {{instruments:ruta_maya.jpg?200|RutaMaya}} 10C
-```
+- Cuvee 9G
+
+  <img src="/wiki/media/instruments/meritage.jpg" width="150" alt="Cuvee" />
+
+- Third Coast
+
+  <img src="/wiki/media/instruments/third_coast_roast.png" width="150" alt="Third Coast" />
+
+  - Sumatra 10F
+  - Columbia Doesn't matter because it's terrible
+  - Ethiopia 10E It's really Ethiopia or nothing.
+  - Mexico No thoughts whatsoever...it's not off putting. **Second thought**: if you use 8.5 of coffee and pack it with about thirty two pounds of pressure you get a pretty tasty brew.
+  - Costa Rica 10H
+  - Ecuador 10H
+  - El Guapo Espresso 10F Fabulous
+  - Peru 10D
+- RutaMaya 10C
+
+  <img src="/wiki/media/instruments/ruta_maya.jpg" width="200" alt="RutaMaya" />
 
 ## 5. Maintenance
 

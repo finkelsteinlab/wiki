@@ -37,7 +37,7 @@ For questions about the warranty contact: biocustomerservice@phcna.panasonic.com
 - Kelly Grimmett
   - kelly@srsonline.com
   - He is a sales manager with Scientific Resources Southwest (SRS)
-  - SRS has some of the best deals on the brands they carry.  See brands at link [[http://www.srsonline.com/brands.php (dead link)]]
+  - SRS has some of the best deals on the brands they carry.  See their brands at <http://www.srsonline.com/brands.php> (dead link).
 - Tom Boyce (not confirmed since the old wiki; check with the lab manager)
   - tom@xmsbiomed.com
   - Works for XMS Biomedical Services. He does repairs on all sorts or lab equipment. Call or email him for questions about any sort of malfunctioning equipment before spending a bunch of money elsewhere, or doing an unneccessary repair/replacement.

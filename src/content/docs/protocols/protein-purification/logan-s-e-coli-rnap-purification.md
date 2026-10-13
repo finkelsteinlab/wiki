@@ -16,7 +16,7 @@ This protocol was adapted from Nudler et al. Methods Enzymology. 2003. <https://
 2. Grow O/N cultures of EcRNAP-bio containing cells in LB only.
 3. Innoculate 2L flasks with EcRNAP, grow O/N again in LB only.
 4. Spin down cells and snap freeze at -80C.
-5. Thaw cells in 100mL grinding buffer ((300 mM NaCl, 50 mM Tris–HCl, pH 8, 5% glycerol, 10 mM EDTA, 0.1% PMSF, 10 mM mercaptoethanol, 133 µg/mL lysozyme) per 4L pellet in a beaker with a stirbar. Stir for 20mins once ice (I did it in the cold room).
+5. Thaw cells in 100mL grinding buffer (300 mM NaCl, 50 mM Tris–HCl, pH 8, 5% glycerol, 10 mM EDTA, 0.1% PMSF, 10 mM mercaptoethanol, 133 µg/mL lysozyme) per 4L pellet in a beaker with a stirbar. Stir for 20mins once ice (I did it in the cold room).
 6. Add Sodium Deoxycholate to 0.2% from a 10% stock in water.
 7. Sonicate 20mL at a time lysate at maximum output for 30s followed by 30s rest. I used the Sonic Dismembrator 60 (Fisher Scientific, Chicago, IL) in the Paull lab. Do this for 5-7 rounds or until not viscous anymore.
 8. Spin the lysate down in a Sorvall JA-20 rotor at 12,000rpm for 30 mins.

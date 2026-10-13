@@ -4,7 +4,7 @@ title: "Gibson Assembly Cloning"
 
 <!-- migrated from DokuWiki page protocols:gibson_assembly -->
 
-Gibson Assembly was developed by Dr. Daniel Gibson and his colleagues at the J. Craig Venter Institute.(( [Gibson, et. al. 2009. Nature Methods, 6, 343–345.](https://doi.org/10.1038/nmeth.1318) )) (( [Gibson, D. G. (2011). Synthetic Biology Part B Vol. 498, pp. 349–361](https://doi.org/10.1016/B978-0-12-385120-8.00015-2) )) The method allows assembly of multiple DNA fragments, regardless of fragment length or end compatibility. The method has been successfully used to assemble oligonucleotides, DNA with varied overlaps (15–80 bp) and fragments hundreds of kilobases long and has been rapidly adopted by the synthetic biology community due to its ease-of-use, flexibility and suitability for large DNA constructs.
+Gibson Assembly was developed by Dr. Daniel Gibson and his colleagues at the J. Craig Venter Institute.[^1][^2] The method allows assembly of multiple DNA fragments, regardless of fragment length or end compatibility. The method has been successfully used to assemble oligonucleotides, DNA with varied overlaps (15–80 bp) and fragments hundreds of kilobases long and has been rapidly adopted by the synthetic biology community due to its ease-of-use, flexibility and suitability for large DNA constructs.
 
 <img src="/wiki/media/protocols/gibson_assmebly_overview.jpg" width="700" alt="gibson_assmebly_overview.jpg" />
 
@@ -25,3 +25,6 @@ Gibson Assembly was developed by Dr. Daniel Gibson and his colleagues at the J. 
 
 1. Use the [NEBuilder tool](http://nebuilder.neb.com/) <a class="pdf-copy" href="/wiki/media/archive/nebuilder-neb-com.pdf" title="Archived PDF copy">PDF</a> or design oligos for PCR-amplification of Gibson blocks.
 2. Follow instructions in the NEB [Gibson Assembly manual](/wiki/media/protocols/gibson_cloning_kit_manual.pdf) to combine Gibson blocks.
+
+[^1]: Gibson DG et al. (2009). [Enzymatic assembly of DNA molecules up to several hundred kilobases](https://doi.org/10.1038/nmeth.1318). *Nature Methods* 6:343–345.
+[^2]: Gibson DG (2011). [Enzymatic assembly of overlapping DNA fragments](https://doi.org/10.1016/B978-0-12-385120-8.00015-2). *Methods in Enzymology* 498:349–361.

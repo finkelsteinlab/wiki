@@ -13,9 +13,9 @@ The code below takes the following approach to dealing with non-uniform YOYO-sig
 1. The DNA signal is smoothed via a 7-point median filter.
 2. The DNA signal is fit to the following sigmoidal (logistic) function with five adjustable parameters:
 
-   \$\$y=A\left(\frac{1}{1+be^{-cx}}+ \frac{1}{1+be^{c(x-w)}}\right) + y_0\$\$
+   *y* = *A* · [ 1 / (1 + *b*·e<sup>−*cx*</sup>) + 1 / (1 + *b*·e<sup>*c*(*x* − *w*)</sup>) ] + *y*<sub>0</sub>
 
-   where: \$A\$ is the amplitude; \$b\$ and \$c\$ determine the x-offset and curvature; \$w\$ is related to the width of the DNA; and \$y_0\$ is the y-offset.
+   where *A* is the amplitude; *b* and *c* determine the x-offset and curvature; *w* is related to the width of the DNA; and *y*<sub>0</sub> is the y-offset.
 3. After the best parameters are found, the DNA length is defined as the FWHM of the model data.
 
 ## 2. Code

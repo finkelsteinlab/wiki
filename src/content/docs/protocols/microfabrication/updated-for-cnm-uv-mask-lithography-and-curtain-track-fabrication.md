@@ -45,7 +45,7 @@ Take the 100 mm wafers to the CNM clean room
 7. Hold wafer against light to be sure you have removed all stains.
 8. Before isopropanol dries flow N2 gas to dry wafers with flow.
 9. Repeat acetone, isopropanol and dryingins steps until no stains are visible against light.
-10. Set clean wafer on hot plate at 120 C ((160 C read on hot plate display) as read by the surface thermometer.
+10. Set clean wafer on hot plate at 120 C (160 C read on hot plate display) as read by the surface thermometer.
     - Do not calibrate the hot plates because too many users use the plates with this current calibration.
 11. Leave wafer on hot plate for at least 5 minutes.
     - You can start rinsing other wafers while you wait for the first wafer to dry.
@@ -206,7 +206,7 @@ Take the 100 mm wafers to the CNM clean room
 7. Hold wafer against light to be sure you have removed all stains.
 8. Before isopropanol dries flow N2 gas to dry wafers with flow.
 9. Repeat acetone, isopropanol and dryingins steps until no stains are visible against light.
-10. Set clean wafer on hot plate at 120 C ((160 C read on hot plate display) as read by the surface thermometer.
+10. Set clean wafer on hot plate at 120 C (160 C read on hot plate display) as read by the surface thermometer.
     - Do not calibrate the hot plates because too many users use the plates with this current calibration.
 11. Leave wafer on hot plate for at least 5 minutes.
     - You can start rinsing other wafers while you wait for the first wafer to dry.
