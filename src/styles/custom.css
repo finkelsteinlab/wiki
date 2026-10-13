@@ -1,0 +1,26 @@
+/* Small badge linking to a local PDF copy of an external source. */
+a.pdf-copy {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2em;
+  padding: 0 0.35em;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.25rem;
+  font-size: 0.75em;
+  font-weight: 600;
+  line-height: 1.5;
+  text-decoration: none;
+  vertical-align: 0.1em;
+  color: var(--sl-color-text-accent);
+}
+a.pdf-copy::before {
+  content: "";
+  width: 0.9em;
+  height: 0.9em;
+  background-color: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 2h8l6 6v14H6z' fill='none' stroke='black' stroke-width='2' stroke-linejoin='round'/%3E%3Cpath d='M14 2v6h6' fill='none' stroke='black' stroke-width='2' stroke-linejoin='round'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 2h8l6 6v14H6z' fill='none' stroke='black' stroke-width='2' stroke-linejoin='round'/%3E%3Cpath d='M14 2v6h6' fill='none' stroke='black' stroke-width='2' stroke-linejoin='round'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+a.pdf-copy:hover {
+  border-color: var(--sl-color-text-accent);
+}

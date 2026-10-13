@@ -1,0 +1,77 @@
+var first_frame=0;
+var last_frame=0;
+var molecule_number=1;
+
+macro "Check Molecule Number [n0]" {
+
+	Dialog.create("Set Molecule Number");
+	Dialog.addMessage("Enter a new molecule number:");
+	Dialog.addNumber("Current Number:", floor(molecule_number));
+	Dialog.show();
+	molecule_number = floor(Dialog.getNumber());
+	print("Current Molecule: "+molecule_number);
+}
+
+
+macro "Clip ROI For Tracking [n3]" {
+//	var current_slice=getSliceNumber();
+	var window_name;
+	var dir_name;
+	var new_dir_name;
+
+  	print("Working on slices: ", first_frame, "-", last_frame); //let the user know which frames
+	dir_name=getDirectory("image");
+	print("Dir name: ",dir_name);
+	Stack.getDimensions(width, height, channels, slices, frames);
+	
+	//check to see what molecule # we're on
+	print("Molecule Number: " + molecule_number);
+	if(floor(molecule_number)<1) {
+		molecule_number=1;
+	}
+
+
+
+	//check to see that a rectangle is selected
+	if(selectionType()==0) {
+		print("Rectangle selection");
+		
+		if(first_frame==0 || last_frame==0) {  //check to see if user defined custom substack
+			first_frame=1;
+			last_frame=slices;
+		}
+		
+		sub_title="Molecule "+molecule_number;
+		print(sub_title);
+		
+		//on the first frame, paint a white box and label the molecule
+		setSlice(1);
+		setColor(255, 255, 255);
+		setFont("SansSerif", 12, " antialiased");
+		getBoundingRect(x, y, w, h);
+		drawString(molecule_number, x-5, y-5);
+		drawRect(x-1, y-1, w+2, h+2);
+		
+		
+		print(sub_title);
+		run("Duplicate...", "title="+molecule_number+" duplicate channels=1-"+channels+" slices="+first_frame+"-"+last_frame);
+		selectWindow(molecule_number);
+		saveAs("tiff", dir_name+"/"+molecule_number+".tif");
+		molecule_number=molecule_number+1;		//increment current molecule number
+
+	}
+}
+
+macro "Set First Frame [n1]" {
+	first_frame=getSliceNumber();
+	print("First frame set to: ", first_frame);
+}
+
+macro "Set Last Frame [n2]" {
+	last_frame=getSliceNumber();
+	print("Last frame set to: ", last_frame);
+}
+
+
+
+

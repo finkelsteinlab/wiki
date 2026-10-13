@@ -1,0 +1,6 @@
+
+
+macro "Run particle tracker [n9]" {
+
+run("Particle Tracker 2D/3D", "radius=3 cutoff=1 per/abs=5 link=10 displacement=3");
+}

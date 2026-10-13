@@ -1,0 +1,87 @@
+---
+// Replaces Starlight's "Last updated" line: who last edited the page and when, a link to
+// the page's full history on GitHub, and the edit log carried over from the old DokuWiki.
+import { execFileSync } from 'node:child_process';
+import legacyHistory from '../data/legacy-history.json';
+
+const REPO = 'https://github.com/finkelsteinlab/wiki';
+const MIGRATION_MARKER = 'Migrate from DokuWiki';
+
+const route = Astro.locals.starlightRoute;
+const filePath: string = route.entry.filePath; // e.g. src/content/docs/instruments/lab-printers.md
+const pageKey = filePath.replace(/^src\/content\/docs\//, '').replace(/\.mdx?$/, '');
+const legacy: { t: number; who: string; type: string; summary: string }[] =
+  (legacyHistory as Record<string, any>)[pageKey] ?? [];
+
+// Last commit touching this file. Needs full history in CI (actions/checkout fetch-depth: 0).
+let git: { who: string; when: Date; subject: string } | null = null;
+try {
+  const out = execFileSync('git', ['log', '-1', '--format=%an%x1f%aI%x1f%s', '--', filePath], {
+    encoding: 'utf8',
+    stdio: ['ignore', 'pipe', 'ignore'],
+  }).trim();
+  if (out) {
+    const [who, iso, subject] = out.split('\x1f');
+    git = { who, when: new Date(iso), subject };
+  }
+} catch {
+  git = null;
+}
+
+// Before anyone edits a page on GitHub, its last real edit is the one in the old wiki's log.
+const lastLegacy = legacy.length ? legacy[legacy.length - 1] : null;
+const useLegacy = (!git || git.subject.startsWith(MIGRATION_MARKER)) && lastLegacy;
+const who = useLegacy ? lastLegacy!.who : git?.who;
+const when = useLegacy ? new Date(lastLegacy!.t * 1000) : git?.when;
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'America/Chicago' });
+---
+
+{
+  when && (
+    <div class="page-history">
+      <p>
+        Last edited{who ? <> by <strong>{who}</strong></> : null} on <time datetime={when.toISOString()}>{fmt(when)}</time>
+        {' · '}
+        <a href={`${REPO}/commits/main/${filePath}`}>Page history</a>
+      </p>
+      {legacy.length > 0 && (
+        <details>
+          <summary>Earlier edits ({legacy.length})</summary>
+          <ul>
+            {[...legacy].reverse().map((e) => (
+              <li>
+                <time datetime={new Date(e.t * 1000).toISOString()}>{fmt(new Date(e.t * 1000))}</time>
+                {' · '}
+                {e.who}
+                {e.type === 'C' ? ' (created)' : ''}
+                {e.summary && e.summary !== 'created' ? <> · <span class="summary">{e.summary}</span></> : null}
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+    </div>
+  )
+}
+
+<style>
+  .page-history p {
+    margin: 0;
+  }
+  .page-history details {
+    margin-top: 0.4rem;
+  }
+  .page-history summary {
+    cursor: pointer;
+  }
+  .page-history ul {
+    margin: 0.4rem 0 0;
+    padding-inline-start: 1.2rem;
+    max-height: 16rem;
+    overflow-y: auto;
+  }
+  .page-history .summary {
+    color: var(--sl-color-gray-2);
+  }
+</style>

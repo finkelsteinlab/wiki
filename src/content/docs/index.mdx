@@ -1,0 +1,28 @@
+---
+title: Finkelstein Lab Wiki
+description: Protocols, instruments, recipes and lab know-how from the Finkelstein Lab at UT Austin.
+template: splash
+hero:
+  tagline: Protocols, instruments, recipes and lab know-how from the Finkelstein Lab at UT Austin.
+  actions:
+    - text: Getting started
+      link: /wiki/getting-started/welcome-to-the-lab/
+      icon: right-arrow
+    - text: Back to the lab site
+      link: https://finkelsteinlab.org
+      icon: external
+      variant: minimal
+---
+
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+<CardGrid>
+  <LinkCard title="Protein purification" href="/wiki/protocols/protein-purification/cas9-purification/" description="Cas nucleases, replisome proteins, RPA, histones, proteases" />
+  <LinkCard title="DNA, RNA and cloning" href="/wiki/protocols/dna-and-cloning/gibson-assembly-cloning/" description="PCR, assembly, mutagenesis, competent cells, sequencing" />
+  <LinkCard title="Single-molecule imaging" href="/wiki/protocols/single-molecule/preparing-dna-curtains/" description="DNA curtains, flowcells, tracking, microscopy" />
+  <LinkCard title="Recipes and buffers" href="/wiki/recipes/bacterial-media-recipes/" description="Media, antibiotics, gel buffers, loading dyes" />
+  <LinkCard title="Instruments" href="/wiki/instruments/akta-pure-fplc/" description="How to use and service the lab's equipment" />
+  <LinkCard title="Safety" href="/wiki/safety/radioactivity-safety/" description="Radioactivity, liquid nitrogen, fire and emergencies" />
+</CardGrid>
+
+All of this wiki is plain Markdown in the [finkelsteinlab/wiki](https://github.com/finkelsteinlab/wiki) repository. Every page has an **Edit page** link at the bottom. To add or change a page, read [Editing the wiki](/wiki/contributing/editing-the-wiki/) first.
