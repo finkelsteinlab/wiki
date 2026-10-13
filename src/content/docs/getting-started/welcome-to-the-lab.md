@@ -64,11 +64,11 @@ Ilya
 
 ## 3. Working in the Lab
 
-1. Introduce yourself to the [rancillo_silvia](/wiki/lab-life/rancillo-silvia/).
+1. Introduce yourself to the [Rancillo Silvia](/wiki/lab-life/rancillo-silvia/).
 2. Familiarize yourself with proper use of lab instruments.
-3. Read about how to maintain a [lab_notebook](/wiki/getting-started/lab-notebook/).
-4. Learn the system for storing plasmids, oligos, strains, and proteins. [freezer_storage](/wiki/reagents/freezer-storage/)
-5. Some protocols for [getting_started_at_the_bench](/wiki/getting-started/getting-started-at-the-bench/)
+3. Read about how to maintain a [Lab Notebook](/wiki/getting-started/lab-notebook/).
+4. Learn the system for storing plasmids, oligos, strains, and proteins. [Freezer Storage](/wiki/reagents/freezer-storage/)
+5. Some protocols for [Getting Started at the Bench](/wiki/getting-started/getting-started-at-the-bench/)
 6. **Do Good Science!**
 
 ## 4. People to meet

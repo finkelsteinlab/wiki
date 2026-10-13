@@ -37,7 +37,7 @@ This is a list of the available lesion oligos. Please add to this list if you or
 
 The following protocol was sent by Tim Silverstein from the Greene lab at Columbia. Thanks Tim! for proper control you should probably order your experimental oligonucleotides, as well as a previous successful positive control, and a negative control oligonucleotide that is fully complementary to the melted out insertion sequence.
 
-The following insertion recipe is for a 450ul total volume reaction for generating labeled microscope DNA later to be purified using gel filtration via [lambda_dna_oligo_ligation](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). The protocol has an intermediate stop if the gels are to be used for gel based diagnostics.
+The following insertion recipe is for a 450ul total volume reaction for generating labeled microscope DNA later to be purified using gel filtration via [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). The protocol has an intermediate stop if the gels are to be used for gel based diagnostics.
 
 1. Mix 105ul of H20, with 160ul TS Lambda insertion sequence DNA (Max has it), and 40ul NEB #3.
 2. Digest with 8ul (80 units) of Nt.BspQI for 1 hour @50'C.
@@ -50,8 +50,8 @@ The following insertion recipe is for a 450ul total volume reaction for generati
 9. Gel filter the reaction using a the DNA only gel filtration column.
 10. Pool the peak alliquots, and stor DNA either at 4'C or frozen at -20'C.
 
-If purifying the DNA for use in the microscope, use the gel filtration column purification protocal found in [lambda_dna_oligo_ligation](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/).
+If purifying the DNA for use in the microscope, use the gel filtration column purification protocal found in [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/).
 
 ## 4. Insertion Confirmation
 
-If you inserted a lesion or structural interrupt into the sequence of your DNA substrate, then you can confirm your insertion through the interruption of a restriction enzyme site. The protocol is discussed in the supplement of a mismatch repair paper [Gorman et.al.](/wiki/media/protocols/gorman_supp.pdf). The protocol has been recreated in the lab and simplified in the following protocol, [nicking_insertion_comfirmation](/wiki/protocols/dna-and-cloning/nicking-insertion-confirmation/).
+If you inserted a lesion or structural interrupt into the sequence of your DNA substrate, then you can confirm your insertion through the interruption of a restriction enzyme site. The protocol is discussed in the supplement of a mismatch repair paper [Gorman et.al.](/wiki/media/protocols/gorman_supp.pdf). The protocol has been recreated in the lab and simplified in the following protocol, [Nicking Insertion Confirmation](/wiki/protocols/dna-and-cloning/nicking-insertion-confirmation/).

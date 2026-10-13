@@ -45,7 +45,7 @@ Multiple collection steps are for troubleshooting in case of failure
 
 ### 2.1 Day 1
 
-1. Transform plasmid (Kaylee needs to put in database) into E. coli BL21 (DE3) cells using the following protocol [bl21_de3_transformation](/wiki/protocols/dna-and-cloning/bl21-de3-transformation/).
+1. Transform plasmid (Kaylee needs to put in database) into E. coli BL21 (DE3) cells using the following protocol [BL21 (DE3) transformation](/wiki/protocols/dna-and-cloning/bl21-de3-transformation/).
 2. Grow the plates at 37’ ON.
 
 ### 2.2 Day 2

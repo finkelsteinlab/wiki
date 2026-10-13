@@ -13,7 +13,7 @@ title: "Importing into Matlab"
 
 You should read and attempt this only if you have already successfully learned how to track particles in ImageJ using the Mosaic software. If not here is a link to a page that will help you. [Molecular Tracking](/wiki/protocols/single-molecule/particle-tracking/).
 
-Next you must then familiarize yourself with Matlab, and some basics on diffusion coefficients. Ilya has generated a page for this [introduction_to_diffusion](/wiki/computing/introduction-to-diffusion/). The basics of diffusion have been worked out extensively and are outlined here in the first two chapters of “Random Walks in Biology” by Howard S. Berg.
+Next you must then familiarize yourself with Matlab, and some basics on diffusion coefficients. Ilya has generated a page for this [Introduction to Diffusion](/wiki/computing/introduction-to-diffusion/). The basics of diffusion have been worked out extensively and are outlined here in the first two chapters of “Random Walks in Biology” by Howard S. Berg.
 
 ## 2. Sample codes
 

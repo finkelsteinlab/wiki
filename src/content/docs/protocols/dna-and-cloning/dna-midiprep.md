@@ -15,4 +15,4 @@ title: "DNA Midiprep"
 
 ## 2. Buffers
 
-Buffer recipes are here: [promega_midiprep_buffers](/wiki/recipes/promega-wizard-midiprep-buffers/)
+Buffer recipes are here: [Promega Wizard Midiprep Buffers](/wiki/recipes/promega-wizard-midiprep-buffers/)

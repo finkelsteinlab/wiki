@@ -19,10 +19,10 @@ The box is kept in -80C freezer, near the common lab plasmids. Oligos should be 
 | LAB03 | ATG CGT CCG GCG TAG A | pETDuet Upstream sequencing primer, useful for DNA sequencing or colony PCR from pInteinHis and derivatives. Ilya’s oligo: IF033 |
 | LAB04 | ATG CCA TAG CAT TTT TAT CC | Forward primer for pbad322 and derivatives. Ilya’s oligo: IF059 |
 | LAB05 | GAT TTA ATC TGT ATC AGG | Reverse primer for pbad322 and derivatives. Ilya’s oligo: IF060 |
-| LAB06 | /5Phos/GGG CGG CGA CCT/3BioTEG | For [lambda_dna_oligo_ligation](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). Ilya’s oligo: IF001 |
-| LAB07 | /5Phos/AGG TCG CCG CCC/3BioTEG | For [lambda_dna_oligo_ligation](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). Ilya’s oligo: IF003 |
-| LAB08 | /5Phos/AGG TCG CCG CCC/3Dig_N | For [lambda_dna_oligo_ligation](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). Ilya’s oligo: IF002 |
-| LAB09 | /5Phos/GGG CGG CGA CCT/3Dig_N | For [lambda_dna_oligo_ligation](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). Ilya’s oligo: IF004 |
+| LAB06 | /5Phos/GGG CGG CGA CCT/3BioTEG | For [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). Ilya’s oligo: IF001 |
+| LAB07 | /5Phos/AGG TCG CCG CCC/3BioTEG | For [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). Ilya’s oligo: IF003 |
+| LAB08 | /5Phos/AGG TCG CCG CCC/3Dig_N | For [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). Ilya’s oligo: IF002 |
+| LAB09 | /5Phos/GGG CGG CGA CCT/3Dig_N | For [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). Ilya’s oligo: IF004 |
 | LAB010 | CGGTTAGCTCCTTCGGTCCT | For AmpR PCR confirmation. Ilya’s oligo: IF023 |
 | LAB011 | TGCGGCCAACTTACTTCTGA | For AmpR PCR confirmation. Ilya’s oligo: IF024 |
 | LO01M13 | GTA AAA CGA CGG CCA GT | For ssM13 DNA |

@@ -33,7 +33,7 @@ Molecular Cloning book is awesome and routinely referenced in many labs. Most pr
 
 Various molecular biology kits frequently come with a manual that explains the general principles in great detail. Some examples:
 
-- [protein_purification](/wiki/protocols/protein-purification/protein-purification/) booklets.
+- [Protein Purification](/wiki/protocols/protein-purification/protein-purification/) booklets.
 
 ## 4. Buffers for your Bench
 
