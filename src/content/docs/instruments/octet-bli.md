@@ -67,10 +67,10 @@ Two programs run on the attached PC:
 
 ## 6. Service and support
 
-- Vendor: `TODO: Octet support line for the instrument's manufacturer`
-- Service contract: `TODO: contract number and expiry, or "none"`
+- Vendor: `Sartorius`
+- Service contract: `"none"`
 
 ## 7. Manuals and documents
 
-- `TODO: upload the user manual to public/media/instruments/ and link it here`
+- `public/media/instruments/data_acquisition_octet_web.pdf`
 - [Shah and Duncan, *J Vis Exp* (2014)](https://doi.org/10.3791/51383) - setup video and overview of the Octet.
