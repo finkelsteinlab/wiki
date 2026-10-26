@@ -185,7 +185,7 @@ The substrate incubation is seconds, not minutes, and the signal starts decaying
 
 ### Example dsRNA Dot Blot
 
-![Example dsRNA dot blot](/images/dot%20blot.png)
+![Example dsRNA dot blot](/images/dot_blot.png)
 
 Example membrane image showing IVT samples and the poly(dI) positive control.
 
