@@ -20,7 +20,7 @@ Incubate 20 min at room temperature
 1. Aspirate medium and wash cells with 400 uL of PBS once for each well.
 2. Store whole plate with cell pellet at -80C for genomic preparation.
 
-# Extract gDNA is followed Genomic extraction kit (DNeasy Blood & Tissue Kit, Cat no.  69504).
+## Extract gDNA is followed Genomic extraction kit (DNeasy Blood & Tissue Kit, Cat no.  69504).
 
 1.	For Cultured cells, resuspend the cells in resuspend buffer. Resuspend buffer: 200 ul of PBS with 10 ul of proteinase K for each well.
 2.	Add 200 μl Buffer AL. Mix thoroughly by vortexing. Incubate blood samples at 56°C for 20 min with 1000 rpm shaking. 
@@ -44,7 +44,7 @@ Incubate 20 min at room temperature
 
 Run on agarose and purify the gel followed Qiagen gel extraction kit (Gel extraction kit, Qiagen, Cat no. 28706)
 
-# PCR Gel extraction protocol:
+## PCR Gel extraction protocol:
 1. Excise the DNA fragment from the agarose gel with a clean, sharp scalpel. 
 2.	Weigh the gel slice in a colorless tube. Add 400 uL of QG buffer to your samples. (Add 3 volumes Buffer QG to 1 volume gel (100 mg gel ~100 μl). The maximum amount of gel per spin column is 400 mg.)
 3.	Incubate at 50°C for 10 min until the gel slice has completely dissolved. Vortex the tube every 2–3 min to help dissolve gel.  
