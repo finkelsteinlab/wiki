@@ -18,14 +18,14 @@ The Octet measures binding kinetics by biolayer interferometry (BLI). A ligand i
 
 | | |
 |---|---|
-| **Model** | `Octet_ED96E` |
-| **Location** | ` McLellan_lab,NHB 4.320` |
-| **Lab contact** | `Connor Mullins,conmul@utexas.edu` |
-| **Booking** | `Book the instrument through BLI Calira Access` |
+| **Model** | Octet RED96e |
+| **Location** | McLellan lab, NHB 4.320 |
+| **Lab contact** | Connor (McLellan lab) |
+| **Booking** | Book the instrument through BLI Calira Access |
 
-'public/media/instruments/BLI machine.JPG'
+![Octet BLI instrument](/wiki/media/instruments/octet-bli-machine.jpg)
 
-'public/media/instruments/Biosensor tips.jpg'
+![Octet biosensor tips](/wiki/media/instruments/octet-biosensor-tips.jpg)
 
 ## 2. Operation
 
@@ -67,10 +67,10 @@ Two programs run on the attached PC:
 
 ## 6. Service and support
 
-- Vendor: `Sartorius`
-- Service contract: `"none"`
+- Vendor: Sartorius
+- Service contract: None
 
 ## 7. Manuals and documents
 
-- `public/media/instruments/data_acquisition_octet_web.pdf`
+- [Octet Data Acquisition User Guide (PDF)](/wiki/media/instruments/data_acquisition_octet_web.pdf)
 - [Shah and Duncan, *J Vis Exp* (2014)](https://doi.org/10.3791/51383) - setup video and overview of the Octet.
