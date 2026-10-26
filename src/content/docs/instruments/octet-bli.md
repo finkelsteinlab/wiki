@@ -23,8 +23,9 @@ The Octet measures binding kinetics by biolayer interferometry (BLI). A ligand i
 | **Lab contact** | `Connor Mullins,conmul@utexas.edu` |
 | **Booking** | `Book the instrument through BLI Calira Access` |
 
--'public/media/instruments/BLI machine.JPG'
--'public/media/instruments/Biosensor tips.jpg'
+'public/media/instruments/BLI machine.JPG'
+
+'public/media/instruments/Biosensor tips.jpg'
 
 ## 2. Operation
 
