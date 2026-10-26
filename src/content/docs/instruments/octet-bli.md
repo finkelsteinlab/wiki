@@ -18,10 +18,10 @@ The Octet measures binding kinetics by biolayer interferometry (BLI). A ligand i
 
 | | |
 |---|---|
-| **Model** | `TODO: manufacturer, model and catalogue number, copied from the label on the instrument` |
-| **Location** | `TODO: building, room and bench` |
-| **Lab contact** | `TODO: role, for example lab manager` |
-| **Booking** | `TODO: how to book, or "not required"` |
+| **Model** | `Octet_ED96E` |
+| **Location** | ` McLellan_lab,NHB 4.320` |
+| **Lab contact** | `Connor Mullins,conmul@utexas.edu` |
+| **Booking** | `Book the instrument through BLI Calira Access` |
 
 :::note[Picture wanted]
 A photo of the instrument on its bench with the lid open, showing the green sensor tray and the plate stage, and a second photo of the drawer where new tip trays are kept.
