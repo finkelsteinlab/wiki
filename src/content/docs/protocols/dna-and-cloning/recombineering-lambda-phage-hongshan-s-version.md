@@ -4,7 +4,7 @@ title: "Recombineering Lambda Phage (Hongshan's Version)"
 
 <!-- migrated from DokuWiki page protocols:recombineering_lambda_phage_jim_remix -->
 
-This protocol is combination of the protocol of Recombineering Lambda Phage (Jim’s version), Yoori’s scientific reports paper (2017) and my experience.
+This protocol is a combination of [Recombineering Lambda Phage](/wiki/protocols/dna-and-cloning/recombineering-lambda-phage/) (Jim’s version), Yoori’s *Scientific Reports* paper (2017), and Hongshan's experience.
 
 pKD78 plasmid (pIF:284, chloramphenicol resistant) harbors the Red recombineering system under the control of an arabinose-inducible promoter.
 

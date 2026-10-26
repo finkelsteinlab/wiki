@@ -4,7 +4,7 @@ title: "GP41 Helicase: Benkovic Purification"
 
 <!-- migrated from DokuWiki page gp41_helicase:benkovic_purification -->
 
-This purification scheme was adopted from the 2002 Benkovic paper in order to increase the concentration of our protein. This method uses P11 resin. It is recommended that you prepare the resin two days in advance before expressing the protein.
+This purification scheme was adopted from the 2002 Benkovic paper in order to increase the concentration of our protein (see also the standard [GP41 Helicase](/wiki/protocols/protein-purification/gp41-helicase/) protocol). This method uses P11 resin. It is recommended that you prepare the resin two days in advance before expressing the protein.
 
 ## Contents
 

@@ -4,7 +4,7 @@ title: "Lambda DNA Oligo Ligation using Heat Block"
 
 <!-- migrated from DokuWiki page protocols:lambda_dna_oligo_ligation -->
 
-Genomic DNA from the bacteriophage λ is 48.5 kb long, commercially available (NEB \#[N3011](http://www.neb.com/nebecomm/products/productN3011.asp)), and contains 12 nucleotide 5′-ssDNA overhangs that are used to ligate synthetic oligonucleotides.
+Genomic DNA from the bacteriophage λ is 48.5 kb long, commercially available (NEB \#[N3011](http://www.neb.com/nebecomm/products/productN3011.asp)), and contains 12 nucleotide 5′-ssDNA overhangs that are used to ligate synthetic oligonucleotides. See also the [thermocycler variant](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-thermo-cycler/).
 
 ## Contents
 

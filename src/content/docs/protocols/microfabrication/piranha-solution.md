@@ -11,21 +11,19 @@ title: "Piranha Solution"
 
 ## 1. Overview
 
-2 volumes of Sulfuric Acid for each volume of Hydrogen Peroxide.
-
-To clean one wafer I use 400ml of Hydrogen Peroxide with 800 ml of Sulfuric Acid. To clean all the wafers I use 500 ml of Hydrogen Peroxide and 1000 ml of Sulfuric Acid.
-
-This big volumes of piranha are only mixed in Acid hood in MER clean room. Clean room has all chemicals and materials needed for this.
-
-## 2. Piranha single slide clean
-
-This protocol is used for cleaning the pattern surfaces of flow cells after sufficient use (4 uses).
-
 :::danger
-
-Piranha is dangerous! Please be careful not to let any organics NEAR it! This is especially true for EtOH
-
+Before working with piranha solution, read the full safety SOP, PPE requirements, and disposal instructions in [Piranha Solution (Recipe & Safety SOP)](/wiki/recipes/piranha-solution/). Piranha is extremely hazardous—never let any organics (especially EtOH or acetone) come near it!
 :::
+
+For bulk wafer cleaning in the MER cleanroom acid hood (2:1 H<sub>2</sub>SO<sub>4</sub>:H<sub>2</sub>O<sub>2</sub>):
+- To clean one wafer: 800 mL of Sulfuric Acid with 400 mL of Hydrogen Peroxide.
+- To clean a full batch of wafers: 1000 mL of Sulfuric Acid with 500 mL of Hydrogen Peroxide.
+
+These large volumes of piranha are only mixed in the acid hood in the MER cleanroom, which provides the chemicals and materials needed.
+
+## 2. Piranha single slide clean (3:1 H<sub>2</sub>SO<sub>4</sub>:H<sub>2</sub>O<sub>2</sub>)
+
+This protocol is used for cleaning the patterned surfaces of flow cells after sufficient use (4 uses).
 
 ### 2.1 Materials Needed
 

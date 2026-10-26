@@ -6,7 +6,7 @@ title: "Φ29 (phi29) DNA Polymerase Purification"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3]
 
-phi29 DNA Polymerase is the replicative polymerase from the Bacillus subtilis phage phi29 (Φ29). This polymerase has exceptional strand displacement and processive synthesis properties. The polymerase has an inherent 3´→5’ proofreading exonuclease activity.
+phi29 DNA Polymerase is the replicative polymerase from the Bacillus subtilis phage phi29 (Φ29). This polymerase has exceptional strand displacement and processive synthesis properties. The polymerase has an inherent 3´→5’ proofreading exonuclease activity. See also [Phi29 Polymerase (pET19) Purification Procedure](/wiki/protocols/protein-purification/phi29-polymerase-pet19-purification-procedure/).
 
 ## Contents
 

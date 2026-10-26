@@ -6,7 +6,7 @@ title: "Phi29 Polymerase (pET19) Purification Procedure"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4]
 
-Plasmid cloned from the previous phi29 into pET19. Adapted by J. Schaub for better purificaiton.
+Plasmid cloned from the previous [Φ29 (phi29) DNA Polymerase](/wiki/protocols/protein-purification/phi29-dna-polymerase-purification/) construct into pET19. Adapted by J. Schaub for better purification.
 
 ## Contents
 

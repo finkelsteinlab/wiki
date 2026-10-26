@@ -6,7 +6,7 @@ title: "Recombineering Lambda Phage"
 
 Recombineering is a powerful and efficient method of in vivo genetic engineering of plasmids and genomic DNA in E. coli. This method saves time by avoiding most in vitro cloning techniques. Recombineering allows construction of DNA molecules with precise junctions without constraints being imposed by restriction enzyme site location. The proteins that carry out the recombineering reaction are harbored on an accesory plasmid, such as pKD78 (Datsenko et al, 2000). A so-called insert DNA is introduced by electroporation into a suitable E. coli strain. Gene knockouts, deletions and point mutations are readily made, gene tags can be inserted and regions of bacterial artificial chromosomes or the E. coli genome can be subcloned by gene retrieval using recombineering. (text adapted from Sharan et al, 2009)
 
-We will generally be following the protocol described in Sharan et. al, 2009.
+We will generally be following the protocol described in Sharan et al., 2009. See also [Recombineering Lambda Phage (Hongshan's Version)](/wiki/protocols/dna-and-cloning/recombineering-lambda-phage-hongshan-s-version/).
 
 ## Contents
 
