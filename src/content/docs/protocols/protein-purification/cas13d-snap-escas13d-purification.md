@@ -169,11 +169,7 @@ Used in our papers:[^paper-1][^paper-2]
 2. Concentrate the pooled protein. **Concentrator cutoff and final concentration are not specified**.
 3. Flash-freeze the protein and store at **−80 °C**.
 4. Apply the same general purification workflow to Cas13d variants.
-### 2.1 Day0
 
-### 2.2 Day1
-
-### 2.3 Day2
 
 [^paper-1]: Kuo et al. (2024). [Massively Parallel Profiling of RNA-targeting CRISPR-Cas13d](https://finkelsteinlab.org/papers/paper/Massively-Parallel-Profiling-CRISPR-Cas13d). *Nature Communications*.
 [^paper-2]: Chou et al. (2026). [Structural basis for target discrimination and activation by Cas13d](https://finkelsteinlab.org/papers/paper/Cas13d-structure). *Science Advances*.
