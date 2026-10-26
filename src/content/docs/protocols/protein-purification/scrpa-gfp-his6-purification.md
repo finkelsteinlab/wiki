@@ -36,7 +36,7 @@ Replication protein A (RPA) is a protein that binds single-stranded DNA in eukar
 2. Grow the flask overnight for 12-18 hours at 37 C.
 3. In the morning, inoculate 6L of LB with 15 mL of overnight per liter.
    - Each liter should have a carbenicillin concentration of 50 ug/mL.
-4. Grow until an O.D. 600 of 0.6-1.0. BL31(DE3)take about 5 hours and ArcticExpress about 8 hours.
+4. Grow until an O.D. 600 of 0.6-1.0. BL21(DE3) take about 5 hours and ArcticExpress about 8 hours.
 5. Once the O.D. 600 is reached, put each 1.5L flasks on ice and in the cold room to get temperature down to 18C. This takes about 25 minutes.
 6. Inoculate the cultures with a concentration of 0.3 mM IPTG and put inside shakers at 18C.
 7. Allow to grow for 14 to 16 hours and then harvest. ArcticExpress cells grow in 16 hours.

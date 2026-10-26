@@ -16,9 +16,8 @@ title: "Andor Ixon Ultra 888 EMCCD"
 
 ## 2. Service and support
 
-- Nikon sales (quotes, optics, accessories): **Jon Ekman**, Bioscience Sales Specialist, <jonathan.ekman@nikon.com>
-- Nikon service: **Anil Shukla**, <anil.shukla@nikon.com>
-- Both last in touch 2021-22; confirm before relying on them.
+- Repairs and support: <us_productsupport@andor.com>
+- Address: Andor Technology, 300 Baker Avenue, Suite 150, Concord, MA 01742, USA
 
 *Contacts checked October 2026.*
 

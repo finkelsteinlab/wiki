@@ -14,7 +14,7 @@ New to the Lab? Please [read this.](/wiki/getting-started/welcome-to-the-lab/)
 
 Please put all Lab Info here
 
-- [Andor contact](/wiki/instruments/andor-contact/)
+- [Andor iXon Ultra 888 EMCCD](/wiki/instruments/andor-ixon-ultra-888-emccd/)
 - [Codon Usage Databases](/wiki/reagents/codon-usage-databases/)
 - [Emergency Protocol](/wiki/safety/emergency-protocol/)
 - [Fire Safety](/wiki/safety/fire-safety/)
@@ -33,4 +33,3 @@ Please put all Lab Info here
 - [Storing dNTPs](/wiki/protocols/dna-and-cloning/storing-dntps/)
 - [T-shirt designs](/wiki/lab-life/t-shirt-designs/)
 - [Useful Links](/wiki/careers/useful-links/)
-- [Integrated DNA Technologies](/wiki/reagents/integrated-dna-technologies-idt-oligos/)

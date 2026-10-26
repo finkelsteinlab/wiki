@@ -9,6 +9,7 @@ Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5][^paper-6][
 ## Contents
 
 1. [Buffers](#1-buffers)
+   1. [High-Salt / pH 8.0 Variant (KD's Protocol)](#11-high-salt--ph-80-variant-kds-protocol)
 2. [Generating Pellets](#2-generating-pellets)
    1. [Day 0](#21-day-0)
    2. [Day 1](#22-day-1)
@@ -44,6 +45,16 @@ Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5][^paper-6][
   - 20 mM HEPES-KOH
   - 5 mM MgCl2
   - 2 mM DTT - **Add on day of use**
+
+### 1.1 High-Salt / pH 8.0 Variant (KD's Protocol)
+
+An alternative buffer and induction set used in several Cas12a preps:
+
+- **Lysis Buffer (1 L, pH 8.0):** 1 M NaCl, 20 mM HEPES, 1 mM EDTA, 5% glycerol, 0.1% Tween-20
+- **Wash Buffer (1 L, pH 8.0):** 1 M NaCl, 20 mM HEPES, 5% glycerol, 5 mM MgCl<sub>2</sub>, 1.0 mM PMSF (add just before use)
+- **Elution Buffer (30 mL, pH 8.0, make fresh):** 1 M NaCl, 20 mM HEPES, 10 mM desthiobiotin, 5 mM MgCl<sub>2</sub>
+- **S200 Buffer (1 L, pH 8.0):** 500 mM NaCl, 20 mM HEPES, 5 mM MgCl<sub>2</sub>, 2 mM DTT (add on day of use)
+- **Induction & Cleavage Differences:** Induce with **1.0 mM IPTG** (Step 2.4.6), spin-concentrate Strep-Tactin eluate to **700–800 µL**, and cleave overnight at 4°C with **2.4 µM final SUMO protease** (Step 3.3).
 
 ## 2. Generating Pellets
 

@@ -1,5 +1,5 @@
 ---
-title: "3xFLAG Lac Repressor Purification"
+title: "3xFLAG Lac Repressor (LacI) Purification"
 ---
 
 <!-- migrated from DokuWiki page protocols:protocols:3xflag_lac_repressor_purification -->
