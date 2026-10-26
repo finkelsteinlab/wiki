@@ -97,7 +97,7 @@ Used in our papers:[^paper-1][^paper-2]
 ### 2.1 Plasmid Construction
 
 1. Obtain oligonucleotides from IDT.
-2. Clone wild-type *EsCas13d* into a pET19 vector with an **N-terminal 6×His–TwinStrep–SUMO** purification tag to generate plasmid **pIF1023** (source references Table 1 and reference 25).
+2. Clone wild-type *EsCas13d* into a pET19 vector with an **N-terminal 6×His–TwinStrep–SUMO** purification tag to generate plasmid **pIF1023**.
 3. Generate nuclease-dead **dCas13d** by introducing **R295A, H300A, R849A, and H854A** mutations using the **Q5 Site-Directed Mutagenesis Kit (NEB)**. The source states that mutations were introduced into **pIF1024**; confirm the plasmid relationship and final construct identity against the original Table 1.
 4. Generate additional Cas13d variants using the same Q5 mutagenesis kit.
 
@@ -118,8 +118,8 @@ Used in our papers:[^paper-1][^paper-2]
 ### 3.1 Summary
 
 1. Thaw and resuspend the cell pellet in supplemented lysis buffer.
-2. Lyse by sonication and clarify the lysate.
-3. Bind the clarified lysate to Strep-Tactin resin.
+2. Lyse by sonication and clarify the lysate (Amplitude 50, Pulse on:15s, Pulse off:1.5min, all protocols total 4 min).
+3. Bind the clarified lysate to Strep-Tactin resin (or you can use Strep-tactin 4 Flow)(For Strep-tactin 4Flow please do not use regeneration buffer just use 100mM NaOH).
 4. Wash and elute tagged Cas13d with desthiobiotin-containing buffer.
 5. Cleave the SUMO tag overnight at 4 °C.
 6. Perform Superdex 200 Increase size-exclusion chromatography.
