@@ -54,7 +54,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td>dilution</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="/wiki/recipes/bacterial_antibiotics/#ampicillin">bacterial_antibiotics#Ampicillin</a></td>
+<td style="text-align: center;"><a href="#21-ampicillin">Ampicillin</a></td>
 <td>50 (H2O)</td>
 <td>-20</td>
 <td style="text-align: left;">30</td>
@@ -63,7 +63,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td>1.2-2.5 µl/ml</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="/wiki/recipes/bacterial_antibiotics/#carbenicillin">bacterial_antibiotics#Carbenicillin</a></td>
+<td style="text-align: center;"><a href="#22-carbenicillin">Carbenicillin</a></td>
 <td>100 (H2O or 50% EtOH)</td>
 <td>-20</td>
 <td style="text-align: left;">30</td>
@@ -72,7 +72,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td>1 µl/ml</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="/wiki/recipes/bacterial_antibiotics/#chloramphenicol">bacterial_antibiotics#Chloramphenicol</a></td>
+<td style="text-align: center;"><a href="#23-chloramphenicol">Chloramphenicol</a></td>
 <td>34 (EtOH or MeOH)</td>
 <td>-20</td>
 <td style="text-align: left;">10</td>
@@ -81,7 +81,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td>5 µl/ml</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="/wiki/recipes/bacterial_antibiotics/#d-cycloserine">bacterial_antibiotics#D-cycloserine</a></td>
+<td style="text-align: center;"><a href="#24-d-cycloserine">D-cycloserine</a></td>
 <td>10 (0.1M NaP pH8.0)</td>
 <td>+4</td>
 <td style="text-align: left;">2</td>
@@ -108,7 +108,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td>40 µl/ml</td>
 </tr>
 <tr>
-<td style="text-align: center;">Kanamicin</td>
+<td style="text-align: center;">Kanamycin</td>
 <td>50 (H2O)</td>
 <td>-20</td>
 <td style="text-align: left;">10</td>
@@ -144,7 +144,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td>80 µl/ml</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="/wiki/recipes/bacterial_antibiotics/#rifampicin">bacterial_antibiotics#Rifampicin</a></td>
+<td style="text-align: center;"><a href="#25-rifampicin">Rifampicin</a></td>
 <td>34 (MeOH)</td>
 <td>-20</td>
 <td style="text-align: left;">150</td>
@@ -171,7 +171,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td></td>
 </tr>
 <tr>
-<td style="text-align: center;">Streptomicin*</td>
+<td style="text-align: center;">Streptomycin*</td>
 <td>100 (H2O)</td>
 <td>-20</td>
 <td style="text-align: left;">10</td>
@@ -180,7 +180,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td>0.5 µl/ml</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="/wiki/recipes/bacterial_antibiotics/#tetracycline">bacterial_antibiotics#Tetracycline</a></td>
+<td style="text-align: center;"><a href="#26-tetracycline">Tetracycline</a></td>
 <td>5-12.5 (EtOH or 70% MeOH)</td>
 <td>-20</td>
 <td style="text-align: left;">12.5</td>

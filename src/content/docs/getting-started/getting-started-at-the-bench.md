@@ -11,7 +11,7 @@ So you’ve got your keys, your pipettors and are ready to do some good science.
 1. [Protocol Lab Book](#1-protocol-lab-book)
 2. [Protocols Online](#2-protocols-online)
 3. [Catalogs and Kits](#3-catalogs-and-kits)
-4. [Buffers for your Bench](#4-buffers-for-your-bench)
+4. [Useful Buffers for your Bench](#4-useful-buffers-for-your-bench)
 
 ## 1. Protocol Lab Book
 

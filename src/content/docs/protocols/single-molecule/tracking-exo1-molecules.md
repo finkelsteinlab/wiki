@@ -8,7 +8,7 @@ title: "Tracking Exo1 Molecules"
 
 1. [Cropping](#1-cropping)
 2. [Tracking](#2-tracking)
-3. [ppfit_digest](#3-ppfit_digest)
+3. [ppfit_digest](#3-ppfitdigest)
 4. [Analysis](#4-analysis)
 
 ## 1. Cropping

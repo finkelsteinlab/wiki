@@ -20,7 +20,7 @@ SDS-PAGE (Polyacrylamide gel electrophoresis) is used to denature and separate p
 - Please read **Chapter 19.8** of our Molecular Cloning book
 - Take a look at [CSH](http://cshprotocols.cshlp.org/content/2006/4/pdb.prot4540.full?sid=dfcae7f9-4786-4962-8e21-2f157d575552) protocol online.
 - Wikipedia has some practical considerations when running [SDS-PAGE](http://en.wikipedia.org/wiki/SDS-PAGE) gels.
-- Read the [manual](http://finkelsteinlab.org/wiki/doku.php?id=instruments:gel_electrophoresis_systems) to learn how to use the casting system.
+- Read the [manual](/wiki/instruments/gel-electrophoresis-systems/) to learn how to use the casting system.
 
 ## 2. Gel Percentage Reference
 
@@ -64,7 +64,7 @@ We routinely pour two-layer stacking, discontinuous gels. The lower layer is cal
 
 **TEMED** is Tetramethylethylenediamine and is stored under the flammable hood near the gel station.
 
-**40% Acrylamide** has a 29:1 ratio and not the 19:1 ratio for protein gels.
+**40% Acrylamide** has a 29:1 acrylamide:bis-acrylamide ratio (for protein gels), not the 19:1 ratio used for denaturing DNA/RNA gels.
 
 **10% SDS** should be made in 50 mL quantities or less.
 
@@ -74,7 +74,7 @@ We routinely pour two-layer stacking, discontinuous gels. The lower layer is cal
 
 **Casting the resolving layer:**
 
-1. Prepare the glass plates, combs and casting station **before** you combine any chemicals. Read the [manual](http://finkelsteinlab.org/wiki/doku.php?id=instruments:gel_electrophoresis_systems) to learn how to use the casting system.
+1. Prepare the glass plates, combs and casting station **before** you combine any chemicals. Read the [manual](/wiki/instruments/gel-electrophoresis-systems/) to learn how to use the casting system.
 2. Adding a 1000 mL pipette tip between the casting station clip will help keep the gel from leaking (it can still happen though).
 3. Combine H2O, Tris, SDS and Acrylamide in a 50 mL disposable falcon tube and invert several times or vortex to mix thoroughly.
 4. Add APS and TEMED, invert several times and use a Pipette-Aid to cast the resolving layer, up to the bottom of the green line from the casting station which is about an inch free at the top. **Polymerization initiates as soon as you add APS & TEMED** so you only have a few minutes before the gel solidifies.

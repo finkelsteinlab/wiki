@@ -48,5 +48,4 @@ We also have several resins for packing your own columns.
 ## 4. Maintenance
 
 - [Manual](/wiki/media/manuals/aktapurifierinstructionalmaterial.pdf)
-- For Preventative Maintenance and Service Calls, use the instructions below. Contract expires 9/01/2020
-- <embed src="http://finkelsteinlab.org/wiki/doku.php" data-query="?id=start&amp;do=media&amp;image=instruments%3Aservice_call_instructions.pdf&amp;ns=instruments" />
+- [Service Call Instructions (PDF)](/wiki/media/instruments/service_call_instructions.pdf) (contract expired 9/01/2020)
