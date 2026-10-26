@@ -21,9 +21,9 @@ For bulk wafer cleaning in the MER cleanroom acid hood (2:1 H<sub>2</sub>SO<sub>
 
 These large volumes of piranha are only mixed in the acid hood in the MER cleanroom, which provides the chemicals and materials needed.
 
-## 2. Piranha single slide clean (3:1 H<sub>2</sub>SO<sub>4</sub>:H<sub>2</sub>O<sub>2</sub>)
+## 2. Piranha single slide clean
 
-This protocol is used for cleaning the patterned surfaces of flow cells after sufficient use (4 uses).
+This protocol (3:1 H<sub>2</sub>SO<sub>4</sub>:H<sub>2</sub>O<sub>2</sub>) is used for cleaning the patterned surfaces of flow cells after sufficient use (4 uses).
 
 ### 2.1 Materials Needed
 
