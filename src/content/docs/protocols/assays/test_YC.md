@@ -1,4 +1,6 @@
-Cell transfection process
+---
+title: "Cell transfection process"
+---
 
 Day 0 prior to transfection
 	Lift HEK293T cells (10cm) with trypsin and pellet them at 250g for 5 min RT.
