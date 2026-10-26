@@ -47,4 +47,4 @@ The overall NucleaSeq protocol involves preparing a Cas9 / sgRNA mix, adding a D
 1. Create a job at the GSAF by following this link: <https://wikis.utexas.edu/display/GSAF/Submit+Samples+to+the+GSAF>.
 2. These samples require bioanalyzer runs and library prep.
 3. Once the job has been confirmed, bring samples to the GSAF.
-4. GSAF should follow this protocol: [sop_6.9.24_manual_nebnext_ultra_ii_dna_library.docx](/wiki/media/protocols/protocols/sop_6.9.24_manual_nebnext_ultra_ii_dna_library.docx)
+4. GSAF should follow this protocol: [sop_6.9.24_manual_nebnext_ultra_ii_dna_library.docx](/wiki/media/protocols/sop_6.9.24_manual_nebnext_ultra_ii_dna_library.docx)

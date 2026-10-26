@@ -31,18 +31,18 @@ Greg Hild measured their competency by transforming the plasmid pUC19 into the c
 - Third box in “Homemade cell” drawer
 - Labeled DH5Alpha cells
 
-<img src="/wiki/media/instruments/dh5alpha022820135ng.jpg" width="350" alt="5ng pUC19" /> <img src="/wiki/media/instruments/dh5alpha02282013500pg.jpg" width="350" alt="500pg pUC19" /> <img src="/wiki/media/instruments/dh5alpha0228201350pg.jpg" width="350" alt="50pg pUC19" />
+<img src="/wiki/media/protocols/dh5alpha022820135ng.jpg" width="350" alt="5ng pUC19" /> <img src="/wiki/media/protocols/dh5alpha02282013500pg.jpg" width="350" alt="500pg pUC19" /> <img src="/wiki/media/protocols/dh5alpha0228201350pg.jpg" width="350" alt="50pg pUC19" />
 
 ### 2.2 Competency 03-30-2013
 
 - First box in “Homemade cell” drawer
 - Labeled “DH5Alpha cells (Matouschek Lab competency protocol)
 
-<img src="/wiki/media/instruments/dh5alpha_cells_5_ng_03_30_2013.jpg" width="350" alt="5ng pUC19" /> <img src="/wiki/media/instruments/dh5aplha_cells_500_pg_03_30_2013.jpg" width="350" alt="500pg pUC19" /> <img src="/wiki/media/instruments/dh5alpha_cells_50_pg_03_30_2013.jpg" width="350" alt="50pg pUC19" />
+<img src="/wiki/media/protocols/dh5alpha_cells_5_ng_03_30_2013.jpg" width="350" alt="5ng pUC19" /> <img src="/wiki/media/protocols/dh5alpha_cells_500_pg_03_30_2013.jpg" width="350" alt="500pg pUC19" /> <img src="/wiki/media/protocols/dh5alpha_cells_50_pg_03_30_2013.jpg" width="350" alt="50pg pUC19" />
 
 ### 2.3 Competency 05-13-2014
 
 - first and second box in “Homemade cell” drawer
 - Labeled DH5Alpha cells
 
-<img src="/wiki/media/instruments/dh5alpha_5ng_puc19.jpg" width="350" alt="5ng pUC19" /> <img src="/wiki/media/instruments/dh5alpha_500pg_puc19.jpg" width="350" alt="500pg pUC19" /> <img src="/wiki/media/instruments/dh5alpha_50pg_puc19.jpg" width="350" alt="50pg pUC19" />
+<img src="/wiki/media/protocols/dh5alpha_5ng_puc19.jpg" width="350" alt="5ng pUC19" /> <img src="/wiki/media/protocols/dh5alpha_500pg_puc19.jpg" width="350" alt="500pg pUC19" /> <img src="/wiki/media/protocols/dh5alpha_50pg_puc19.jpg" width="350" alt="50pg pUC19" />

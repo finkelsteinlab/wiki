@@ -47,4 +47,4 @@ Something to make sure to check:
 
 ## 4. Documents
 
-- [dish_cleaning_protocol.pdf](/wiki/media/protocols/protocols/dish_cleaning_protocol.pdf)
+- [dish_cleaning_protocol.pdf](/wiki/media/protocols/dish_cleaning_protocol.pdf)
