@@ -183,9 +183,11 @@ The substrate incubation is seconds, not minutes, and the signal starts decaying
 4. Compare signals only between dots loaded with the same total RNA mass.
 5. Record the intensities alongside the sample identities.
 
-:::note[Picture wanted]
-An example membrane image: a few IVT samples next to the poly(dI) positive control, so the next person knows what a clean blot and a dsRNA-positive sample look like.
-:::
+### Example dsRNA Dot Blot
+
+![Example dsRNA dot blot](/images/dot%20blot.png)
+
+Example membrane image showing IVT samples and the poly(dI) positive control.
 
 ## 8. Notes
 
