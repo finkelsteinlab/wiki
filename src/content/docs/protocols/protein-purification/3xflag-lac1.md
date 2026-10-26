@@ -1,5 +1,5 @@
 ---
-title: "3xFLAG Lac1"
+title: "3xFLAG Lac Repressoro (LacI)"
 ---
 
 <!-- migrated from DokuWiki page protocols:protocols:3xflag_laci_purification -->
