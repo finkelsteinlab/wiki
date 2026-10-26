@@ -1,6 +1,4 @@
-**Bacterial plasmid interference assay**
-
-Bacterial Plasmid interference assay for Acr library
+**Bacterial plasmid interference assay for Acr screening**
 
 This protocol is modified based on previous work (PMID: 34644300).
 
