@@ -3,24 +3,34 @@ title: "Cell transfection process"
 ---
 
 ## Day 0 prior to transfection
-1. Lift HEK293T cells (10cm) with trypsin and pellet them at 250g for 5 min RT.
+1. Lift HEK293T cells (10cm) with trypsin and pellet them at 250 xg for 5 min RT.
 2. Discard supernatant and resuspend in 10 ml of DMEM.
 3. Adjust cell density to 2.4×10^5  cells/ml with DMEM.
 4. Seed 500uL of 2.4×10^5  cells/ml cells into 24-well plate.
  
 ## Day 1 Transfection
 1. Prepare Mix-A and Mix-B. 3 ul of Lipo2000 for 1 ug of DNA.
-Mix-A: each 50 ul of Opti-MEM (86)
-Mix-B: 4300 ul of Opti-MEM with 258 ul of Lipo2000 
+Mix-A: each 50 ul of Opti-MEM (numbers of your samples plus one reaction)
+Mix-B: zzz ul of Opti-MEM with zzz uL of Lipo2000 (3 ul of Lipo2000 for 1 ug of DNA.)
 For each well 
 Incubate 20 min at room temperature
 100ul of mixture into each well
  
 ## Day 4 Cells harvest
-1. Aspirate medium and wash cells with 200ul of PBS once for each well.
-2. Resuspend in 500 ul of PBS and centrifuge @250g 5min. (can do it on the bench)
-3. Discard supernatant and store cell pellet at -80 for genomic preparation.
-4. Extract gDNA is followed Genomic extraction kit. 200 uL of ddH2O elution.
+1. Aspirate medium and wash cells with 400 uL of PBS once for each well.
+2. Store whole plate with cell pellet at -80C for genomic preparation.
+
+# Extract gDNA is followed Genomic extraction kit (DNeasy Blood & Tissue Kit, Cat no.  69504).
+
+1.	For Cultured cells, resuspend the cells in resuspend buffer. Resuspend buffer: 200 ul of PBS with 10 ul of proteinase K for each well.
+2.	Add 200 μl Buffer AL. Mix thoroughly by vortexing. Incubate blood samples at 56°C for 20 min with 1000 rpm shaking. 
+3.	Add 200 μl ethanol (96–100%). Mix thoroughly by vortexing. 
+4.	Pipet the mixture into a DNeasy Minispin column placed in a 2mL collection tube and apply vacuum to the manifold.
+5.	Add 500 μl Buffer AW1 and apply vacuum. 
+6.	Add 500 μL Buffer AW2 and apply vacuum.
+7.	Transfer the spin column to a new 1.5 ml or 2 ml microcentrifuge tube and Centrifuge for 1-2 min to remove residual wash buffer.
+8.	Elute the DNA by adding 200 μL ddH2O to the center of the spin column membrane. Incubate for 1 min at room temperature (15–25°C). Centrifuge for 1 min at 16000 x g. 
+
  
 ## PCR reaction by KOD one
 ## First round of PCR reaction
