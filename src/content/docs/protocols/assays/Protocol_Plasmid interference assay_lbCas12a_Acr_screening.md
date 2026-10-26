@@ -118,20 +118,6 @@ For the serial 10×fold dilutions, prepare 100 ul for each sample, and 5 ul will
 10-8:10+90 ul 
 
 Load the samples as follows:
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img width="468" height="628" alt="image" src="https://github.com/user-attachments/assets/82ef9c27-671a-4d68-85cb-f8a7f0c4d4e5" />
+
