@@ -19,10 +19,15 @@ Used in our papers:[^paper-1][^paper-2]
    6. [SP buffer B](#16-sp-buffer-b-500-ml-ph-74)
    7. [S200 Buffer](#17-s200-buffer-1l-ph-80)
    8. [Filtered ddH2O](#18-filtered-ddh2o-500-ml)
-2. [Purification](#2-purification)
-   1. [Day0](#21-day0)
-   2. [Day1](#22-day1)
-   3. [Day2](#23-day2)
+2. [Generating Pellets](#2-generating-pellets)
+   1. [Plasmid Construction](#21-plasmid-construction)
+   2. [Transformation and Expression](#22-transformation-and-expression)
+   3. [Harvesting and Storage](#23-harvesting-and-storage)
+3. [Purification](#3-purification)
+   1. [Summary](#31-summary)
+   2. [Preparation](#32-preparation)
+   3. [Day 1 — Cell Lysis and Strep-Tactin Purification](#33-day-1--cell-lysis-and-strep-tactin-purification)
+   4. [Day 2 — Size-Exclusion Chromatography and Storage](#34-day-2--size-exclusion-chromatography-and-storage)
 
 ## 1. Buffers
 
@@ -89,8 +94,6 @@ Used in our papers:[^paper-1][^paper-2]
 
 - Keep cold in 4°C
 - Mainly used to rinse off FPLC tubes before transferring from high salt buffer to water. This is important since the salt is so concentrated.
-
-## 2. Purification
 
 ## 2. Generating Pellets
 

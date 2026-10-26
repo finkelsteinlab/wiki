@@ -13,7 +13,7 @@ title: "AcrIIA4 Purification"
 5. [Results and Notes](#5-results-and-notes)
 6. [References](#6-references)
 
-## 1. Buffers and Reagents!
+## 1. Buffers and Reagents
 
 - **Antibiotics:** Carbenicillin
 - **Buffer A:** 20 mM HEPES-KOH pH=7.5, 1M KCl (add 1mM PMSF, 1mM HALT protease inhibitor, and 1mM DNase to cells before lysis)
