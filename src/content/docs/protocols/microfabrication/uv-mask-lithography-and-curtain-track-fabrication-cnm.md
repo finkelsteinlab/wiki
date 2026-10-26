@@ -6,6 +6,10 @@ title: "UV Mask Lithography and curtain track fabrication-CNM"
 
 The protocol, as written, is intended for clean-room use with CNM facilities at the 4th floor of the FNT building.
 
+:::note
+This protocol uses **AZ5209E** positive photoresist. For the **KL IR lift-off 15** photoresist variant, see [Updated for CNM UV Mask Lithography and curtain track fabrication](/wiki/protocols/microfabrication/updated-for-cnm-uv-mask-lithography-and-curtain-track-fabrication/).
+:::
+
 ## Contents
 
 1. [Training](#1-training)
