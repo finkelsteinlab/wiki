@@ -8,9 +8,8 @@ title: "Science Advice"
 
 ## 1. Pages
 
-- [Beginner Programming Resources](/wiki/careers/beginner-programming-resources/)
+- [Beginner Programming Resources](/wiki/computing/beginner-programming-resources/)
 - [Career Development](/wiki/careers/career-development/)
-- [Double sided tape](/wiki/careers/double-sided-tape/)
 - [Get Funded!](/wiki/careers/get-funded/)
 - [Heilmeier's Catechism](/wiki/careers/heilmeier-s-catechism/)
 - [Top Ten Interview Questions for Scientific Industry Jobs](/wiki/careers/top-ten-interview-questions-for-scientific-industry-jobs/)

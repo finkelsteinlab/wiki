@@ -30,6 +30,6 @@ Please put all Lab Info here
 - [Maintenance Requests](/wiki/getting-started/maintenance-requests/)
 - [Microscope Checklist](/wiki/instruments/microscope-checklist/)
 - [Python Programming Language](/wiki/computing/python-programming-language/)
-- [Storing dNTPs](/wiki/protocols/dna-and-cloning/storing-dntps/)
+- [Storing dNTPs](/wiki/reagents/storing-dntps/)
 - [T-shirt designs](/wiki/lab-life/t-shirt-designs/)
 - [Useful Links](/wiki/careers/useful-links/)
