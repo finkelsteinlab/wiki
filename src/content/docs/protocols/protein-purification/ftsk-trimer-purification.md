@@ -1,5 +1,5 @@
 ---
-title: "FtsK trimer purifcation"
+title: "FtsK Trimer Purification"
 ---
 
 <!-- migrated from DokuWiki page protocols:ftsk_trimer_purification -->

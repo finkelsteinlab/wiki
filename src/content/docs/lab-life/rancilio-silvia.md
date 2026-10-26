@@ -1,12 +1,12 @@
 ---
-title: "Rancillo Silvia"
+title: "Rancilio Silvia"
 ---
 
 <!-- migrated from DokuWiki page instruments:rancillo_silvia -->
 
-<img src="/wiki/media/instruments/silvia-preciso.jpg" width="350" alt="Rancillo Silvia" />
+<img src="/wiki/media/instruments/silvia-preciso.jpg" width="350" alt="Rancilio Silvia" />
 
-The Rancillo is the lab espresso machine. She partners with the Baratza Virtuoso Preciso (grinder) to produce high end espresso. Enjoy.
+The Rancilio is the lab espresso machine. She partners with the Baratza Virtuoso Preciso (grinder) to produce high end espresso. Enjoy.
 
 ## Contents
 
@@ -18,7 +18,7 @@ The Rancillo is the lab espresso machine. She partners with the Baratza Virtuoso
 
 ## 1. General Information
 
-- The Rancillo Silvia V3 is the top of the line model for semi-automatic machines.
+- The Rancilio Silvia V3 is the top of the line model for semi-automatic machines.
 - Espresso is produced by forcing a small amount of nearly boiling (97C) water through ground coffee at 9 bars of pressure.
 - A single shot of espresso has about 45-60 mg of caffeine which is less than half of an 8 oz drip brew coffee, so [drink up](http://www.youtube.com/watch?v=UGtKGX8B9hU)
   - ilya: really??? reference needed :-)
@@ -97,9 +97,9 @@ So you are tired of the classic and bold flavor of an espresso and you want some
 
 ## 5. Maintenance
 
-- Both the Ranicllo Silvia **and** Baratza Preciso must be well maintained machines to pull the perfect shot!
+- Both the Rancilio Silvia **and** Baratza Preciso must be well maintained machines to pull the perfect shot!
 - The manuals come in five languages. Feel free to browse them all.
-  - Rancillo Silvia [Manual](/wiki/media/manuals/rancilio_silvia_manual_1_.pdf)
+  - Rancilio Silvia [Manual](/wiki/media/manuals/rancilio_silvia_manual_1_.pdf)
   - Baratza Virtuoso Preciso [Manual](/wiki/media/manuals/preciso-manual.pdf)
   - There will be exams.
     - Available in all languages!
