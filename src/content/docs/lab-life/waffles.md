@@ -15,4 +15,4 @@ title: "Waffles"
 7. Wash the plastic cup and wooden stick.
 8. Enjoy your waffle.
 
-![waffle.gif](/wiki/media/protocols/waffle.gif)
+![waffle.gif](/wiki/media/lab/waffle.gif)

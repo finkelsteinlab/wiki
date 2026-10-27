@@ -30,14 +30,14 @@ All lab employees must complete UT mandated Radioactive Safety Training (OH 301 
 
 Proper safety equipment must be worn/utilized while working with radioactive materials.
 
-[Radioactive License User Commitments](/wiki/media/protocols/radioactive_materials_license_commitments.pdf)
+[Radioactive License User Commitments](/wiki/media/safety/radioactive_materials_license_commitments.pdf)
 
 ## 4. Forms
 
-- [Radiation Surveying Instructions](/wiki/media/protocols/radiation_instructions.pptx)
-- [Daily User Survey Form](/wiki/media/protocols/radioactive_survey_checklist.pdf)
-- [Weekly Survey Form](/wiki/media/protocols/weekly_radiation-contamination_survey_record-1-1.doc)
-- [Waste Pick Up Form](/wiki/media/protocols/radioactive_waste_pickup_form.doc)
+- [Radiation Surveying Instructions](/wiki/media/safety/radiation_instructions.pptx)
+- [Daily User Survey Form](/wiki/media/safety/radioactive_survey_checklist.pdf)
+- [Weekly Survey Form](/wiki/media/safety/weekly_radiation-contamination_survey_record-1-1.doc)
+- [Waste Pick Up Form](/wiki/media/safety/radioactive_waste_pickup_form.doc)
 
 ## 5. Contact
 

@@ -4,7 +4,7 @@ title: "Rancilio Silvia"
 
 <!-- migrated from DokuWiki page instruments:rancillo_silvia -->
 
-<img src="/wiki/media/instruments/silvia-preciso.jpg" width="350" alt="Rancilio Silvia" />
+<img src="/wiki/media/lab/silvia-preciso.jpg" width="350" alt="Rancilio Silvia" />
 
 The Rancilio is the lab espresso machine. She partners with the Baratza Virtuoso Preciso (grinder) to produce high end espresso. Enjoy.
 
@@ -73,15 +73,15 @@ So you are tired of the classic and bold flavor of an espresso and you want some
 - [Lavazza Espresso Super Crema](http://www.amazon.com/Lavazza-Super-Crema-Espresso-2-2-Pound/dp/B000SDKDM4)
   - Came with purchase of the machine 9G
 
-<img src="/wiki/media/instruments/lavazza_espresso_super_crema.jpg" width="250" alt="Lavazza Espresso Super Crema" />
+<img src="/wiki/media/lab/lavazza_espresso_super_crema.jpg" width="250" alt="Lavazza Espresso Super Crema" />
 
 - Cuvee 9G
 
-  <img src="/wiki/media/instruments/meritage.jpg" width="150" alt="Cuvee" />
+  <img src="/wiki/media/lab/meritage.jpg" width="150" alt="Cuvee" />
 
 - Third Coast
 
-  <img src="/wiki/media/instruments/third_coast_roast.png" width="150" alt="Third Coast" />
+  <img src="/wiki/media/lab/third_coast_roast.png" width="150" alt="Third Coast" />
 
   - Sumatra 10F
   - Columbia Doesn't matter because it's terrible
@@ -93,7 +93,7 @@ So you are tired of the classic and bold flavor of an espresso and you want some
   - Peru 10D
 - RutaMaya 10C
 
-  <img src="/wiki/media/instruments/ruta_maya.jpg" width="200" alt="RutaMaya" />
+  <img src="/wiki/media/lab/ruta_maya.jpg" width="200" alt="RutaMaya" />
 
 ## 5. Maintenance
 

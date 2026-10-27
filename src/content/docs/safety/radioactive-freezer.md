@@ -11,7 +11,7 @@ title: "Radioactive Freezer"
 
 ## 1. Overview
 
-<img src="/wiki/media/instruments/radioactive_freezer_picutre.jpg" width="250" alt="Freezer" /> For the storage of radioactive materials.
+<img src="/wiki/media/instruments/radioactive_freezer_picture.jpg" width="250" alt="Freezer" /> For the storage of radioactive materials.
 
 ## 2. Maintenance
 
