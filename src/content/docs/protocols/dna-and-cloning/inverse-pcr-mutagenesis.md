@@ -52,17 +52,23 @@ The longer of the two primers must be phosphorylated during chemical synthesis (
 
 **Change a single base (or codon):** In the sequence below, the **TAA** codon in lower case is mutated to **CAA** (T changed to C). Primers 1 & 2 will do the job.
 
-` 5‘-…ATGACCATGATTACGCCAAGCGCGtaaTTAACCCTCACTAAAGGGAACAAAAGCT… 3’-…TACTGGTACTAATGCGGTTCGCGCattAATTGGGAGTGATTTCCCTTGTTTTCGA… `
+```text
+5'-…ATGACCATGATTACGCCAAGCGCGtaaTTAACCCTCACTAAAGGGAACAAAAGCT…3'
+3'-…TACTGGTACTAATGCGGTTCGCGCattAATTGGGAGTGATTTCCCTTGTTTTCGA…5'
+```
 
-- Primer 1: ‘’5’-\[p\]**CAA**TTAACCCTCACTAAAGGGAAC-3’ ’’ (Tm ~57 deg;not counting 5‘-C)
-- Primer 2: ’‘3’-GTACTAATGCGGTTCGCGC-5’ ’’ (Tm ~57 deg)
+- Primer 1: 5'-[p]**CAA**TTAACCCTCACTAAAGGGAAC-3' (Tm ~57 °C; not counting 5'-C)
+- Primer 2: 3'-GTACTAATGCGGTTCGCGC-5' (Tm ~57 °C)
 
 **Change a base and insert a codon:** In the sequence below, the **TAA** codon in lower case is mutated to **CAA** (T changed to C) and an extra **GGT** codon is inserted. Note that Primer 2 is unchanged from the first example.
 
-` 5‘-…ATGACCATGATTACGCCAAGCGCGtaaTTAACCCTCACTAAAGGGAACAAAAGCT…3’ 3‘-…TACTGGTACTAATGCGGTTCGCGCattAATTGGGAGTGATTTCCCTTGTTTTCGA…5’ `
+```text
+5'-…ATGACCATGATTACGCCAAGCGCGtaaTTAACCCTCACTAAAGGGAACAAAAGCT…3'
+3'-…TACTGGTACTAATGCGGTTCGCGCattAATTGGGAGTGATTTCCCTTGTTTTCGA…5'
+```
 
-- Primer 1: ‘’5’-\[p\]**GGTCAA**TTAACCCTCACTAAAGGGAAC-3’ ’’ (Tm ~ 57˚C; not counting 5‘-GGTC)
-- Primer 2: ’‘3’-GTACTAATGCGGTTCGCGC-5’ ’’ (Tm ~57˚C )
+- Primer 1: 5'-[p]**GGTCAA**TTAACCCTCACTAAAGGGAAC-3' (Tm ~57 °C; not counting 5'-GGTC)
+- Primer 2: 3'-GTACTAATGCGGTTCGCGC-5' (Tm ~57 °C)
 
 ### 2.2 Primer Purity and Concentration
 

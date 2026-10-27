@@ -25,14 +25,14 @@ Recipe for 6-8 gels.
 | Urea (g)        | 25    | 25    | 25    | 25    | 25    | 25    |
 | H2O (ml)        | to 50 | to 50 | to 50 | to 50 | to 50 | to 50 |
 
-\*\*\* The Urea makes it hard to give a definitive amount of water to add.
+*Note: The urea makes it hard to give a definitive amount of water to add.*
 
 ## 2. Procedure
 
 1. Prepare the glass plates, combs and casting station before you combine any chemicals. Read the manual to learn how to use the casting system.
-2. Adding a 1000 mL pipette tip between the casting station clip will help keep the gel from leaking (it can still happen though).
+2. Adding a 1000 µL pipette tip between the casting station clip will help keep the gel from leaking (it can still happen though).
 3. Weigh the Urea (25g) in a 50 mL conical tube.
-4. Combine 5x TBE and Acrylamide in the 50 mL tube. Add water to near 47.5 mL on the conical. Mix throughly and then incubate at 37C to solubilize the Urea (it takes a while).
+4. Combine 5x TBE and Acrylamide in the 50 mL tube. Add water to near 47.5 mL on the conical. Mix thoroughly and then incubate at 37°C to solubilize the Urea (it takes a while).
 5. Once the Urea is dissolved, allow the solution to return to room temperature. If you do not allow the solution to cool, the polymerization occurs too quickly to pipet into the glass.
 6. Add APS and TEMED. Fill the conical to 50 mL with water. Invert to mix the solution.
 7. Fill the glass plate to the brim (no stacking layer for Urea-PAGE gels). Insert the comb and let the gel polymerize.

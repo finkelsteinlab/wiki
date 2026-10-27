@@ -36,7 +36,7 @@ We have a Fisher Scientific Model 705 Sonic Dismembrator. This is a re-branded [
 
 The bath sonicator is useful for cleaning various instruments and using ultrasonic frequencies to break apart cells.
 
-\*\* Always have water in the bath\*\*
+**Always have water in the bath.**
 
 ### 2.1 Maintenance
 

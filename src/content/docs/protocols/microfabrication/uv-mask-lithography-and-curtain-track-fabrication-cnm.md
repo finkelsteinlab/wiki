@@ -77,9 +77,9 @@ Take the 100 mm wafers to the CNM clean room.
 
 Exposure times:
 
-- If Mask Aligner at CMN is not working properly, use Mask Aligner at Pickle-expose the mask for 12.5-15 seconds if the lamp power is from 6.5 to 7.5 mW/cm^2 (See Pickle protocol).\*
-- You will expose the mask for 8 seconds if the lamp power is from 6 to 6.5 mW/cm^2.\*
-- You will expose the mask for 10.5 seconds if the lamp power is 5.0 mW/cm^2 (4/14/16).\*
+- If Mask Aligner at CNM is not working properly, use Mask Aligner at Pickle—expose the mask for 12.5-15 seconds if the lamp power is from 6.5 to 7.5 mW/cm^2 (See Pickle protocol).
+- You will expose the mask for 8 seconds if the lamp power is from 6 to 6.5 mW/cm^2.
+- You will expose the mask for 10.5 seconds if the lamp power is 5.0 mW/cm^2 (4/14/16).
 - You will expose the mask for 13 seconds if the lamp power is 4.0 mW/cm^2 (10/12/17). We optimized it for 9 seconds at Pickle.
 
 Procedure:

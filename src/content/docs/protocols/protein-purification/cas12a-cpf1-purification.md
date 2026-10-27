@@ -81,7 +81,7 @@ An alternative buffer and induction set used in several Cas12a preps:
 1. Once you’re sure the transformation worked, reserve an incubator for tomorrow and the next day.
 2. Make 2.1 L of LB (2 liters with one liter each in 4L flasks, plus 100 mL in another container for overnight growth cultures).
 3. At the end of the day, start a 20 mL overnight culture at 37°C (using a single colony from the plate) into LB supplemented with carb.
-4. If an incubator is available, you can warm them \*without\* shaking overnight at 37°C.
+4. If an incubator is available, you can warm them *without* shaking overnight at 37°C.
 
 ### 2.4 Day 3
 
@@ -206,7 +206,7 @@ Typically done same day that pellet is made.
 
 ## 5. References
 
-\* See [reagents compatible with Strep Tactin](http://www.iba-lifesciences.com/strep-tag-strep-tactin-resins-technology.html) (dead link) for maximum concentrations allowed in buffers.
+- See [reagents compatible with Strep Tactin](http://www.iba-lifesciences.com/strep-tag-strep-tactin-resins-technology.html) (dead link) for maximum concentrations allowed in buffers.
 
 [^paper-1]: Strohkendl et al. (2018). [Kinetic Basis for DNA Target Specificity of CRISPR-Cas12a](https://finkelsteinlab.org/papers/paper/cas12a-kinetics). *Mol. Cell*.
 [^paper-2]: Jones et al. (2021). [Massively parallel kinetic profiling of natural and engineered CRISPR nucleases](https://finkelsteinlab.org/papers/paper/nucleaseq). *Nature Biotechnology*.

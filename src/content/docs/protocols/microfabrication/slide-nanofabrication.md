@@ -139,17 +139,17 @@ For the general SEM and Raith50 manual, ask the cleanroom staff. For the particu
 
 ## 6. E-Beam evaporation
 
-Cook-ebeam/sputter deposition system. \* <http://www.cnm.utexas.edu/equipment/cooke-ebeamsputter-deposition-system/> (dead link)
+Cooke E-beam/sputter deposition system: <http://www.cnm.utexas.edu/equipment/cooke-ebeamsputter-deposition-system/> (dead link)
 
-1. Activate “E-beam sputter/deposition” factility in the computer system inside the cleanroom.
+1. Activate “E-beam sputter/deposition” facility in the computer system inside the cleanroom.
 2. Turn the knob from “Pump” to “Stand by” and then to “Vent”.
    - Venting takes about 20 minutes.
 3. After pressure reaches above 7.6 x 10^2 Torr, open the chamber and turn knob to “Stand By”.
 4. Check the Cr-containing crucible if there is enough Cr inside the cup. If not, put some Cr into the cup.
 5. Use paper clips or double sided tape, (away from EBL patterns), to hold one or several slides on the sample disc.
 6. Close the door, (no need to use the screws on door).
-7. Turn the know to “Pump” and wait for pressure to reach 5 x 10^(-5) in about 30 minutes.
-8. While you wait, select a process in the microbalance menue.
+7. Turn the knob to “Pump” and wait for pressure to reach 5 x 10^(-5) in about 30 minutes.
+8. While you wait, select a process in the microbalance menu.
    1. Press “Select Process” and move up and down with the gray knob to choose one.
    2. Select “E-beam-Cr”, press “select” and then “main menu”.
    3. Be sure that “E-beam-Cr” is written on the top of the screen and that all values zero.

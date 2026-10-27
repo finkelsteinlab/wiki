@@ -85,4 +85,4 @@ title: "TEV Protease Purification"
 
 ## 5. Notes
 
-**\*Note**\* This TEV Protease has been mutated to resist autolysis, but will self-cleave given time. Be mindful of the temperature at all steps.
+***Note:*** This TEV Protease has been mutated to resist autolysis, but will self-cleave given time. Be mindful of the temperature at all steps.
