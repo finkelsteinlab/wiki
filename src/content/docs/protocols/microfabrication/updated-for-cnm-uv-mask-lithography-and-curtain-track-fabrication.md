@@ -224,7 +224,7 @@ Done in the fume hood of the MBB lab.
 
 Also see detailed protocol with pictures
 
-[dicing_saw_protocal.docx](/wiki/media/protocols/dicing_saw_protocal.docx)
+[dicing_saw_protocol.docx](/wiki/media/protocols/dicing_saw_protocol.docx)
 
 Done in the CNM clean room
 

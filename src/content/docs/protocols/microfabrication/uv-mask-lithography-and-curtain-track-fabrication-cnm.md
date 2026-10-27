@@ -231,7 +231,7 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 ## 10. Dicing Saw
 
 - Done in the CNM clean room.
-- Also see more detailed protocol with pictures: [dicing_saw_protocal.docx](/wiki/media/protocols/dicing_saw_protocal.docx)
+- Also see more detailed protocol with pictures: [dicing_saw_protocol.docx](/wiki/media/protocols/dicing_saw_protocol.docx)
 - Before you go to the clean room be sure that you have marked on the back side of the wafer all the lines that you will be cutting.
 
 ### 10.1 Setup
@@ -241,7 +241,7 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
    1. Primary switch.
    2. Secondary switch.
 3. Turn on the water. If you don’t turn on the water you will RUIN THE BLADE.
-4. Turn on the Nitrogen!!! If you don’t turn on the nitrogen you will \*\*RUIN THE DICING SAW \*\*.
+4. Turn on the Nitrogen!!! If you don’t turn on the nitrogen you will **RUIN THE DICING SAW**.
 5. Turn on the key switch on the Dicing Saw.
 6. Press the “Initialize” button on the machine, (dirty button might be hard to read label).
    1. Wait until the machine tells you that initialization is done.
