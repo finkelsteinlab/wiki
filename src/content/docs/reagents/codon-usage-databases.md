@@ -6,5 +6,5 @@ title: "Codon Usage Databases"
 
 These websites will help when adjusting a gene to be used in a different organism.
 
-- ![Kazusa](http://www.kazusa.or.jp/codon/)
-- ![For you visual types](http://gcua.schoedl.de/)
+- [Kazusa Codon Usage Database](http://www.kazusa.or.jp/codon/)
+- [Graphical Codon Usage Analyser (for visual types)](http://gcua.schoedl.de/)

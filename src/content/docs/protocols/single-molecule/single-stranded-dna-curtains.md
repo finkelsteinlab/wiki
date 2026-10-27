@@ -68,7 +68,7 @@ Sometimes, the annealed M13&biotin-primers is suddenly degraded. We do not know 
 | Component            | Volume of Stock | Cf     |
 |----------------------|-----------------|--------|
 | 1 M Tris-HCl (7.5)   | 12.5 ul         | 250 mM |
-| 1 M DTT              | 1 ul            | 250 mM |
+| 1 M DTT              | 1 ul            | 20 mM  |
 | 1 M Ammonium Sulfate | 2.5 ul          | 50 mM  |
 | 1 M MgCl2            | 2.5 ul          | 50 mM  |
 | D.W.                 | 31.5 ul         |        |

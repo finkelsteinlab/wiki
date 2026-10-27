@@ -27,13 +27,13 @@ The following figure represents a breakdown of the protocol as well as some hypo
 
 ## 2. Oligonucleotide Design
 
-This is the top strand of the insertion site that was cloned into Lamba by Tim Silverstein of the Greene Lab. It was cloned in between them NgoMIV/XbaI sites in the original lysogen.
+This is the top strand of the insertion site that was cloned into Lambda by Tim Silverstein of the Greene Lab. It was cloned in between the NgoMIV/XbaI sites in the original lysogen.
 
 5’-ATTTAAATAAA**GCTCTTC**ATGCATGCGGCC**GCTCTTC***C<u>C</u>ATGGT*GCGATC**GCTCTTC**GGGATTTAAATA-3’
 
-The bold sections are the recognition sequence of NT.BspQI. The italicized section is the critical NcoI restriction. The italicized and underlined cytosine is the critical amino acid that if interrupted by a single base mismatch or other structural element greatly reduces the efficiency of cleavage.
+The bold sections are the recognition sequence of NT.BspQI. The italicized section is the critical NcoI restriction site. The italicized and underlined cytosine is the critical nucleotide that if interrupted by a single base mismatch or other structural element greatly reduces the efficiency of cleavage.
 
-After clevage with Nt.BspQI, your top strand should look like this
+After cleavage with Nt.BspQI, your top strand should look like this
 
 5’-ATTTAAATAAA**GCTCTTC**A—————————————-GGATTTAAATA-3’
 
@@ -63,4 +63,4 @@ The following are a sample of the final product.
 
 <img src="/wiki/media/protocols/ncoi_comfo_gel.jpg" width="600" alt="ncoi_comfo_gel.jpg" />
 
-The lane identities are listed above the gel. Blue \* highlight the NcoI expected digestion. Green \* highlights one of the inhibited NcoI cleavage bands. The second inhibited band is running of the gel.
+The lane identities are listed above the gel. Blue \* highlight the NcoI expected digestion. Green \* highlights one of the inhibited NcoI cleavage bands. The second inhibited band is running off the gel.

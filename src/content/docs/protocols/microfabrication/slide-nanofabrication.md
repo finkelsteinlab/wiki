@@ -4,7 +4,7 @@ title: "Slide Nanofabrication"
 
 <!-- migrated from DokuWiki page protocols:slide_nanofabrication -->
 
-The protocol, as written, is intended for clean-room use with Columbia University facilities. It may need to be adapted for local use elsewhere.
+The protocol, as written, is intended for clean-room use with the UT Austin CNM facilities (FNT building).
 
 ## Contents
 

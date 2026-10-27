@@ -73,15 +73,15 @@ Note: 400=400mM; N=NaCl; T=Tris; Z=ZnCl2; G=Glycerol; 30=30mM; i=imidazole
 3. Sonicate the cells at 50kHz for 4 minutes \[2sec on, 2sec off cycle\] on ice.\
    Note: Ice is sprinkled and mixed with salt (NaCl) to lower the temperature to ~-10°C, prior to sonication.
 4. Centrifuge lysate at 12,000 rpm for 20 minutes.
-5. Load the lysate onto a 10mL bed volume of Ni column, pre-equilibrated with 400NTZ30i.\
+5. Load the lysate onto a 10mL bed volume of Ni column, pre-equilibrated with 400NTZG30i.\
    Note: No DTT, No EDTA in Ni column.
 6. Wash the Ni column five times with 20mL 400NTZG30i.
-7. Place a 10mL bed volume of Heparin column, pre-equilibrated with 400NTZ plus 1mM DTT, under the Ni column.
+7. Place a 10mL bed volume of Heparin column, pre-equilibrated with 400NTZG plus 1mM DTT, under the Ni column.
 8. Elute five times with 10mL 400NTZG250i.\
    Note: Elute directly into the Heparin column.
-9. Wash the Heparin column four times with 10mL 400NTZ plus 1mM DTT.
-10. Elute RNAP with 650NTZ plus 1mM DTT and collect fractions.\
-    Note: I normally elute with 2mL of 650NTZ with 1mM DTT each, up to 30 fractions.
+9. Wash the Heparin column four times with 10mL 400NTZG plus 1mM DTT.
+10. Elute RNAP with 650NTZG plus 1mM DTT and collect fractions.\
+    Note: I normally elute with 2mL of 650NTZG with 1mM DTT each, up to 30 fractions.
 
 ## 4. Notes
 
@@ -89,10 +89,10 @@ Note: 400=400mM; N=NaCl; T=Tris; Z=ZnCl2; G=Glycerol; 30=30mM; i=imidazole
 
 ### 4.1 Core vs Holo Enzyme
 
-This purificaiton protocol will produce core RNAP only, without sigma70. That is because 1) most of RNAPs in the cell are made by the vector; the amount of innate sigma70 is far less in the cell. 2) Holo RNAPs, containing sigma70, purified from the first Ni column will not bind to heparin. Almost all holo RNAPs are in the flow-through fraction of the second heparin column. But you don’t want the flow-through because there isn’t much sigma70 and it contains various RNAP complexes you can’t separate even with ion exchange columns or gel filtration.
+This purification protocol will produce core RNAP only, without sigma70. That is because 1) most of RNAPs in the cell are made by the vector; the amount of innate sigma70 is far less in the cell. 2) Holo RNAPs, containing sigma70, purified from the first Ni column will not bind to heparin. Almost all holo RNAPs are in the flow-through fraction of the second heparin column. But you don’t want the flow-through because there isn’t much sigma70 and it contains various RNAP complexes you can’t separate even with ion exchange columns or gel filtration.
 
 If you go through heparin column first, then Ni column, you will also end up with core RNAP only, without sigma70. But you will have less RNAP, about 1/4 less. What I found was, again, the amount of core RNAPs in the cell are overwhelmingly greater than holo RNAPs and other RNAPs complexes containing various factors that even the first heparin column will not capture holo RNAPs. By the way, the salt concentrations in the protocol I sent you are determined based on the effective removal of factors including sigma70 to ensure core RNAP purification.
 
 I generally purify sigma70 separately and mix sigma70 with core RNAP, then purify holo RNAP via an ion-exchange column or gel filtration.
 
-Link to purifing the [holoenzyme](/wiki/protocols/protein-purification/rna-polymerase-holoenzyme-purification/) from the core and sigma 70
+Link to purifying the [holoenzyme](/wiki/protocols/protein-purification/rna-polymerase-holoenzyme-purification/) from the core and sigma 70

@@ -22,8 +22,8 @@ The Rancilio is the lab espresso machine. She partners with the Baratza Virtuoso
 - Espresso is produced by forcing a small amount of nearly boiling (97C) water through ground coffee at 9 bars of pressure.
 - A single shot of espresso has about 45-60 mg of caffeine which is less than half of an 8 oz drip brew coffee, so [drink up](http://www.youtube.com/watch?v=UGtKGX8B9hU)
   - ilya: really??? reference needed :-)
-  - greg:![bam!](http://coffeechemistry.com/index.php/News/Caffeine/caffeine-content-in-espresso-vs-drip-coffee.html) (dead link)
-  - greg: this is a almost legitimate source. There’s also ![this](http://www.cspinet.org/new/cafchart.htm)
+  - greg: [bam!](http://coffeechemistry.com/index.php/News/Caffeine/caffeine-content-in-espresso-vs-drip-coffee.html) (dead link)
+  - greg: this is a almost legitimate source. There’s also [this](http://www.cspinet.org/new/cafchart.htm)
 
 :::danger
 

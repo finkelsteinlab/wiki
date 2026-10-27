@@ -23,7 +23,7 @@ The general protocol follows a three step scheme. The scheme is summarized in th
 
 <img src="/wiki/media/protocols/nicking.png" width="750" alt="nicking.png" />
 
-Red secitons indicate restriction sites for Nt.BspQI and red arrows represent the actual cleavage.
+Red sections indicate restriction sites for Nt.BspQI and red arrows represent the actual cleavage.
 
 :::caution
 
@@ -50,11 +50,11 @@ The following insertion recipe is for a 450ul total volume reaction for generati
 5. Add 8ul of T4 ligase and 10 ul of 100mM ATP. Ligate at RT O/N.
 6. Cancel the ligase by adding 50uM EDTA final to the reaction (40ul of 0.5M stock).
 7. If sample or fraction of sample is to be used in diagnostic gels, end here. If continuing for microscope, move on to step 8.
-8. Digest the sample with 5 ul protinase K at 55'C for 1 hour.
+8. Digest the sample with 5 ul proteinase K at 55'C for 1 hour.
 9. Gel filter the reaction using a the DNA only gel filtration column.
-10. Pool the peak alliquots, and stor DNA either at 4'C or frozen at -20'C.
+10. Pool the peak aliquots, and store DNA either at 4'C or frozen at -20'C.
 
-If purifying the DNA for use in the microscope, use the gel filtration column purification protocal found in [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/).
+If purifying the DNA for use in the microscope, use the gel filtration column purification protocol found in [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/).
 
 ## 4. Insertion Confirmation
 

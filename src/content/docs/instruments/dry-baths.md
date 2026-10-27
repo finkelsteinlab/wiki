@@ -24,4 +24,4 @@ We have two dry baths in the lab located next to the gel station. They are hot.
 
 - The user [Manual](/wiki/media/manuals/heaterblock_manual.pdf)
 - It’s mostly in German.
-- ![Practice](http://www.germanlanguageguide.com/)
+- [Practice](http://www.germanlanguageguide.com/)

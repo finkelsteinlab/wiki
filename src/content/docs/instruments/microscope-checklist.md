@@ -25,8 +25,8 @@ A brief checklist to help you get going on the microscope.
    2. 0.1M HCl
    3. 5M NaCl (optional; removes residual YOYO-1, if needed)
    4. ddH2O
-4. \***\*Carefully**\*\* screw the 60x objective into the turret.
-5. \***\*Carefully**\*\* remove prism from MeOH, rinse with MeOH and dry with compressed nitrogen.
+4. ***Carefully*** screw the 60x objective into the turret.
+5. ***Carefully*** remove prism from MeOH, rinse with MeOH and dry with compressed nitrogen.
 6. Place a small drop of water on the objective and use an old, scratched slide to find proper z-location.
 7. Check to make sure the microscope is set to R100.
 
@@ -38,7 +38,7 @@ A brief checklist to help you get going on the microscope.
 ## 2. After Your Last Flowcell
 
 1. Remove the prism, rinse with methanol and store in falcon tube with methanol.
-2. \***\*Carefully**\*\* remove the objective, drag-n-drop clean with optical-grade methanol and lens tissue, and put in objective case.
+2. ***Carefully*** remove the objective, drag-n-drop clean with optical-grade methanol and lens tissue, and put in objective case.
 3. Replace the objective cap on the turret.
 4. Cover microscope with dust cover.
 5. Wash all tubing and loops with 0.1M NaOH, 0.1M HCl, H2O.

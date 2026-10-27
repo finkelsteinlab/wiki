@@ -80,7 +80,7 @@ Plasmids and protocol were adapted form Mauro Modesti: [PubMed 21909885](https:/
      - **Note: Adjust buffer pH after adding imidazole.**
 9. hRPA elutes at about 250mM imidazole.
 10. Use the fractionation_900 on the FPLC to collect 1 ml fractions. You may have about 13 ml with protein.
-11. At this point, after the HisTrap FF column, the RPA is in 1xlysis buffer with **500 mM NaCl** but we need to remove the salt before loading into the next Q column.
+11. At this point, after the HisTrap FF column, the RPA is in 1xlysis buffer with **500 mM NaCl** but we need to remove the salt before loading into the next Heparin column.
 12. Dialysis needs to be done for 4 hours (better overnight) with 2L of **buffer R** to remove the NaCl:
     - Buffer R:
       - 50 mM KCl
@@ -96,10 +96,10 @@ Plasmids and protocol were adapted form Mauro Modesti: [PubMed 21909885](https:/
 
 1. Stop overnight dialysis. If they are aggregates then centrifuge at 5000xg for 15 minutes to remove aggregates. Protein is in supernatant.
 2. Have a 1 ml Heparin column installed in the FPLC. Equilibrate the column in Equilibration Buffer (Buffer R).
-3. Load the ~13 ml filtered protein in the 1 ml HiTrapQ column using the superloop.
+3. Load the ~13 ml filtered protein in the 1 ml Heparin column using the superloop.
 4. Wash the 1 ml column with at least 15 ml of Buffer R.
-5. Elute the protein from the Q column by using Elution Buffer Q (Buffer RE).
-6. Elution Buffer Q (**Buffer RE** = buffer R but uses 500 mM of KCl instead of 50 mM):
+5. Elute the protein from the Heparin column by using Elution Buffer (Buffer RE).
+6. Elution Buffer (**Buffer RE** = buffer R but uses 500 mM of KCl instead of 50 mM):
    - 500 mM KCl
    - 20mM Tris-HCl, pH 7.5
    - 1 mM DTT
