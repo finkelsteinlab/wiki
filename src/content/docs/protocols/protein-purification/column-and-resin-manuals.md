@@ -1,8 +1,8 @@
 ---
-title: "Protein Purification"
+title: "Column & Expression System Manuals"
 ---
 
-<!-- migrated from DokuWiki page protocols:protein_purification -->
+<!-- migrated from DokuWiki page protocols:protein_purification and protocols:streptactin -->
 
 We purify many proteins in the lab. An excellent introduction to protein expression and purification methods can be found from various plasmid, kit and column manufacturers. Some of these resources are collected below.
 
@@ -10,7 +10,8 @@ We purify many proteins in the lab. An excellent introduction to protein express
 
 1. [Expression in E. coli](#1-expression-in-e-coli)
 2. [Expression in Baculovirus](#2-expression-in-baculovirus)
-3. [Protein Purification](#3-protein-purification)
+3. [Chromatography & Purification Handbooks](#3-chromatography--purification-handbooks)
+4. [Strep-Tactin Gravity Column Regeneration](#4-strep-tactin-gravity-column-regeneration)
 
 ## 1. Expression in E. coli
 
@@ -22,7 +23,7 @@ We purify many proteins in the lab. An excellent introduction to protein express
 - MultiBac expression system
 - [BacPak expression system](/wiki/media/manuals/clontech_bacpak_expression_system.pdf) from [Clontech](http://www.clontech.com/US/Products/Protein_Expression_and_Purification/Baculovirus_Expression/BacPAK_Expression_System)
 
-## 3. Protein Purification
+## 3. Chromatography & Purification Handbooks
 
 - [Recombinant Protein Purification Handbook](/wiki/media/manuals/proteinpurificationhandbook.pdf) from [GE Life Sciences](https://www.gelifesciences.com) <a class="pdf-copy" href="/wiki/media/archive/www-gelifesciences-com.pdf" title="Archived PDF copy">PDF</a>
   - [Affinity Chromatography](/wiki/media/manuals/geaffinitychromatography.pdf)
@@ -30,3 +31,9 @@ We purify many proteins in the lab. An excellent introduction to protein express
   - [Gel-filtration Chromatography](/wiki/media/manuals/gegelfiltration.pdf)
   - [Hydrophobic Interactions Chromatography](/wiki/media/manuals/gehydrophobicinteractions.pdf)
 - [IMPACT Protein Purification System](/wiki/media/manuals/neb_impact_kit.pdf) from [NEB](http://www.neb.com/nebecomm/products/productE6901.asp)
+
+## 4. Strep-Tactin Gravity Column Regeneration
+
+Here is what a Strep-Tactin gravity column should look like when regenerated with HABA buffer. Once the resin reaches this dark orange color, the column will efficiently bind protein in the next purification round:
+
+<img src="/wiki/media/protocols/haba.jpg" width="200" alt="Regenerated Strep-Tactin gravity column in HABA buffer" />

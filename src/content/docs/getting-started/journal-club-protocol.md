@@ -2,7 +2,17 @@
 title: "Journal Club Protocol"
 ---
 
-<!-- migrated from DokuWiki page lab:journal_club -->
+<!-- migrated from DokuWiki page lab:journal_club and lab:interesting_papers -->
+
+## Contents
+
+1. [Week 1](#1-week-1)
+   - [1.1 Before meeting](#11-before-meeting)
+   - [1.2 At Journal Club](#12-at-journal-club)
+2. [Week 2](#2-week-2)
+   - [2.1 Before meeting](#21-before-meeting)
+   - [2.2 At Journal Club](#22-at-journal-club)
+3. [Suggested Papers for Journal Club](#3-suggested-papers-for-journal-club)
 
 ## 1. Week 1
 
@@ -77,3 +87,36 @@ Possible discussion points:
 - Paper quality
 - Clarity
 - Future experiments
+
+## 3. Suggested Papers for Journal Club
+
+Some classic suggestions for interesting papers to present in journal club:
+
+### 3.1 Aging
+
+- [PubMed 24035542](https://pubmed.ncbi.nlm.nih.gov/24035542/)
+
+### 3.2 Chromatin
+
+- [PubMed 23021224](https://pubmed.ncbi.nlm.nih.gov/23021224/)
+
+### 3.3 DSB Repair
+
+- [PubMed 23224554](https://pubmed.ncbi.nlm.nih.gov/23224554/)
+- [PubMed 24025768](https://pubmed.ncbi.nlm.nih.gov/24025768/)
+- [PubMed 24025772](https://pubmed.ncbi.nlm.nih.gov/24025772/)
+
+### 3.4 Mismatch Repair
+
+- [PubMed 24395779](https://pubmed.ncbi.nlm.nih.gov/24395779/)
+- [PubMed 22864113](https://pubmed.ncbi.nlm.nih.gov/22864113/)
+- [PubMed 23603115](https://pubmed.ncbi.nlm.nih.gov/23603115/)
+- [PubMed 23840062](https://pubmed.ncbi.nlm.nih.gov/23840062/)
+
+### 3.5 Replication
+
+- [PubMed 20122408](https://pubmed.ncbi.nlm.nih.gov/20122408/)
+- [PubMed 22921915](https://pubmed.ncbi.nlm.nih.gov/22921915/)
+- [PubMed 23474987](https://pubmed.ncbi.nlm.nih.gov/23474987/)
+- [PubMed 21729781](https://pubmed.ncbi.nlm.nih.gov/21729781/)
+- [PubMed 24115439](https://pubmed.ncbi.nlm.nih.gov/24115439/)
