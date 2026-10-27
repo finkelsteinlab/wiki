@@ -4,6 +4,10 @@ title: "Nicking Insertion"
 
 <!-- migrated from DokuWiki page protocols:nicking_insertion -->
 
+:::note
+To verify oligo insertion efficiency by diagnostic restriction digest, see Part 2: [Nicking Insertion Confirmation](/wiki/protocols/dna-and-cloning/nicking-insertion-confirmation/).
+:::
+
 This is a protocol for introducing internal labels or specific DNA structures into Lambda DNA. It follows the general protocol laid out in the following Nature Protocols paper published by the Seidel Lab. This strategy utilizes a top strand selective nicking endonuclease NT.BspQI for internal insertion.
 
 ## Contents

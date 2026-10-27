@@ -4,6 +4,10 @@ title: "Cas12a (Cpf1) crDNA Template Synthesis"
 
 <!-- migrated from DokuWiki page protocols:cpf1_crdna_template -->
 
+:::note
+After synthesizing the crDNA template, proceed to [Cas12a (Cpf1) crRNA Transcription](/wiki/protocols/dna-and-cloning/cas12a-cpf1-crrna-transcription/) and see [crRNA Transcription Protips](/wiki/protocols/dna-and-cloning/crrna-transcription-protips/) for urea-PAGE gel checks.
+:::
+
 This is basically just PCR with a few minor changes. You should work under RNAse-free conditions since the product will be put directly into the T7 RNA transcription reaction overnight.
 
 ## Contents

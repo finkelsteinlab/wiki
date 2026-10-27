@@ -4,6 +4,10 @@ title: "Preparing ssDNA Curtains"
 
 <!-- migrated from DokuWiki page protocols:preparing_ssdna_curtains -->
 
+:::note
+This protocol describes flowcell assembly and loading for [Single-stranded Low Complexity DNA Curtains](/wiki/protocols/single-molecule/single-stranded-low-complexity-dna-curtains/). For M13mp18 ssDNA curtains, see [Single-stranded DNA Curtains](/wiki/protocols/single-molecule/single-stranded-dna-curtains/).
+:::
+
 ## Contents
 
 1. [Buffers](#1-buffers)
@@ -31,5 +35,5 @@ title: "Preparing ssDNA Curtains"
 5. Slowly inject 1-2 ml BSA buffer and incubate for 10 min to allow BSA to block remaining exposed surfaces.
 6. Inject 300 μl of 0.1 mg/ml streptavidin in BSA buffer and incubate 10 min.
 7. Rinse flowcell with 2–3 ml BSA buffer to flush out free streptavidin. No need to incubate at this point.
-8. Inject 100 μl fresh ssDNA mix [single-strand-curtains_low_complexity](/wiki/protocols/single-molecule/single-stranded-low-complexity-dna-curtains/) in the flow cell. Slowly inject this solution into the flowcell and incubate 10-20 min depending on desired ssDNA Length.
+8. Inject 100 μl fresh ssDNA mix ([Single-stranded Low Complexity DNA Curtains](/wiki/protocols/single-molecule/single-stranded-low-complexity-dna-curtains/)) into the flow cell. Slowly inject this solution into the flowcell and incubate 10-20 min depending on desired ssDNA Length.
 9. Rinse the DNA out with 2–3 ml BSA buffer. At this point, the flowcell is ready for imaging experiments and should be transferred to the microscope syringe pump system.

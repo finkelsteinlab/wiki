@@ -4,6 +4,10 @@ title: "Single-stranded Low Complexity DNA Curtains"
 
 <!-- migrated from DokuWiki page protocols:single-strand-curtains_low_complexity -->
 
+:::note
+For flowcell lipid deposition and loading of low-complexity ssDNA curtains, see [Preparing ssDNA Curtains](/wiki/protocols/single-molecule/preparing-ssdna-curtains/). For M13mp18-based ssDNA curtains, see [Single-stranded DNA Curtains](/wiki/protocols/single-molecule/single-stranded-dna-curtains/).
+:::
+
 ## Contents
 
 1. [Anneal biotinylated primer and template](#1-anneal-biotinylated-primer-and-template)
@@ -33,7 +37,7 @@ If you are wondering why there is a different concentration for the two oligosâ€
 
 ## 2. A new method of oligonucleotide annealing
 
-Look here for setting up ssDNA Curtains [preparing_ssDNA_curtains](/wiki/protocols/single-molecule/preparing-ssdna-curtains/)
+Look here for setting up ssDNA Curtains: [Preparing ssDNA Curtains](/wiki/protocols/single-molecule/preparing-ssdna-curtains/).
 
 Ligation Reaction Set-up:
 

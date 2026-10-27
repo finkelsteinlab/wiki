@@ -4,6 +4,10 @@ title: "crRNA Transcription Protips"
 
 <!-- migrated from DokuWiki page protocols:rna_transcription -->
 
+:::note
+Companion notes for [Cas12a (Cpf1) crDNA Template Synthesis](/wiki/protocols/dna-and-cloning/cas12a-cpf1-crdna-template-synthesis/) and [Cas12a (Cpf1) crRNA Transcription](/wiki/protocols/dna-and-cloning/cas12a-cpf1-crrna-transcription/).
+:::
+
 ## Contents
 
 1. [Primer design](#1-primer-design)

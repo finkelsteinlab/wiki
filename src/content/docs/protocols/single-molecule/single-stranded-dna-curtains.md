@@ -4,6 +4,10 @@ title: "Single-stranded DNA Curtains"
 
 <!-- migrated from DokuWiki page protocols:ssdna_curtains -->
 
+:::note
+This protocol prepares **M13mp18** single-stranded DNA curtains. For **low-complexity (IF238/IF239)** ssDNA curtains and flowcell assembly, see [Single-stranded Low Complexity DNA Curtains](/wiki/protocols/single-molecule/single-stranded-low-complexity-dna-curtains/) and [Preparing ssDNA Curtains](/wiki/protocols/single-molecule/preparing-ssdna-curtains/).
+:::
+
 :::caution
 
 All broken glass, including the microscope cover slips, needs to be disposed into the glass disposal container.

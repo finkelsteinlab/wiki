@@ -4,6 +4,10 @@ title: "Cas12a (Cpf1) crRNA Transcription"
 
 <!-- migrated from DokuWiki page protocols:cpf1_rna_transcription -->
 
+:::note
+See also [Cas12a (Cpf1) crDNA Template Synthesis](/wiki/protocols/dna-and-cloning/cas12a-cpf1-crdna-template-synthesis/) (for PCR-extended templates) and [crRNA Transcription Protips](/wiki/protocols/dna-and-cloning/crrna-transcription-protips/) (for primer design and 10% urea-PAGE analysis).
+:::
+
 ## Contents
 
 1. [DNA Template Annealing Reaction](#1-dna-template-annealing-reaction)
