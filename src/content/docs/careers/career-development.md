@@ -2,9 +2,16 @@
 title: "Career Development"
 ---
 
-<!-- migrated from DokuWiki page careers:career_development -->
+<!-- migrated from DokuWiki page careers:career_development and careers:science_advice -->
+
+<img src="/wiki/media/images/alchemist_in_workshop.jpg" width="250" alt="An Alchemist in his Workshop by David Teniers the Younger" />
 
 This section compiles resources that you may find helpful during your graduate school or postdoctoral journey.
+
+## Contents
+
+1. [Graduate School](#1-graduate-school)
+2. [Postdocs & Beyond](#2-postdocs--beyond)
 
 ## 1. Graduate School
 

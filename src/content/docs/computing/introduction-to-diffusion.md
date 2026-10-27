@@ -6,7 +6,7 @@ title: "Introduction to Diffusion"
 
 Many of our favorite proteins diffuse on DNA. This MATLAB code will help you visualize the different types of diffusion that we may encounter and give you an intuitive idea for how to analyze your diffusion data.
 
-The code is well commented, but I recommend you familiarize yourself with [MATLAB](/wiki/computing/getting-started-with-matlab/) before you begin.
+The code is well commented, but I recommend you familiarize yourself with [MATLAB](/wiki/computing/importing-into-matlab/) before you begin.
 
 ## Contents
 

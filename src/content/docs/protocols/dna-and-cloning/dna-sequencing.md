@@ -2,7 +2,7 @@
 title: "DNA Sequencing"
 ---
 
-<!-- migrated from DokuWiki page protocols:dna_sequencing -->
+<!-- migrated from DokuWiki page protocols:dna_sequencing and protocols:sequencing_icmb_core -->
 
 ## Contents
 
@@ -11,13 +11,14 @@ title: "DNA Sequencing"
 
 ## 1. Sample requirements
 
-- Concentration for plasmid DNA (size about 5 kb): 15 to 30 ng/ul
-- Concentration for PCR products: 2 to 5 ng/100 bp total
-- Use 10 pmol of primer (1 ul of 10 uM) per sample. Some primers are available free of charge.
-- Send individual samples in 1.5 ml tubes with 12 ul total volume (i.e. for Core_Prep_Template-Only samples, do not use one tube for the forward and reverse reactions, add sample to separate tubes).
-- Write order number on top of each tube and label 1 to …n (do not write sample name on the tube).
-- If you send 24 samples or more we do prefer them in a plate.
+- **Plasmid DNA (~5 kb):** 15 to 30 ng/µL (180–360 ng total in 12 µL)
+- **PCR products:** 2 to 5 ng per 100 bp total
+- **Primer:** 10 pmol of primer (1 µL of 10 µM stock) per sample. Some standard primers are available from the core free of charge.
+- **Total volume:** Dilute to **12 µL** with nuclease-free water in individual 1.5 mL tubes (do **not** use TE, as EDTA inhibits the sequencing reaction; for `Core_Prep_Template-Only` samples, use separate tubes for forward and reverse reactions).
+- **Labeling:** Write the order number and sample number (`1` to `n`) on the top of each tube (do not write the full sample name on the tube).
+- **Plates:** If submitting 24 samples or more, a 96-well plate is preferred.
 
 ## 2. References
 
-From: <https://wikis.utexas.edu/display/dsfcore/Sanger+DNA+Sequencing>
+- UT Austin DNA Sequencing Facility (ICMB): <http://coreweb.icmb.utexas.edu/>
+- Sample submission guide: <https://wikis.utexas.edu/display/dsfcore/Sanger+DNA+Sequencing>

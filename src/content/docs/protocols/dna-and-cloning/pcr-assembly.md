@@ -1,23 +1,25 @@
 ---
-title: "PCR Assembly"
+title: "PCR Assembly (PCR Stitching)"
 ---
 
-<!-- migrated from DokuWiki page protocols:pcr_assembly -->
+<!-- migrated from DokuWiki page protocols:pcr_assembly and pcr_stitching -->
 
-PCR assembly allows you to create long DNA strands from shorter oligos. This protocol describes the assembly of a long gene cassette and two smaller “super primers” which are around 200-400 bp in length.
+PCR assembly (overlap-extension PCR / PCR stitching) allows you to stitch flanking DNA segments or oligos onto either end of a gene cassette. This protocol describes the assembly of a long gene cassette and two smaller flanking “superprimers” (typically 200–500 bp).
 
 ## Contents
 
-1. [Protips](#1-protips)
+1. [Protips & Segment Design](#1-protips--segment-design)
 2. [Preparation of Segments](#2-preparation-of-segments)
-3. [First Round of PCR](#3-first-round-of-pcr)
-4. [Second Round of PCR](#4-second-round-of-pcr)
+3. [First Round of PCR (No Primers)](#3-first-round-of-pcr-no-primers)
+4. [Second Round of PCR (With Outer Primers)](#4-second-round-of-pcr-with-outer-primers)
 5. [Troubleshooting](#5-troubleshooting)
 
-## 1. Protips
+## 1. Protips & Segment Design
 
-- Annealing tm of primers and overhangs is very important. Everything should be within a few degrees.
-- Increasing the concentration of the largest oligo relative to the smaller ones can increase the efficiency. If the smaller strands dominate, they will get amplified individually and no product will be seen.
+- You need a forward primer that binds the 5' end of the upstream flanking segment and a reverse primer that binds the 3' end of the downstream flanking segment.
+- The flanking segments must have **at least 20 bp overlap** with their respective ends of the gene cassette.
+- Annealing $T_m$ of the outer primers and the overlapping sequences is critical — all $T_m$ values should be within a few degrees of each other.
+- Increasing the concentration of the largest fragment (gene cassette) 2–4× relative to the smaller flanking segments can improve efficiency; if the smaller strands dominate, they amplify individually.
 
 ## 2. Preparation of Segments
 
@@ -26,9 +28,9 @@ PCR assembly allows you to create long DNA strands from shorter oligos. This pro
 3. PCR amplify gene cassette.
 4. Gel purify that.
 
-## 3. First Round of PCR
+## 3. First Round of PCR (No Primers)
 
-The assembly occurs here but there’s little amplification. One goal is to assemble as many of the small oligos as possible so that they don’t ruin the amplification step.
+The assembly occurs here with minimal amplification. Running 5 cycles without outer primers assembles the overlapping segments so free flanking oligos do not dominate the amplification step.
 
 Reaction mix:
 
@@ -47,10 +49,10 @@ Program:
     68°C  1 minutes
     4°C hold
 
-## 4. Second Round of PCR
+## 4. Second Round of PCR (With Outer Primers)
 
 1. Add 0.5 µl of forward primer and 0.5 µl of reverse primer.
-2. Run the program:
+2. Run the program (25 cycles gives much better yield than 15 cycles, with extension time scaled to the full assembled length):
 
        95°C  2 minutes
        25 rounds of:
@@ -62,4 +64,4 @@ Program:
 
 ## 5. Troubleshooting
 
-If you get two bands, where one is the expected length and another is that length minus the length of a short oligo, you can either increase the concentration of the gene cassette or redesign your primers to have closer tms. This is caused by a segment that only partially assembled.
+If you get two bands, where one is the expected length and another is that length minus the length of a short oligo, you can either increase the concentration of the gene cassette (2–4×) or redesign your primers to have closer $T_m$ values. This is caused by a segment that only partially assembled.
