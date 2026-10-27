@@ -41,7 +41,7 @@ Used in our papers:[^paper-1][^paper-2]
 - 5% glycerol - 25 mL (100% glycerol)
 - 0.1% Tween-20 - 5 mL (10% Tween-20)
 - **Add to 50mL lysis buffer before use:**
-  - 1 mM DTT - 0.5 mL (1M DTT)
+  - 1 mM DTT - 50 µL (1M DTT)
   - 1 tablet of complete™ edta-free protease inhibitor cocktail.
   - 1 mg/mL lysozyme
   - 2.5 U/mL DNaseI
@@ -56,38 +56,38 @@ Used in our papers:[^paper-1][^paper-2]
 
 ### 1.3 Elution Buffer (30 mL, pH 7.4)
 
-- 50 mM HEPES - mL (1M HEPES pH 7.4)
-- 500 mM NaCl - mL (5M NaCl)
-- 10% glycerol - 25 mL (100% glycerol)
+- 50 mM HEPES - 1.5 mL (1M HEPES pH 7.4)
+- 500 mM NaCl - 3 mL (5M NaCl)
+- 10% glycerol - 3 mL (100% glycerol)
 - 10 mM D-desthiobiotin
 - 1mM DTT **(Add DTT before use.)**
 
 ### 1.4 SUMO Proteolysis Buffer (1 L, pH 7.4)
 
-- 50 mM HEPES - 25 mL (1M HEPES pH 7.4)
-- 100 mM NaCl - 50 mL (5M NaCl)
-- 10% glycerol - 25 mL (100% glycerol)
+- 50 mM HEPES - 50 mL (1M HEPES pH 7.4)
+- 100 mM NaCl - 20 mL (5M NaCl)
+- 10% glycerol - 100 mL (100% glycerol)
 - 1mM DTT **(Add DTT before use.)**
 
 ### 1.5 SP buffer A (500 mL, pH 7.4)
 
 - 50 mM HEPES - 25 mL (1M HEPES pH 7.4)
-- 100 mM NaCl - 50 mL (5M NaCl)
-- 10% glycerol - 25 mL (100% glycerol)
+- 100 mM NaCl - 10 mL (5M NaCl)
+- 10% glycerol - 50 mL (100% glycerol)
 - 2mM DTT **(Add DTT before use.)**
 
 ### 1.6 SP buffer B (500 mL, pH 7.4)
 
 - 50 mM HEPES - 25 mL (1M HEPES pH 7.4)
-- 1 M NaCl - 50 mL (5M NaCl)
-- 10% glycerol - 25 mL (100% glycerol)
+- 1 M NaCl - 100 mL (5M NaCl)
+- 10% glycerol - 50 mL (100% glycerol)
 - 2mM DTT **(Add DTT before use.)**
 
 ### 1.7 S200 Buffer (1L, pH 8.0)
 
-- 50 mM Tris - 25 mL (1M Tris pH 7.5)
-- 500 mM NaCl - 50 mL (5M NaCl)
-- 10% glycerol - 25 mL (100% glycerol)
+- 50 mM Tris - 50 mL (1M Tris pH 8.0)
+- 500 mM NaCl - 100 mL (5M NaCl)
+- 10% glycerol - 100 mL (100% glycerol)
 - 2mM DTT **(Add DTT before use.)**
 
 ### 1.8 Filtered ddH<sub>2</sub>O (500 mL)

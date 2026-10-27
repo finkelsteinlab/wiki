@@ -6,8 +6,6 @@ title: "FtsK Trimer Purification"
 
 Used in our papers:[^paper-1][^paper-2]
 
-Please include the names of the plasmids that are required to purify this protein
-
 ## Contents
 
 1. [Preparation](#1-preparation)
@@ -22,7 +20,7 @@ Please include the names of the plasmids that are required to purify this protei
 
 ## 1. Preparation
 
-1. Transform plasmids into BLR(DE3) or BL21(DE3). BLR is better than BL21(DE3) because expressing trimers in BLR strains will reduce the amount of monomers and diamers.
+1. Transform plasmids into BLR(DE3) or BL21(DE3). BLR is better than BL21(DE3) because expressing trimers in BLR strains will reduce the amount of monomers and dimers.
 2. Prepare:
    1. LB-agar plate
    2. Antibiotics (carbenicillin or ampicillin)
@@ -78,7 +76,7 @@ Please include the names of the plasmids that are required to purify this protei
 ### 3.2 1st Day
 
 1. Inoculate 10 ml of cells per liter of LB-amp media (1/100) (37C and 220 rpm, 1 L in one flask and total 2 L). Typically 4L for one purification.
-2. At OD600~0.8 (~2 hour incubation, for FtsK) where the cells stop growing, add 2 g of arabinose power per liter for induction (Cf: 0.2 mg/ml). Add biotin (Cf: 0.1 mM) if the construct has biotin.
+2. At OD600~0.8 (~2 hour incubation, for FtsK) where the cells stop growing, add 2 g of arabinose powder per liter for induction (Cf: 0.2 mg/ml). Add biotin (Cf: 0.1 mM) if the construct has biotin.
    1. FtsK-WA-WA-WA mutants show slower growth than FtsK-WB-WB-WB mutants about 1 hour.
    2. pBAD plasmids contain E. coli araC gene which encodes the AraC regulatory protein. AraC acts as an activator of pBAD transcription in the presence of L-arabinose and a transcriptional repressor in the absence of this sugar. Expression of the pBAD promoter also requires the CAP.cyclic-AMP complex, and thus expression is decreased in the presence of glucose in either the presence or absence of arabinose. Fucose, an anti-inducer, can also be used to decrease pBAD expression.
    3. 0.2% of arabinose gives the maximum protein expression. Induction is not too high.
