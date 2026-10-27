@@ -4,6 +4,15 @@ title: "Promega Wizard Midiprep Buffers"
 
 <!-- migrated from DokuWiki page recipes:promega_midiprep_buffers -->
 
+## Contents
+
+1. [Overview](#1-overview)
+2. [Recipes](#2-recipes)
+   - [2.1 Cell Resuspension Buffer](#21-cell-resuspension-buffer)
+   - [2.2 Cell Lysis Buffer](#22-cell-lysis-buffer)
+   - [2.3 Neutralization Buffer](#23-neutralization-buffer)
+   - [2.4 Column Wash Buffer](#24-column-wash-buffer)
+
 ## 1. Overview
 
 For routine cloning and plasmid preparations, we use the traditional [alkaline-lysis method](/wiki/protocols/dna-and-cloning/plasmid-mini-prep-alkaline-lysis/). When large quantities of high-quality plasmids need to be made, we use the [Promega Wizard Midiprep Kit](http://www.promega.com/products/dna-and-rna-purification/plasmid-purification/wizard-plus-midipreps-dna-purification-system/) for high-purity plasmid preparation. The columns and resin are purchased from Promega, while the buffers are made in-house.

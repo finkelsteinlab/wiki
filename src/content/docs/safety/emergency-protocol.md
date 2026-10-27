@@ -4,6 +4,11 @@ title: "Emergency Protocol"
 
 <!-- migrated from DokuWiki page lab:emergency_protocol -->
 
+## Contents
+
+1. [In case of emergency](#1-in-case-of-emergency)
+2. [In case of evacuation](#2-in-case-of-evacuation)
+
 ## 1. In case of emergency
 
 In case an emergency (fire, bomb threats etc.) follow Universities instructions.

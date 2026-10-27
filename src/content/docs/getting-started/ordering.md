@@ -4,6 +4,11 @@ title: "Ordering"
 
 <!-- migrated from DokuWiki page protocols:ordering -->
 
+## Contents
+
+1. [Put in Quartzy](#1-put-in-quartzy)
+2. [Do NOT put in Quartzy](#2-do-not-put-in-quartzy)
+
 ## 1. Put in Quartzy
 
 - Biostore purchases (give receipt to lab manager)

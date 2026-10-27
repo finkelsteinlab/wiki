@@ -4,6 +4,11 @@ title: "All lab restriction enzymes"
 
 <!-- migrated from DokuWiki page restriction_enzymes -->
 
+## Contents
+
+1. [Restriction enzymes](#1-restriction-enzymes)
+2. [Other enzymes in the -20 freezer boxes](#2-other-enzymes-in-the--20-freezer-boxes)
+
 ## 1. Restriction enzymes
 
 :::note
@@ -56,8 +61,8 @@ If you receive a new restriction enzyme, please put it on the list. Most enzymes
 
 ## 2. Other enzymes in the -20 freezer boxes
 
-- Antarctic phosphotase
-- Micrococla Nuclease
+- Antarctic phosphatase
+- Micrococcal Nuclease
 - Instant sticky end MM
 - Mung bean nuclease
 - Phi29 DNA Pol

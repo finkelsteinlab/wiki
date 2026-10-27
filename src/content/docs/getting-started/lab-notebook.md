@@ -4,6 +4,11 @@ title: "Lab Notebook"
 
 <!-- migrated from DokuWiki page lab:lab_notebook -->
 
+## Contents
+
+1. [Why keep a notebook](#1-why-keep-a-notebook)
+2. [Notebooks in the Finkelstein Lab](#2-notebooks-in-the-finkelstein-lab)
+
 ## 1. Why keep a notebook
 
 Keeping a **written** lab notebook is a key aspect of moving your research forward. Briefly, here are some reasons why a well-managed notebook is an invaluable tool for your research. A lab notebook helps to:

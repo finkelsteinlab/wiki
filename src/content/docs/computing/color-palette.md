@@ -6,6 +6,11 @@ title: "Color Palette"
 
 The Finkelstein Lab uses a standard, colorblind-friendly set of colors for all figures we make.
 
+## Contents
+
+1. [Palette](#1-palette)
+2. [Files and installation](#2-files-and-installation)
+
 ## 1. Palette
 
 <img src="/wiki/media/protocols/flabpal-colorblind.png" width="600" alt="flabpal-colorblind.png" />

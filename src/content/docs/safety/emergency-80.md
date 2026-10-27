@@ -4,6 +4,11 @@ title: "Emergency -80"
 
 <!-- migrated from DokuWiki page instruments:emergency_-80 -->
 
+## Contents
+
+1. [Overview](#1-overview)
+2. [Usage](#2-usage)
+
 ## 1. Overview
 
 **Location:** MBB 2.132

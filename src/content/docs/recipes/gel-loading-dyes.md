@@ -6,6 +6,11 @@ title: "Gel Loading Dyes"
 
 The gel loading dye helps to increase the density of your samples so they stay in the well. A tracer dye is useful to visualize filled wells and gives an estimate of progression of electrophoresis. Finally, for SDS-PAGE gels, the SDS present in the loading dye helps to denature proteins.
 
+## Contents
+
+1. [Agarose Loading Buffer (6x)](#1-agarose-loading-buffer-6x)
+2. [SDS-PAGE Loading Buffer (4x)](#2-sds-page-loading-buffer-4x)
+
 ## 1. Agarose Loading Buffer (6x)
 
 Common dyes and how they approximate linear DNA on an agarose gel. These are very rough estimates.
@@ -53,7 +58,7 @@ To make 10 mL of 4x stock, combine:
 
 **Storage:** Store in aliquots at -20oC.
 
-Use of loading buffer: Dilute protein sample 1:3 into 4X sample loading buffer. Load on acrylimide gel in SDS-PAGE buffer.
+Use of loading buffer: Dilute protein sample 1:3 into 4X sample loading buffer. Load on acrylamide gel in SDS-PAGE buffer.
 
 :::caution
 

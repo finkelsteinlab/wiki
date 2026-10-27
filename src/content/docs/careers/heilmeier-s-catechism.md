@@ -4,6 +4,11 @@ title: "Heilmeier's Catechism"
 
 <!-- migrated from DokuWiki page careers:heilmeier_s_catechism -->
 
+## Contents
+
+1. [The questions](#1-the-questions)
+2. [References](#2-references)
+
 ## 1. The questions
 
 In 1994, writer Joshua Shapiro interviewed [George H. Heilmeier](http://en.wikipedia.org/wiki/George_H._Heilmeier), then President and CEO of Bellcore, or Bell Communications Research Inc.\[1\] In his interview, Shapiro elicits a set of probing questions that made Heilmeier’s leadership so successful. All research scientists should be able to readily answer these simple questions and how they relate to their projects:

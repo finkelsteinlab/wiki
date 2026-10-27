@@ -4,6 +4,11 @@ title: "Humidity Controller"
 
 <!-- migrated from DokuWiki page instruments:humidity_controller -->
 
+## Contents
+
+1. [Overview](#1-overview)
+2. [Maintenance](#2-maintenance)
+
 ## 1. Overview
 
 We have three Humidity/Temperature controllers in our microscope room (3.422F). These are important to maintain constant conditions in the room for each microscope.

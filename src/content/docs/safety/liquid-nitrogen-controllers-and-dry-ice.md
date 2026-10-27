@@ -4,6 +4,11 @@ title: "Liquid Nitrogen Controllers and Dry Ice"
 
 <!-- migrated from DokuWiki page lab:liquid_nitrogen_controllers -->
 
+## Contents
+
+1. [Location](#1-location)
+2. [Purchasing](#2-purchasing)
+
 ## 1. Location
 
 The Liquid Nitrogen is located behind the Molecular Biology Building.

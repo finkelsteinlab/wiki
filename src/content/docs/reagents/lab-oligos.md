@@ -6,6 +6,11 @@ title: "Lab Oligos"
 
 Common oligos that are useful for the whole lab.
 
+## Contents
+
+1. [Storage](#1-storage)
+2. [Oligo list](#2-oligo-list)
+
 ## 1. Storage
 
 The box is kept in -80C freezer, near the common lab plasmids. Oligos should be stored in Te (10 mM TrisCl pH 8, 0.1 mM EDTA) at a concentration of 100 µM. If the oligo concentration or storage buffer are different, please indicate so on the tube.

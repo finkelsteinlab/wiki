@@ -6,6 +6,11 @@ title: "Finding the Length of YOYO-Stained DNA"
 
 We frequently need to find the length of a DNA molecule. This is trickier than it sounds because the YOYO-staining produced a non-uniform signal along the length of the DNA molecule.
 
+## Contents
+
+1. [My Approach](#1-my-approach)
+2. [Code](#2-code)
+
 ## 1. My Approach
 
 The code below takes the following approach to dealing with non-uniform YOYO-signal:

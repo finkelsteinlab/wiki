@@ -4,6 +4,11 @@ title: "VCM-D1 Shutter"
 
 <!-- migrated from DokuWiki page instruments:vcm-d1_shutter -->
 
+## Contents
+
+1. [Overview](#1-overview)
+2. [Maintenance](#2-maintenance)
+
 ## 1. Overview
 
 <img src="/wiki/media/instruments/vcmd1.jpg" width="250" alt="Shutter" /> Shutter controller used for the shutter on the microscope.
