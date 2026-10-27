@@ -28,7 +28,7 @@ We have two centrifuges in the lab. The Avanti J26XP and the Optima XE. Spin fas
 
 <img src="/wiki/media/instruments/optima_xe.jpg" width="250" alt="Optima" /> The Optima XE is the ultracentrifuge. The max speed is 90000 rpm!
 
-- You can find the instructional video <img src="http://www.youtube.com/watch" data-query="?v=UNrg_TOpFhc&amp;feature=player_embedded" alt="here" />
+- You can find the instructional video [here](https://www.youtube.com/watch?v=UNrg_TOpFhc)
   - This is intense, please sit down. Make yourself a latte.
 
 ### 1.1 Rotors
@@ -83,7 +83,7 @@ The rotor for the Optima XE is Ti-45 (titanium 45000 rpm).
 
 <img src="/wiki/media/instruments/avantij26s_sm178.jpg" width="250" alt="Avanti" /> The Avanti has a max speed of 26000 rpm
 
-- The video for this is less <img src="http://www.youtube.com/watch" data-query="?feature=player_detailpage&amp;v=dNuiC78DJvU" alt="ultra" />
+- The video for this is less [ultra](https://www.youtube.com/watch?v=dNuiC78DJvU)
 
 ### 2.1 Rotors
 
@@ -103,6 +103,7 @@ The rotors for the Avanti J-26 are the JLA 16.250 and the JLA 8.1
 3. Set temperature to 4C and allow time to equilibrate.
 4. If running a sample:
    1. Place sample in centrifuge bottles and distribute them evenly in the rotor.
+      - *Pro-tip:* If your samples weigh approximately the same when inside their centrifuge adapter, you can balance them without adding water to your sample by putting some water into an empty slot in the adapter itself.
    2. Place loaded rotor onto motor and close lid. Make sure to align the pins on rotor to set in between the baffles on the motor.
    3. Set parameters i.e. Time, Temperature, Speed.
    4. Press start.
@@ -116,8 +117,8 @@ The rotors for the Avanti J-26 are the JLA 16.250 and the JLA 8.1
 - Use bottles that can withstand the amount of g’s you are applying.
 - The rotors on the Avanti have pins that sit between two baffles on the motor.
   - Make sure these pins are between the baffles or else the rotor won’t spin with the motor.
-  - These pins may break off (\$500 ea!) and the baffles may where down.
-  - Please align the pins. They are \$500 each.
+  - These pins may break off ($500 ea!) and the baffles may wear down.
+  - Please align the pins. They are $500 each.
 
 ### 2.4 Maintenance
 
