@@ -13,7 +13,7 @@ title: "AKTA Purifier"
 
 ## 1. Overview
 
-<img src="/wiki/media/instruments/akta.jpg" width="150" alt="AKTA Purifier" /> The AKTA system is great for purifying proteins. We have many different columns that should suit your needs. Affinity columns, Q and SP, Gel Filtration columns for size exclusion and a set of metal columns (just cobalt (pink)). Feel free to pack your own columns and make great proteins/do good science.
+<img src="/wiki/media/instruments/akta.jpg" width="150" alt="AKTA Purifier" /> The AKTA system is great for purifying proteins. We have many different columns that should suit your needs. Affinity columns, Q and SP, Gel Filtration columns for size exclusion and a set of metal columns (just cobalt (pink)). Feel free to pack your own columns and make great proteins/do good science. (See also [AKTA pure FPLC](/wiki/instruments/akta-pure-fplc/), [FPLC 101: BSA Practice Run](/wiki/instruments/fplc-101-bsa-practice-run/), and [FPLC Checklist](/wiki/instruments/fplc-checklist/).)
 
 ## 2. General protocol
 

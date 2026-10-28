@@ -4,7 +4,7 @@ title: "Rnaseh2 purification"
 
 <!-- migrated from DokuWiki page protocols:rnaseh2_purification -->
 
-Human RNase H2 Purification
+Human RNase H2 Purification (for human RNase H1, see [Rnaseh1 purification](/wiki/protocols/protein-purification/rnaseh1-purification/)).
 
 ## Contents
 

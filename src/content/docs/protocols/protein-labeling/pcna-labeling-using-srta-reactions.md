@@ -4,6 +4,10 @@ title: "PCNA labeling using srtA reactions"
 
 <!-- migrated from DokuWiki page protocols:pcna_labeling_using_srtareactions -->
 
+:::note
+See also [Sortase Purification](/wiki/protocols/protein-purification/sortase-purification/) and [Sortase Optimization](/wiki/protocols/protein-labeling/sortase-optimization/).
+:::
+
 ## Contents
 
 1. [Purification of PCNA for SortaseA reactions](#1-purification-of-pcna-for-sortasea-reactions)

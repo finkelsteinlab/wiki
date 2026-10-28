@@ -6,7 +6,7 @@ title: "Sortase Purification"
 
 Used in our papers:[^paper-1][^paper-2]
 
-Plasmid were purchased from Addgene.
+Plasmid were purchased from Addgene. For downstream sortase-mediated labeling reactions and optimization, see [Sortase Optimization](/wiki/protocols/protein-labeling/sortase-optimization/), [Cas3 Sortase labeling](/wiki/protocols/protein-labeling/cas3-sortase-labeling/), and [PCNA labeling using srtA reactions](/wiki/protocols/protein-labeling/pcna-labeling-using-srta-reactions/).
 
 ## Contents
 

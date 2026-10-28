@@ -4,7 +4,7 @@ title: "Sortase Optimization"
 
 <!-- migrated from DokuWiki page protocols:soratese_optimization -->
 
-This protocol is for the optimization of new labeling reactions with Sortase.
+This protocol is for the optimization of new labeling reactions with Sortase (see [Sortase Purification](/wiki/protocols/protein-purification/sortase-purification/), [Cas3 Sortase labeling](/wiki/protocols/protein-labeling/cas3-sortase-labeling/), and [PCNA labeling using srtA reactions](/wiki/protocols/protein-labeling/pcna-labeling-using-srta-reactions/)).
 
 ## Contents
 
@@ -47,16 +47,16 @@ We also have two Different Sortases we use.
 
 :::note
 
-Sortase is very stable and can be saved up to 1 month in the 4’ after thawing
+Sortase is very stable and can be saved up to 1 month in the 4°C fridge after thawing.
 
 :::
 
 ## 2. Optimization scheme
 
-For a Sortase optimization reaction, you want to test the both sortase variants, amoung many tempretures and timepoints. My general scheme is as follows
+For a Sortase optimization reaction, you want to test both sortase variants, among many temperatures and timepoints. My general scheme is as follows:
 
 - Variable 1 Sortase: 7M and 5M
-- Variable 2 Temp: 4‘, 15’, 25’
+- Variable 2 Temp: 4°C, 15°C, 25°C
 - Variable 2 Time: 0.5h, 1h, 2h, 4h, 12h
 
 ## 3. Procedure
@@ -69,17 +69,17 @@ For a Sortase optimization reaction, you want to test the both sortase variants,
 
    :::note
 
-   Best labeling reactions have used 3x Sortase relative to protein and were incubated at 4C for 12 hours
+   Best labeling reactions have used 3x Sortase relative to protein and were incubated at 4°C for 12 hours
 
    :::
 
 2. Split each reaction into 15 separate tubes (10ul each) and incubate for the time and temperature necessary.
 3. To cancel the reaction freeze in liquid nitrogen and store in -20 until all reactions are complete.
-4. Run the labeled proteins on an SDS-PAGE gel. Be careful not to load to much based on the starting protein concentration.
-5. When the gel has run, image on the typhoon using the appropriate filter set.
-6. After saving a flourscent image, stain the gel with coomasie.
-7. Save an image of the coomasie staining.
-8. Calculate the ratio of flourescence/coomasie for each condition.
+4. Run the labeled proteins on an SDS-PAGE gel. Be careful not to load too much based on the starting protein concentration.
+5. When the gel has run, image on the Typhoon using the appropriate filter set.
+6. After saving a fluorescent image, stain the gel with Coomassie.
+7. Save an image of the Coomassie staining.
+8. Calculate the ratio of fluorescence/Coomassie for each condition.
 9. Your best condition is the one that has the highest ratio. If many are similar choose the one with the lowest temperature and shortest incubation.
 
 ## 4. Notes

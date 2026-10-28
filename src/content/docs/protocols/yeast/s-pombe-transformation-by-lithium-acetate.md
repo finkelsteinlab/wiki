@@ -4,7 +4,7 @@ title: "S. pombe transformation by lithium acetate"
 
 <!-- migrated from DokuWiki page protocols:s_pombe_liac_transformation -->
 
-Protocol written for transformation with pREP-series of plasmids. Provided by Blerta Xhemalce Strain: soSPBX5: h+, ade6-216, leu1-32, ura4-D18
+Protocol written for transformation with pREP-series of plasmids. Provided by Blerta Xhemalce Strain: soSPBX5: h+, ade6-216, leu1-32, ura4-D18. For a faster protocol using cryopreserved competent *S. pombe* cells, see [S. pombe transformation by lithium acetate, Simple and Fast Method](/wiki/protocols/yeast/s-pombe-transformation-by-lithium-acetate-simple-and-fast-method/).
 
 ## Contents
 

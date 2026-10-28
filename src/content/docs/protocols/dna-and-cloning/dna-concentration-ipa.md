@@ -4,7 +4,7 @@ title: "DNA concentration-IPA"
 
 <!-- migrated from DokuWiki page protocols:dna_concentration_ipa -->
 
-What follows is a detailed protocol for λDNA concentration. I usually concentrate the entire product of a λDNA handle ligation, and I recommend using at least 5 mL.
+What follows is a detailed protocol for λDNA concentration. I usually concentrate the entire product of a λDNA handle ligation, and I recommend using at least 5 mL. For standard small-volume ethanol precipitation, see [Ethanol Precipitation](/wiki/protocols/dna-and-cloning/ethanol-precipitation/).
 
 ## Contents
 

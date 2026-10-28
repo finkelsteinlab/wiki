@@ -4,7 +4,7 @@ title: "S. pombe Genomic DNA Miniprep (glass beads method)"
 
 <!-- migrated from DokuWiki page protocols:s_pombe_genomic_dna -->
 
-Note: We don’t have a FastPrep instrument, but the Iyer or Marcotte labs might have one.
+Note: We don’t have a FastPrep instrument, but the Iyer or Marcotte labs might have one. For an enzymatic lysis alternative using zymolyase and a spin column, see [S. pombe Genomic DNA Midiprep (zymolyase method)](/wiki/protocols/yeast/s-pombe-genomic-dna-midiprep-zymolyase-method/).
 
 ## Contents
 
@@ -13,13 +13,13 @@ Note: We don’t have a FastPrep instrument, but the Iyer or Marcotte labs might
 
 ## 1. Materials
 
-STEN buffer : 0.1 M Tris pH 8.0 0.1 M NaCl 1 mM EDTA, pH 8.0 1 % SDS
+STEN buffer: 0.1 M Tris pH 8.0, 0.1 M NaCl, 1 mM EDTA pH 8.0, 1% SDS
 
 - For 100 ml of STEN Buffer:
   - 10 ml of 1 M Tris, pH 8.0
   - 2 ml of 5 M NaCl
-  - 20 ml of 0.5 M EDTA pH 8,0
-  - 200 µl of SDS 20%
+  - 200 µl of 0.5 M EDTA, pH 8.0 (1 mM final)
+  - 5 ml of 20% SDS (1% final)
 - PCI \[Phenol/Chloroform/Isoamyl Alcohol (25:24:1v/v)\]
 - TE 1X
 - 70% and 100% Ethanol
@@ -33,6 +33,6 @@ STEN buffer : 0.1 M Tris pH 8.0 0.1 M NaCl 1 mM EDTA, pH 8.0 1 % SDS
 4. Spin for 3 min at 15,000 rpm and take 225 µl of the aqueous phase to a 1.5 ml Eppendorf tube. Add TE up to 500 µl.
 5. Repeat the PCI extraction and take 400 µl of the aqueous phase to a new tube.
 6. Add 2 volumes of ethanol, spin 5 min at 15,000 rpm.
-7. Wash the DNA pellet with 500 ml of ice-cold 70% ethanol.
+7. Wash the DNA pellet with 500 µl of ice-cold 70% ethanol.
 8. Let the pellet dry.
 9. Resuspend the pellet in 100 µl of TE at 20 µg/ml of RNase A.

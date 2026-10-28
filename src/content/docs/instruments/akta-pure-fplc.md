@@ -16,6 +16,8 @@ title: "AKTA pure FPLC"
 
 **Serial Number:** 2038115
 
+For operating procedures, column catalog numbers, and before/after checklists, see [AKTA Purifier](/wiki/instruments/akta-purifier/), [FPLC 101: BSA Practice Run](/wiki/instruments/fplc-101-bsa-practice-run/), and [FPLC Checklist](/wiki/instruments/fplc-checklist/).
+
 ## 2. Service and support
 
 - GE Healthcare Life Sciences is now **Cytiva**. No current ÄKTA sales or service contact is on file; ask the lab manager.

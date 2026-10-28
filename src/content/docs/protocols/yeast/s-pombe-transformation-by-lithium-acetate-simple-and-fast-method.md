@@ -4,7 +4,7 @@ title: "S. pombe transformation by lithium acetate, Simple and Fast Method"
 
 <!-- migrated from DokuWiki page protocols:s_pombe_ez_liac_transformation -->
 
-Protocol taken from paper by Minoru Suga and Toyomasa Hatakeyama “A rapid and simple procedure for high-efficiency lithium acetate transformation of cryopreserved S.pombe cells” Yeast 2005; 22: 799-804
+Protocol taken from paper by Minoru Suga and Toyomasa Hatakeyama “A rapid and simple procedure for high-efficiency lithium acetate transformation of cryopreserved S.pombe cells” Yeast 2005; 22: 799-804. For the standard fresh-culture LiOAc transformation protocol (e.g., for pREP plasmids), see [S. pombe transformation by lithium acetate](/wiki/protocols/yeast/s-pombe-transformation-by-lithium-acetate/).
 
 ## Contents
 

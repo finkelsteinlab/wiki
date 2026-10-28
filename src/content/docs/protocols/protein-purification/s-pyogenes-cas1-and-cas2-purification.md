@@ -6,6 +6,10 @@ title: "S. pyogenes Cas1 and Cas2 Purification"
 
 Used in our paper:[^paper-1]
 
+:::note
+For the *Thermobifida fusca* Type I-E Cas1-Cas2 integrase purification and sortase labeling protocol, see [T. fusca Cas1-Cas2 purification](/wiki/protocols/protein-purification/t-fusca-cas1-cas2-purification/).
+:::
+
 ## Contents
 
 1. [Buffers and Reagents](#1-buffers-and-reagents)

@@ -4,7 +4,7 @@ title: "RNA Polymerase (RNAP) Purification"
 
 <!-- migrated from DokuWiki page protocols:rnap_purification -->
 
-This protocol is for rapid purification of E. coli core-RNAP (no sigma-subunit) from pVS10 and related vectors. Follow the salt concentrations pretty closely – this protocol has been optimized to produce large amounts of RNAP without need for FPLC.
+This protocol is for rapid purification of E. coli core-RNAP (no sigma-subunit) from pVS10 and related vectors. Follow the salt concentrations pretty closely – this protocol has been optimized to produce large amounts of RNAP without need for FPLC. (For endogenous biotinylated *E. coli* RNAP purification from strain RL721, see [Logan's E.coli RNAP Purification](/wiki/protocols/protein-purification/logan-s-e-coli-rnap-purification/). For reconstituting holoenzyme with σ70, see [Sigma 70 Purification](/wiki/protocols/protein-purification/sigma-70-purification/) and [RNA Polymerase Holoenzyme purification](/wiki/protocols/protein-purification/rna-polymerase-holoenzyme-purification/).)
 
 *Protocol kindly provided by ManHee Suh (postdoc at Cornell as of 2012).*
 
@@ -20,7 +20,7 @@ This protocol is for rapid purification of E. coli core-RNAP (no sigma-subunit) 
 
 ## 1. Solutions
 
-Prepare the solutions ahead of time and make sure everything is chilled to 4˚C.
+Prepare the solutions ahead of time and make sure everything is chilled to 4°C.
 
 ### 1.1 Stocks
 

@@ -4,6 +4,8 @@ title: "FPLC Checklist"
 
 <!-- migrated from DokuWiki page lab:fplc_checklist -->
 
+See also [FPLC 101: BSA Practice Run](/wiki/instruments/fplc-101-bsa-practice-run/), [AKTA Purifier](/wiki/instruments/akta-purifier/), and [AKTA pure FPLC](/wiki/instruments/akta-pure-fplc/).
+
 ## Contents
 
 1. [Before you begin](#1-before-you-begin)

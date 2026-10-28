@@ -4,6 +4,8 @@ title: "Ethanol Precipitation"
 
 <!-- migrated from DokuWiki page protocols:ethanol-precipitation -->
 
+For concentrating large-volume λ-DNA ligations with isopropanol, see [DNA concentration-IPA](/wiki/protocols/dna-and-cloning/dna-concentration-ipa/).
+
 ## Contents
 
 1. [Reagents](#1-reagents)

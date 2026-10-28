@@ -4,9 +4,9 @@ title: "RNA Polymerase Holoenzyme purification"
 
 <!-- migrated from DokuWiki page protocols:rna_holoenzyme_purification -->
 
-This protocal purifies the complete RNA polymerase holoenzyme using the core polymerase and the appropriate sigma factor. It is very simple, uses one column, and only takes a day. Furthermore, it will clean up the somewhat dirty sigma purification product. The protocol’s for purifying those proteins can be found on the wiki, [sigma](/wiki/protocols/protein-purification/sigma-70-purification/) and [RNAP](/wiki/protocols/protein-purification/rna-polymerase-rnap-purification/)
+This protocol purifies the complete RNA polymerase holoenzyme using the core polymerase and the appropriate sigma factor. It is very simple, uses one column, and only takes a day. Furthermore, it will clean up the somewhat dirty sigma purification product. The protocols for purifying those proteins can be found on the wiki: [Sigma 70 Purification](/wiki/protocols/protein-purification/sigma-70-purification/), [RNA Polymerase (RNAP) Purification](/wiki/protocols/protein-purification/rna-polymerase-rnap-purification/), and [Logan's E.coli RNAP Purification](/wiki/protocols/protein-purification/logan-s-e-coli-rnap-purification/).
 
-This sigma purification scheme has been successfully used to reconstitute wild type core enzyme with wild type sigma 70. it would work for different sigmas and other mutants as well.
+This sigma purification scheme has been successfully used to reconstitute wild type core enzyme with wild type sigma 70. It would work for different sigmas and other mutants as well.
 
 ## Contents
 
@@ -26,7 +26,7 @@ Because this protocol uses the monoQ column, use the same buffers used for the s
 
 ## 2. Purification
 
-Like all protein purification, make sure all materials and buffers are 4’C or colder before you begin. Leaving materials and solutions in the cold room the day before is suggested.
+Like all protein purification, make sure all materials and buffers are 4°C or colder before you begin. Leaving materials and solutions in the cold room the day before is suggested.
 
 1. Add sigma factor (70kD) to RNAP core (389kD) in a 3:1 molar ratio. I used 66.6 nM of sigma with 22.2 nM of core enzyme and obtained 4.4 nM of holoenzyme.
 2. Incubate sigma and core for 1h in the cold room.
@@ -39,7 +39,7 @@ Like all protein purification, make sure all materials and buffers are 4’C or 
 9. The purified enzyme should come off around 350 mM salt.
 10. After ramp, step to 100%B (1 M salt) and run 10 column volumes.
 11. Wash out column and complete [fplc checklist](/wiki/instruments/fplc-checklist/) when done.
-12. Run a polyacrylimied gel of your fraction peaks. Pool together the fractions containing all core subunits as well as sigma subunit band.
+12. Run a polyacrylamide gel of your fraction peaks. Pool together the fractions containing all core subunits as well as sigma subunit band.
 13. Dialyze overnight in storage buffer using slide a lyzers.
 
 ## 3. Characterization

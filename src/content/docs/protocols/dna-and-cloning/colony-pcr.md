@@ -4,7 +4,7 @@ title: "Colony PCR"
 
 <!-- migrated from DokuWiki page protocols:colony_pcr -->
 
-Colony PCR is useful for quickly screening your cloning efforts without having to do a mini-prep or lysogen preparation. Bacterial cells are lysed within the PCR tube.
+Colony PCR is useful for quickly screening your cloning efforts without having to do a mini-prep or lysogen preparation. Bacterial cells are lysed within the PCR tube. (For fission yeast colonies, see [S. pombe Colony PCR](/wiki/protocols/yeast/s-pombe-colony-pcr/).)
 
 ## Contents
 

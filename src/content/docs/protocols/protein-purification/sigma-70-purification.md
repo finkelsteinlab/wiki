@@ -4,7 +4,7 @@ title: "Sigma 70 Purification"
 
 <!-- migrated from DokuWiki page protocols:purification_of_sigma70 -->
 
-This protocol is for the purification of the E. Coli RNA polymerase sigma 70 sub-unit. This protocol uses a Ni column and followed by a monoQ. To obtain the entire holoenzyme, you will have to purify sigma as well as the [core enzyme](/wiki/protocols/protein-purification/rna-polymerase-rnap-purification/) and then follow the [RNA holoenzyme purification protocol](/wiki/protocols/protein-purification/rna-polymerase-holoenzyme-purification/).
+This protocol is for the purification of the E. Coli RNA polymerase sigma 70 sub-unit. This protocol uses a Ni column and followed by a monoQ. To obtain the entire holoenzyme, you will have to purify sigma as well as the [core enzyme](/wiki/protocols/protein-purification/rna-polymerase-rnap-purification/) (or use [Logan's E.coli RNAP Purification](/wiki/protocols/protein-purification/logan-s-e-coli-rnap-purification/)) and then follow the [RNA holoenzyme purification protocol](/wiki/protocols/protein-purification/rna-polymerase-holoenzyme-purification/).
 
 The plasmid (pmb01, pet28a+rpod) and protocol we are using for sigma 70 purification was developed by a former graduate student of the [Bob Landick lab](http://landick.wisc.edu/). Big thanks!
 

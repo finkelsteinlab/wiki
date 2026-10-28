@@ -4,7 +4,7 @@ title: "Logan's E.coli RNAP Purification"
 
 <!-- migrated from DokuWiki page protocols:protocols_logan_s_rnap_purification -->
 
-This protocol was adapted from Nudler et al. Methods Enzymology. 2003. <https://www.sciencedirect.com/science/article/pii/S0076687903710118?via%3Dihub>
+This protocol was adapted from Nudler et al. Methods Enzymology. 2003. <https://www.sciencedirect.com/science/article/pii/S0076687903710118?via%3Dihub>. (See also [RNA Polymerase (RNAP) Purification](/wiki/protocols/protein-purification/rna-polymerase-rnap-purification/), [RNA Polymerase Holoenzyme purification](/wiki/protocols/protein-purification/rna-polymerase-holoenzyme-purification/), and [Sigma 70 Purification](/wiki/protocols/protein-purification/sigma-70-purification/).)
 
 ## Contents
 
@@ -14,7 +14,7 @@ This protocol was adapted from Nudler et al. Methods Enzymology. 2003. <https://
 
 1. Streak an LB plate of RL 721 strain (Bio from Landick lab)
 2. Grow O/N cultures of EcRNAP-bio containing cells in LB only.
-3. Innoculate 2L flasks with EcRNAP, grow O/N again in LB only.
+3. Inoculate 2L flasks with EcRNAP, grow O/N again in LB only.
 4. Spin down cells and snap freeze at -80C.
 5. Thaw cells in 100mL grinding buffer (300 mM NaCl, 50 mM Tris–HCl, pH 8, 5% glycerol, 10 mM EDTA, 0.1% PMSF, 10 mM mercaptoethanol, 133 µg/mL lysozyme) per 4L pellet in a beaker with a stirbar. Stir for 20mins once ice (I did it in the cold room).
 6. Add Sodium Deoxycholate to 0.2% from a 10% stock in water.

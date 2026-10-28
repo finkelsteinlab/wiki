@@ -4,6 +4,10 @@ title: "S. pombe Genomic DNA Midiprep (zymolyase method)"
 
 <!-- migrated from DokuWiki page protocols:s_pombe_genomic_dna_zymolyase -->
 
+:::note
+For a mechanical lysis alternative using glass beads and phenol/chloroform extraction, see [S. pombe Genomic DNA Miniprep (glass beads method)](/wiki/protocols/yeast/s-pombe-genomic-dna-miniprep-glass-beads-method/). For rapid colony screening, see [S. pombe Colony PCR](/wiki/protocols/yeast/s-pombe-colony-pcr/).
+:::
+
 ## Contents
 
 1. [Materials](#1-materials)

@@ -4,6 +4,10 @@ title: "Competent E. coli (Rubidium Chloride Method)"
 
 <!-- migrated from DokuWiki page protocols:rubidium_chloride -->
 
+:::note
+For the Inoue ultra-competent cell protocol (18–21°C growth in PIPES transformation buffer), see [Ultra-Competent E. Coli (Inoue Method)](/wiki/protocols/dna-and-cloning/ultra-competent-e-coli-inoue-method/).
+:::
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -73,4 +77,4 @@ Competency can be verified by transforming a plasmid and plating with the approp
 
 ## 4. References
 
-Protocol adapted from: <https://www.med.unc.edu/pharm/sondeklab/files/resource-files/competent-cell-dna-protocols/Competent_cell_RbCl.doc.>
+Protocol adapted from: <https://www.med.unc.edu/pharm/sondeklab/files/resource-files/competent-cell-dna-protocols/Competent_cell_RbCl.doc>
