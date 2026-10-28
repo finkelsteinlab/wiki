@@ -8,7 +8,11 @@ Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5][^paper-6][
 
 Replication protein A (RPA) is a protein that binds single-stranded DNA in eukaryotic cells. During DNA replication, RPA prevents single-stranded DNA (ssDNA) from winding back on itself or from forming secondary structures
 
-Plasmids and protocol were adapted form Mauro Modesti: [PubMed 21909885](https://pubmed.ncbi.nlm.nih.gov/21909885/)
+Plasmids and protocol were adapted from Mauro Modesti: [PubMed 21909885](https://pubmed.ncbi.nlm.nih.gov/21909885/)
+
+:::note
+For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragments](/wiki/protocols/protein-purification/human-rpa-fragments/). For *S. cerevisiae* RPA protocols, see [scRPA-CBD-His6](/wiki/protocols/protein-purification/scrpa-cbd-his6/) and [scRPA-GFP-His6 Purification](/wiki/protocols/protein-purification/scrpa-gfp-his6-purification/).
+:::
 
 ## Contents
 

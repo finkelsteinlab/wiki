@@ -23,6 +23,10 @@ title: "Microelectronics Research Center (MER building)"
 
 **Slide Nanofabrication.** The protocol, as written, is intended for clean-room use with Pickle MER facilities.
 
+:::note
+For electron-beam lithography at the main campus CNM cleanroom (FNT building), see [Slide Nanofabrication](/wiki/protocols/microfabrication/slide-nanofabrication/). For UV mask photolithography at Pickle MER, see [UV Mask Lithography and curtain track fabrication-Pickle](/wiki/protocols/microfabrication/uv-mask-lithography-and-curtain-track-fabrication-pickle/).
+:::
+
 - [Get trained](http://www.mrc.utexas.edu/content/training) (dead link) at the MER building before using each equipment.
 - Classes needed:
   - OH102 Site-specific Hazard Communication [TXClass](https://utdirect.utexas.edu/txclass/clisting.WBX?course_prefix=OH&course_number=102&class_begin_date_mm=07&class_begin_date_dd=01&class_begin_date_yyyy=2013&component=0&command=CL)

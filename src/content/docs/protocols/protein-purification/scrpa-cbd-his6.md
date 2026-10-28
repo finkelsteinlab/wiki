@@ -6,7 +6,11 @@ title: "scRPA-CBD-His6"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3]
 
-RPA binds single stranded DNA. GFP fluoresces in green. Together we can see when this fusion binds to ssDNA. For Mauro Modesti plasmids
+RPA binds single-stranded DNA. Together with a fluorescent fusion or chitin-binding domain (CBD) tag, we can purify *S. cerevisiae* RPA from Mauro Modesti plasmids.
+
+:::note
+For the Ni-NTA + HiTrap Q purification of GFP-tagged yeast RPA without a chitin column, see [scRPA-GFP-His6 Purification](/wiki/protocols/protein-purification/scrpa-gfp-his6-purification/). For human RPA, see [Human RPA purification](/wiki/protocols/protein-purification/human-rpa-purification/).
+:::
 
 ## Contents
 

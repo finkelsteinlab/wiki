@@ -12,7 +12,7 @@ title: "Piranha Solution"
 ## 1. Overview
 
 :::danger
-Before working with piranha solution, read the full safety SOP, PPE requirements, and disposal instructions in [Piranha Solution (Recipe & Safety SOP)](/wiki/recipes/piranha-solution/). Piranha is extremely hazardous—never let any organics (especially EtOH or acetone) come near it!
+Before working with piranha solution, read the full safety SOP, PPE requirements, and disposal instructions in [Piranha Solution Safety SOP](/wiki/safety/piranha-safety-sop/). Piranha is extremely hazardous—never let any organics (especially EtOH or acetone) come near it!
 :::
 
 For bulk wafer cleaning in the MER cleanroom acid hood (2:1 H<sub>2</sub>SO<sub>4</sub>:H<sub>2</sub>O<sub>2</sub>):

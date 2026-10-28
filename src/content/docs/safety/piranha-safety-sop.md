@@ -1,8 +1,12 @@
 ---
-title: "Piranha Solution"
+title: "Piranha Solution Safety SOP"
 ---
 
 <!-- migrated from DokuWiki page recipes:piranha_solution -->
+
+:::note
+For wafer and flowcell slide cleaning procedures using piranha solution, see [Piranha Solution (Cleaning Protocol)](/wiki/protocols/microfabrication/piranha-solution/).
+:::
 
 ## Contents
 

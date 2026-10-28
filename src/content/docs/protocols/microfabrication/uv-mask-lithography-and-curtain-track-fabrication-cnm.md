@@ -2,12 +2,12 @@
 title: "UV Mask Lithography and curtain track fabrication-CNM"
 ---
 
-<!-- migrated from DokuWiki page protocols:uv_mask_new_photoresistv2 -->
+<!-- migrated from DokuWiki pages protocols:uv_mask_new_photoresistv2 and protocols:uv_mask_new_photoresist -->
 
 The protocol, as written, is intended for clean-room use with CNM facilities at the 4th floor of the FNT building.
 
 :::note
-This protocol uses **AZ5209E** positive photoresist. For the **KL IR lift-off 15** photoresist variant, see [Updated for CNM UV Mask Lithography and curtain track fabrication](/wiki/protocols/microfabrication/updated-for-cnm-uv-mask-lithography-and-curtain-track-fabrication/).
+This protocol describes the **AZ5209E** positive photoresist workflow (with inline notes for the earlier **KL IR lift-off 15** resist variant). For the Pickle campus (MER) UV mask lithography protocol, see [UV Mask Lithography and curtain track fabrication-Pickle](/wiki/protocols/microfabrication/uv-mask-lithography-and-curtain-track-fabrication-pickle/).
 :::
 
 ## Contents
@@ -65,11 +65,11 @@ Take the 100 mm wafers to the CNM clean room.
       1. 500 rpm for 5 seconds.
       2. 3000rpm for 30 seconds.
 6. Gently wash the wafer with water for 30 seconds, and dry with N2.
-7. Spin coat the positive photoresist AZ5209E (provided by CMN). Use the same technique as with primer.
-   1. Use to steps for spinning:
+7. Spin coat the positive photoresist **AZ5209E** (provided by CNM) — or **KL IR lift-off 15** resist (skipping the Surpass 3000 primer step above). Use the same technique as with primer:
+   1. Use two steps for spinning:
       1. 500 rpm for 5 seconds.
       2. 4000 rpm for 45 seconds.
-8. Set the wafer on a hot plate at 95 C (according to the IR thermometer) for 2 minutes.
+8. Set the wafer on a hot plate at 95 °C (according to the IR thermometer; the hot plate display reads ~120 °C) for 2 minutes.
    - These temperature and time are very important.
 9. Remove the wafer from the hot plate and let it cool down before next step.
 
@@ -77,10 +77,12 @@ Take the 100 mm wafers to the CNM clean room.
 
 Exposure times:
 
-- If Mask Aligner at CNM is not working properly, use Mask Aligner at Pickle—expose the mask for 12.5-15 seconds if the lamp power is from 6.5 to 7.5 mW/cm^2 (See Pickle protocol).
-- You will expose the mask for 8 seconds if the lamp power is from 6 to 6.5 mW/cm^2.
-- You will expose the mask for 10.5 seconds if the lamp power is 5.0 mW/cm^2 (4/14/16).
-- You will expose the mask for 13 seconds if the lamp power is 4.0 mW/cm^2 (10/12/17). We optimized it for 9 seconds at Pickle.
+- If Mask Aligner at CNM is not working properly, use Mask Aligner at Pickle—expose the mask for 12.5-15 seconds if the lamp power is from 6.5 to 7.5 mW/cm^2 (see [Pickle protocol](/wiki/protocols/microfabrication/uv-mask-lithography-and-curtain-track-fabrication-pickle/)).
+- **AZ5209E resist:**
+  - Expose for 8 seconds if the lamp power is from 6 to 6.5 mW/cm^2 (separation: 30 µm).
+  - Expose for 10.5 seconds if the lamp power is 5.0 mW/cm^2 (4/14/16).
+  - Expose for 13 seconds if the lamp power is 4.0 mW/cm^2 (10/12/17). We optimized it for 9 seconds at Pickle.
+- **KL IR lift-off 15 resist:** Expose for 4 seconds if the lamp power is from 6 to 6.5 mW/cm^2 (separation: 27 µm).
 
 Procedure:
 
@@ -156,10 +158,10 @@ Procedure:
 ## 7. Developing
 
 1. Blow dust off the slides.
-2. Set the exposed wafer facing up inside a plastic tray with about 0.5 inches of developer, MF™ -26A.
-   - This MF™ -26A developer is provided for free by the clear room facility.
-3. As you gently shake the tray in the initial seconds, you should see purple lines where the patterns are located. Keep shaking for 1 min.
-4. Pull the wafer out and deep it in a water bath for 30 seconds.
+2. Set the exposed wafer facing up inside a plastic tray with about 0.5 inches of developer, MF™-26A.
+   - This MF™-26A developer is provided for free by the clean room facility.
+3. As you gently shake the tray in the initial seconds, you should see purple lines where the patterns are located. Keep shaking for 1 min (or 35–40 seconds until purple lines disappear when using KL IR lift-off 15).
+4. Pull the wafer out and dip it in a water bath for 30 seconds (or two sequential 15-second water baths).
 5. Dispose of the developer appropriately and rinse the tray clean 3 times.
 6. Blow the wafers dry and put inside plasma chamber March.
 

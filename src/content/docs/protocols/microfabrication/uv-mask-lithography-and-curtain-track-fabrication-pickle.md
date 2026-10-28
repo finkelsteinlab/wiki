@@ -6,6 +6,10 @@ title: "UV Mask Lithography and curtain track fabrication-Pickle"
 
 Slide nanofabrication. The protocol, as written, is intended for clean-room use with Pickle MER facilities.
 
+:::note
+For the main campus (CNM / FNT building) UV mask lithography protocol, see [UV Mask Lithography and curtain track fabrication-CNM](/wiki/protocols/microfabrication/uv-mask-lithography-and-curtain-track-fabrication-cnm/).
+:::
+
 ## Contents
 
 1. [Training and requirements](#1-training-and-requirements)

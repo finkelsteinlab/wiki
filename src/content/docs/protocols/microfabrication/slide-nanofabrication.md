@@ -6,6 +6,10 @@ title: "Slide Nanofabrication"
 
 The protocol, as written, is intended for clean-room use with the UT Austin CNM facilities (FNT building).
 
+:::note
+This protocol describes electron-beam lithography (FEI E-Beam Writer) at the main campus CNM cleanroom. For electron-beam lithography (JEOL E-Beam Writer) and evaporation at the Pickle campus MER cleanroom, see [Microelectronics Research Center (MER building)](/wiki/protocols/microfabrication/microelectronics-research-center-mer-building/).
+:::
+
 ## Contents
 
 1. [Training](#1-training)

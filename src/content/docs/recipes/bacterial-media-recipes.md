@@ -1,8 +1,10 @@
 ---
-title: "Bacterial Media Recipes"
+title: "Microbial Media Recipes"
 ---
 
 <!-- migrated from DokuWiki page recipes:bacterial_media -->
+
+Standard bacterial (*E. coli*) and yeast (*S. pombe* and *S. cerevisiae*) growth media recipes. For additional *S. pombe* YES broth and agar plate instructions, see [Preparing S. Pombe media](/wiki/protocols/yeast/preparing-s-pombe-media/).
 
 ## Contents
 
@@ -83,7 +85,7 @@ Final concentration: 0.17 M KH2PO4, 0.72 M K2HPO4
 | YES media | 36.13 g | |
 
 1. Stir for 10 minutes.
-2. Use a 0.2 uM membrane filter (disposable filter) and attach it to the bottle near an open flame.
+2. Use a 0.2 µm membrane filter (disposable filter) and attach it to the bottle near an open flame.
 3. Vacuum filter sterilization into a 1L bottle.
 4. Detach the filter next to the flame and flame the cap before placing it onto the bottle.
 
@@ -98,6 +100,6 @@ Final concentration: 0.17 M KH2PO4, 0.72 M K2HPO4
 
 1. Heat with stirring until dissolved.
 2. Adjust to desired pH if needed.
-3. Sterilize with 0.2 uM membrane filter (disposable filter).
+3. Sterilize with 0.2 µm membrane filter (disposable filter).
 
 Note: unless making SC-leu, be sure to add 225 mg/L leucine to these when using -leu dropout mix if the SC powder does not contain it already

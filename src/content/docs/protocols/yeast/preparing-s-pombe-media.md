@@ -4,7 +4,7 @@ title: "Preparing S. Pombe media"
 
 <!-- migrated from DokuWiki page protocols:yeast:yes_media -->
 
-Glucose degrades rapidly in the autoclave and will cause variations in cell growth rates. Its best to prepare YES media as follows:
+Glucose degrades rapidly in the autoclave and will cause variations in cell growth rates. It is best to prepare YES media as follows (see also [Microbial Media Recipes](/wiki/recipes/bacterial-media-recipes/#5-yes-media)):
 
 ## Contents
 
@@ -21,7 +21,7 @@ Contents for 1L:
 - 225 mg L-Leucine
 - 225 mg Uracil
 
-Add double distilled water to 1 L, mix well with stir bar and sterilize by filtering with 0.2µM vacuum filter cup.
+Add double distilled water to 1 L, mix well with stir bar and sterilize by filtering with a 0.2 µm vacuum filter cup.
 
 ## 2. YES plates
 

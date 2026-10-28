@@ -6,6 +6,10 @@ title: "Human Histone Purification"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3]
 
+:::note
+For the 3xFLAG-tagged human histone H2A purification protocol (including 3xFLAG-specific gravity SP-Sepharose and gel filtration notes), see [Expression and Purification of Human Histone 3x FLAG tagged hH2A](/wiki/protocols/protein-purification/expression-and-purification-of-human-histone-3x-flag-tagged-hh2a/). For yeast histones, see [Yeast Histone Purification](/wiki/protocols/protein-purification/yeast-histone-purification/).
+:::
+
 ## Contents
 
 1. [Expression and Purification of Human Histone H2A](#1-expression-and-purification-of-human-histone-h2a)
