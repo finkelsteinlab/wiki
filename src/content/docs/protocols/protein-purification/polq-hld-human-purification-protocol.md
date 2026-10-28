@@ -22,28 +22,28 @@ Plasmid gifted by the Richard Pomerantz Lab. Adapted by J. Schaub for PolQ clone
 - 50 mM HEPES pH 8.0: 5 mL (1M)
 - 500 mM NaCl: 10 mL (5M)
 - 5 mM BME: 34 uL (14.7M)
-- 10 mM PMSF: 0.1 mL (200 mM)
+- 0.2 mM PMSF: 0.1 mL (200 mM)
 - 10% glycerol: 20 mL (50% stock)
 - 1% NP-40: 1 mL
-- 1 tab/50 mL c0mplete
-- H2O: 63.8 mL
+- 1 tab/50 mL cOmplete
+- H2O: 63.87 mL
 
 ### 1.2 Wash Buffer (250 mL)
 
 - 50 mM HEPES pH 8.0: 12.5 mL (1M)
 - 450 mM NaCl: 22.5 mL (5M)
 - 5 mM BME: 85 uL (14.7M)
-- 10 mM PMSF: 0.25 mL (200 mM)
+- 0.2 mM PMSF: 0.25 mL (200 mM)
 - 0.005% IGEPAL: 12.5 uL (100%)
 - 10% glycerol: 50 mL (50% stock)
-- H2O: 147.25 mL
+- H2O: 164.65 mL
 
 ### 1.3 Wash 1M NaCl (25 mL)
 
 - 50 mM HEPES pH 8.0: 1.25 mL (1M)
 - 1 M NaCl: 5 mL (5M)
 - 5 mM BME: 8.5 uL (14.7M)
-- 10 mM PMSF: 0.025 mL (200 mM)
+- 0.2 mM PMSF: 0.025 mL (200 mM)
 - 10% glycerol: 5 mL (50% stock)
 - H2O: 13.72 mL
 
@@ -52,7 +52,7 @@ Plasmid gifted by the Richard Pomerantz Lab. Adapted by J. Schaub for PolQ clone
 - 50 mM HEPES pH 8.0: 1.25 mL (1M)
 - 2 M NaCl: 10 mL (5M)
 - 5 mM BME: 8.5 uL (14.7M)
-- 10 mM PMSF: 0.025 mL (200 mM)
+- 0.2 mM PMSF: 0.025 mL (200 mM)
 - 10% glycerol: 5 mL (50% stock)
 - H2O: 8.72 mL
 
@@ -64,7 +64,7 @@ Plasmid gifted by the Richard Pomerantz Lab. Adapted by J. Schaub for PolQ clone
 - 5 mM BME: 8.5 uL (14.7M)
 - 0.005% Triton X-100: 1.25 uL (100%)
 - 10% glycerol: 5 mL (50% stock)
-- H2O: 15.25 mL
+- H2O: 16.49 mL
 
 ### 1.6 Dialysis Buffer (1L)
 
@@ -94,7 +94,7 @@ Plasmid gifted by the Richard Pomerantz Lab. Adapted by J. Schaub for PolQ clone
 
 ### 3.3 Day 3
 
-1. DInoculate 4x 1.5L flasks of TB with 15 mL of overnight LB culture. Grow at 37C until OD of ~0.6.
+1. Inoculate 4x 1.5L flasks of TB with 15 mL of overnight LB culture. Grow at 37C until OD of ~0.6.
 2. Induce cultures with 0.5 mM IPTG at 18C O/N.
 
 ### 3.4 Day 4

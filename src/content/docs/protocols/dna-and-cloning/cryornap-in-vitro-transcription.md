@@ -25,7 +25,7 @@ Standard 20 µL in vitro transcription (IVT) reaction using wild-type (WT) or M6
 | WT CryoRNAP | 4 µM |
 | M6 CryoRNAP | 1.2 µM |
 | DNA templates | GFP and Cas9, each with CryoRNAP or T7 RNAP promoter (DNA stock: 35 ng/µL) |
-| RNase-free water | GFP and Cas9 templates with CryoRNAP or T7 promoters; DNA stock: 35 ng/µL |
+| RNase-free water | Nuclease-free water for buffer preparation and reaction assembly |
 | RNase-free tubes and filter tips | For IVT assembly |
 
 ## 2. Reagent preparation

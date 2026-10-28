@@ -55,8 +55,9 @@ To make 10 mL of 4x stock, combine:
 | 14.7 M β-mercaptoethanol | 0.4 ml | 1% β-mercaptoethanol |
 | 0.5 M EDTA | 1.0 ml | 12.5 mM EDTA |
 | bromophenol Blue | 8 mg | 0.02 % bromophenol blue |
+| dH2O | to 10 ml | |
 
-**Storage:** Store in aliquots at -20oC.
+**Storage:** Store in aliquots at -20°C.
 
 Use of loading buffer: Dilute protein sample 1:3 into 4X sample loading buffer. Load on acrylamide gel in SDS-PAGE buffer.
 

@@ -75,7 +75,7 @@ We routinely pour two-layer stacking, discontinuous gels. The lower layer is cal
 **Casting the resolving layer:**
 
 1. Prepare the glass plates, combs and casting station **before** you combine any chemicals. Read the [manual](/wiki/instruments/gel-electrophoresis-systems/) to learn how to use the casting system.
-2. Adding a 1000 mL pipette tip between the casting station clip will help keep the gel from leaking (it can still happen though).
+2. Adding a 1000 µL pipette tip between the casting station clip will help keep the gel from leaking (it can still happen though).
 3. Combine H2O, Tris, SDS and Acrylamide in a 50 mL disposable falcon tube and invert several times or vortex to mix thoroughly.
 4. Add APS and TEMED, invert several times and use a Pipette-Aid to cast the resolving layer, up to the bottom of the green line from the casting station which is about an inch free at the top. **Polymerization initiates as soon as you add APS & TEMED** so you only have a few minutes before the gel solidifies.
 5. Pour ~0.5ml of isopropanol or butanol gently on top of the resolving layer. This should pop all air bubbles and provide for a smooth boundary between the focusing and resolving gel layers.
@@ -83,7 +83,7 @@ We routinely pour two-layer stacking, discontinuous gels. The lower layer is cal
 
 **Casting the focusing layer:**
 
-1. Gently remove the isopronanol with the edge of a Kim-Wipe (inverting the casting station over the sink with a kim-wipe works too to remove the isopropanol).
+1. Gently remove the isopropanol with the edge of a Kim-Wipe (inverting the casting station over the sink with a kim-wipe works too to remove the isopropanol).
 2. Some leaking from the gel is still usable up to the top of the green casting doors.
 3. Combine H2O, Tris, SDS and Acrylamide in a falcon tube and mix.
 4. Add APS and TEMED, mix and fill the gel to the top with the acrylamide mixture.

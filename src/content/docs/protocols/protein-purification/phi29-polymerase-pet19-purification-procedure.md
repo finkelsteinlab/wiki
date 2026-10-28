@@ -24,29 +24,31 @@ Plasmid cloned from the previous [Φ29 (phi29) DNA Polymerase](/wiki/protocols/p
 - 25 mM Tris pH 7.5 (1M): 6.25 mL
 - 500 mM NaCl (5M): 25 mL
 - 5% Glycerol (50% stock): 25 mL
+- H2O: to 250 mL (193.75 mL)
 
-**Lysis Buffer (250 mL)**
-
-Lysis Buffer + High NaCl: (25 mL)
+**Lysis Buffer + High NaCl (25 mL)**
 
 - 25 mM Tris pH 7.5 (1M): 0.625 mL
 - 1M NaCl (5M): 5 mL
 - 5% Glycerol (50% stock): 2.5 mL
+- H2O: to 25 mL (16.875 mL)
 
-**TwinStrep Elution Buffer: (25 mL)**
+**TwinStrep Elution Buffer (25 mL)**
 
 - 25 mM Tris pH 7.5 (1M): 0.625 mL
 - 500 mM NaCl (5M): 2.5 mL
 - 5% Glycerol (50% stock): 2.5 mL
 - 5 mM Desthiobiotin: 26.9 mg
+- H2O: to 25 mL (19.375 mL)
 
-**Storage Buffer: (1L)**
+**Storage Buffer (1L)**
 
 - 10 mM Tris pH 7.5 (1M): 10 mL
-- 100 mM KCl: 7.45g
+- 100 mM KCl: 7.45 g
 - 1 mM DTT (1M): 1 mL
 - 0.1 mM EDTA (500 mM): 200 uL
 - 10% glycerol (50% stock): 200 mL
+- H2O: to 1 L (~788.8 mL)
 
 ## 2. Procedure
 
@@ -74,7 +76,7 @@ Lysis Buffer + High NaCl: (25 mL)
 8. Elute resin with Elution buffer in 5 mL fractions.
 9. Dialyze in Dialysis Buffer with addition of SUMO Protease.
 10. Dialyze for 4 hours at 4C.
-11. Freeze in aliquots in L2. Store in -80C.
+11. Freeze in aliquots in LN2. Store in -80C.
 
 [^paper-1]: Schaub et al. (2018). [Assessing Protein Dynamics on Low-Complexity Single-Stranded DNA Curtains](https://finkelsteinlab.org/papers/paper/low-complexity-ssdna-curtains). *Langmuir*.
 [^paper-2]: Zhang et al. (2020). [RADX condenses single-stranded DNA to antagonize RAD51 loading](https://finkelsteinlab.org/papers/paper/RADX-condensation). *Nucleic Acids Research*.

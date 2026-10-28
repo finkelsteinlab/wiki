@@ -25,7 +25,7 @@ Note: EDTA powder takes a long time to dissolve. It is better to prepare a 0.5M 
 
 ## 2. TBE
 
-**T**ris, **B**orate, **E**DTA is used routinely for polyacrylamide electrophoresis of nucleic acids. The 1X working solution is 40 mM Tris-borate/1 mM EDTA pH 8. We will make 5L of a 1x TBE. Higher concentrations of TBE (5X and 10x) tend to crash out of solution over time.
+**T**ris, **B**orate, **E**DTA is used routinely for polyacrylamide electrophoresis of nucleic acids. The 1X working solution is 89 mM Tris-borate / 2 mM EDTA, pH 8.3 (0.5X is 44.5 mM Tris-borate / 1 mM EDTA). We usually make a 5X TBE stock (or 5 L of 1X TBE). Higher concentrations of TBE (5X and 10X) tend to precipitate out of solution over time.
 
 Recipe (1L)(pH 8.3):
 

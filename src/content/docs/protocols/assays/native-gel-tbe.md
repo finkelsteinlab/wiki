@@ -25,7 +25,7 @@ Native PAGE separations are run in non-denaturing conditions. Detergents are use
 ## 2. Procedure
 
 1. Prepare the glass plates, combs and casting station before you combine any chemicals. Read the manual to learn how to use the casting system.
-2. Adding a 1000 mL pipette tip between the casting station clip will help keep the gel from leaking (it can still happen though).
+2. Adding a 1000 µL pipette tip between the casting station clip will help keep the gel from leaking (it can still happen though).
 3. Combine the H2O, 5x TBE, and Acrylamide in a 50 mL disposable falcon tube and invert several times or vortex to mix thoroughly.
 4. Add APS and TEMED, invert several times and use a Pipette-Aid to pour all the way to the top. Polymerization initiates as soon as you add APS & TEMED so you only have a few minutes before the gel solidifies.
 5. Insert the comb and let the gel polymerize.

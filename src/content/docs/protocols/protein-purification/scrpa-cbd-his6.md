@@ -55,8 +55,8 @@ For the Ni-NTA + HiTrap Q purification of GFP-tagged yeast RPA without a chitin 
 1. Defrost the pellet in lukewarm water until it turns into an icy slurry.
 2. Add 1 volume of 2x Lysis buffer+PMSF and resuspend by mixing with pipette.
    - 2xlysis buffer: (do not use beta-mercaptoethanol because it will cleave the CBD)
-     - 500 M NaCl
-     - 40 mM Tris-HCl,ph7.5
+     - 500 mM NaCl
+     - 40 mM Tris-HCl, pH 7.5
      - 10 mM imidazole, pH 8
      - 20% glycerol.
 3. Sonicate the lysate for a total of 90 seconds (75 amplitude; 15 second bursts with 90 second rests in between). Make sure lysate stays ice cold.
