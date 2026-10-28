@@ -21,6 +21,7 @@ Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5][^paper-6][
    2. [Preparation](#32-preparation)
    3. [Day 1](#33-day-1)
    4. [Day 2](#34-day-2)
+   5. [Short Gravity-Only Protocol for Mutant Screening (Skipping S200)](#35-short-gravity-only-protocol-for-mutant-screening-skipping-s200)
 4. [Useful Numbers](#4-useful-numbers)
 5. [References](#5-references)
 
@@ -186,6 +187,21 @@ Typically done same day that pellet is made.
 4. Keep one aliquot for a gel.
 5. Flash freeze the protein in liquid nitrogen and store at -80°C until ready for use.
 6. Celebrate with high fives if successful.
+
+### 3.5 Short Gravity-Only Protocol for Mutant Screening (Skipping S200)
+
+For smaller-scale (`500 mL`) preps of Cas12a mutants (e.g., screening WT vs. HFCX3 variants without running the S200 size-exclusion column):
+
+- **Buffers (pH 8.0):** Use the [High-Salt / pH 8.0 Lysis and Wash Buffers](#11-high-salt--ph-80-variant-kds-protocol) above, plus:
+  - **Storage Buffer (500 mL, pH 8.0):** 500 mM NaCl, 20 mM HEPES, 5 mM MgCl<sub>2</sub>, 2 mM DTT (add day of use)
+  - **Elution Buffer (20 mL):** Add 10 mM final desthiobiotin (43 mg) to 20 mL Storage Buffer
+- **Growth & Induction:** Start a 20 mL overnight starter culture in TB + carbenicillin at 37°C, inoculate 500 mL culture, grow at 37°C to OD<sub>600</sub> ~0.6, chill in ice water, and induce with **1.0 mM IPTG** for 24 h at 18°C.
+- **Strep-Tactin Gravity Column & SUMO Cleavage:**
+  1. Load clarified lysate (from 45 mL Lysis Buffer supplemented with 1.0 mM PMSF, 450 µL 100× Bimake protease inhibitor, and 2,000 U DNase I) onto a pre-equilibrated Strep-Tactin gravity column.
+  2. Wash sequentially with **50 mL Wash Buffer** (supplemented with 1.0 mM PMSF) followed by **50 mL Storage Buffer** (to exchange directly into 500 mM NaCl storage conditions).
+  3. Drain buffer to just above the resin bed and elute with **20 mL Elution Buffer**.
+  4. Spin-concentrate the eluate to ~900 µL, save an SDS-PAGE sample, add **100 µL of 29 µM SUMO protease**, and nutate overnight at 4°C.
+  5. Take a post-cleavage gel sample, make 20 µL aliquots, and flash-freeze at -80°C.
 
 ## 4. Useful Numbers
 

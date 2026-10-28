@@ -12,9 +12,9 @@ The helicase is essential for replication. This protein is responsible for unwin
 2. [Purification Protocol](#2-purification-protocol)
    1. [Transform](#21-transform)
    2. [Express](#22-express)
-   3. [Purify](#23-purify)
+   3. [Purify (Chitin Column)](#23-purify-chitin-column)
    4. [Analysis](#24-analysis)
-   5. [Purify](#25-purify)
+   5. [Purify (Q Column Nuclease Removal)](#25-purify-q-column-nuclease-removal)
 
 ## 1. Notes
 
@@ -27,14 +27,14 @@ From Scott Nelson (2013/09/05):
 
 ### 2.1 Transform
 
-1. Transform 1 uL of GP41 plasmid into 50 uL of ArticExpress BL21(DE3) cells.
+1. Transform 1 uL of GP41 plasmid into 50 uL of ArcticExpress BL21(DE3) cells.
 2. Flick 5 times.
 3. Place on ice for 5 minutes.
-4. Place in a 42C water bath for 30 seconds.
+4. Place in a 42°C water bath for 30 seconds.
 5. Place on ice for 2 minutes of recovery.
-6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37C, 250 rpm.
-7. Plate 250 uL of cells onto an LB-Carb plate and place in a 37C incubator for 24 hours.
-8. You can hold plate for 2 weeks in 4C if you parafilm the edges.
+6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37°C, 250 rpm.
+7. Plate 250 uL of cells onto an LB-Carb plate and place in a 37°C incubator for 24 hours.
+8. You can hold plate for 2 weeks in 4°C if you parafilm the edges.
 
 ### 2.2 Express
 
@@ -54,13 +54,13 @@ From Scott Nelson (2013/09/05):
    - 10% Sucrose
    - 1 mM PMSF (protease inhibitor) –\> be sure to only add just before resuspension
 10. Divide 70 mL resuspension into two 35 mL volumes (for 2 pellets with 3L worth of bacterial culture in each).
-11. Flash freeze cells in liquid nitrogen and store in -80C until ready to use.
+11. Flash freeze cells in liquid nitrogen and store in -80°C until ready to use.
 
-### 2.3 Purify
+### 2.3 Purify (Chitin Column)
 
 1. Defrost the pellet on ice.
 2. Sonicate the lysate for a total of 90 seconds (15 second bursts with 90 second rests in between).
-3. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4C.
+3. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4°C.
 4. Take a sample of the clarified lysate for later gel analysis.
 5. Load the clarified lysate onto a 5 mL pre-equilibrated chitin column.
    - Equilibration buffer (Buffer A):
@@ -92,7 +92,7 @@ From Scott Nelson (2013/09/05):
 5. Load onto the gel.
 6. Pool fractions containing your product together.
 
-### 2.5 Purify
+### 2.5 Purify (Q Column Nuclease Removal)
 
 This extra purification step is to remove exo and endo nucleases that can potential chew away the DNA you work with or prevent the protein from binding to DNA.
 

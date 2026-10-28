@@ -10,7 +10,7 @@ title: "MutL purification"
 2. [Overexpression](#2-overexpression)
 3. [Ni-column](#3-ni-column)
 4. [Heparin column](#4-heparin-column)
-5. [Superex 200](#5-superex-200)
+5. [Superdex 200](#5-superdex-200)
 
 ## 1. Transformation
 
@@ -68,7 +68,7 @@ Buffer B for heparin column:
 - 1mM betamercaptoethanol (BME)
 - Buffer A is same as buffer B except for no NaCl added
 
-## 5. Superex 200
+## 5. Superdex 200
 
 1. Concentrate fractions from previous column (~1mL).
 2. Run through Superdex 200 16/600. Flow rate can be 1mL/min.
