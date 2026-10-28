@@ -75,13 +75,13 @@ Used in our papers:[^paper-1][^paper-2]
 
 ### 3.2 1st Day
 
-1. Inoculate 10 ml of cells per liter of LB-amp media (1/100) (37C and 220 rpm, 1 L in one flask and total 2 L). Typically 4L for one purification.
+1. Inoculate 10 ml of cells per liter of LB-amp media (1/100) (37°C and 220 rpm, 1 L in one flask and total 2 L). Typically 4L for one purification.
 2. At OD600~0.8 (~2 hour incubation, for FtsK) where the cells stop growing, add 2 g of arabinose powder per liter for induction (Cf: 0.2% w/v, or 2 mg/ml). Add biotin (Cf: 0.1 mM) if the construct has biotin.
    1. FtsK-WA-WA-WA mutants show slower growth than FtsK-WB-WB-WB mutants about 1 hour.
    2. pBAD plasmids contain E. coli araC gene which encodes the AraC regulatory protein. AraC acts as an activator of pBAD transcription in the presence of L-arabinose and a transcriptional repressor in the absence of this sugar. Expression of the pBAD promoter also requires the CAP.cyclic-AMP complex, and thus expression is decreased in the presence of glucose in either the presence or absence of arabinose. Fucose, an anti-inducer, can also be used to decrease pBAD expression.
    3. 0.2% of arabinose gives the maximum protein expression. Induction is not too high.
 3. Express FtsK for 1 hour, which seems to be critical for a better yield!!!
-4. Harvest the cells (5,000 rpm and 10 min at 4C).
+4. Harvest the cells (5,000 rpm and 10 min at 4°C).
    1. FtsK is toxic, the pellets are small. So, resuspend the cells with a small volume for higher concentration.
    2. When the cells are growing with biotin, the smell is very stinky. That means working well.
 5. Resuspend the cell pellets with resuspension buffer supplemented with protease inhibitor. Final volume ~ 15 ml/liter. Transfer it to 50 ml tube. If necessary, freeze it using liquid N2.
@@ -90,7 +90,7 @@ Used in our papers:[^paper-1][^paper-2]
 ### 3.3 2nd Day
 
 1. Cells are lysed by using sonication (75% output: 4.292 J, 15 sec on and 1 min 45 sec off, total 6 times). In original protocol, pressurizer (or French press) and sonication are used.
-2. Spin down the cell debris (30 min, 15,000 rpm, 4C) using ultracentrifuge and take supernatant.
+2. Spin down the cell debris (30 min, 15,000 rpm, 4°C) using ultracentrifuge and take supernatant.
 3. Ammonium sulfate precipitation for the supernatant. Proteins are precipitated at 44% (w/v).
    1. Ammonium sulfate increases the volume. Use [the calculator in website](http://www.encorbio.com/protocols/AM-SO4.htm).
 4. Pellet (20 min, 15,000 rpm) using ultracentrifuge and resuspend the pellet in Talon buffer-A (typically 25 ml).

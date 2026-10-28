@@ -40,7 +40,7 @@ GP32 binds to single stranded DNA to promote stabilization. Each molecule binds 
 4. Grow @ 30°C until an O.D. 600 of 0.6-1.0.
 5. Once the O.D. 600 is reached, inoculate the cultures with a concentration of 0.4 mM IPTG.
 6. Grow O/N @ 12°C (16-20 hours).
-7. Harvest by centrifuging for 10 minutes at 5000 rpm (@ 4C).
+7. Harvest by centrifuging for 10 minutes at 5000 rpm (@ 4°C).
 8. Decant the supernatant and keep the pellet. **Do this in the cold room**
 9. Resuspend each 3L pellet to 35 mL with resuspension buffer:
    - 50 mM Tris pH 7.5

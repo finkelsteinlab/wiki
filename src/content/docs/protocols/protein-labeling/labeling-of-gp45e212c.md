@@ -22,7 +22,7 @@ Alexa488, expectedly, is very light sensitive and should be treated with care (a
 
 My purification for gp45e212c gave me a very high protein concentration (150 uM), so I first dilute the protein down 2X using a 20 mM Tris, pH 7.0 (it is VERY IMPORTANT that the buffer is at pH 7.0 for this SMCC reaction to occur); 200 mM NaCl; 5 mM MgCl2
 
-Labeling reagents (biotin-maleimide is in the 4C fridge and Alexa488-maleimide is in the -20C freezer) need to be at a 20X excess in the reaction
+Labeling reagents (biotin-maleimide is in the 4°C fridge and Alexa488-maleimide is in the -20°C freezer) need to be at a 20X excess in the reaction
 
 These subsequent volumes are for a protein solution of 75 uM -
 

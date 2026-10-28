@@ -58,7 +58,7 @@ Used in our paper:[^paper-1]
 4. Lyse the cells by sonication (75% output: 4.292J, 15 sec on and 1 min 45 sec off, total 6 times).
 5. Centrifuge the cell lysate at 25,000 rpm for 40 min at 4°C (in Ti-45 Beckman).
 6. Ammonium sulfate precipitation at 40% over 30 min.
-7. Pellet (20 min, 25,000 rpm, at 4C).
+7. Pellet (20 min, 25,000 rpm, at 4°C).
 8. Completely resuspend the pellets with Resuspension buffer.
 9. Use filter the resuspended pellet with 0.22 um syringe filter (optional).
 10. Add the clarified lysate to the ‘Streptactin’ column (the volume of clarified lysate should be less than 30 ml, 10x CV).

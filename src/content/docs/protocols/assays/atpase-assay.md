@@ -32,7 +32,7 @@ The ATPase activity assay is a coupled reaction where the regeneration of hydrol
 ## 2. Notes
 
 - NADH should be made with 0.01M NaOH
-- NADH is sensitive to UV-induced decomposition (store in amber tubes wrapped in foil in -80C freezer)
+- NADH is sensitive to UV-induced decomposition (store in amber tubes wrapped in foil in -80°C freezer)
 - Use fresh ATP to minimize amount of ADP in the solution thereby reducing background activity
 
 ## 3. gp44/62

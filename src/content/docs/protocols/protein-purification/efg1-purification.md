@@ -28,7 +28,7 @@ Transform plasmid into BL21 (DE3) cells.
 2. Incubate on ice for 30 minutes.
 3. Heat shock cells at 42°C for 30 seconds.
 4. Return to ice for 2-5 minutes.
-5. Add 950 uL of pre-warmed (37 C) SOC to the tube.
+5. Add 950 uL of pre-warmed (37°C) SOC to the tube.
 6. Shake at 37°C and 225 rpm for 60 minutes.
 7. Plate 50uL and 200uL of cells onto an LB plate with Kanamycin (100ug/mL). Incubate at 37°C overnight.
 

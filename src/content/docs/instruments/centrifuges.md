@@ -35,7 +35,7 @@ We have two centrifuges in the lab. The Avanti J26XP and the Optima XE. Spin fas
 
 The rotor for the Optima XE is Ti-45 (titanium 45000 rpm).
 
-- The rotors will be stored in the cold room (4C) to keep our experiments happy
+- The rotors will be stored in the cold room (4°C) to keep our experiments happy
   - Store the rotor in it’s blue bag for longevity.
 - To clean the rotor, remove the o-ring on the lid and clean out gunk monthly. The lid is not titanium and will corrode if not cleaned. Replace the o-ring and add a little vacuum grease.
 - If you clean the rotor with water or alcohol turn it upside down to dry.
