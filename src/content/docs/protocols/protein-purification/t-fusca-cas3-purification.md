@@ -65,19 +65,19 @@ Super active Cas3 purification is from Adam Dolan in the Ke lab. Contact him for
 6. Take a 20ul sample of clarified lysate for lysing control.
 7. Pre-equilibrate 2ml bed volume of Ni resin with 15 column volumes (cv, 20ml) of buffer A. Never let the resin go dry.
 8. Apply the lysate over the resin. Collect the flowthrough.
-9. Was the resin with 15cv of buffer A. Collect the wash.
+9. Wash the resin with 15cv of buffer A. Collect the wash.
 10. Elute the protein with 6ml of Buffer B. Collect the elution.
 11. Purify the elution using the Superdex S-200 column and the 10ml superloop.
-12. Run the colomn at 1ml/minute collecting 1ml fractions.
+12. Run the column at 1ml/minute collecting 1ml fractions.
 
 ### 2.5 Results: Day 4 cont.
 
 <img src="/wiki/media/protocols/cas3-his-edit.png" width="800" alt="cas3-his-edit.png" /> <img src="/wiki/media/protocols/4-6-16_cas3_gel_filtration_fractions.png" width="500" alt="4-6-16_cas3_gel_filtration_fractions.png" />
 
-The numbers represent fractions that where run on an SDS-page gel (shown). Boxed regions show seperate peaks that were pooled.
+The numbers represent fractions that were run on an SDS-PAGE gel (shown). Boxed regions show separate peaks that were pooled.
 
 1. Pool and concentrate similar fractions as shown above. Concentrate until approximately 20mg/ml (BSA bradford).
-2. Freeze in Liquid N2 and store in -80’.
+2. Freeze in Liquid N2 and store in -80°C.
 
 ## 3. References
 

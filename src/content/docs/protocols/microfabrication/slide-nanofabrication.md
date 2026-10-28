@@ -163,7 +163,7 @@ Cooke E-beam/sputter deposition system: <http://www.cnm.utexas.edu/equipment/coo
 12. Push ON the HT green button and wait for the display to read 8.0 kV.
 13. Be sure that the filament/emission switch is on “filament” and then push the green ON button for the filament.
 14. Wait for the filament current to stabilize on the display.
-15. Be sure that the black know is at zero and switch the display from filament to emission.
+15. Be sure that the black knob is at zero and switch the display from filament to emission.
 16. Emission current should read zero.
 17. Close the sample shutter to protect the samples. (toggle switch located at the most right of the line of toggle switches)
 18. Turn on the emission current very slowly.

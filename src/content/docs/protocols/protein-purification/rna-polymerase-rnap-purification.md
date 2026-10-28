@@ -68,20 +68,20 @@ Note: 400=400mM; N=NaCl; T=Tris; Z=ZnCl2; G=Glycerol; 30=30mM; i=imidazole
 
 ### 3.1 Day 3
 
-1. Resuspend cell pellet in 60mL of 400NTZG30i plus 1 tablet of protease inhibitor (Roche, cOmplete EDTA-free Cocktail Tablets) and lysozyme to 100μg/mL. \[Optional: DNase to ~5μg/mL\]
+1. Resuspend cell pellet in 60mL of 400NTZG30i plus 1 tablet of protease inhibitor (Roche, cOmplete EDTA-free Cocktail Tablets) and lysozyme to 100μg/mL. (Optional: DNase to ~5μg/mL)
 2. Incubate at 4°C for 20 minutes, with occasional shaking.
-3. Sonicate the cells at 50kHz for 4 minutes \[2sec on, 2sec off cycle\] on ice.\
-   Note: Ice is sprinkled and mixed with salt (NaCl) to lower the temperature to ~-10°C, prior to sonication.
+3. Sonicate the cells at 50kHz for 4 minutes (2sec on, 2sec off cycle) on ice.
+   - *Note:* Ice is sprinkled and mixed with salt (NaCl) to lower the temperature to ~-10°C, prior to sonication.
 4. Centrifuge lysate at 12,000 rpm for 20 minutes.
-5. Load the lysate onto a 10mL bed volume of Ni column, pre-equilibrated with 400NTZG30i.\
-   Note: No DTT, No EDTA in Ni column.
+5. Load the lysate onto a 10mL bed volume of Ni column, pre-equilibrated with 400NTZG30i.
+   - *Note:* No DTT, No EDTA in Ni column.
 6. Wash the Ni column five times with 20mL 400NTZG30i.
 7. Place a 10mL bed volume of Heparin column, pre-equilibrated with 400NTZG plus 1mM DTT, under the Ni column.
-8. Elute five times with 10mL 400NTZG250i.\
-   Note: Elute directly into the Heparin column.
+8. Elute five times with 10mL 400NTZG250i.
+   - *Note:* Elute directly into the Heparin column.
 9. Wash the Heparin column four times with 10mL 400NTZG plus 1mM DTT.
-10. Elute RNAP with 650NTZG plus 1mM DTT and collect fractions.\
-    Note: I normally elute with 2mL of 650NTZG with 1mM DTT each, up to 30 fractions.
+10. Elute RNAP with 650NTZG plus 1mM DTT and collect fractions.
+    - *Note:* I normally elute with 2mL of 650NTZG with 1mM DTT each, up to 30 fractions.
 
 ## 4. Notes
 

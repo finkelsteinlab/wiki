@@ -72,7 +72,7 @@ Used in our paper:[^paper-1]
 
 ## 4. Concentration measurement
 
-- Distinction coefficient (e280) of Tus = 39,700 M-1 cm-1.
+- Extinction coefficient (ε280) of Tus = 39,700 M⁻¹ cm⁻¹.
 - Use Bradford
 
 ## 5. Source

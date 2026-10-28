@@ -24,9 +24,9 @@ If you do not know yet how to download plug-ins into imageJ try looking at the F
 
 ## 2. Actually tracking your particle
 
-So now you have the tools, but how do you get position files of your particles as it diffuses on DNA? This will be accomplished using the 2D/3D partical traking tool in the Mosaic software you just downloaded. There is an excellent [tutorial](http://mosaic.mpi-cbg.de/ParticleTracker/tutorial.html) that provides sample data and a through explanation of how to track and link various particles. Do all of it. Also, if you have more detailed questions as the the parameters, the [manual](http://mosaic.mpi-cbg.de/ParticleTracker/doc/ParticleTrackerUserManual.pdf) <a class="pdf-copy" href="/wiki/media/archive/ParticleTrackerUserManual.pdf" title="Archived PDF copy">PDF</a> for the particle tracking tool is also informative.
+So now you have the tools, but how do you get position files of your particles as it diffuses on DNA? This will be accomplished using the 2D/3D particle tracking tool in the Mosaic software you just downloaded. There is an excellent [tutorial](http://mosaic.mpi-cbg.de/ParticleTracker/tutorial.html) that provides sample data and a thorough explanation of how to track and link various particles. Do all of it. Also, if you have more detailed questions as to the parameters, the [manual](http://mosaic.mpi-cbg.de/ParticleTracker/doc/ParticleTrackerUserManual.pdf) <a class="pdf-copy" href="/wiki/media/archive/ParticleTrackerUserManual.pdf" title="Archived PDF copy">PDF</a> for the particle tracking tool is also informative.
 
-Now if you have your own data, track those particles. The easiest way to do this is to take your initial raw data and crop a small section of the movie that actually contains the entire trajectory of your particle. Crop as much as you can without loosing any of your molecules signal.
+Now if you have your own data, track those particles. The easiest way to do this is to take your initial raw data and crop a small section of the movie that actually contains the entire trajectory of your particle. Crop as much as you can without losing any of your molecule's signal.
 
 :::tip
 

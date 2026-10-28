@@ -61,14 +61,14 @@ List of materials needed:
 ## 4. Day two
 
 1. Streak 6 single colonies onto two 6-section plates.
-2. Grow one plate at 30°C and one at 42‘overnight. \* Streak on the 42°C plate first for a more definitive confirmation.
+2. Grow one plate at 30°C and one at 42°C overnight. *Note: Streak on the 42°C plate first for a more definitive confirmation.*
 
 ## 5. Day three
 
 - Colonies that have grown on the 30°C sections and not on the 42°C sections are lysogens.
 
-1. Inoculate 2X 50ml of LB with a single lysogen colony. Grow overnight at 30’
-2. Autoclave 2X 4L flasks with 500 ml of LB. Put in 30’ shaker with inoculated overnight cultures for the next day use.
+1. Inoculate 2X 50ml of LB with a single lysogen colony. Grow overnight at 30°C.
+2. Autoclave 2X 4L flasks with 500 ml of LB. Put in 30°C shaker with inoculated overnight cultures for the next day use.
 
 ## 6. Day four
 
@@ -134,15 +134,15 @@ This is the long day, so try to get this started as early as you can.
 14. Transfer the suspended cells into two separate 15ml falcon tubes.
 15. If freezing the pellet move on to the next step. If you plan to do the purification all in one day skip to chloroform lysis step 23.
 16. If storing the pellets, centrifuge the falcon tubes at 3000 G’s for 30 minutes.
-17. Pour off the supernatent and flash freeze the pellets in liquid N2.
-18. Store the pellets in the -80. Storage confirmed for maximum of ONE DAY.
+17. Pour off the supernatant and flash freeze the pellets in liquid N2.
+18. Store the pellets in the -80°C freezer. Storage confirmed for maximum of ONE DAY.
 19. When you are ready to re-start purification, remove the pellets and place in a room temperature water bath.
 20. Top the pellets with 5ml of room temperature SM buffer. Let the pellets thaw for approximately 5 minutes.
 21. Vortex the pellets to suspend. If chunks still persist shake the tubes.
 22. Add 5ml of SM buffer to a total of 10ml.
 23. Add 200ul of chloroform to each tube and vortex vigorously.
-24. Incubate the tubes shaking on their side at 37°C for 30 min. After shaking the culture will be extremely thick. Start defrosting the DNAse and RNAse for the next step on ice.
-25. Add \*250uL (50ng/ul total) of DNAase and \*30uL (30ng/ul) of RNAase to each tube. \*Calculate your amount to add based off of initial concentration! Too much DNAse will shear lambda DNA.
+24. Incubate the tubes shaking on their side at 37°C for 30 min. After shaking the culture will be extremely thick. Start defrosting the DNase and RNase for the next step on ice.
+25. Add 250 uL (50 ng/uL total) of DNase and 30 uL (30 ng/uL) of RNase to each tube. *Note: Calculate your amount to add based off of initial concentration! Too much DNase will shear lambda DNA.*
 26. Incubate the tubes shaking on their side at 37°C for 1 hour.
 27. Centrifuge the tubes at 6000 G’s for 15 min.
 28. Transfer the supernatant to a 50ml falcon tube.

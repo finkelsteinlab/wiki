@@ -35,7 +35,7 @@ Do not make up more than you need for the current PCR analysis.
    1. 96°, 1 min; 50°, 30 sec; 68°, X min; 10X
    2. 94°, 30 sec; 50°, 30 sec; 68°, X min; 20X
 
-   The extension times should be adjusted based on the length of your expected product (~1 min/kb for [Crimson Taq](http://www.neb.com/nebecomm/products/productm0324.asp) <a class="pdf-copy" href="/wiki/media/archive/www-neb-com-nebecomm-products-productm0324-asp.pdf" title="Archived PDF copy">PDF</a>). Note that the the first 10 cycles take the place of a “boil” program, at the expense of polymerase inactivation. Adjust the annealing temperature (50oC) in program as necessary for your primers.
+   The extension times should be adjusted based on the length of your expected product (~1 min/kb for [Crimson Taq](http://www.neb.com/nebecomm/products/productm0324.asp) <a class="pdf-copy" href="/wiki/media/archive/www-neb-com-nebecomm-products-productm0324-asp.pdf" title="Archived PDF copy">PDF</a>). Note that the first 10 cycles take the place of a “boil” program, at the expense of polymerase inactivation. Adjust the annealing temperature (50°C) in program as necessary for your primers.
 4. Add 5 ul 5X or 6X loading buffer to each tube and run an agarose gel, loading ~10 ul per lane. If using CrimsonTaq buffer, just load 10 ul of PCR reaction directly onto agarose gel.
 5. Use the cultures corresponding to PCR-positive colonies to start mini/midi-preps (or whatever prep is appropriate).
 

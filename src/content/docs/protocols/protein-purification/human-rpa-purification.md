@@ -125,7 +125,7 @@ For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragmen
 6. Monitor the fractions with two wavelengths. 280 nm for protein absorption and 488 nm for GFP fluorescence.
 7. Collect fractions and run on a 10-12% SDS Page gel.
 
-\*Note, the HiTrap Q column is used to further concentrate the purified protein, and is optional. hRPA-eGFP purification can stop after the S300 column and proceed immediately with over night dialysis into storage buffer.
+*Note: The HiTrap Q column is used to further concentrate the purified protein, and is optional. hRPA-eGFP purification can stop after the S300 column and proceed immediately with overnight dialysis into storage buffer.*
 
 **Q column**
 

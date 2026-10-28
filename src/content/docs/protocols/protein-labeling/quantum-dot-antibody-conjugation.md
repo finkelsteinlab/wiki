@@ -16,7 +16,7 @@ This is a 4-5 hr protocol to conjugate antibodies to fluorescent quantum dots (Q
 
 :::caution
 
-\* Are you making FLAG-, DIG- or other common antibodies? Ask around – somebody else may have made some recently.
+- Are you making FLAG-, DIG- or other common antibodies? Ask around – somebody else may have made some recently.
 
 - QDots and antibodies are very expensive. You can scale the reaction down and use a quarter of the QDot kit to conjugate your antibody.
 - SMCC should only be used once and thrown away after use! Do not return a used SMCC vial back. More SMCC can be purchased from [Pierce (cat \#22360)](http://www.piercenet.com/browse.cfm?fldID=02030351) (dead link)

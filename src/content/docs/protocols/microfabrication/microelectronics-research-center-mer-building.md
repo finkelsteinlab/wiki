@@ -75,17 +75,17 @@ For the general SEM and JEOL manual, ask the cleanroom staff. For the particular
    1. Change stage preset to ‘FCup’ (faraday cup)
    2. Move to middle of Faraday cup, the black hole
    3. Zoom in to max (xx nm scale).
-   4. Make sure the Beam-\>Spot 1 is selected in the mechanical aperture on the EBL column.
+   4. Make sure the Beam->Spot 1 is selected in the mechanical aperture on the EBL column.
    5. Set current on LED display (should be ~500 nA)
-7. Select “Mesh” and be sure that the mesh is at the center of the osciloscope screen. Save the new position
+7. Select “Mesh” and be sure that the mesh is at the center of the oscilloscope screen. Save the new position
 8. Adjust the focus, define the plane, and position beam for writing
    1. Zoom out all the way to xx magnification
    2. Find the spot that is closest to the Mesh and adjust the focus.
-9. Select wobbler and select lens 5. The spot that you focused will start moving if the aperture 1 is not align.
+9. Select wobbler and select lens 5. The spot that you focused will start moving if the aperture 1 is not aligned.
    1. Go to the EBL column and align the mechanical aperture by moving the 2 screws one at the time. Watch the screen on the column room to be sure the spot stops moving. When it stops moving you are done with wobbler alignment.
-10. After finish wobbler alignment go back to Faraday Cup and Mesh alignment, check if they are still OK, otherwise realign them.
-11. Select the SEM sample and change into BEI fild to adjust astigmatism.
-   1. Record the numbers for X and Y astigmatism before you start adjusting or you will loose the astigmatism original reference.
+10. After finishing wobbler alignment go back to Faraday Cup and Mesh alignment, check if they are still OK, otherwise realign them.
+11. Select the SEM sample and change into BEI field to adjust astigmatism.
+   1. Record the numbers for X and Y astigmatism before you start adjusting or you will lose the astigmatism original reference.
 12. Center the wafer by selecting “Center 4 inch” and burn a small spot. Try to visualize the spot on the screen.
    1. Visualizing the spot is not always necessary but if done right you make sure that your pattern will be there.
 
@@ -120,8 +120,8 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 4. Load the Cr loaded carbon cup into the target area.
 5. Use paper clips or double sided tape, (away from EBL patterns), to hold one or several slides on the sample disc.
 6. Close the door, (no need to use the screws on door).
-7. Turn the know to “Pump” and wait for pressure to reach 5 x 10^(-5) in about 30 minutes.
-8. While you wait, select a process in the microbalance menue
+7. Turn the knob to “Pump” and wait for pressure to reach 5 x 10^(-5) in about 30 minutes.
+8. While you wait, select a process in the microbalance menu
    1. Press “Select Process” and move up and down with the gray knob to choose one.
    2. Select “E-beam-Cr”, press “select” and then “main menu”
    3. Be sure that “E-beam-Cr” is written on the top of the screen and that all values zero.
@@ -131,14 +131,14 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 12. Push ON the HT green button and wait for the display to read 8.0 kV
 13. Be sure that the filament/emission switch is on “filament” and then push the green ON button for the filament.
 14. Wait for the filament current to stabilize on the display.
-15. Be sure that the black know is at zero and switch the display from filament to emission.
+15. Be sure that the black knob is at zero and switch the display from filament to emission.
 16. Emission current should read zero.
 17. Close the sample shutter to protect the samples. (toggle switch located at the most right of the line of toggle switches)
 18. Turn on the emission current very slowly.
 19. When the display reads about 2, look at the Cr target inside and it should be glowing where the e-beam heats it.
 20. Align the beam to avoid touching anything else but the Cr. pellets.
 21. Open the sample shutter to let Cr flow to the sample.
-22. Keep turning the black know while you keep watching the Microbalance display.
+22. Keep turning the black knob while you keep watching the Microbalance display.
 23. When you reach about 7 in the emission current display, the Microbalance will start detecting mass and layer thickness will increase.
 24. Only add 12 nm of Cr thickness to your sample and then close the shutter to protect the samples.
 25. Turn down the emission current slowly to zero.
@@ -185,7 +185,7 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 1. Turn ON the touch screen
 2. Turn ON the “Auto Vent” and wait about 3 minutes to open the chamber
 3. Open the chamber and load 2 Chrome-Plated tungsten rods (Kurt Lesker part number EVSCRW1)
-4. Use the Allen wrench to loose the four electrodes. Two electrodes per rod.
+4. Use the Allen wrench to loosen the four electrodes. Two electrodes per rod.
 5. Electrodes A are the closest to you and the rod would be almost parallel to the door.
 6. Electrodes B are the two electrodes on the left side. The rod on these electrodes would be almost perpendicular to the door.
 7. After rods are tight, screw in a metallic disc on the central rod on top of the chamber. Use the disc that has a recession and be sure the head of the screw is not sticking out the plate or will scratch or break your wafer.
@@ -207,21 +207,21 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 14. As you turn the current up, keep watching the pressure and monitor the emission of light inside the chamber.
 15. At some point the pressure will go up due to dust coating the chrome. Do not open the valve at this point.
    1. Let the pressure come back down and then turn up the current again.
-16. When turning up the current you will see that the quartz micro valance starts to detect deposition.
+16. When turning up the current you will see that the quartz microbalance starts to detect deposition.
    1. Zero the balance and open the valve (changes into green).
    2. To be sure that the valve is open the piston on top, outside the chamber should be short. Piston is extended when valve is closed.
-17. Increase the current until you get a rate of about 0.8 amstrongs/ second.
+17. Increase the current until you get a rate of about 0.8 Angstroms/second.
 18. Wait until the average of the two quartz crystal microbalances reach 13 nm of chrome.
 19. Close the valve from the touch screen.
-   1. Try to avoid closing and opening the valve from the microbalance controler. This will zero the layer thickness.
+   1. Try to avoid closing and opening the valve from the microbalance controller. This will zero the layer thickness.
 20. Lower the current down to zero at once
 21. Click on the “Auto” button and then click on “Auto Vent”
 22. Remove your sample first
 23. If you want to put another sample, be sure that one of the two tungsten bars has enough chrome left.
    1. One new tungsten bar should be good for 2 or maybe 3 samples.
-   2. Always have to tungsten bars loaded in case yo finish one and you want to start the other electrode without opening the chamber
+   2. Always have two tungsten bars loaded in case you finish one and you want to start the other electrode without opening the chamber
    3. Opening the chamber to continue a deposition will put debris in the middle of the layer and will make brittle features.
-24. After you are done will all samples
+24. After you are done with all samples
    1. Open chamber and remove your sample
    2. Remove tungsten rods
    3. Close chamber
@@ -269,7 +269,7 @@ Before you go to the clean room be sure that you have marked on the back side of
       1. Working thickness is 1.05 for 1 mm thick wafer
       2. Channel 1 is 50.05 mm and Channel 2 is 22.05 mm
       3. Working area is 100 mm
-      4. Velocity is 1 mm/sec for 0.5 or 1 mm thick fuse silica wafer.
+      4. Velocity is 1 mm/sec for 0.5 or 1 mm thick fused silica wafer.
       5. Press “Enter” button to save changes
       6. Press “Exit” button twice to go back to the main menu.
 2. Place your sandwiched sample on the chuck and press the “vac” dirty button to hold it in place and be sure that the needle on the board goes from the red area up to the green area of “good vacuum”.
@@ -291,17 +291,21 @@ Before you go to the clean room be sure that you have marked on the back side of
 5. Press the START/STOP GREEN/RED button to start the program 333
    1. Program should automatically do “First” and “Second” cuts.
    2. Stop the alarm sound by pressing “alarm” button
-6. Move up 22 mm form the “Second Cut” to do the “Third Cut”
+6. Move up 22 mm from the “Second Cut” to do the “Third Cut”
 7. Press the START button to initiate the 333 program again and to start the “Third Cut”
    1. When program finishes the “Third Cut” press STOP button and “vac” button.
-8. Remove the top and bottom peaces to avoid cutting them with the next cuts.
-   1. Cut ONLY the upper tape along the rim of the 2 peaces that you will remove.
-   2. Always keep the upper tape on each peace to protect the patterns during the next steps of the process.
-      1. Leave the bottom tape intact as to make a good vacuum on the chock.
-   3. Put the top and bottom semicircular peaces in capped tube with water.
+8. Remove the top and bottom pieces to avoid cutting them with the next cuts.
+   1. Cut ONLY the upper tape along the rim of the 2 pieces that you will remove.
+   2. Always keep the upper tape on each piece to protect the patterns during the next steps of the process.
+      1. Leave the bottom tape intact as to make a good vacuum on the chuck.
+   3. Put the top and bottom semicircular pieces in capped tube with water.
    4. Put the rest of the wafer back onto the chuck, press “vac” and do alignment using the flat left after the “First Cut”
 9. To do the vertical cuts press “index” and then press “theta angle rotation”
-   1. The stage will rotate 90 degrees to start cutting according to “channel 2 settings. - The first vertical cut is done 6 mm away from the bottom of the wafer. - Press enter and let the 333 program make all the rest of the cuts - Make sure that after each cut the blade moves 22 mm or so. - After done, press ”alarm” button and remove the 4 peaces by pressing “vac” button off.
+   1. The stage will rotate 90 degrees to start cutting according to “channel 2” settings.
+      - The first vertical cut is done 6 mm away from the bottom of the wafer.
+      - Press enter and let the 333 program make all the rest of the cuts.
+      - Make sure that after each cut the blade moves 22 mm or so.
+      - After done, press “alarm” button and remove the 4 pieces by pressing “vac” button off.
    2. Sometimes you will have to press the “vac” button twice.
 10. If you have other wafes to cut do not press exit or you will have to start from the beginning again.
    1. Every time you press the “vac” button and your sample is released you will have to align the sample or next sample again.

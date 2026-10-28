@@ -16,7 +16,7 @@ Purpose: to label the mutagenized cysteine in gp45e212c with tags for utilizatio
 General protocols are available at these links:
 
 - Biotin – <http://www.piercenet.com/instructions/2160748.pdf> (dead link)
-- Alexa Fluor 488 – <<http://tools.lifetechnologies.com/content/sfs/manuals/mp00003.pdf> <a class="pdf-copy" href="/wiki/media/archive/mp00003.pdf" title="Archived PDF copy">PDF</a>>
+- Alexa Fluor 488 – <http://tools.lifetechnologies.com/content/sfs/manuals/mp00003.pdf> <a class="pdf-copy" href="/wiki/media/archive/mp00003.pdf" title="Archived PDF copy">PDF</a>
 
 Alexa488, expectedly, is very light sensitive and should be treated with care (all solutions containing the reagent wrapped in foil, etc.)
 

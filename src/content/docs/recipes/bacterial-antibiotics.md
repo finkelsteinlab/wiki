@@ -213,7 +213,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 
 ## 2. Notes
 
-\*Be aware: some competent cells have natural antibiotic resistance. Ex: DH10b cells are Strep/Spect resistant.
+*Note: Be aware that some competent cells have natural antibiotic resistance. For example, DH10B cells are Strep/Spect resistant.*
 
 ### 2.1 Ampicillin
 

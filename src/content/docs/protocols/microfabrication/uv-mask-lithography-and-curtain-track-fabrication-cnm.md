@@ -199,8 +199,8 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 4. Load the Cr loaded carbon cup into the target area.
 5. Use paper clips or double sided tape, (away from EBL patterns), to hold one or several slides on the sample disc.
 6. Close the door, (no need to use the screws on door).
-7. Turn the know to “Pump” and wait for pressure to reach 5 x 10^(-5) in about 30 minutes.
-8. While you wait, select a process in the microbalance menue.
+7. Turn the knob to “Pump” and wait for pressure to reach 5 x 10^(-5) in about 30 minutes.
+8. While you wait, select a process in the microbalance menu.
    1. Press “Select Process” and move up and down with the gray knob to choose one.
    2. Select “E-beam-Cr”, press “select” and then “main menu”.
    3. Be sure that “E-beam-Cr” is written on the top of the screen and that all values zero.
@@ -210,14 +210,14 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 12. Push ON the HT green button and wait for the display to read 8.0 kV.
 13. Be sure that the filament/emission switch is on “filament” and then push the green ON button for the filament.
 14. Wait for the filament current to stabilize on the display.
-15. Be sure that the black know is at zero and switch the display from filament to emission.
+15. Be sure that the black knob is at zero and switch the display from filament to emission.
 16. Emission current should read zero.
 17. Close the sample shutter to protect the samples. (toggle switch located at the most right of the line of toggle switches)
 18. Turn on the emission current very slowly.
 19. When the display reads about 10, look at the Cr target inside and it should be glowing where the e-beam heats it.
 20. Align the beam to avoid touching anything else but the Cr. pellets.
 21. Open the sample shutter to let Cr flow to the sample.
-22. Keep turning the black know while you keep watching the Microbalance display.
+22. Keep turning the black knob while you keep watching the Microbalance display.
 23. When you reach about 7 in the emission current display, the Microbalance will start detecting mass and layer thickness will increase.
 24. Only add 13 nm of Cr thickness to your sample and then close the shutter to protect the samples.
 25. Turn down the emission current slowly to zero.
@@ -261,7 +261,7 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
       1. Working thickness is 1.5 for 1.5 mm thick wafer.
       2. Channel 1 is 50.05 mm and Channel 2 is 22.05 mm.
       3. Working area is 100 mm.
-      4. Velocity is 1 mm/sec for 0.5 or 1 mm thick fuse silica wafer.
+      4. Velocity is 1 mm/sec for 0.5 or 1 mm thick fused silica wafer.
       5. Press “Enter” button to save changes.
       6. Press “Exit” button twice to go back to the main menu.
 2. Place your sandwiched sample on the chuck and press the “vac” dirty button to hold it in place and be sure that the needle on the board goes from the red area up to the green area of “good vacuum”.
@@ -282,21 +282,21 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 5. Press the START/STOP GREEN/RED button to start the program 333.
    1. Program should automatically do “First” and “Second” cuts.
    2. Stop the alarm sound by pressing “alarm” button.
-6. Move up 22 mm form the “Second Cut” to do the “Third Cut”.
+6. Move up 22 mm from the “Second Cut” to do the “Third Cut”.
 7. Press the START button to initiate the 333 program again and to start the “Third Cut”.
    1. When program finishes the “Third Cut” press STOP button and “vac” button.
-8. Remove the top and bottom peaces to avoid cutting them with the next cuts.
-   1. Cut ONLY the upper tape along the rim of the 2 peaces that you will remove.
-   2. Always keep the upper tape on each peace to protect the patterns during the next steps of the process.
+8. Remove the top and bottom pieces to avoid cutting them with the next cuts.
+   1. Cut ONLY the upper tape along the rim of the 2 pieces that you will remove.
+   2. Always keep the upper tape on each piece to protect the patterns during the next steps of the process.
       1. Leave the bottom tape intact as to make a good vacuum on the chuck.
-   3. Put the top and bottom semicircular peaces in capped tube with water.
+   3. Put the top and bottom semicircular pieces in capped tube with water.
    4. Put the rest of the wafer back onto the chuck, press “vac” and do alignment using the flat left after the “First Cut”.
 9. To do the vertical cuts press “index” and then press “theta angle rotation”.
-   1. The stage will rotate 90 degrees to start cutting according to “channel 2 settings.
+   1. The stage will rotate 90 degrees to start cutting according to “channel 2” settings.
       - The first vertical cut is done 6 mm away from the bottom of the wafer.
       - Press enter and let the 333 program make all the rest of the cuts.
       - Make sure that after each cut the blade moves 22 mm or so.
-      - After done, press ”alarm” button and remove the 4 peaces by pressing “vac” button off.
+      - After done, press “alarm” button and remove the 4 pieces by pressing “vac” button off.
    2. Sometimes you will have to press the “vac” button twice.
 10. If you have other wafers to cut do not press exit or you will have to start from the beginning again.
     1. Every time you press the “vac” button and your sample is released you will have to align the sample or next sample again.
