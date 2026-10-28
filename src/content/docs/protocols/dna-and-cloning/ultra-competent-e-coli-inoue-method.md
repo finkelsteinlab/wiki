@@ -16,6 +16,8 @@ This procedure takes two days overall to complete, starting from the initial pla
 
 1. [Inoue Transformation Buffer (ITB)](#1-inoue-transformation-buffer-itb)
 2. [Protocol](#2-protocol)
+   1. [Day 1](#21-day-1)
+   2. [Day 2](#22-day-2)
 3. [Efficiency of Transformation](#3-efficiency-of-transformation)
    1. [pUC19 Competency Test Procedure](#31-puc19-competency-test-procedure)
    2. [Example Transformation Efficiency Plates (DH5α)](#32-example-transformation-efficiency-plates-dh5α)

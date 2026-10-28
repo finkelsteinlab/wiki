@@ -6,6 +6,10 @@ title: "Cas9 Purification"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3]
 
+:::note
+For TEV protease purification, see [TEV Protease Purification](/wiki/protocols/protein-purification/tev-protease-purification/). For the anti-CRISPR inhibitor AcrIIA4, see [AcrIIA4 Purification](/wiki/protocols/protein-purification/acriia4-purification/). For high-throughput cleavage profiling, see [NucleaSeq](/wiki/protocols/assays/nucleaseq/).
+:::
+
 ## Contents
 
 1. [Buffers and Reagents](#1-buffers-and-reagents)

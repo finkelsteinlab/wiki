@@ -4,7 +4,7 @@ title: "GP45 Processivity Clamp"
 
 <!-- migrated from DokuWiki page protocols:clamp_gp45 -->
 
-The processivity clamp is a toroid-shaped molecule large enough to encircle duplex DNA. It acts as a platform that tether DNA polymerase to the DNA.
+The processivity clamp is a toroid-shaped molecule large enough to encircle duplex DNA. It acts as a platform that tether DNA polymerase to the DNA. (Part of the [T4 Replisome Purification](/wiki/protocols/protein-purification/t4-replisome-purification/) suite; see also [Labeling of gp45e212c](/wiki/protocols/protein-labeling/labeling-of-gp45e212c/) and [ATPase Assay](/wiki/protocols/assays/atpase-assay/).)
 
 ## Contents
 

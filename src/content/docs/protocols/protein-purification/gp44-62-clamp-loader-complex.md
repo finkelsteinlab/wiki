@@ -4,7 +4,7 @@ title: "GP44/62 Clamp Loader Complex"
 
 <!-- migrated from DokuWiki page protocols:clamp_loader_gp44_62 -->
 
-The clamp loader serves to load the processivity clamp onto duplex DNA. It is composed of four subunits of GP44 and one subunit of GP62. It can also act as a chaperone for recruiting GP43 to assemble the functional holoenzyme (GP43, GP45, GP44/62). This was the biggest pain of a protein to purify. We have many constructs of this protein with many different purification schemes and cell lines. If you would like the details, please consult Greg Hild’s lab notebook.
+The clamp loader serves to load the processivity clamp onto duplex DNA. It is composed of four subunits of GP44 and one subunit of GP62. It can also act as a chaperone for recruiting GP43 to assemble the functional holoenzyme (GP43, GP45, GP44/62). This was the biggest pain of a protein to purify. We have many constructs of this protein with many different purification schemes and cell lines. If you would like the details, please consult Greg Hild’s lab notebook. (Part of the [T4 Replisome Purification](/wiki/protocols/protein-purification/t4-replisome-purification/) suite; see also [ATPase Assay](/wiki/protocols/assays/atpase-assay/).)
 
 ## Contents
 

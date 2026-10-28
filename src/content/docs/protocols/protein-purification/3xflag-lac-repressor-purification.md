@@ -6,7 +6,7 @@ title: "3xFLAG Lac Repressor (LacI) Purification"
 
 Used in our papers:[^paper-1][^paper-2]
 
-LacI repressor with 3xFLAG epitope at the C-terminus
+LacI repressor with 3xFLAG epitope at the C-terminus (used in roadblock curtain assays; see [Cas3 Roadblocks-LacI](/wiki/protocols/assays/cas3-roadblocks-laci/)).
 
 ## Contents
 

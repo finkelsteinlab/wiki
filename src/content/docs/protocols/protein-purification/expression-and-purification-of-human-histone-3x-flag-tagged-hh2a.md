@@ -7,7 +7,7 @@ title: "Expression and Purification of Human Histone 3x FLAG tagged hH2A"
 Used in our papers:[^paper-1][^paper-2]
 
 :::note
-For untagged human histones (H2A, H2B, H3, and H4), see [Human Histone Purification](/wiki/protocols/protein-purification/human-histone-purification/).
+For untagged human histones (H2A, H2B, H3, and H4), see [Human Histone Purification](/wiki/protocols/protein-purification/human-histone-purification/). For yeast histones, see [Yeast Histone Purification](/wiki/protocols/protein-purification/yeast-histone-purification/). For assembling histone octamers onto 601 DNA, see [Nucleosome Reconstitution](/wiki/protocols/assays/nucleosome-reconstitution/).
 :::
 
 ## Contents

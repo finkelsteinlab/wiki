@@ -9,6 +9,8 @@ This protocol is for labeling Cas3 with a labeled GGG-X peptide, where X is anyt
 ## Contents
 
 1. [Materials](#1-materials)
+   - [1.1 Reagents](#11-reagents)
+   - [1.2 Buffers and supplies](#12-buffers-and-supplies)
 2. [Protocol](#2-protocol)
    - [2.1 Day 1](#21-day-1)
    - [2.2 Day 2](#22-day-2)

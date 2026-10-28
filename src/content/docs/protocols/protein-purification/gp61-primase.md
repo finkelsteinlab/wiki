@@ -4,7 +4,7 @@ title: "GP61 Primase"
 
 <!-- migrated from DokuWiki page protocols:primase_gp61 -->
 
-The T4 primase protein is essential for normal DNA synthesis in vivo. The protein catalyzes the synthesis of short RNA molecules used as primers for DNA polymerase on the lagging strand of a replication fork.
+The T4 primase protein is essential for normal DNA synthesis in vivo. The protein catalyzes the synthesis of short RNA molecules used as primers for DNA polymerase on the lagging strand of a replication fork. (Part of the [T4 Replisome Purification](/wiki/protocols/protein-purification/t4-replisome-purification/) suite.)
 
 ## Contents
 

@@ -17,6 +17,8 @@ title: "Microelectronics Research Center (MER building)"
    - [6.3 Denton Thermal Evaporator](#63-denton-thermal-evaporator)
 7. [Lift-off](#7-lift-off)
 8. [Dicing Saw](#8-dicing-saw)
+   - [8.1 Setup](#81-setup)
+   - [8.2 Cutting](#82-cutting)
 9. [Notes](#9-notes)
 
 ## 1. Before you start

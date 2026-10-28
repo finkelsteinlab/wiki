@@ -4,6 +4,10 @@ title: "TEV Protease Purification"
 
 <!-- migrated from DokuWiki page protocols:tev_protease -->
 
+:::note
+For SUMO protease (Ulp1) purification, see [SUMO Protease Purification Protocol](/wiki/protocols/protein-purification/sumo-protease-purification-protocol/).
+:::
+
 ## Contents
 
 1. [Buffers and Reagents](#1-buffers-and-reagents)

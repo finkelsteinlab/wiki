@@ -4,7 +4,7 @@ title: "GP43 DNA Polymerase"
 
 <!-- migrated from DokuWiki page protocols:dna_polymerase_gp43 -->
 
-The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynucleotides in the 5’ 3’ direction. The wild type T4 polymerase has a strong 3’ to 5’ exonuclease activity, however the polymerase produced in the lab is an exonuclease deficient mutant.
+The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynucleotides in the 5’ 3’ direction. The wild type T4 polymerase has a strong 3’ to 5’ exonuclease activity, however the polymerase produced in the lab is an exonuclease deficient mutant. (Part of the [T4 Replisome Purification](/wiki/protocols/protein-purification/t4-replisome-purification/) suite; see also [ATPase Assay](/wiki/protocols/assays/atpase-assay/).)
 
 ## Contents
 

@@ -4,6 +4,10 @@ title: "AcrIIA4 Purification"
 
 <!-- migrated from DokuWiki page protocols:acriia4 -->
 
+:::note
+For Cas9 purification, see [Cas9 Purification](/wiki/protocols/protein-purification/cas9-purification/). For SUMO protease purification, see [SUMO Protease Purification Protocol](/wiki/protocols/protein-purification/sumo-protease-purification-protocol/).
+:::
+
 ## Contents
 
 1. [Buffers and Reagents](#1-buffers-and-reagents)

@@ -4,7 +4,7 @@ title: "Analyzing protein biotinylation via Streptavidin gel shift"
 
 <!-- migrated from DokuWiki page protocols:biotin-streptavidin_upshift_assay -->
 
-This assay utilizes the tight interaction between biotin and streptavidin to analyze what percentage of your protein of interest has been biotinylated.
+This assay utilizes the tight interaction between biotin and streptavidin to analyze what percentage of your protein of interest has been biotinylated (see [Epitope Tags for Labeling Proteins](/wiki/protocols/protein-labeling/epitope-tags-for-labeling-proteins/#5-avitag-biotin-tag) and [Labeling of gp45e212c](/wiki/protocols/protein-labeling/labeling-of-gp45e212c/)).
 
 ## Contents
 

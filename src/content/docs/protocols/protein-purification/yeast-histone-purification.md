@@ -4,7 +4,7 @@ title: "Yeast Histone Purification"
 
 <!-- migrated from DokuWiki page protocols:histone_purification -->
 
-Yeast recombinant histones are purified from a pET-based E. coli expression vector.
+Yeast recombinant histones are purified from a pET-based E. coli expression vector. (For human histone purification, see [Human Histone Purification](/wiki/protocols/protein-purification/human-histone-purification/) and [Expression and Purification of Human Histone 3x FLAG tagged hH2A](/wiki/protocols/protein-purification/expression-and-purification-of-human-histone-3x-flag-tagged-hh2a/). For reconstituting octamers onto 601 DNA, see [Nucleosome Reconstitution](/wiki/protocols/assays/nucleosome-reconstitution/).)
 
 ## Contents
 

@@ -15,8 +15,12 @@ This protocol is for rapid purification of E. coli core-RNAP (no sigma-subunit) 
    - [1.2 5x TZG](#12-5x-tzg)
    - [1.3 Buffer compositions](#13-buffer-compositions)
 2. [Expression](#2-expression)
+   - [2.1 Day 1](#21-day-1)
+   - [2.2 Day 2](#22-day-2)
 3. [Purification](#3-purification)
+   - [3.1 Day 3](#31-day-3)
 4. [Notes](#4-notes)
+   - [4.1 Core vs Holo Enzyme](#41-core-vs-holo-enzyme)
 
 ## 1. Solutions
 

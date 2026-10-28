@@ -5,6 +5,11 @@ description: "Template and rules for pages about lab code, analysis tools and co
 
 Software pages guide someone from scratch to a working result. Read [Editing the wiki](/wiki/contributing/editing-the-wiki/) first for GitHub steps and general rules.
 
+## Contents
+
+1. [Template](#1-template)
+2. [Rules](#2-rules)
+
 ## 1. Template
 
 Save as `src/content/docs/computing/<tool-name>.md`.

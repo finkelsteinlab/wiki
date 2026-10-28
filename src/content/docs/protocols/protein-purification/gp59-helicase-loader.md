@@ -4,7 +4,7 @@ title: "GP59 Helicase Loader"
 
 <!-- migrated from DokuWiki page protocols:helicase_loader_gp59 -->
 
-The helicase loader is a single stranded binding protein with a strong affinity for forked DNA (i.e. the replication bubble). GP59 is responsible for loading the helicase onto forked DNA and has other interactions that are still being elucidated.
+The helicase loader is a single stranded binding protein with a strong affinity for forked DNA (i.e. the replication bubble). GP59 is responsible for loading the helicase onto forked DNA and has other interactions that are still being elucidated. (Part of the [T4 Replisome Purification](/wiki/protocols/protein-purification/t4-replisome-purification/) suite; see also [ATPase Assay](/wiki/protocols/assays/atpase-assay/).)
 
 ## Contents
 

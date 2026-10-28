@@ -4,6 +4,10 @@ title: "Tracking Exo1 Molecules"
 
 <!-- migrated from DokuWiki page protocols:exo1_tracking -->
 
+:::note
+For purification of biotinylated human EXO1, see [Exo1 Purification](/wiki/protocols/protein-purification/exo1-purification/). For general 2D/3D particle tracking in ImageJ/MosaicSuite, see [Particle Tracking](/wiki/protocols/single-molecule/particle-tracking/).
+:::
+
 ## Contents
 
 1. [Cropping](#1-cropping)

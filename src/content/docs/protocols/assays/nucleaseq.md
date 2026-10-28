@@ -18,7 +18,7 @@ The overall NucleaSeq protocol involves preparing a Cas9 / sgRNA mix, adding a D
 
 ## 2. Reagents
 
-- Cas9 (typically stored in this buffer: 20mM HEPES, 250 mM KCl)
+- Cas9 (typically stored in this buffer: 20mM HEPES, 250 mM KCl; see [Cas9 Purification](/wiki/protocols/protein-purification/cas9-purification/))
 - sgRNA: typically stored in 10uL aliquots @ 5uM concentration.
 - DNA library: prepared by PCR from an oligo pool made by CustomArray, Inc customarray.com.
 - 0.1M HEPES pH8

@@ -11,6 +11,8 @@ For the Inoue ultra-competent cell protocol (18–21°C growth in PIPES transfor
 ## Contents
 
 1. [Materials](#1-materials)
+   - [1.1 TFB1 Buffer](#11-tfb1-buffer)
+   - [1.2 TFB2 Buffer](#12-tfb2-buffer)
 2. [Protocol](#2-protocol)
    - [2.1 Growing the cells](#21-growing-the-cells)
    - [2.2 Making the cells competent](#22-making-the-cells-competent)

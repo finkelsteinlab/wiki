@@ -4,6 +4,10 @@ title: "Particle Tracking"
 
 <!-- migrated from DokuWiki page protocols:molecular_tracking -->
 
+:::note
+For the Fiji/MATLAB workflow used specifically to track and fit EXO1 resection trajectories (`IJF_Tracking.py` and `ppfit_digest`), see [Tracking Exo1 Molecules](/wiki/protocols/single-molecule/tracking-exo1-molecules/).
+:::
+
 ## Contents
 
 1. [Software](#1-software)

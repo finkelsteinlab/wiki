@@ -4,7 +4,7 @@ title: "Labeling of gp45e212c"
 
 <!-- migrated from DokuWiki page protocols:labeling_of_gp45e212c -->
 
-Purpose: to label the mutagenized cysteine in gp45e212c with tags for utilization in visualizing the protein on the microscope
+Purpose: to label the mutagenized cysteine in gp45e212c with tags for utilization in visualizing the protein on the microscope (see [GP45 Processivity Clamp](/wiki/protocols/protein-purification/gp45-processivity-clamp/) and [T4 Replisome Purification](/wiki/protocols/protein-purification/t4-replisome-purification/)).
 
 ## Contents
 
@@ -35,6 +35,6 @@ These subsequent volumes are for a protein solution of 75 uM -
 
 ## 2. Quantifying Labeling Efficiency
 
-To assess efficiency of labeling, use a Biotin-Streptavidin upshift assay for the biotinylated gp45e212c.
+To assess efficiency of labeling, use a Biotin-Streptavidin upshift assay ([Analyzing protein biotinylation via Streptavidin gel shift](/wiki/protocols/protein-labeling/analyzing-protein-biotinylation-via-streptavidin-gel-shift/)) for the biotinylated gp45e212c.
 
 For Alexa488-labeled gp45, use the extinction coefficients of Alexa488 (73000 cm-1M-1) and gp45e212c (19940 cm-1M-1) as well as Beer’s law to find concentrations (measure A493 for Alexa488 and A280 for protein on the nanodrop).

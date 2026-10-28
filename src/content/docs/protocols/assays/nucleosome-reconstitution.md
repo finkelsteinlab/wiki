@@ -4,7 +4,7 @@ title: "Nucleosome Reconstitution"
 
 <!-- migrated from DokuWiki page protocols:nucleosome_reconstitution -->
 
-You need concentrated DNA and histone octamer to assemble nucleosomes in vitro.
+You need concentrated DNA and histone octamer to assemble nucleosomes in vitro (for histone purification, see [Human Histone Purification](/wiki/protocols/protein-purification/human-histone-purification/), [Expression and Purification of Human Histone 3x FLAG tagged hH2A](/wiki/protocols/protein-purification/expression-and-purification-of-human-histone-3x-flag-tagged-hh2a/), and [Yeast Histone Purification](/wiki/protocols/protein-purification/yeast-histone-purification/)).
 
 ## Contents
 

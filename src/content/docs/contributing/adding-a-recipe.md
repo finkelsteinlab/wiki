@@ -5,6 +5,11 @@ description: "Template and rules for buffer, media and solution recipes."
 
 A recipe page lets someone make the solution without asking anyone. Read [Editing the wiki](/wiki/contributing/editing-the-wiki/) first for GitHub steps and general rules.
 
+## Contents
+
+1. [Template](#1-template)
+2. [Rules](#2-rules)
+
 ## 1. Template
 
 Save as `src/content/docs/recipes/<recipe-name>.md`. A page can hold several related recipes, each in a `##` section.

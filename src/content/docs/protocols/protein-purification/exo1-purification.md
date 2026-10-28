@@ -6,6 +6,10 @@ title: "Exo1 Purification"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5]
 
+:::note
+For single-molecule tracking and digestion rate analysis of EXO1 on DNA curtains, see [Tracking Exo1 Molecules](/wiki/protocols/single-molecule/tracking-exo1-molecules/).
+:::
+
 ## Contents
 
 1. [Materials](#1-materials)

@@ -11,7 +11,7 @@ Replication protein A (RPA) is a protein that binds single-stranded DNA in eukar
 Plasmids and protocol were adapted from Mauro Modesti: [PubMed 21909885](https://pubmed.ncbi.nlm.nih.gov/21909885/)
 
 :::note
-For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragments](/wiki/protocols/protein-purification/human-rpa-fragments/). For *S. cerevisiae* RPA protocols, see [scRPA-CBD-His6](/wiki/protocols/protein-purification/scrpa-cbd-his6/) and [scRPA-GFP-His6 Purification](/wiki/protocols/protein-purification/scrpa-gfp-his6-purification/).
+For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragments](/wiki/protocols/protein-purification/human-rpa-fragments/). For *in vitro* phosphorylated human RPA, see [Phosphorylated RPA Purification](/wiki/protocols/protein-purification/phosphorylated-rpa-purification/). For *S. cerevisiae* RPA protocols, see [scRPA-CBD-His6](/wiki/protocols/protein-purification/scrpa-cbd-his6/) and [scRPA-GFP-His6 Purification](/wiki/protocols/protein-purification/scrpa-gfp-his6-purification/).
 :::
 
 ## Contents

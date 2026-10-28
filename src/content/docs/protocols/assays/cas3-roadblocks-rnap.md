@@ -4,7 +4,7 @@ title: "Cas3 Roadblocks-RNAP"
 
 <!-- migrated from DokuWiki page protocols:cas3_roadblocks_rnap -->
 
-For the LacI roadblock assay, see [Cas3 Roadblocks-LacI](/wiki/protocols/assays/cas3-roadblocks-laci/).
+For the LacI roadblock assay, see [Cas3 Roadblocks-LacI](/wiki/protocols/assays/cas3-roadblocks-laci/). For protein purifications used in this assay, see [Logan's E.coli RNAP Purification](/wiki/protocols/protein-purification/logan-s-e-coli-rnap-purification/), [RNA Polymerase Holoenzyme purification](/wiki/protocols/protein-purification/rna-polymerase-holoenzyme-purification/), [T. fusca Cascade Purification](/wiki/protocols/protein-purification/t-fusca-cascade-purification/), and [T. fusca Cas3 Purification](/wiki/protocols/protein-purification/t-fusca-cas3-purification/).
 
 ## Contents
 

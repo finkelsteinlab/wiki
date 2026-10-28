@@ -6,6 +6,10 @@ title: "Phosphorylated RPA Purification"
 
 Used in our paper:[^paper-1]
 
+:::note
+For purification of the recombinant human RPA substrate used in this reaction, see [Human RPA purification](/wiki/protocols/protein-purification/human-rpa-purification/).
+:::
+
 ## Contents
 
 1. [Materials](#1-materials)

@@ -4,7 +4,7 @@ title: "Cas3 Roadblocks-LacI"
 
 <!-- migrated from DokuWiki page protocols:cas3_roadblocks_laci -->
 
-For the RNA polymerase roadblock assay, see [Cas3 Roadblocks-RNAP](/wiki/protocols/assays/cas3-roadblocks-rnap/).
+For the RNA polymerase roadblock assay, see [Cas3 Roadblocks-RNAP](/wiki/protocols/assays/cas3-roadblocks-rnap/). For protein purifications used in this assay, see [3xFLAG Lac Repressor (LacI) Purification](/wiki/protocols/protein-purification/3xflag-lac-repressor-purification/), [T. fusca Cascade Purification](/wiki/protocols/protein-purification/t-fusca-cascade-purification/), and [T. fusca Cas3 Purification](/wiki/protocols/protein-purification/t-fusca-cas3-purification/).
 
 ## Contents
 

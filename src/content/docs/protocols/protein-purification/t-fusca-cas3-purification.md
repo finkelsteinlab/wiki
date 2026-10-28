@@ -7,6 +7,8 @@ title: "T. fusca Cas3 Purification"
 :::note[See Also]
 - [T. fusca Cascade Purification](/wiki/protocols/protein-purification/t-fusca-cascade-purification/)
 - [T. fusca Cas1-Cas2 purification](/wiki/protocols/protein-purification/t-fusca-cas1-cas2-purification/)
+- [Cas3 Sortase labeling](/wiki/protocols/protein-labeling/cas3-sortase-labeling/)
+- [Cas3 Roadblocks-LacI](/wiki/protocols/assays/cas3-roadblocks-laci/) and [Cas3 Roadblocks-RNAP](/wiki/protocols/assays/cas3-roadblocks-rnap/)
 :::
 
 Used in our papers:[^paper-1][^paper-2][^paper-3]

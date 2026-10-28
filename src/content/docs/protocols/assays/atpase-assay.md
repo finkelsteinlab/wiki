@@ -4,6 +4,10 @@ title: "ATPase Assay"
 
 <!-- migrated from DokuWiki page protocols:atpase_assay -->
 
+:::note
+For purification of the T4 replisome and primosome proteins assayed below ([GP44/62](/wiki/protocols/protein-purification/gp44-62-clamp-loader-complex/), [GP45](/wiki/protocols/protein-purification/gp45-processivity-clamp/), [GP43](/wiki/protocols/protein-purification/gp43-dna-polymerase/), [GP41](/wiki/protocols/protein-purification/gp41-helicase/), [GP32](/wiki/protocols/protein-purification/gp32-single-stranded-binding-protein/), and [GP59](/wiki/protocols/protein-purification/gp59-helicase-loader/)), see [T4 Replisome Purification](/wiki/protocols/protein-purification/t4-replisome-purification/).
+:::
+
 ## Contents
 
 1. [Overview](#1-overview)

@@ -13,6 +13,11 @@ title: "Journal Club Protocol"
    - [2.1 Before meeting](#21-before-meeting)
    - [2.2 At Journal Club](#22-at-journal-club)
 3. [Suggested Papers for Journal Club](#3-suggested-papers-for-journal-club)
+   - [3.1 Aging](#31-aging)
+   - [3.2 Chromatin](#32-chromatin)
+   - [3.3 DSB Repair](#33-dsb-repair)
+   - [3.4 Mismatch Repair](#34-mismatch-repair)
+   - [3.5 Replication](#35-replication)
 
 ## 1. Week 1
 

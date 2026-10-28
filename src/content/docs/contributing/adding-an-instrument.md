@@ -5,6 +5,11 @@ description: "Template and rules for instrument pages."
 
 Instrument pages answer three questions: where it is and who looks after it, how to use it, and who to call when it breaks. Read [Editing the wiki](/wiki/contributing/editing-the-wiki/) first for GitHub steps and general rules.
 
+## Contents
+
+1. [Template](#1-template)
+2. [Rules](#2-rules)
+
 ## 1. Template
 
 Save as `src/content/docs/instruments/<instrument-name>.md`. Omit empty sections.

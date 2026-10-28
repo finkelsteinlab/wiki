@@ -6,7 +6,7 @@ title: "GP32 Single Stranded Binding Protein"
 
 Used in our papers:[^paper-1][^paper-2]
 
-GP32 binds to single stranded DNA to promote stabilization. Each molecule binds to 7-9 nucleotides. GP32 also has interactions with many other replication proteins that are still being discerned.
+GP32 binds to single stranded DNA to promote stabilization. Each molecule binds to 7-9 nucleotides. GP32 also has interactions with many other replication proteins that are still being discerned. (Part of the [T4 Replisome Purification](/wiki/protocols/protein-purification/t4-replisome-purification/) suite; see also [ATPase Assay](/wiki/protocols/assays/atpase-assay/).)
 
 ## Contents
 

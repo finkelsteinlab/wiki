@@ -6,6 +6,10 @@ title: "SUMO Protease Purification Protocol"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5]
 
+:::note
+For TEV protease purification, see [TEV Protease Purification](/wiki/protocols/protein-purification/tev-protease-purification/).
+:::
+
 ## Contents
 
 1. [Buffers](#1-buffers)

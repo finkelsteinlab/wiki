@@ -103,7 +103,7 @@ We’ve obtained efficient *in vivo* biotinylation (approaching 90%) by followin
 - [AviTag induction protocol](/wiki/media/protocols/avidity_inductionprotocol.pdf)
 - Other AviTag protocols from the Avidity site: <https://www.avidity.com/t-protocols.aspx> <a class="pdf-copy" href="/wiki/media/archive/www-avidity-com-t-protocols-aspx.pdf" title="Archived PDF copy">PDF</a>
 
-Alternatively, you can add biotin directly to your cells (BL21, HMS174, etc) when you’re inducing your protein. The biotinylation efficiency is easily tested via an SDS-PAGE gel-shift assay (see Ilya).
+Alternatively, you can add biotin directly to your cells (BL21, HMS174, etc) when you’re inducing your protein. The biotinylation efficiency is easily tested via an [SDS-PAGE streptavidin gel-shift assay](/wiki/protocols/protein-labeling/analyzing-protein-biotinylation-via-streptavidin-gel-shift/) (see Ilya).
 
 ## 6. V5 tag
 
