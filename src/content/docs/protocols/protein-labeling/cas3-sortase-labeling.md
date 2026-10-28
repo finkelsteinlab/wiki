@@ -92,8 +92,8 @@ After adding the peptide, all steps must be taken to protect the reaction from l
 | Reagent    | final conc.  |
 |:-----------|--------------|
 | Cas3       | \> 20uM      |
-| GGG-Fluor  | 5 x \[Cas3\] |
-| Sortase 7M | 5 x \[Cas3\] |
+| GGG-Fluor  | 5 x [Cas3] |
+| Sortase 7M | 5 x [Cas3] |
 
 1. Using the 1ml peak His-Trap fraction yields plenty of protein. Store the rest of the Cas3 for later.
 2. Add the labeled peptide and Sortase 7M.

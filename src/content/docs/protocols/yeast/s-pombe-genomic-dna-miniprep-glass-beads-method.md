@@ -20,7 +20,7 @@ STEN buffer: 0.1 M Tris pH 8.0, 0.1 M NaCl, 1 mM EDTA pH 8.0, 1% SDS
   - 2 ml of 5 M NaCl
   - 200 µl of 0.5 M EDTA, pH 8.0 (1 mM final)
   - 5 ml of 20% SDS (1% final)
-- PCI \[Phenol/Chloroform/Isoamyl Alcohol (25:24:1v/v)\]
+- PCI [Phenol/Chloroform/Isoamyl Alcohol (25:24:1v/v)]
 - TE 1X
 - 70% and 100% Ethanol
 - Glass Beads, acid washed 425-600 µm (Sigma \#G8772)

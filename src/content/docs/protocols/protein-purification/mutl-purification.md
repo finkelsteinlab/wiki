@@ -14,18 +14,18 @@ title: "MutL purification"
 
 ## 1. Transformation
 
-1. Transform mutL plasmid into BL21(DE3), o/n at 37C. Store at Room temperature until use.
-2. In the morning, put a colony into 5mL LB/carb (4x) at 37C for 6h.
-3. In the evening, put the culture in 60mL LB/carb (4x) at 37C overnight.
+1. Transform mutL plasmid into BL21(DE3), o/n at 37°C. Store at Room temperature until use.
+2. In the morning, put a colony into 5mL LB/carb (4x) at 37°C for 6h.
+3. In the evening, put the culture in 60mL LB/carb (4x) at 37°C overnight.
 4. Also prepare autoclaved 1L LB (4x).
 
 ## 2. Overexpression
 
-1. Inoculate 10mL of preculture into 1L LB/carb at 37C until OD600 reaches ~ 0.5.
-2. Change temperature to 20C and induce with 1mM IPTG for 4h.
+1. Inoculate 10mL of preculture into 1L LB/carb at 37°C until OD600 reaches ~ 0.5.
+2. Change temperature to 20°C and induce with 1mM IPTG for 4h.
 3. Harvest cells at 4000rpm for 15 min.
 4. Resuspend pellet in 100mL lysis buffer for all 4L culture.
-5. Divide into 3 50mL conical tubes. You can freeze in liquid N2 and store in -80C for later use.
+5. Divide into 3 50mL conical tubes. You can freeze in liquid N2 and store in -80°C for later use.
 
 Buffers for lysis:
 

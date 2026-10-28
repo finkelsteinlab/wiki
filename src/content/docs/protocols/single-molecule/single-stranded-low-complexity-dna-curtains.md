@@ -27,8 +27,8 @@ Ligation Reaction Set-up:
 - 2 uL IF238 (4.5 uM stock)
 - 40 uL H2O
 
-1. Heat to 75C for **5 minutes** in the thermocycler.
-2. Cool to 4C at a rate of -1C/min.
+1. Heat to 75°C for **5 minutes** in the thermocycler.
+2. Cool to 4°C at a rate of -1C/min.
 3. Add 1 uL of NEB T4 DNA Ligase.
 
 Above papers say to let sit at RT for 5 hours. I have done incubations between 3-5 hours and have not noticed a significant difference.
@@ -46,10 +46,10 @@ Ligation Reaction Set-up:
 - 1.8 uL IF238 (100 uM stock)
 - 40.2 uL H2O
 
-1. Heat to 75C for **5 minutes** in the thermocycler.
-2. Cool to 4C at a rate of -1C/min.
+1. Heat to 75°C for **5 minutes** in the thermocycler.
+2. Cool to 4°C at a rate of -1C/min.
 3. Add 1 uL of NEB T4 DNA Ligase.
-4. Incubate at RT for ~5 hours. Then put in the 4C indefinitely.
+4. Incubate at RT for ~5 hours. Then put in the 4°C indefinitely.
 
 ## 3. Rolling Circle Reaction
 
@@ -63,7 +63,7 @@ Rolling Circle Reaction Set-up (50 µL total):
 - 1.5 uL of homemade Phi29 DNAP (currently using the pET19 made WT phi29 - pIF376)
 - 37 uL H2O
 
-1. Incubate ON FLOW CELL at 30C for **~20 minutes**. This is the time I have tested and it gives long ssDNA molecules. You can optimize time for ssDNA length as you wish.
+1. Incubate ON FLOW CELL at 30°C for **~20 minutes**. This is the time I have tested and it gives long ssDNA molecules. You can optimize time for ssDNA length as you wish.
 
 ## 4. References
 

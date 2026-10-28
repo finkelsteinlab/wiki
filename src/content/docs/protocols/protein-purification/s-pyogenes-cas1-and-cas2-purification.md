@@ -39,34 +39,34 @@ For the *Thermobifida fusca* Type I-E Cas1-Cas2 integrase purification and sorta
 1. Transform plasmid into BL21(DE3)RIL cells.
    1. Gently thaw 50 uL of cells on ice and combine with 5-10 ng DNA in a 1.7 mL centrifuge tube. Tap gently to mix.
    2. Incubate on ice for 30 minutes.
-   3. Heat shock cells at 42 C for 30 seconds.
+   3. Heat shock cells at 42°C for 30 seconds.
    4. Return to ice for 2-5 minutes.
    5. Add 950 uL of pre-warmed (37 C) SOC to the tube.
-   6. Shake at 37 C and 225 rpm for 60 minutes.
-   7. Plate 50uL and 200uL of cells onto an LB plate with Carb (100ug/mL). Incubate at 37 C overnight.
+   6. Shake at 37°C and 225 rpm for 60 minutes.
+   7. Plate 50uL and 200uL of cells onto an LB plate with Carb (100ug/mL). Incubate at 37°C overnight.
 
 ## 3. Cell Growth and Induction
 
 ### 3.1 Day 2
 
 1. In a flask, inoculate 2mL of LB+Carb with a colony from the overnight transformation plate.
-2. Incubate for ~6 hours at 37 C, shaking at 225 rpm.
-3. Subculture into 100mL of LB+Carb, and shake overnight at 37 C, 225 rpm.
+2. Incubate for ~6 hours at 37°C, shaking at 225 rpm.
+3. Subculture into 100mL of LB+Carb, and shake overnight at 37°C, 225 rpm.
 
 ### 3.2 Day 3
 
 1. Inoculate 2L of LB+Carb with 10-25 mL from the overnight culture, depending on the starting OD and the amount of time necessary to grow to an OD of about 0.6.
-2. Shake cultures at 225 rpm at 37 C until an OD of 0.6 is reached.
+2. Shake cultures at 225 rpm at 37°C until an OD of 0.6 is reached.
 3. Cool the culture on ice for 15 minutes.
-4. Induce the cells with 1mM IPTG and incubate at 16 C, 225 rpm overnight.
+4. Induce the cells with 1mM IPTG and incubate at 16°C, 225 rpm overnight.
 
 ### 3.3 Day 4
 
 1. Harvest cells by centrifugation.
-   1. JLA 8.1 rotor, 4000 rpm, 10 minutes, 4 C.
+   1. JLA 8.1 rotor, 4000 rpm, 10 minutes, 4°C.
 2. Decant the supernatant and re-suspend the pellet in 35 mL cold, sterilized ddH2O.
 3. Transfer suspended pellet to four 50mL conicals, and spin as above.
-4. Decant the water from the pellet and flash freeze with liquid nitrogen. Store at -80 C.
+4. Decant the water from the pellet and flash freeze with liquid nitrogen. Store at -80°C.
 
 ## 4. Purification
 
@@ -80,7 +80,7 @@ For the *Thermobifida fusca* Type I-E Cas1-Cas2 integrase purification and sorta
 5. Treat lysate with Streptomycin Sulfate to remove DNA.
    1. Add 30% Streptomycin Sulfate to 4% and stir in the cold room for 30 minutes.
 6. Clarify lysate by centrifugation using the ultracentrifuge.
-   1. Ti-45 rotor, 35000 RCF, 60 minutes, 4 C
+   1. Ti-45 rotor, 35000 RCF, 60 minutes, 4°C
 7. Ni-NTA Column (HisTrap HP, 5mL):
    1. Equilibrate column resin with 100 mL of Ni Buffer A.
    2. Apply clarified lysate to the column and collect flow-through.

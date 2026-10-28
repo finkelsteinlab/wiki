@@ -26,7 +26,7 @@ EMM+Ade+Leu+0.2g/l thiamine plates for pREP with Ura marker or EMM+Ade+Ura+0.2g/
 ### 1.2 Reagents
 
 - 1M Lithium Acetate adjusted to pH 4.9 with acetic acid.
-- 50% (w/v) PEG3350 in 0.1M AcLi, ph 4.9
+- 50% (w/v) PEG3350 in 0.1M AcLi, pH 4.9
 - Sonicated salmon sperm DNA at 10µg/µl.
 
 ## 2. Protocol

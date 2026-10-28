@@ -18,7 +18,7 @@ title: "Vacuum Oven"
 
 1. Turn on the vacuum pump.
 2. Make sure the knobs for vacuum and purge are turned clockwise all the way.
-3. Turn on the vacuum oven and set temperature to 150C, about 10 on the temperature knob.
+3. Turn on the vacuum oven and set temperature to 150°C, about 10 on the temperature knob.
 4. Slowly open the vacuum knob.
 5. When slides need to be added or removed, close the vacuum knob and open the purge the chamber via the purging knob.
 

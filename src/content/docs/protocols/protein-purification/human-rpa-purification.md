@@ -27,21 +27,21 @@ For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragmen
 1. Transform 1 uL of hRPA-His6 or hRPA-GFP-His6 plasmid into 50 uL of Rosetta(DE3)/pLysS cells.
 2. Flick 5 times.
 3. Place on ice for 30 minutes.
-4. Place in a 42C water bath for 45 seconds.
+4. Place in a 42°C water bath for 45 seconds.
 5. Place on ice for 2 minutes.
-6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37C, 250 rpm.
-7. Plate 250 uL of cells onto an LB-Carb-Cm plate and place in a 37C incubator for 17 hours.
-8. You can store the plate for 2 weeks in 4C if you parafilm the edges.
+6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37°C, 250 rpm.
+7. Plate 250 uL of cells onto an LB-Carb-Cm plate and place in a 37°C incubator for 17 hours.
+8. You can store the plate for 2 weeks in 4°C if you parafilm the edges.
 
 ## 2. Express
 
 1. Take one cell colony from the Rosetta(DE3)/pLysS plate and inoculate 50 mL of LB in a 500 mL flask with a 50 ug/mL concentration of carbenicillin and 34 ug/ml chloramphenicol.
-2. Grow the flask overnight for 12-18 hours at 37 C.
+2. Grow the flask overnight for 12-18 hours at 37°C.
 3. In the morning, inoculate 6L of LB with 15 mL of overnight per liter.
    - Each liter should have a carbenicillin concentration of 50 ug/mL and 34 ug/ml chloramphenicol.
 4. Grow until an O.D. 600 of 0.6-1.0.
-5. Once the O.D. 600 is reached, put each 1.5L flasks on ice and in the cold room to get temperature down to 16C. This takes about 25 minutes. Periodically shake the flask to make sure cells don’t settle at the bottom.
-6. Inoculate the cultures with a concentration of 1 mM IPTG and put inside shakers at 16C.
+5. Once the O.D. 600 is reached, put each 1.5L flasks on ice and in the cold room to get temperature down to 16°C. This takes about 25 minutes. Periodically shake the flask to make sure cells don’t settle at the bottom.
+6. Inoculate the cultures with a concentration of 1 mM IPTG and put inside shakers at 16°C.
 7. Allow to grow for 16 to 18 hours and then harvest.
 8. Harvest by centrifuging for 15 minutes at 5000 rpm in the 8.1 JPA rotor.
 9. Decant the supernatant and keep the pellet. **Do this in the cold room**
@@ -51,9 +51,9 @@ For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragmen
     - 4.3 mM Na2HPO4
     - 1.47 mM KH2PO4
     - Adjust to pH 7.4 with NaOH
-    - 1 mM PMSF **Note: add from -80C stock immediately before use, PMSF has a limited half-life in water**
+    - 1 mM PMSF **Note: add from -80°C stock immediately before use, PMSF has a limited half-life in water**
       - **stock solution is 100 mM of PMSF in isopropanol**
-11. Flash freeze cells in liquid nitrogen and store in -80C until ready to use.
+11. Flash freeze cells in liquid nitrogen and store in -80°C until ready to use.
 
 ## 3. Purify (all steps on ice)
 
@@ -63,13 +63,13 @@ For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragmen
 2. Add 1 volume of 2x Lysis buffer+PMSF and resuspend by mixing with pipette.
    - 2xlysis buffer:
      - 1M NaCl
-     - 40 mM Tris-HCl,ph7.5
+     - 40 mM Tris-HCl,pH 7.5
      - 4mM beta-mercaptoethanol
      - 10 mM imidazole, pH 8
      - 20% glycerol.
 3. Sonicate the lysate for a total of 90 seconds (75 amplitude; 15 second bursts with 90 second rests in between). Make sure lysate stays ice cold.
    - Take a sample of lysate for later gel analysis.
-4. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4C.
+4. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4°C.
    - Take a sample of the clarified lysate for later gel analysis.
 5. Pre-equilibrate a 5 ml HisTrap FF column in 1xlysis buffer using the FPLC. PMSF is not required at this point.
 6. Inject the clarified lysate by using a superloop.
@@ -77,7 +77,7 @@ For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragmen
 8. Run a gradient (0-100% elution buffer in 50 ml) with a FPLC between the 1xlysis buffer and the elution buffer.
    - Elution buffer: (elution buffer = 1xlysis buffer with 500 mM imidazole instead of 5 mM imidazole.)
      - 500 mM NaCl
-     - 20 mM Tris-HCl,ph7.5
+     - 20 mM Tris-HCl,pH 7.5
      - 2 mM beta-mercaptoethanol
      - 500 mM imidazole, pH 8
      - 10% glycerol.
@@ -161,7 +161,7 @@ After the Q column, run a gel to estimate concentration and purity. If concentra
      - 0.1 mM EDTA
      - 50% glycerol
 2. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
-3. Store fractions at -80 C.
+3. Store fractions at -80°C.
 
 [^paper-1]: Gallardo et al. (2015). [High-Throughput Universal DNA Curtain Arrays for Single-Molecule Fluorescence Imaging](https://finkelsteinlab.org/papers/paper/dna-curtain-arrays). *Langmuir*.
 [^paper-2]: Myler et al. (2016). [Single-molecule imaging reveals the mechanism of Exo1 regulation by single-stranded DNA binding proteins](https://finkelsteinlab.org/papers/paper/exo1-ssb-curtains). *Proc Natl Acad Sci USA*.

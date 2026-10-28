@@ -15,7 +15,7 @@ This protocol was adapted from Nudler et al. Methods Enzymology. 2003. <https://
 1. Streak an LB plate of RL 721 strain (Bio from Landick lab)
 2. Grow O/N cultures of EcRNAP-bio containing cells in LB only.
 3. Inoculate 2L flasks with EcRNAP, grow O/N again in LB only.
-4. Spin down cells and snap freeze at -80C.
+4. Spin down cells and snap freeze at -80°C.
 5. Thaw cells in 100mL grinding buffer (300 mM NaCl, 50 mM Tris–HCl, pH 8, 5% glycerol, 10 mM EDTA, 0.1% PMSF, 10 mM mercaptoethanol, 133 µg/mL lysozyme) per 4L pellet in a beaker with a stirbar. Stir for 20mins once ice (I did it in the cold room).
 6. Add Sodium Deoxycholate to 0.2% from a 10% stock in water.
 7. Sonicate 20mL at a time lysate at maximum output for 30s followed by 30s rest. I used the Sonic Dismembrator 60 (Fisher Scientific, Chicago, IL) in the Paull lab. Do this for 5-7 rounds or until not viscous anymore.
@@ -34,5 +34,5 @@ This protocol was adapted from Nudler et al. Methods Enzymology. 2003. <https://
 20. Dissolve the protein in 50mL 0-salt A buffer (25mM Tris pH8, 10% glycerol)
 21. Load the protein onto a 5-mL Hi-Trap Heparin column at 0.5mL/min. Wash with A Buffer (25mM Tris pH8, 10% glycerol,100mM NaCL) until the UV stabilizes. Elute from the column with \>60% B.
 22. Collect the fractions and dilute to lower the salt.
-23. Load RNAP onto a Resource Q column. Wash the column and then use a very slow gradient to try to separate out the holoenzyme from the core complex. Collect fractions with most sigma70 subunit and concentrate. Mix with an equal volume of glycerol and store at -20C.
+23. Load RNAP onto a Resource Q column. Wash the column and then use a very slow gradient to try to separate out the holoenzyme from the core complex. Collect fractions with most sigma70 subunit and concentrate. Mix with an equal volume of glycerol and store at -20°C.
 24. This method provides roughly 2mg of protein per 4L pellet.

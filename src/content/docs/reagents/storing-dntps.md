@@ -22,8 +22,8 @@ ATPgS and AMP-PNP are **very** expensive. Take special care when handling these 
 - Aliquot in small, 10-20uL tubes
 - Avoid multiple freeze-thaw cycles
 - Store at a concentration above 10 mM
-- **store at -20C**
-- Always keep on ice and do not store at 4C for any length of time
+- **store at -20°C**
+- Always keep on ice and do not store at 4°C for any length of time
 
 ## 2. References
 

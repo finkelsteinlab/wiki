@@ -13,7 +13,7 @@ Common oligos that are useful for the whole lab.
 
 ## 1. Storage
 
-The box is kept in -80C freezer, near the common lab plasmids. Oligos should be stored in Te (10 mM TrisCl pH 8, 0.1 mM EDTA) at a concentration of 100 µM. If the oligo concentration or storage buffer are different, please indicate so on the tube.
+The box is kept in -80°C freezer, near the common lab plasmids. Oligos should be stored in Te (10 mM TrisCl pH 8, 0.1 mM EDTA) at a concentration of 100 µM. If the oligo concentration or storage buffer are different, please indicate so on the tube.
 
 ## 2. Oligo list
 

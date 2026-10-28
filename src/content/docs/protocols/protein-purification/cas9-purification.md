@@ -36,29 +36,29 @@ For TEV protease purification, see [TEV Protease Purification](/wiki/protocols/p
 1. Transform plasmid into BL21 (DE3) cells.
    1. Gently thaw 50 uL of cells on ice and combine with 5-10 ng DNA in a 1.7 mL centrifuge tube. Tap gently to mix.
    2. Incubate on ice for 30 minutes.
-   3. Heat shock cells at 42 C for 30 seconds.
+   3. Heat shock cells at 42°C for 30 seconds.
    4. Return to ice for 2-5 minutes.
    5. Add 250 uL of pre-warmed (37 C) SOC to the tube.
-   6. Shake at 37 C and 225 rpm for 60 minutes.
-   7. Plate 50uL and 200uL of cells onto an LB plate with Kan (100ug/mL). Incubate at 37 C overnight.
+   6. Shake at 37°C and 225 rpm for 60 minutes.
+   7. Plate 50uL and 200uL of cells onto an LB plate with Kan (100ug/mL). Incubate at 37°C overnight.
 
 ## 3. Cell Growth and Induction
 
 ### 3.1 Day 2
 
 1. In a flask, inoculate 100mL (For 6L recipe) of LB+Kan with a colony from the overnight transformation plate.
-2. Incubate overnight at 37 C, shaking at 225 rpm (12-18 hours).
+2. Incubate overnight at 37°C, shaking at 225 rpm (12-18 hours).
 
 ### 3.2 Day 3
 
 1. Inoculate 1L of LB+Kan with 10-25 mL from the overnight culture, depending on the starting OD and the amount of time necessary to grow to an OD of about 0.6. Example: Inoculate to 0.1 OD to be at 0.6 OD in about 1-2 hours.
-2. Shake cultures at 225 rpm at 30 C until an OD of 0.6 is reached.
-3. Cool the cultures to 18 C within about 30 minutes.
-4. Induce the cells with 1mM IPTG and incubate at 18 C overnight with shaking (~18 hours).
+2. Shake cultures at 225 rpm at 30°C until an OD of 0.6 is reached.
+3. Cool the cultures to 18°C within about 30 minutes.
+4. Induce the cells with 1mM IPTG and incubate at 18°C overnight with shaking (~18 hours).
 5. Harvest cells by centrifugation.
-6. JPA 8.1 rotor, 6000 RCF, 15 minutes, 4 C.
+6. JPA 8.1 rotor, 6000 RCF, 15 minutes, 4°C.
 7. Decant the supernatant and re-suspend the pellet in 35 mL Lysis/Equilibration Buffer supplemented with PMSF (200uL of 100mM) and DNAse I (100uL of 2000 units/mL).
-8. Transfer suspended pellet to a 50mL conical flash freeze with liquid nitrogen. Store at -80 C.
+8. Transfer suspended pellet to a 50mL conical flash freeze with liquid nitrogen. Store at -80°C.
 
 ## 4. Purification
 
@@ -69,7 +69,7 @@ For TEV protease purification, see [TEV Protease Purification](/wiki/protocols/p
 3. Sonicate cells (on ice) to lyse.
    1. Amplitude =30, Processing time = 1:30, Pulse time = 15 s, Rest time = 1:30.
 4. Clarify lysate by centrifugation using the ultracentrifuge.
-   1. Ti-45 rotor, 35000 RCF, 35 minutes, 4 C.
+   1. Ti-45 rotor, 35000 RCF, 35 minutes, 4°C.
    2. Sample should be transferred to ultracentrifuge tubes. Be aware that these have a minimum volume of 35mL and a max of 70mL.
 5. His tag purification:
    1. Option 1: Ni-NTA COLUMN (gravity, 2.5mL bed volume):
@@ -81,19 +81,19 @@ For TEV protease purification, see [TEV Protease Purification](/wiki/protocols/p
    2. Option 2: HisTrap FF 5mL column
       1. Wash column with 50 mLs water.
       2. Equilibrate column with 50 mL wash buffer.
-      3. Load a superloop (choose based on your sample volume) with your protein @4C.
+      3. Load a superloop (choose based on your sample volume) with your protein @4°C.
       4. Attached superloop to FPLC.
       5. Inject your sample onto the His column.
       6. Pass 50 mL wash buffer over the column, collecting waste as “Flow Through”.
       7. Pass 6% elution buffer (~25mM imidazole @ 6%) over the column until the UV reading indicates no more non-specific protein is eluting. Collect as “Wash”.
       8. Change from 6% to 100% elution buffer over 20 minutes at 1mL/min, collecting 1mL fractions in the fractionator. Protein should be identified by UV signal and confirmed by SDS-PAGE.
 6. Add TEV Protease (0.5 mg per 50 mg protein) to pooled protein sample.
-7. Transfer sample to Snakeskin dialysis tubing (10 kDa MWCO) and submerge in 2L dialysis buffer, rotating overnight at 4 C.
+7. Transfer sample to Snakeskin dialysis tubing (10 kDa MWCO) and submerge in 2L dialysis buffer, rotating overnight at 4°C.
 
 ### 4.2 Day 5
 
 1. Spin down the cleaved product to remove and precipitates.
-   1. Swing bucket rotor, 3500 RCF, 5 minutes, 4 C.
+   1. Swing bucket rotor, 3500 RCF, 5 minutes, 4°C.
 2. IEX COLUMN (HiTrap SP FF, 5mL, AKTA Purifier – 2mL/min)
    1. Equilibrate column with 5 CV of IEX Buffer A.
    2. Use an appropriate superloop to load cleavage product onto the column and collect the flow-through.
@@ -114,7 +114,7 @@ For TEV protease purification, see [TEV Protease Purification](/wiki/protocols/p
    2. Load concentrated sample (1mL) onto column using a 1mL loop.
    3. Elute, collecting 1.5 mL fractions.
 5. Pool peak fractions containing Cas9, and concentrate to desired stock concentration.
-6. Aliquot, flash freeze with liquid nitrogen, and store at -80 C.
+6. Aliquot, flash freeze with liquid nitrogen, and store at -80°C.
 
 ## 5. References
 

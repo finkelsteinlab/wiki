@@ -18,8 +18,8 @@ Site-directed mutagenesis is a powerful technique that permits the introduction 
 ## 1. Notes
 
 - [Inverse PCR Mutagenesis](/wiki/protocols/dna-and-cloning/inverse-pcr-mutagenesis/) is a very easy technique for introducing mutations in your plasmid and **does not require any kits.** Large deletions are much easier to perform. Also, there’s no magic buffer mumbo-jumbo. **I strongly recommend you use this method for routine mutagenesis**
-- Enzymes from this kit are stored in -20C
-- Cells are stored in -80C, although using standard lab DH5a cells works just as well as the fancy Agilent cells.
+- Enzymes from this kit are stored in -20°C
+- Cells are stored in -80°C, although using standard lab DH5a cells works just as well as the fancy Agilent cells.
 
 ## 2. Introducing a Single Mutation
 

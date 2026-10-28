@@ -39,7 +39,7 @@ The overall NucleaSeq protocol involves preparing a Cas9 / sgRNA mix, adding a D
 2. Prepare a PCR tube for each timepoint, labeling and aliquoting 5uL of stop solution into each one.
 3. Mix 33uL \* (# of timepoints) of DNA with 66uL \* (# of timepoints) of Cas9/sgRNA, and vortex briefly. Reaction typically proceeds at room temperature.
 4. Remove 99uL of the DNA/Cas9/sgRNA solution at each timepoint, transferring to the appropriately labeled tube.
-5. As timepoint samples are put into stop solution, incubate them at 37C for 30 minutes before moving to 4C to assure reaction is stopped and the protein is degraded.
+5. As timepoint samples are put into stop solution, incubate them at 37°C for 30 minutes before moving to 4°C to assure reaction is stopped and the protein is degraded.
 6. Ethanol precipitate each timepoint, eluting into 22uL TE buffer. [ethanol-precipitation](/wiki/protocols/dna-and-cloning/ethanol-precipitation/)
 
 ## 5. Sequencing

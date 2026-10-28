@@ -36,4 +36,4 @@ Purchase reagents as powders in individually sealed ampules.
 
 - Master mix prepared as above will make enough for five batches of lipids. Use 220ul of master mix per batch of lipids.
 - Make sure to use Hamilton syringe with teflon gasket to avoid dissolving rubber or plastics into the chloroform.
-- All lipids should be stored at -20C
+- All lipids should be stored at -20°C

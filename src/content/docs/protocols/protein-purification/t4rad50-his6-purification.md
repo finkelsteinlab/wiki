@@ -23,21 +23,21 @@ gp46 is Rad50 and is part of the MR complex present in the T4 phage (for the par
 1. Transform 1 uL of gp46 (Rad50) plasmid into 50 uL of BL21(DE3)cells.
 2. Flick 5 times.
 3. Place on ice for 30 minutes.
-4. Place in a 42C water bath for 45 seconds.
+4. Place in a 42°C water bath for 45 seconds.
 5. Place on ice for 2 minutes.
-6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37C, 250 rpm.
-7. Plate 250 uL of cells onto an LB-Carb plate and place in a 37C incubator for 24 hours.
-8. You can hold plate for 2 weeks in 4C if you parafilm the edges.
+6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37°C, 250 rpm.
+7. Plate 250 uL of cells onto an LB-Carb plate and place in a 37°C incubator for 24 hours.
+8. You can hold plate for 2 weeks in 4°C if you parafilm the edges.
 
 ## 2. Express
 
 1. Take one cell from the BL21(DE3)plate and inoculate 100 mL of LB in a 500 mL flask with a 50 ug/mL concentration of carbenicillin.
-2. Grow the flask overnight for 12-18 hours at 37 C.
+2. Grow the flask overnight for 12-18 hours at 37°C.
 3. In the morning, inoculate 6L of LB with 15 mL of overnight per liter.
    - Each liter should have a carbenicillin concentration of 50 ug/mL
 4. Grow until an O.D. 600 of 0.6-1.0. BL21(DE3) take about 5 hours and ArcticExpress about 8 hours.
-5. Once the O.D. 600 is reached, put each 1.5L flasks on ice and in the cold room to get temperature down to 18C. This takes about 25 minutes.
-6. Inoculate the cultures with a concentration of 0.2 mM IPTG and put inside shakers at 18C.
+5. Once the O.D. 600 is reached, put each 1.5L flasks on ice and in the cold room to get temperature down to 18°C. This takes about 25 minutes.
+6. Inoculate the cultures with a concentration of 0.2 mM IPTG and put inside shakers at 18°C.
 7. Allow to grow for 14 to 16 hours and then harvest. ArcticExpress cells grow in 16 hours.
 8. Harvest by centrifuging for 8 minutes at 8000 rpm in the 8.1 JPA rotor.
 9. Decant the supernatant and keep the pellet **Do this in the cold room**.
@@ -47,7 +47,7 @@ gp46 is Rad50 and is part of the MR complex present in the T4 phage (for the par
     - 1mM PMSF
     - 1mM EDTA
     - 10% sucrose
-11. Flash freeze cells in liquid nitrogen and store in -80C until ready to use.
+11. Flash freeze cells in liquid nitrogen and store in -80°C until ready to use.
 
 ## 3. Purify
 
@@ -58,7 +58,7 @@ gp46 is Rad50 and is part of the MR complex present in the T4 phage (for the par
 1. Defrost the cells on ice.
 2. Sonicate at 75% amplitude for bursts of 15 seconds with rests of 90 seconds for a total sonication time of 90 seconds.
    - The lysate should flow easily if cells are broken
-3. Centrifuge the cells in the ultracentrifuge at 35K for 35 minutes at 4C.
+3. Centrifuge the cells in the ultracentrifuge at 35K for 35 minutes at 4°C.
 4. Collect the supernatant and discard the pellet.
    - **Clean the centrifuge tubes**
 5. Set aside a 1 mL sample of clarified lysate for analysis on an SDS page gel.
@@ -112,6 +112,6 @@ gp46 is Rad50 and is part of the MR complex present in the T4 phage (for the par
      - 200  mM NaCl
      - 20% glycerol
 2. Aliquot fractions into 10-20 µL in 500 µL Eppendorf tubes and flash freeze with liquid nitrogen.
-3. Store fractions at -80 C.
+3. Store fractions at -80°C.
 
 [^paper-1]: Myler et al. (2017). [Single-molecule imaging reveals how Mre11-Rad50-Nbs1 initiates DNA break repair](https://finkelsteinlab.org/papers/paper/mrn-dna-curtains). *Molecular Cell*.

@@ -20,11 +20,11 @@ This purification scheme was adopted from the 2002 Benkovic paper in order to in
 1. Transform 1 uL of GP41 plasmid into 50 uL of BL21(DE3) cells.
 2. Flick 5 times.
 3. Place on ice for 5 minutes.
-4. Place in a 42C water bath for 42 seconds.
+4. Place in a 42°C water bath for 42 seconds.
 5. Place on ice for 2 minutes.
-6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37C, 250 rpm.
-7. Plate 250 uL of cells onto an LB-Carb plate and place in a 37C incubator for 24 hours.
-8. You can hold plate for 2 weeks in 4C if you parafilm the edges.
+6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37°C, 250 rpm.
+7. Plate 250 uL of cells onto an LB-Carb plate and place in a 37°C incubator for 24 hours.
+8. You can hold plate for 2 weeks in 4°C if you parafilm the edges.
 
 ## 2. Express
 
@@ -34,7 +34,7 @@ This purification scheme was adopted from the 2002 Benkovic paper in order to in
    - Each liter should have a carbenicillin concentration of 50 ug/mL.
 4. Grow until an O.D. 600 of 0.6-1.0.
 5. Once the O.D. 600 is reached, inoculate the cultures with a concentration of 0.4 mM IPTG.
-6. Place the flasks on ice to cold shock them to 20C.
+6. Place the flasks on ice to cold shock them to 20°C.
 7. Allow to grow overnight (16-18 hours).
 8. Harvest by centrifuging for 10 minutes at 5000 rpm.
 9. Decant the supernatant and keep the pellet. **Do this in the cold room**
@@ -43,13 +43,13 @@ This purification scheme was adopted from the 2002 Benkovic paper in order to in
     - 500 mM NaCl
     - 0.1 mM EDTA
     - 10% Glycerol
-11. Flash freeze cells in liquid nitrogen and store in -80C until ready to use.
+11. Flash freeze cells in liquid nitrogen and store in -80°C until ready to use.
 
 ## 3. Purify
 
 1. Defrost the pellet on ice.
 2. Sonicate the lysate for a total of 90 seconds (15 second bursts with 90 second rests in between).
-3. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4C.
+3. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4°C.
 4. Take a sample of the clarified lysate for later gel analysis.
 5. Load the clarified lysate onto a 5 mL pre-equilibrated chitin column.
    - Equilibration buffer (Buffer A):

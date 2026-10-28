@@ -29,7 +29,7 @@ Standard bacterial (*E. coli*) and yeast (*S. pombe* and *S. cerevisiae*) growth
 3. The pH of the medium should be near pH 7.0. Check and adjust with 5 N NaOH.
 4. Adjust the volume of the solution to 1 liter with deionized H2O.
 5. Sterilize by autoclaving for 20 minutes on liquid cycle.
-6. Just before use, add 5 ml of a sterile solution of 2 M MgCl2. (This solution is made by dissolving 19 g of MgCl2 in 90 ml of deionized H2O. Adjust the volume of the solution to 100 ml with deionized H2O and sterilize by autoclaving for 20 minutes at 15 psi \[1.05 kg/cm2\] on liquid cycle.)
+6. Just before use, add 5 ml of a sterile solution of 2 M MgCl2. (This solution is made by dissolving 19 g of MgCl2 in 90 ml of deionized H2O. Adjust the volume of the solution to 100 ml with deionized H2O and sterilize by autoclaving for 20 minutes at 15 psi [1.05 kg/cm2] on liquid cycle.)
 
 Recipe from [CSH Protocols](http://cshprotocols.cshlp.org/content/2006/1/pdb.rec8085.full?sid=e5313002-0dfe-4d6f-9135-cda260df45f4)
 

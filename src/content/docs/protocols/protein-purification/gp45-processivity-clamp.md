@@ -26,21 +26,21 @@ The processivity clamp is a toroid-shaped molecule large enough to encircle dupl
 2. Add 1 uL of GP45 plasmid into 50 uL of Arctic Express BL21 cells & (control) 1 uL water into 50 uL of Arctic Express BL21 cells.
 3. Flick 5 times.
 4. Place on ice for 30 minutes. Do not mix.
-5. Place in a 42C water bath for exactly 30 seconds.
+5. Place in a 42°C water bath for exactly 30 seconds.
 6. Place on ice for 5 minutes.
-7. Add 950 uL of room temp SOC and allow at least 1 hour recovery in a shaking incubator at 37C, 250 rpm.
-8. Plate 200 uL of cells (serial dilutions 1:1; 1:10; 1:100) on pre-warmed LB-Carb plates and place in a 37C incubator for 24 hours.
-9. You can hold plate for 2 weeks in 4C if you parafilm the edges.
+7. Add 950 uL of room temp SOC and allow at least 1 hour recovery in a shaking incubator at 37°C, 250 rpm.
+8. Plate 200 uL of cells (serial dilutions 1:1; 1:10; 1:100) on pre-warmed LB-Carb plates and place in a 37°C incubator for 24 hours.
+9. You can hold plate for 2 weeks in 4°C if you parafilm the edges.
 
 ### 1.2 Express
 
 1. Pick one colony from transformed Arctic Express BL21 plate to inoculate 100 mL of LB in a 500 mL baffled flask with a 50 ug/mL concentration of carbenicillin.
-2. Grow culture overnight at 37C shaking for 12-18 hours.
+2. Grow culture overnight at 37°C shaking for 12-18 hours.
 3. In the morning, inoculate 6L of LB with 10 mL of overnight per liter in 4L baffled flasks.
    - Each liter should have a carbenicillin concentration of 50 ug/mL.
-4. Grow at 30C shaking until an O.D. 600 of 0.6-0.8 (Do not exceed 0.8).
-5. Cool cultures to 16C then inoculate the cultures with a concentration of 0.4 mM IPTG.
-6. Allow cultures to grow overnight at 12C in shaking incubator for 18-24 hours.
+4. Grow at 30°C shaking until an O.D. 600 of 0.6-0.8 (Do not exceed 0.8).
+5. Cool cultures to 16°C then inoculate the cultures with a concentration of 0.4 mM IPTG.
+6. Allow cultures to grow overnight at 12°C in shaking incubator for 18-24 hours.
 7. Harvest by centrifuging for 10 minutes at 5000 rpm.
 8. Decant the supernatant and keep the pellet. **Do this on ice in the cold room**
 9. Resuspend pellets in 70 mL with resuspension buffer:
@@ -50,13 +50,13 @@ The processivity clamp is a toroid-shaped molecule large enough to encircle dupl
    - 10% Sucrose
    - 1 mM PMSF (protease inhibitor)
 10. Separate the cell suspension into (2)-45ml aliquots.
-11. Flash freeze cell suspensions in liquid nitrogen and store in -80C until ready to use.
+11. Flash freeze cell suspensions in liquid nitrogen and store in -80°C until ready to use.
 
 ### 1.3 Purify
 
 1. Defrost the pellet in ice water slurry until slushy.
 2. Sonicate the cell suspension for a total of 90 seconds (15 second bursts with 90 second rests in between). Note: Cell suspension is viscous and sonicated lysate is watery consistency.
-3. Centrifuge the sonicated lysate in the ultracentrifuge at 35K for 35 minutes at 4C.
+3. Centrifuge the sonicated lysate in the ultracentrifuge at 35K for 35 minutes at 4°C.
 4. Carefully remove the clarified lysate from the ultracentrifuge tube taking great care to avoid uptake of any loose sediment (this will clog up your column during purification).
 5. Collect a 100ul sample of the clarified lysate for later gel analysis.
 6. Load the clarified lysate onto a 5 mL pre-equilibrated chitin column (Chilled in cold room).
@@ -82,7 +82,7 @@ The processivity clamp is a toroid-shaped molecule large enough to encircle dupl
 
 1. Analyze the fractions on a 12% gel (GP45 monomer is 26000 Da).
 2. Use 10 uL of each sample and add 4XSDS buffer to a concentration of 1X.
-3. Boil samples at 110C for 10 minutes.
+3. Boil samples at 110°C for 10 minutes.
 4. Spin samples at 10000 rpm for 10 minutes.
 5. Load 10uL onto the gel.
 6. Pool highest yielding fractions together.
@@ -116,7 +116,7 @@ This extra purification step is to remove exo and endo nucleases that can potent
      - 150 mM NaCl
      - 5 mM MgCl2
 10. Aliquot fractions into 5-10 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
-11. Store proteins in -80C freezer.
+11. Store proteins in -80°C freezer.
 
 ### 1.6 Analysis (final)
 

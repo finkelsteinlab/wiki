@@ -40,23 +40,23 @@ Used in our paper:[^paper-1]
 1. BL21(DE3) (BL21 and BL21(DE3)-RIPL strains are also fine) is used for expression.
 2. Grow cells (100 ml) in LB broth supplemented with carbenicillin or ampicillin (1/1000).
 3. Inoculate the cells (1/100) to 4 L of LB broth supplemented with carbenicillin or ampicillin (1/1000).
-4. Grow cells until OD600 is ~0.6 at 250 rpm, 37C. Usually I grow 4L of cells.
+4. Grow cells until OD600 is ~0.6 at 250 rpm, 37°C. Usually I grow 4L of cells.
 5. Induce the protein by adding IPTG (Cf: 1 mM).
 6. Express the protein for 4 hours.
 7. Harvest cells with 5000 rpm (7500xg) and 20 min.
 8. Resuspend the cell pellets with lysis buffer (~15 ml/L growth).
    - 1 L growth of cells gives 8g (~2 ml/g)
-9. Freeze with liquid N2 and store at -80C until use.
+9. Freeze with liquid N2 and store at -80°C until use.
 
 ## 3. Purification
 
 1. Thaw the cells.
 2. Incubate the cells on ice over 1 hour for the full lysis.
-3. While the cell is thawed, equilibrate ‘Streptactin’ resin with washing buffer at 4C.
+3. While the cell is thawed, equilibrate ‘Streptactin’ resin with washing buffer at 4°C.
    - CV (column volume) is 3 ml for 30 mL cell clarified lysate.
    - The CV depends on the volume of cell extract. The CV should be bigger than 1/10 of cell extract volume.
 4. Lyse the cells by sonication (75% output: 4.292J, 15 sec on and 1 min 45 sec off, total 6 times).
-5. Centrifuge the cell lysate at 25,000 rpm for 40 min at 4C (in Ti-45 Beckman).
+5. Centrifuge the cell lysate at 25,000 rpm for 40 min at 4°C (in Ti-45 Beckman).
 6. Ammonium sulfate precipitation at 40% over 30 min.
 7. Pellet (20 min, 25,000 rpm, at 4C).
 8. Completely resuspend the pellets with Resuspension buffer.
@@ -68,7 +68,7 @@ Used in our paper:[^paper-1]
     - The molecular weight is small (~36 kDa), so the band is not strong. Long time staining is needed.
 14. Dialyze the fraction against dialysis buffer (7 kDa cutoff, 66710, ThermoScientific, Slide-A-Lyzer Dialysis Cassette).
 15. Aliquot the purified FLAG-Tus (50 ul each) and freeze it with liquid N2.
-16. Store it at -80C.
+16. Store it at -80°C.
 
 ## 4. Concentration measurement
 

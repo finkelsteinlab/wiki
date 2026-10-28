@@ -30,7 +30,7 @@ For purification of the recombinant human RPA substrate used in this reaction, s
    1. 20 µL Buffer (final concentrations: 40mM HEPES pH 7.5, 8mM MgCl2, 0.5mM DTT, 3mM ATP, 100 ng of pcDNA3 plasmid DNA (an SV40 replication origin containing plasmid))
    2. 20 µL of 2-5 mg mL-1 HEK293T extract (final concentration: 0.8-2.0 mg mL-1)
    3. 10 µL 10 µM purified RPA (final concentration: 2 µM).
-6. Incubated at 37˚C for 2 hours.
+6. Incubated at 37°C for 2 hours.
 7. Purify from the extract by using a 1 mL HiTrap Q.
 8. Assay by western blot using antibodies for pRPA at S4/S8, T21, and S33.
 

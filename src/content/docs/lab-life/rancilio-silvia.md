@@ -91,7 +91,7 @@ So you are tired of the classic and bold flavor of an espresso and you want some
   - Ecuador 10H
   - El Guapo Espresso 10F Fabulous
   - Peru 10D
-- RutaMaya 10C
+- RutaMaya 10°C
 
   <img src="/wiki/media/lab/ruta_maya.jpg" width="200" alt="RutaMaya" />
 

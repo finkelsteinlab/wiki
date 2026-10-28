@@ -65,8 +65,8 @@ Take the 100 mm wafers to the MER clean room.
 
 1. Log on to the tool using the LabAccess terminal.
 2. Check to make sure that there is enough HMDS in the vial on the left side of the oven (contact maintenance for a refill is level is low).
-3. Put your wafers into a TEFLON carrier (the oven runs at 150 ºC, which will melt most other types of carriers).
-4. Open the door, put your carrier inside, and close the door. CAUTION: The oven idles/runs at 150ºC, so be careful when loading/unloading wafers!
+3. Put your wafers into a TEFLON carrier (the oven runs at 150 °C, which will melt most other types of carriers).
+4. Open the door, put your carrier inside, and close the door. CAUTION: The oven idles/runs at 150°C, so be careful when loading/unloading wafers!
 5. Set the thumbwheel to “2”.
 6. Place vacuum in HMDS flask.
 7. Push the ‘start’ button. This will pump the chamber down and start the priming process. (If the chamber does not pump down, you may need to adjust the rubber seal on the mouth of the chamber – it can come loose rather easily.) The total priming process takes approximately 20-25 minutes.
@@ -84,7 +84,7 @@ Take the 100 mm wafers to the MER clean room.
    1. With a pipette (or a dropper) drop about 3 ml of photoresist at the center of the wafer until the wafer is covered 80%.
    2. Avoid formation of bubbles.
    3. Start spinning at 4000 rpm for 40 seconds.
-5. Set the wafer on a hot plate at 95 C for 2 minutes.
+5. Set the wafer on a hot plate at 95°C for 2 minutes.
 6. Remove the wafer from the hot plate and let it cool down before next step.
 7. Logout to the hood using the LabAccess terminal.
 

@@ -89,20 +89,20 @@ Plasmid gifted by the Richard Pomerantz Lab. Adapted by J. Schaub for PolQ clone
 
 ### 3.2 Day 2
 
-1. Select single colony and inoculate 100 mL of LB (+Carb). Grow at 37C O/N.
-2. Grow Overnight at 37C.
+1. Select single colony and inoculate 100 mL of LB (+Carb). Grow at 37°C O/N.
+2. Grow Overnight at 37°C.
 
 ### 3.3 Day 3
 
-1. Inoculate 4x 1.5L flasks of TB with 15 mL of overnight LB culture. Grow at 37C until OD of ~0.6.
-2. Induce cultures with 0.5 mM IPTG at 18C O/N.
+1. Inoculate 4x 1.5L flasks of TB with 15 mL of overnight LB culture. Grow at 37°C until OD of ~0.6.
+2. Induce cultures with 0.5 mM IPTG at 18°C O/N.
 
 ### 3.4 Day 4
 
 1. Spin cultures at 3500 rpm for 10m to pellet.
 2. Suspend pellet in 5 mL Lysis Buffer per gram of cell pellet.
 3. Homogenize and shear via sonication at 30% power for 15s ON/ 90s OFF (1:30 total).
-4. Spin at 35,000 x g for 45 minutes at 4C.
+4. Spin at 35,000 x g for 45 minutes at 4°C.
 5. Apply supernatant to 5 mL StrepTactin Column. Wash with Wash Buffer.
 6. Wash with Wash 1M NaCl Buffer.
 7. Wash with Wash 2M NaCl Buffer.
@@ -112,7 +112,7 @@ Plasmid gifted by the Richard Pomerantz Lab. Adapted by J. Schaub for PolQ clone
 
 ### 3.5 Day 5
 
-1. Pool fractions and concentrate protein. Freeze in aliquots at -80C.
+1. Pool fractions and concentrate protein. Freeze in aliquots at -80°C.
 
 ## 4. Notes
 

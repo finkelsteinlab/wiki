@@ -48,7 +48,7 @@ Take the 100 mm wafers to the MER clean room.
    1. Spin coat settings: Step1: 500rpm for 10s; Step2: 4000 rpm for 60s. And also go to step3 to check if previous user put any parameters on it. Make sure step3 is empty.
       1. high MW PMMA, 100 ml brown bottle with black cap (495K, A1.5)
       2. AquaSave, 4 ml brown vial with black cap, need to spread with a bubble because it doesn’t spin-coat well.
-3. After spin coating the 2 layers, bake the coated wafer on the 150 C hot plate for 1 minute.
+3. After spin coating the 2 layers, bake the coated wafer on the 150°C hot plate for 1 minute.
 4. Take coated slide to EBL.
 
 ## 3. Using the Jeol E-Beam Writer
@@ -173,7 +173,7 @@ Cook-ebeam/sputter deposition system in the CNM. <http://www.cnm.utexas.edu/equi
 17. After it’s in soak, you can use manual power. Open the shutter and slowly bring the power up to the last user to use your metal. You want to deposit at about 0.3 Angstroms per second. Adjust the beam to center it if needed.
 18. Deposit 130 Angstroms on the surface, when nearing the final number slowly reduce the power and when you get to 15% you can go faster.
 19. Close the shutter.
-20. Turn on the heater and make sure that it’s less than 40C before turning stuff off.
+20. Turn on the heater and make sure that it’s less than 40°C before turning stuff off.
 21. Turn off the Emission Current.
 22. Turn off the High Voltage (again in that order)
 23. Turn off the main power.

@@ -20,7 +20,7 @@ title: "AKTA Purifier"
 This protocol will change depending on the column you use and the protein you are trying to purify.
 
 1. Make your buffers A (low salt) and B (high salt) and filter sterilize them!
-2. Store the buffers at 4C.
+2. Store the buffers at 4°C.
 3. Run the pumpwash program for lines A1 and B1 to clear the pumps of ethanol or old buffer.
 4. Attached your column to the AKTA and equilibrate the column in your buffer A. (If your column is in ethanol, you must run a 10 column volumes of water through it first or else any salt buffer will crash and you will ruin the column.)
 5. Load your protein onto the column using a loop or a super loop. (collect the flowthrough? up to you)

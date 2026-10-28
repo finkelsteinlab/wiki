@@ -14,8 +14,8 @@ RNase H1 purification, 1XFLAG-His. Size: Around 34 Kd. (For the trimeric human R
 
 ## 1. Expression
 
-1. Grow 4 L at 37 C in presence of ampicillin or carbenicillin to OD .7/.8.
-2. Induce with .3 mM IPTG for 3 hr at 30C, Spin down cell pellets and freeze at -80 C.
+1. Grow 4 L at 37°C in presence of ampicillin or carbenicillin to OD .7/.8.
+2. Induce with .3 mM IPTG for 3 hr at 30°C, Spin down cell pellets and freeze at -80°C.
 
 ## 2. Purification
 

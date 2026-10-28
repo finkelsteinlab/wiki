@@ -50,5 +50,5 @@ Various molecular biology kits frequently come with a manual that explains the g
 | 10N NaOH | 100 mL | Use a [plastic bottle](http://en.wikipedia.org/wiki/Sodium_hydroxide)! [Glass bottles](http://www.chemicalforums.com/index.php?topic=40791.0) tend to leach Si into concentrated NaOH. This may cause the lid to get stuck, break the bottle over time and leach unwanted byproducts into your solutions. **The reaction is highly exothermic, add very slowly and keep everything on ice.** |
 | 10X PBS | 1L |  |
 | 1% agarose | 250 mL | Dissolve in 1x TAE buffer. Make sure agarose does not boil over when you melt in microwave |
-| [Miniprep buffer I](/wiki/protocols/dna-and-cloning/plasmid-mini-prep-alkaline-lysis/) | 250 mL | store at 4C |
-| [Miniprep buffer III](/wiki/protocols/dna-and-cloning/plasmid-mini-prep-alkaline-lysis/) | 250 mL | store at 4C |
+| [Miniprep buffer I](/wiki/protocols/dna-and-cloning/plasmid-mini-prep-alkaline-lysis/) | 250 mL | store at 4°C |
+| [Miniprep buffer III](/wiki/protocols/dna-and-cloning/plasmid-mini-prep-alkaline-lysis/) | 250 mL | store at 4°C |

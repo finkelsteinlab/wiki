@@ -41,18 +41,18 @@ Adjust pH to 5.8 with acetic acid. **DO NOT OVERSHOOT.** Manganese will crash ou
 
 Adjust pH to 6.5 with KOH. Filter.
 
-Store buffers at room temperature or 4 C. Use while ice cold.
+Store buffers at room temperature or 4°C. Use while ice cold.
 
 ## 2. Protocol
 
 ### 2.1 Growing the cells
 
-1. Streak desired commercial cells on an LB plate and grow at 37C for 24 hours.
-2. Choose a single colony and grow in 5 mL of LB overnight at 37C and 230 rpm.
+1. Streak desired commercial cells on an LB plate and grow at 37°C for 24 hours.
+2. Choose a single colony and grow in 5 mL of LB overnight at 37°C and 230 rpm.
 3. Prepare 250 mL LB + 20mM MgSO4 in a 2L baffled flask and inoculate with 3 mL of overnight culture.
-   1. Shake at 37 C and 250 rpm until OD= 0.4-0.6.
+   1. Shake at 37°C and 250 rpm until OD= 0.4-0.6.
 4. Transfer cells to 5 50 mL conicals and centrifuge to pellet.
-   1. Pre-chill the conicals on ice and bring the centrifuge down to 4 C prior to transferring cells. Swing bucket rotor, 4500 x g, 5 minutes.
+   1. Pre-chill the conicals on ice and bring the centrifuge down to 4°C prior to transferring cells. Swing bucket rotor, 4500 x g, 5 minutes.
 
 ### 2.2 Making the cells competent
 
@@ -61,7 +61,7 @@ Store buffers at room temperature or 4 C. Use while ice cold.
 1. Discard supernatant and resuspend each pellet with 20mL of TFB1, gently pipetting to solubilize.
    1. Be patient and gentle. Do not vortex cells or pipette too violently.
 2. Combine the pellets in 2 50 mL conicals and incubate on ice for 5 minutes.
-3. Pellet cells; swing bucket rotor, 4500 x g, 5 minutes, 4 C.
+3. Pellet cells; swing bucket rotor, 4500 x g, 5 minutes, 4°C.
 4. Resuspend each pellet in 5 mL TFB2, pipetting up and down gently to mix.
 5. Combine cells into one conical and incubate on ice for 45-60 minutes.
 
@@ -69,7 +69,7 @@ Store buffers at room temperature or 4 C. Use while ice cold.
 
 1. Aliquot 50uL into pre-chilled 0.6mL tubes.
 2. Flash freeze with liquid nitrogen.
-3. Store at -80 C and update the racks database to reflect the inventory.
+3. Store at -80°C and update the racks database to reflect the inventory.
 
 ## 3. Notes
 

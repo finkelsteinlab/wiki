@@ -15,12 +15,12 @@ title: "Bead Mill"
 1. Grow Yeast as per your protocol.
 2. Harvest yeast in 1L bottles.
 3. Resuspend Yeast in water and transfer to 50 mL conical tubes.
-4. You can either pellet and freeze at -80C here or move to freezing in “balls.”
+4. You can either pellet and freeze at -80°C here or move to freezing in “balls.”
 5. To freeze in balls, resuspend the pelleted yeast in a very small amount of your Lysis Buffer (contains buffer, salt, etc. as well as PIs (HALT or cOmplete) and PMSF). I recommend starting at ~2 mL per Liter of yeast and mix/vortex to make the yeast very slightly fluid. Add more Buffer if pellet is still solid.
 6. Transfer the lightly suspended pellet to a 30 mL syringe (with the end of the syringe blocked with parafilm). You want the pellet to be viscous enough to not flow through the hole without pressure.
 7. Get a 250 mL plastic beaker or greater and place in a styrofoam container filled with liquid Nitrogen (also fill the plastic container ~half full with liquid Nitrogen).
 8. Remove the parafilm and force the pellet though into the beaker containing liquid Nitrogen. Can make little frozen yeast balls that can be easily transferred to a 50 mL conical.
-9. Yeast balls are then stored at -80C.
+9. Yeast balls are then stored at -80°C.
 
 ## 2. Operating the Bead Mill
 

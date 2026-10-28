@@ -28,16 +28,16 @@ The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynu
    3. Place the cells in a 42°C water bath for 42 seconds.
    4. Remove and immediately place on ice for 2 minutes.
    5. Add the cells to 500 uL of SOC.
-   6. Allow to grow in a shaker at 37C, 250rpm for 1 hour.
+   6. Allow to grow in a shaker at 37°C, 250rpm for 1 hour.
    7. Remove and plate 250 uL of culture onto an LB-Kan plate.
 
 ## 3. Express
 
 1. Take a single colony from the plate and inoculate an overnight of 100 mL with a 50 ug/mL concentration of Kanamycin.
-2. Use 10 mL of overnight to inoculate 3L of LB and culture at 37C, 250RPM.
+2. Use 10 mL of overnight to inoculate 3L of LB and culture at 37°C, 250RPM.
 3. Grow until the O.D. 600 is equal to 0.6-1.0.
-4. Cool cultures to 16C then inoculate the cultures with a concentration of 0.4 mM IPTG.
-5. Allow cultures to grow overnight at 12C in shaking incubator for 18-24 hours.
+4. Cool cultures to 16°C then inoculate the cultures with a concentration of 0.4 mM IPTG.
+5. Allow cultures to grow overnight at 12°C in shaking incubator for 18-24 hours.
 6. Harvest by centrifuging for 10 minutes at 5000 rpm.
 7. Decant the supernatant and keep the pellet. Do this on ice in the cold room.
 8. Resuspend pellets in 70 mL with resuspension buffer:
@@ -47,7 +47,7 @@ The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynu
    - 10% Sucrose
    - 1 mM PMSF (protease inhibitor)
 9. Separate the cell suspension into (2)-45ml aliquots.
-10. Flash freeze cell suspensions in liquid nitrogen and store in -80C until ready to use.
+10. Flash freeze cell suspensions in liquid nitrogen and store in -80°C until ready to use.
 
 ## 4. Purify
 
@@ -56,7 +56,7 @@ The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynu
 1. Defrost the cells on ice.
 2. Sonicate at 75% amplitude for bursts of 15 seconds with rests of 90 seconds for a total sonication time of 90 seconds.
    - The lysate should flow easily if cells are broken
-3. Centrifuge the cells in the ultracentrifuge at 35K for 35 minutes at 4C.
+3. Centrifuge the cells in the ultracentrifuge at 35K for 35 minutes at 4°C.
 4. Collect the supernatant and discard the pellet.
    - **Clean the centrifuge tubes**
 5. Set aside a 1 mL sample of clarified lysate for analysis on an SDS page gel.
@@ -75,7 +75,7 @@ The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynu
     - **Check pH!**
 14. Aliquot protein into 10 uL samples into 0.5 mL Eppendorf tubes.
 15. Flash freeze protein aliquots using liquid nitrogen.
-16. Store at -80C.
+16. Store at -80°C.
 
 ## 5. Analysis
 

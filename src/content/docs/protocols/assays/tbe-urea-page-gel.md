@@ -45,7 +45,7 @@ Recipe for 6-8 gels.
 1. Run TBE gel in 0.5X TBE buffer <http://cshprotocols.cshlp.org/content/2006/1/pdb.rec8458>
 2. Wash the gel lanes with 0.5X TBE using a needle attached to a 30 mL syringe (you will see Urea being washed out).
 3. Pre-run the gel for 30 minutes at 120V. This allows the gel to equilibrate temperature.
-4. Mix samples 1:1 with 2X Formamide Buffer. Boil RNA at 95C for 5 minutes. Place immediately on ice.
+4. Mix samples 1:1 with 2X Formamide Buffer. Boil RNA at 95°C for 5 minutes. Place immediately on ice.
 5. Again wash the gel lanes with 0.5X TBE before loading. This will remove Urea before running the gel (you will again see Urea being washed out).
 6. Run the gel at 120V for 50-55 minutes. The dye runs at tens of RNA nucleotides, therefore, you need to run the gel further than the dye indicates.
 7. Remove the gel from the casing and soak for 15-20 minutes in 1X SYBR Gold in 0.5X TBE.

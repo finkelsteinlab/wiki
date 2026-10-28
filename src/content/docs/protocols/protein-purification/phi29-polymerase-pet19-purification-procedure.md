@@ -54,7 +54,7 @@ Plasmid cloned from the previous [Φ29 (phi29) DNA Polymerase](/wiki/protocols/p
 
 ### 2.1 Day 1
 
-1. pIF376 (WT) and pIF377 (7M). Transform in Rosetta pLysS (Carb + Cam). 37C O/N.
+1. pIF376 (WT) and pIF377 (7M). Transform in Rosetta pLysS (Carb + Cam). 37°C O/N.
 
 ### 2.2 Day 2
 
@@ -62,7 +62,7 @@ Plasmid cloned from the previous [Φ29 (phi29) DNA Polymerase](/wiki/protocols/p
 
 ### 2.3 Day 3
 
-1. Add 5 mL of overnight culture to 1L of LB (+ Carb/Cam). Grow at 30C until OD600 of 0.6. Induce with 0.4 mM IPTG at 16C O/N.
+1. Add 5 mL of overnight culture to 1L of LB (+ Carb/Cam). Grow at 30°C until OD600 of 0.6. Induce with 0.4 mM IPTG at 16°C O/N.
 
 ### 2.4 Day 4
 
@@ -75,8 +75,8 @@ Plasmid cloned from the previous [Φ29 (phi29) DNA Polymerase](/wiki/protocols/p
 7. Wash with high salt buffer. Re-equilibrate with Lysis Buffer.
 8. Elute resin with Elution buffer in 5 mL fractions.
 9. Dialyze in Dialysis Buffer with addition of SUMO Protease.
-10. Dialyze for 4 hours at 4C.
-11. Freeze in aliquots in LN2. Store in -80C.
+10. Dialyze for 4 hours at 4°C.
+11. Freeze in aliquots in LN2. Store in -80°C.
 
 [^paper-1]: Schaub et al. (2018). [Assessing Protein Dynamics on Low-Complexity Single-Stranded DNA Curtains](https://finkelsteinlab.org/papers/paper/low-complexity-ssdna-curtains). *Langmuir*.
 [^paper-2]: Zhang et al. (2020). [RADX condenses single-stranded DNA to antagonize RAD51 loading](https://finkelsteinlab.org/papers/paper/RADX-condensation). *Nucleic Acids Research*.

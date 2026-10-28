@@ -60,26 +60,26 @@ Plasmid and Protocol from Dr. Mauro Modesti. Adapted by J. Schaub.
 ### 2.2 Day 2
 
 1. Inoculate a single colony into 50 mL of LB supplemented with Kanamycin.
-2. Grow Overnight at 37C.
+2. Grow Overnight at 37°C.
 
 ### 2.3 Day 3
 
-1. Dilute 10 mL overnight culture per Liter into 2-4L of autoclaved LB. Supplement with Kanamycin. Grow at 37C until an OD of 0.6.
+1. Dilute 10 mL overnight culture per Liter into 2-4L of autoclaved LB. Supplement with Kanamycin. Grow at 37°C until an OD of 0.6.
 2. Induce the culture with 500 uM IPTG.
-3. Incubate overnight (16 hours) at 20C.
+3. Incubate overnight (16 hours) at 20°C.
 
 ### 2.4 Day 4
 
 1. Harvest cells at 4000 rpm for 10 minutes using the JLA 8.1.
 2. Resuspend in 15 mL of Lysis Buffer per Liter of culture. Add one tablet of EDTA-free protease inhibitor.
 3. Sonicate on preset program: 90 seconds total (15s on, 90s off, 30% amplitude).
-4. Spin at 35,000 x g for 45 minutes at 4C.
+4. Spin at 35,000 x g for 45 minutes at 4°C.
 5. Apply supernatant to 5 mL Ni-NTA resin (loose resin or FPLC column).
 6. Wash with 15 CV with Lysis Buffer (or until baselined).
 7. Elute with 15 CV with Nickel Elution Buffer.
    1. Elutes as one peak early in the elution period.
 8. Run gel to determine if the protein purified. There should be two distinct bands: 6xHis-MBP-BRC4 (~50 kDA) and Rad51 (~37 kDa). This purification uses a His-tag on BRC4 and interactions between BRC4 and Rad51 to purify Rad51.
-9. Dilute the elution with Heparin A Buffer to obtain a final \[NaCl\] of ~100 mM. Watch for precipitation.
+9. Dilute the elution with Heparin A Buffer to obtain a final [NaCl] of ~100 mM. Watch for precipitation.
 10. Load onto a 5 mL Heparin column.
 11. Wash with Heparin Buffer A for 15 CV.
 12. Wash with one step of 200 mM NaCl.
@@ -97,7 +97,7 @@ Plasmid and Protocol from Dr. Mauro Modesti. Adapted by J. Schaub.
 4. Incubate RAD51 in the new buffer for 30 minutes to ensure reduction of disulfides.
 5. May need to purge oxygen from buffers to prevent oxidizing environment.
 6. Make the dye into a 10-20 mM stock and add a 5:1 Molar excess to the RAD51.
-7. Incubate at 4C for 2h.
+7. Incubate at 4°C for 2h.
 8. Remove the excess dye via Gel Filtration.
 9. Pre-equilibrate column with Gel Filtration Buffer.
 10. Pool labeled peak of Rad51 and freeze in liquid Nitrogen in the uM concentration range.

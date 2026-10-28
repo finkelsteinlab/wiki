@@ -44,15 +44,15 @@ The following protocol was sent by Tim Silverstein from the Greene lab at Columb
 The following insertion recipe is for a 450ul total volume reaction for generating labeled microscope DNA later to be purified using gel filtration via [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/). The protocol has an intermediate stop if the gels are to be used for gel based diagnostics.
 
 1. Mix 105ul of H20, with 160ul TS Lambda insertion sequence DNA (Max has it), and 40ul NEB #3.
-2. Digest with 8ul (80 units) of Nt.BspQI for 1 hour @50'C.
+2. Digest with 8ul (80 units) of Nt.BspQI for 1 hour @50°C.
 3. Add 35ul of insertion oligos (1000x molar excess) and 5 ul of each desired lambda handle.
 4. Use the ThermoCycler to heat the reaction to 71'C for 10 min, and slowly cool by 0.5'C every 1 min down to RT.
 5. Add 8ul of T4 ligase and 10 ul of 100mM ATP. Ligate at RT O/N.
 6. Cancel the ligase by adding 50uM EDTA final to the reaction (40ul of 0.5M stock).
 7. If sample or fraction of sample is to be used in diagnostic gels, end here. If continuing for microscope, move on to step 8.
-8. Digest the sample with 5 ul proteinase K at 55'C for 1 hour.
+8. Digest the sample with 5 ul proteinase K at 55°C for 1 hour.
 9. Gel filter the reaction using a the DNA only gel filtration column.
-10. Pool the peak aliquots, and store DNA either at 4'C or frozen at -20'C.
+10. Pool the peak aliquots, and store DNA either at 4°C or frozen at -20°C.
 
 If purifying the DNA for use in the microscope, use the gel filtration column purification protocol found in [Lambda DNA Oligo Ligation using Heat Block](/wiki/protocols/dna-and-cloning/lambda-dna-oligo-ligation-using-heat-block/).
 

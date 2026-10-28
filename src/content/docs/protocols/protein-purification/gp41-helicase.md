@@ -115,4 +115,4 @@ This extra purification step is to remove exo and endo nucleases that can potent
 6. Pool fractions, concentrate protein with an Amicon centrifugal spin concentrator (to prevent proteins from crashing out, keep concentration around 10uM).
    - Following Q column run, final protein concentration was at 11.45 uM, so concentrating was unnecessary.
 7. Aliquot fractions into 10 uL in 0.5 mL Eppendorf tubes.
-8. Flash freeze with liquid nitrogen and store at -80C.
+8. Flash freeze with liquid nitrogen and store at -80°C.

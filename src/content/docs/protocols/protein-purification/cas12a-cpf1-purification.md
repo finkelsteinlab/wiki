@@ -27,7 +27,7 @@ Used in our papers:[^paper-1][^paper-2][^paper-3][^paper-4][^paper-5][^paper-6][
 
 ## 1. Buffers
 
-- **Make sure to degas all buffers by leaving them under vacuum after filtering, until the bubbles stop forming. Make sure to make the day before and keep at 4C.**
+- **Make sure to degas all buffers by leaving them under vacuum after filtering, until the bubbles stop forming. Make sure to make the day before and keep at 4°C.**
 - **Lysis Buffer (1L, pH 7.5)**
   - 1 M NaCl
   - 20 mM HEPES-NaCl

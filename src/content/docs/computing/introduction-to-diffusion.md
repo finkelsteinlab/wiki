@@ -12,6 +12,7 @@ The code is well commented, but I recommend you familiarize yourself with [MATLA
 
 1. [Making Play Data](#1-making-play-data)
 2. [Computing Diffusion Coefficients](#2-computing-diffusion-coefficients)
+   1. [Obtaining MSDs From Blinky Trajectories](#21-obtaining-msds-from-blinky-trajectories)
 3. [Additional Considerations](#3-additional-considerations)
 
 ## 1. Making Play Data
@@ -50,6 +51,4 @@ Real data frequently has issues with photoblinking. In the example below, the co
 
 ## 3. Additional Considerations
 
-Computing the diffusion coefficient can be tricky, especially for very short trajectories. This code will give you an idea for what can go wrong.
-
-**COMING SOON**
+Computing the diffusion coefficient can be tricky, especially for very short trajectories. For upstream trajectory extraction and downstream curve fitting, see [Particle Tracking](/wiki/protocols/single-molecule/particle-tracking/) and [Fitting Data to a Model](/wiki/computing/fitting-data-to-a-model/).

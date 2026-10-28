@@ -56,7 +56,7 @@ All broken glass, including the microscope cover slips, needs to be disposed int
 As the DNA is incubating in the flowcell, its time to prepare the imaging solution. The composition of the imaging solution will depend on your experiment. Variables to consider:
 
 - Do you need MgCl2?
-- What \[NaCl\] should you use? Remember, most protein-DNA interactions are electrostatic and will be weaker at high \[NaCl\]
+- What [NaCl] should you use? Remember, most protein-DNA interactions are electrostatic and will be weaker at high [NaCl]
 - Do you need YOYO-1, and how much?
 
 Here is a typical imaging buffer that I use routinely:

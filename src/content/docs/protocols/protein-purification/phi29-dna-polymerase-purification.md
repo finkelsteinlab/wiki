@@ -51,7 +51,7 @@ phi29 DNA Polymerase is the replicative polymerase from the Bacillus subtilis ph
     - 500 mM NaCl
     - 5% Glycerol
     - 5 mM imidazole
-    - Add Halt Protease Inhibitor Cocktail **(No EDTA)** to final \[\] of 1X. Also add 2mM benzamidine.
+    - Add Halt Protease Inhibitor Cocktail **(No EDTA)** to final [] of 1X. Also add 2mM benzamidine.
 11. Proceed directly to purification for (1) 3L pellet. Flash freeze two other pellets.
 
 ### 2.3 Purify

@@ -33,7 +33,7 @@ Some lysogens don’t have any antibiotic resistance. Use sterile technique and 
 
 :::danger
 
-When making the buffers make sure you titrate well to the correct Ph, and re-titrate the day before your experiment. Lambda DNA will not bind to the purification column if it is not the correct pH.
+When making the buffers make sure you titrate well to the correct pH, and re-titrate the day before your experiment. Lambda DNA will not bind to the purification column if it is not the correct pH.
 
 :::
 

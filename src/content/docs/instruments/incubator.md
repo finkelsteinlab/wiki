@@ -14,7 +14,7 @@ title: "Incubator"
 
 <img src="/wiki/media/instruments/incubator.jpg" width="150" alt="Heratherm Incubator" />
 
-We have two incubators in the lab set to 37C and 42C. They are much larger than we may ever need. Think of it as luxurious.
+We have two incubators in the lab set to 37°C and 42°C. They are much larger than we may ever need. Think of it as luxurious.
 
 ## 2. Maintenance
 

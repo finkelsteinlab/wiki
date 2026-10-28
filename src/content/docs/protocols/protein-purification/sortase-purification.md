@@ -44,14 +44,14 @@ Plasmid were purchased from Addgene. For downstream sortase-mediated labeling re
 
 1. Inoculate 20 mL of LB with Sortase Glycerol Stock (WT:IF324, 2M:IF326, 5M:IF325) supplemented with Kanamycin.
    1. Plasmid are WT:pIF184, 2M:pIF170, 5M:pIF185, 7M:pIF170
-2. Grow starter culture at 37ºC overnight at 220 rpm.
+2. Grow starter culture at 37°C overnight at 220 rpm.
 
 ### 2.2 Day 2
 
 1. Inoculate 2L of LB media with the 20 mL of starter culture. Make sure to also have Kanamycin in the 2L of culture.
 2. Grow the culture until an OD600 of 0.6.
    1. Take a preinduction control sample.
-3. Induce with 0.5 mM IPTG overnight at 25ºC.
+3. Induce with 0.5 mM IPTG overnight at 25°C.
 
 ### 2.3 Day 3
 

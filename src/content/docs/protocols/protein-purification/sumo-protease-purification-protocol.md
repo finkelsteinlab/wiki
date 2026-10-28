@@ -46,13 +46,13 @@ For TEV protease purification, see [TEV Protease Purification](/wiki/protocols/p
 
 1. Inoculate 10 mL of LB with SUMO Protease Glycerol Stock (IF311) supplemented with Kanamycin.
    1. Plasmid is pIF183
-2. Grow starter culture at 37ºC overnight at 220 rpm.
+2. Grow starter culture at 37°C overnight at 220 rpm.
 
 ### 2.2 Day 2
 
 1. Inoculate 1L of LB media with the 10 mL of starter culture. Make sure to also have Kanamycin in the 1L of culture.
 2. Grow the culture until an OD600 of 0.6.
-3. Induce with 0.5 mM IPTG for 3-4 hours at 37ºC.
+3. Induce with 0.5 mM IPTG for 3-4 hours at 37°C.
 4. Harvest by centrifugation at 6000g for 15 minutes.
 5. Suspend pellet in 35 mL SP Wash Buffer per Liter of culture.
    1. Add DNase but ***NOT*** protease inhibitor!
@@ -66,7 +66,7 @@ For TEV protease purification, see [TEV Protease Purification](/wiki/protocols/p
 12. Elute with SP Elution Buffer in 5 mL fractions.
     1. There was some precipitation in the elution fractions from very concentrated protein.
 13. Run gel to determine which fractions to collect (all of my elutions had protein - 5th elution had very little).
-14. Dialyze the protein overnight in SP Dialysis Buffer at 4ºC in a 10,000 MWCO dialysis bag.
+14. Dialyze the protein overnight in SP Dialysis Buffer at 4°C in a 10,000 MWCO dialysis bag.
     1. In the morning I noticed precipitation of protein in the dialysis bag.
 
 ### 2.3 Day 3

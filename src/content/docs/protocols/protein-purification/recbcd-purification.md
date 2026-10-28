@@ -68,7 +68,7 @@ To save time, it is recommended that all columns be pre-washed in appropriate bu
 
 :::note
 
-It is critical to minimize the time RecBCD spends in high salt buffers, as the RecD unit is labile at high salt.\[ref\]
+It is critical to minimize the time RecBCD spends in high salt buffers, as the RecD unit is labile at high salt.[ref]
 
 :::
 
@@ -93,10 +93,10 @@ Be very careful about setting maximum pressure on AKTA. The MonoQ can take more 
 
 ### 4.2 Day 1
 
-1. Bacteria is grown in 1L cultures in 2YT supplemented with 0.1 mM biotin (for biotinylated RecBCD only) at 37˚C.
+1. Bacteria is grown in 1L cultures in 2YT supplemented with 0.1 mM biotin (for biotinylated RecBCD only) at 37°C.
    1. At an OD650~0.6, bacteria is induced with 0.4 mM IPTG and grown for a further 4 hr.
    2. Bacteria may grow very slowly … prepare for a long wait.
-2. Cells are harvested by centrifugation, (5K, 20 min) resuspended in resuspension buffer (50 mM TrisHCl pH 7.5/0.1 mM PMSF/10% sucrose) and frozen @ -80C.
+2. Cells are harvested by centrifugation, (5K, 20 min) resuspended in resuspension buffer (50 mM TrisHCl pH 7.5/0.1 mM PMSF/10% sucrose) and frozen @ -80°C.
 3. The frozen cell suspension is slowly thawed and sonicated to lyse cells.
 4. The suspension was ultracentrifuged for ~45 min, 36K RPM.
 5. The lysate was then fractionated with 50% ammonium sulfate (good place to stop for the night) and spun at 20000g for 20 min to recover the precipitated protein.
@@ -120,6 +120,6 @@ Be very careful about setting maximum pressure on AKTA. The MonoQ can take more 
 ### 4.4 Day 3
 
 1. Aliquot samples.
-2. Flash freeze in liquid nitrogen and store in the -80C freezer.
+2. Flash freeze in liquid nitrogen and store in the -80°C freezer.
 
 [^paper-1]: Robison et al. (2014). [Rapid prototyping of multichannel microfluidic devices for single-molecule DNA curtain imaging](https://finkelsteinlab.org/papers/paper/microfluidic-devices-curtains). *Anal. Chem*.

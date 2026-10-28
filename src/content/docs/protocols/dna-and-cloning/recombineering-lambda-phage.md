@@ -62,8 +62,8 @@ The recombineering machinery is housed on plasmid pKD78 from (Datsenko 2000).
 5. After the electroporations are completed, transfer the electroporation mixes into 10 mls LB in a 50 ml baffled flask. Incubate with shaking at 32°C for a minimum of 2-4 hours.
    1. **CRITICAL STEP Failure to allow minimum 2 hr outgrowth gives poor cell viability.**
 6. If the insert contains an amp-selection gene, cells are plated onto single-copy (30 ug/ml) carb plates and grown at 32°C overnight.
-7. After plating, return the liquid cultures to the shaker for overnight incubation at 32˚C. Use this culture to re-plate if nothing grows on overnight plates.
-8. Lysogens should be re-confirmed by re-plating a few colonies on both 42˚C and 32˚C plates.
+7. After plating, return the liquid cultures to the shaker for overnight incubation at 32°C. Use this culture to re-plate if nothing grows on overnight plates.
+8. Lysogens should be re-confirmed by re-plating a few colonies on both 42°C and 32°C plates.
 9. Secondary confirmation by colony PCR is also a good idea.
 
 ## 4. References

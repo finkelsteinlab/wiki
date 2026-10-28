@@ -47,7 +47,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <tr>
 <td style="text-align: center;"></td>
 <td>(mg / ml)</td>
-<td>˚C</td>
+<td>°C</td>
 <td style="text-align: left;">µg/ml</td>
 <td>dilution</td>
 <td>µg/ml</td>
@@ -219,10 +219,10 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 
 - Common abbreviation: Amp
 - filter sterilization; or preparation from the sterile water and the sterile powder;
-- store at -20˚C in small quantities (about 10 freezing-thawing cycles);
-- instead of H2O it is possible to use 50% glycerol. The advantage: solution is liquid at -20˚C.
+- store at -20°C in small quantities (about 10 freezing-thawing cycles);
+- instead of H2O it is possible to use 50% glycerol. The advantage: solution is liquid at -20°C.
 - some laboratories use 96% (or 50%) EtOH for ampicillin solubilization. There are two advantages in this method:
-  - solution is liquid at -20˚C
+  - solution is liquid at -20°C
   - the solution is self sterilizing.
 - **But the disadvantage is very serious:** ethanol is a weak catalyst of β-lactam ring disruption. So, solution is unstable.
 
@@ -231,12 +231,12 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 - Common abbreviation: Carb
 - More expensive than Amp but is also more stable when added to bacteria. This is what we use in the lab.
 - Filter sterilization; or preparation from the sterile water and the sterile powder;
-- store at -20˚C in small quantities (about 10 freezing-thawing cycles);
+- store at -20°C in small quantities (about 10 freezing-thawing cycles);
 
 ### 2.3 Chloramphenicol
 
 - Common abbreviation: Cam
-- store dry powder at 4˚C, solution at -20˚C (in EtOH);
+- store dry powder at 4°C, solution at -20°C (in EtOH);
 
 ### 2.4 D-cycloserine
 
@@ -249,7 +249,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 ### 2.6 Tetracycline
 
 - Common abbreviation: Tet
-- Solution in EtOH, store at -20˚C.
+- Solution in EtOH, store at -20°C.
 - Light sensitive, store in foil.
 - I’ve seen some references claim that Mg has to be omitted from media for selection because Mg can degrade Tetracycline. Need a ref…
 

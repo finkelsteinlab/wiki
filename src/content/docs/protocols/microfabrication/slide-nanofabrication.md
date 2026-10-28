@@ -44,12 +44,12 @@ Take slides to the FNT clean room:
 1. Alternatively, use [piranha solution](/wiki/protocols/microfabrication/piranha-solution/).
 2. Wash with lots of water. Blow dry.
 3. Sonicate slides with acetone. Wash individually with isopropanol before acetone dries. Blow dry.
-4. Before spin coating have a hot plate ready at 120 C and leave your quartz slides there for 1 minute.
+4. Before spin coating have a hot plate ready at 120°C and leave your quartz slides there for 1 minute.
 5. Spin coat settings: 4000 rpm; 300 rpm/s ramp; 45 seconds total run. <http://www.cnm.utexas.edu/equipment/laurell-technologies-spincoater/> (dead link)
    1. low MW PMMA, 100 ml brown bottle with black cap with green tape (29K, A3)
    2. high MW PMMA, 100 ml brown bottle with black cap (495K, A1.5)
    3. AquaSave, 4 ml brown vial with black cap, need to spread with a bubble because it doesn’t spin-coat well.
-6. After spin coating the 3 layers, set the slide on the 120 C hot plate for 1 more minute.
+6. After spin coating the 3 layers, set the slide on the 120°C hot plate for 1 more minute.
 7. Take coated slide to EBL.
 
 ## 3. Using the FEI E-Beam Writer

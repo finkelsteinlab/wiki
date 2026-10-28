@@ -48,5 +48,5 @@ BSA should elute off in two distinct peaks.
 
 1. Pump Wash Basic Program with A & B tubes in diH2O. Followed by 10 column volume flow at 1ml/min and 0.3 MPa alarm max.
 2. Repeat with 20% EtOH.
-3. Remove column, recap. Label column with date, your name and storage buffer (should be 20% EtOH). Store in 4C.
+3. Remove column, recap. Label column with date, your name and storage buffer (should be 20% EtOH). Store in 4°C.
 4. Replace line to port using drop-to-drop connection.

@@ -53,7 +53,7 @@ The rotor for the Optima XE is Ti-45 (titanium 45000 rpm).
    5. Press Start.
       - You will hear the vacuum pump turn on.
       - As the rotor approaches the speed you want, the pressure in the centrifuge drops holding the rotor in place
-5. At the end of the day, when no one is running a sample raise the temperature to 28C and initiate the vacuum.
+5. At the end of the day, when no one is running a sample raise the temperature to 28°C and initiate the vacuum.
 6. After 30 minutes shut the machine off. This is to ensure no condensation develops in the machine and for the duration of the vacuum pumps.
 
 ### 1.3 Common problems
@@ -100,7 +100,7 @@ The rotors for the Avanti J-26 are the JLA 16.250 and the JLA 8.1
 
 1. When you enter the lab in the morning the Avanti will be turned off and the lid will be open.
 2. Turn on the Avanti and close the lid.
-3. Set temperature to 4C and allow time to equilibrate.
+3. Set temperature to 4°C and allow time to equilibrate.
 4. If running a sample:
    1. Place sample in centrifuge bottles and distribute them evenly in the rotor.
       - *Pro-tip:* If your samples weigh approximately the same when inside their centrifuge adapter, you can balance them without adding water to your sample by putting some water into an empty slot in the adapter itself.
@@ -137,7 +137,7 @@ The rotors for the Avanti J-26 are the JLA 16.250 and the JLA 8.1
 
 ## 3. Bench top centrifuges
 
-<img src="/wiki/media/instruments/benchtop_centrifuge.jpg" width="250" alt="Centrifuge 5424" /> We have two benchtop centrifuges in the lab. One in Instrument Row and one in the FPLC refrigerator at 4C.
+<img src="/wiki/media/instruments/benchtop_centrifuge.jpg" width="250" alt="Centrifuge 5424" /> We have two benchtop centrifuges in the lab. One in Instrument Row and one in the FPLC refrigerator at 4°C.
 
 ### 3.1 General protocol
 

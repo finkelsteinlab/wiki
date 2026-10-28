@@ -41,6 +41,6 @@ Your oligos will arrive lyophilized in a little tube. Now what?
 2. Resuspend to a final oligo concentration of 100µM with **TE** (10 mM TrisCl pH 8, 1 mM EDTA) or **Te** (10 mM TrisCl pH 8, 0.1 mM EDTA). The nmoles of oligo is written on the tube and can be [calculated easily](http://www.idtdna.com/pages/support/technical-vault/faq-old/application-support/faqs/2011/05/27/how-do-i-resuspend-my-oligo-to-obtain-100umolar-conc-).
 3. **Update your personal oligo records** with the oligo information.
 
-Oligos are stored at -20C and are stable forever.
+Oligos are stored at -20°C and are stable forever.
 
 Read more about oligo handling here: <https://www.idtdna.com/pages/support/technical-vault/faq/application-support>

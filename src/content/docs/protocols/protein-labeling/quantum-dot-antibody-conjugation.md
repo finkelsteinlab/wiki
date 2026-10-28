@@ -52,7 +52,7 @@ Before you begin, read the following two manuals carefully:
 
 1. Quantum dot (QD)–antibody conjugates are prepared according to the [manufacturer-provided protocol](/wiki/media/protocols/qdotconjugationmanual.pdf) with a minor modification in the final gel-filtration step.
 2. After the conjugation reaction is quenched with 2-mercaptoethanol (manufacturer protocol), the QD–antibody mixture is passed through a Sepharose S300 FPLC column. The QDs come out in the void volume while the antibodies and other reaction components enter the Sepharose matrix.
-3. QD conjugates are concentrated with MW 50 kDa microcentrifuge concentrators and stored for up to 3 months at 4˚C in PBS at a final concentration of 100–500 nM.
+3. QD conjugates are concentrated with MW 50 kDa microcentrifuge concentrators and stored for up to 3 months at 4°C in PBS at a final concentration of 100–500 nM.
 
 <img src="/wiki/media/protocols/qdot_workflow.png" width="600" alt="After the QDs are quenched with 2-mercaptoethanol, the reaction mixture is filtered on a Superose 6 FPLC column. QDs come out in the void and can be concentrated further in a spin-column, if necessary" />
 

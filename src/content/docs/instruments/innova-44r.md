@@ -14,7 +14,7 @@ title: "Innova 44R"
 
 <img src="/wiki/media/instruments/innova_4444r_01-t.jpg" width="150" alt="Innova44R" />
 
-We currently have two stack-able shakers (shaker A and shaker B) in the lab with an adjustable temperature from -20C to 80C. Amazing! We will use them primarily for cell culturing.
+We currently have two stack-able shakers (shaker A and shaker B) in the lab with an adjustable temperature from -20°C to 80°C. Amazing! We will use them primarily for cell culturing.
 
 ## 2. Protocol
 

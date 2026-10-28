@@ -74,7 +74,7 @@ LacI repressor with 3xFLAG epitope at the C-terminus (used in roadblock curtain 
    - 200 mM NaCl
    - 1 mM EDTA
    - 50% Glycerol
-2. **CHECK THE PH OF STORAGE BUFFER AND ADJUST TO 7.5**
+2. **CHECK THE pH OF STORAGE BUFFER AND ADJUST TO 7.5**
 3. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
 
 [^paper-1]: Kim et al. (2017). [Efficient modification of λ-DNA substrates for single-molecule studies](https://finkelsteinlab.org/papers/paper/lambda-modification). *Sci Rep*.

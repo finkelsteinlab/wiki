@@ -23,8 +23,8 @@ RNase H2 is grown in a temperature-sensitive *E. coli* strain (MIC1066, *rnhA*/*
 
 ## 2. Expression
 
-1. Grow 8 L at 32 C in presence of ampicillin or carbenicillin overnight shaking slowly to OD .5-.6.
-2. In morning, induce with 1 mM IPTG for 4 hr at 32C, Spin down cell pellets and freeze at -80 C.
+1. Grow 8 L at 32°C in presence of ampicillin or carbenicillin overnight shaking slowly to OD .5-.6.
+2. In morning, induce with 1 mM IPTG for 4 hr at 32°C, Spin down cell pellets and freeze at -80°C.
 
 ## 3. Purification
 

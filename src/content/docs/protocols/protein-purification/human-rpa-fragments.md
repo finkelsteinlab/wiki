@@ -29,36 +29,36 @@ For full-length human RPA (hRPA-His6 and hRPA-eGFP-His6), see [Human RPA purific
 1. Transform 1 uL of hRPA70-His6 plasmid (pET28a-AB-His or pET28a-A1B2-His) into 50 uL of BL21(DE3) cells.
 2. Flick 5 times.
 3. Place on ice for 30 minutes.
-4. Place in a 42C water bath for 45 seconds.
+4. Place in a 42°C water bath for 45 seconds.
 5. Place on ice for 2 minutes.
-6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37C, 250 rpm.
-7. Plate 250 uL of cells onto an LB-Kan plate and place in a 37C incubator for 12 hours.
-8. You can store the plate for 1 day in 4C if you parafilm the edges.
+6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37°C, 250 rpm.
+7. Plate 250 uL of cells onto an LB-Kan plate and place in a 37°C incubator for 12 hours.
+8. You can store the plate for 1 day in 4°C if you parafilm the edges.
 
 ## 2. Express
 
 1. Take one cell colony from the BL21(DE3) plate and inoculate 1 L of TB(5 g Bacto tryptone, 2.5 g NaCl, 0.2 ml 10N NaOH) in a 2L flask with a 50 ug/mL concentration of Kanamycin.
-2. Grow the flask overnight at 37C, 30C and 25C **WITH NO SHAKING** or aeration.
+2. Grow the flask overnight at 37°C, 30°C and 25°C **WITH NO SHAKING** or aeration.
 3. In the morning the OD(600) should be 0.1 to 0.3.
    - Each liter should have a Kanamycin concentration of 50 ug/mL.
-4. Pull together all flasks that have OD less than 0.8 and grow at 37 C with SHAKE until an O.D. 600 of 0.5-0.8.
-5. Once the O.D. 600 is reached, inoculate the cultures with a concentration of 0.3 mM IPTG and keep them inside the shakers at 37C.
+4. Pull together all flasks that have OD less than 0.8 and grow at 37°C with SHAKE until an O.D. 600 of 0.5-0.8.
+5. Once the O.D. 600 is reached, inoculate the cultures with a concentration of 0.3 mM IPTG and keep them inside the shakers at 37°C.
 6. Allow to grow for 3 to 4 hours and then harvest. **Take samples at each time after induction too monitor protein levels**
 7. Harvest by centrifuging for 15 minutes at 5000 rpm in the 8.1 JPA rotor.
 8. Decant the supernatant and keep the pellet. **Do this in the cold room**
 9. Resuspend the pellet to 20 mL (for each 3L of original culture) with Lysis buffer:
    - 500 mM NaCl
-   - 20 mM Tris-HCl,ph7.5
+   - 20 mM Tris-HCl,pH 7.5
    - 1 mM DTT
    - 10 mM imidazole, pH 8
    - 0.25% (w/v) myo-inositol
    - 0.01% (v/v) Nonidet-P40
    - 10% glycerol.
-   - 1 mM PMSF **Note: add from -80C stock immediately before use, PMSF has a limited half-life in water**
+   - 1 mM PMSF **Note: add from -80°C stock immediately before use, PMSF has a limited half-life in water**
      - **stock solution is 100 mM of PMSF in isopropanol**
    - 1 tablet (for each 50 ml) of cOmplete EDTA-free (Roche)
 10. Cells can be now lysed or frozen.
-11. Flash freeze cells in liquid nitrogen and store in -80C until ready to use.
+11. Flash freeze cells in liquid nitrogen and store in -80°C until ready to use.
 
 ## 3. Purify (all steps on ice)
 
@@ -67,26 +67,26 @@ For full-length human RPA (hRPA-His6 and hRPA-eGFP-His6), see [Human RPA purific
 1. Defrost the pellet in lukewarm water until it turns into an icy slurry.
 2. Sonicate the lysate for a total of 90 seconds (75 amplitude; 15 second bursts with 90 second rests in between). Make sure lysate stays ice cold.
    - Take a sample of lysate for later gel analysis.
-3. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4C.
+3. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4°C.
    - Take a sample of the clarified lysate for later gel analysis.
 4. Pre-equilibrate a 5 ml HisTrap FF column in 1xlysis buffer using the FPLC. PMSF is not required at this point.
 5. Inject the clarified lysate by using a superloop.
 6. Wash the column with 10 column volumes of 1xlysis buffer (10 mM Imidazole).
 7. Wash the column with 10 column volumes of 1xlysis20 buffer (20 mM Imidazole):
    - 500 mM  NaCl
-   - 20 mM Tris-HCl,ph7.5
+   - 20 mM Tris-HCl,pH 7.5
    - 1 mM DTT
    - 20 mM imidazole, pH 8
    - 0.25% (w/v) myo-inositol
    - 0.01% (v/v) Nonidet-P40
    - 10% glycerol.
-   - 1 mM PMSF **Note: add from -80C stock immediately before use, PMSF has a limited half-life in water**
+   - 1 mM PMSF **Note: add from -80°C stock immediately before use, PMSF has a limited half-life in water**
      - **stock solution is 100 mM of PMSF in isopropanol**
    - 1 tablet (for each 50 ml) of cOmplete EDTA-free (Roche)
 8. Run a gradient (0-100% elution buffer in 50 ml) with a FPLC between the 1xlysis buffer and the elution buffer.
    - Elution buffer: (elution buffer = 1xlysis buffer with 500 mM imidazole instead of 5 mM imidazole.)
      - 500 mM  NaCl
-     - 20 mM Tris-HCl,ph7.5
+     - 20 mM Tris-HCl,pH 7.5
      - 2 mM beta-mercaptoethanol
      - 500 mM imidazole, pH 8
      - 10% glycerol.
@@ -168,6 +168,6 @@ After the Q column, run a gel to estimate concentration and purity. If concentra
      - 0.1 mM EDTA
      - 50% glycerol
 2. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen.
-3. Store fractions at -80 C.
+3. Store fractions at -80°C.
 
 [^paper-1]: Myler et al. (2016). [Single-molecule imaging reveals the mechanism of Exo1 regulation by single-stranded DNA binding proteins](https://finkelsteinlab.org/papers/paper/exo1-ssb-curtains). *Proc Natl Acad Sci USA*.

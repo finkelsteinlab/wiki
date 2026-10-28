@@ -34,7 +34,7 @@ The final, working concentrations of the protease inhibitors are:
 - E-64: 10 uM
 - Benzamidine: 2 mM (this may not be necessary, but it is cheap)
 
-Our protease inhibitor mix is prepared as a 100X stock in 10% DMSO and is stored in the -20˚C freezer, along with antibiotics, etc. The tops of the tubes should be labeled “PI”. Thaw the protease mix at room temperature at the same time that you thaw your frozen cell pellets. **Do not thaw them in any type of heating device or warm water bath.** To use the protease inhibitor cocktail, add 1/100th volume to your cells BEFORE you lyse them.
+Our protease inhibitor mix is prepared as a 100X stock in 10% DMSO and is stored in the -20°C freezer, along with antibiotics, etc. The tops of the tubes should be labeled “PI”. Thaw the protease mix at room temperature at the same time that you thaw your frozen cell pellets. **Do not thaw them in any type of heating device or warm water bath.** To use the protease inhibitor cocktail, add 1/100th volume to your cells BEFORE you lyse them.
 
 Also add EDTA at 0.5-1 mM (if running metal affinity column first) or 5 mM (if you are not).
 
@@ -49,4 +49,4 @@ Also add EDTA at 0.5-1 mM (if running metal affinity column first) or 5 mM (if y
 5. Add 35 mL MilliQ water and dissolve the two powders by gently inverting the tube.
 6. Add 4 mL of 10 mM E-64 in DMSO and mix by inverting the tube.
 7. Add water to 40 mL total and mix.
-8. Pipet 5 ml aliquots into 15 ml tubes labeled “100X PI” and also labeled with the date. Store the tubes at -20˚C along with the antibiotic stocks.
+8. Pipet 5 ml aliquots into 15 ml tubes labeled “100X PI” and also labeled with the date. Store the tubes at -20°C along with the antibiotic stocks.

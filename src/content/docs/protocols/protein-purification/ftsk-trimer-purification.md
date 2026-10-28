@@ -63,12 +63,12 @@ Used in our papers:[^paper-1][^paper-2]
    2. Thaw the competent cell (BL21(DE3) or BLR(DE3), 442604, Invitrogen).
    3. Add 1 ul of plasmid (FtsK, ~ 100 ng/ul) into the thawed competent cells. Mix it by gentle tapping. Don’t mix by pipetting.
    4. Put the tube on ice for 10 min (5 min ~ 1 hour).
-   5. Heat shock the cells in 42C water bath for 45 sec (30 sec ~ 1 min). Then immediately put the tube on ice.
-   6. Add 600 ul of LB-media (no antibiotics) and incubate the tube in 37C shaking incubator for 15 min (up to 30 min). The cells are growing.
+   5. Heat shock the cells in 42°C water bath for 45 sec (30 sec ~ 1 min). Then immediately put the tube on ice.
+   6. Add 600 ul of LB-media (no antibiotics) and incubate the tube in 37°C shaking incubator for 15 min (up to 30 min). The cells are growing.
    7. Take 30 ul of cells and spread on the LB-agar (carb & glucose) using a flamed glass.
-   8. Incubate the plate in 37C overnight. The plate can be stored at 4C for one week. More than one week, the plasmids will be lost.
-2. Take 1 colony from the plate and culture the cells in a small volume (1/100 of total culture volume) of autoclaved LB-media containing 0.5~1% of glucose at 37C and 230 rpm. For ampicillin, use 30C to prevent the degradation of amp.
-   1. Preheat autoclaved LB-media with carb at 37C for each protein. Don’t open the cap before use.
+   8. Incubate the plate in 37°C overnight. The plate can be stored at 4°C for one week. More than one week, the plasmids will be lost.
+2. Take 1 colony from the plate and culture the cells in a small volume (1/100 of total culture volume) of autoclaved LB-media containing 0.5~1% of glucose at 37°C and 230 rpm. For ampicillin, use 30°C to prevent the degradation of amp.
+   1. Preheat autoclaved LB-media with carb at 37°C for each protein. Don’t open the cap before use.
    2. We are gonna add antibiotics (amp or carb) immediately before inoculation.
    3. The media does not need biotin according to Estelle. Even in vivo, she does not add biotin to solution.
 3. Prepare buffers.
