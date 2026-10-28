@@ -38,7 +38,7 @@ This protocol describes the **AZ5209E** positive photoresist workflow (with inli
 Take the 100 mm wafers to the CNM clean room.
 
 1. Log on to use the MA6 fist and turn it on. It requires 10 minute to warm up.
-2. Turn on the two hotplates in the fume hood; the left one at 160 C (120°C actual), the right one at 120°C (95°C actual).
+2. Turn on the two hotplates in the fume hood; the left one at 160°C (120°C actual), the right one at 120°C (95°C actual).
 3. Mark the wafers with a diamond scratch close to the wafer’s flat to distinguish the front from the back of the wafer.
 4. Use the squirt bottle to rinse the wafer with acetone on both sides.
 5. Immediately after use the squirt bottle to rinse the wafer with isopropanol on both sides.
