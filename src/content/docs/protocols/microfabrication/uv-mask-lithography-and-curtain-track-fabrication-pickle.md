@@ -49,10 +49,10 @@ Take the 100 mm wafers to the MER clean room.
 1. Log on to the C16 Acids hood using the LabAccess terminal.
 2. Mark the wafers with a diamond scratch close to the wafer’s flat to distinguish the front from the back of the wafer.
 3. Load the wafers inside the Teflon carrier.
-4. Clean with Piranha solution (800 ml Hydrogen Peroxide (30%), 1600 ml Sulfuric Acid) in 5 litter glass container inside the acids hood.
-5. Wait for 5 minutes after the Pirahna is made before you immerse the teflon cassette with the vertical wafers.
+4. Clean with Piranha solution (1600 ml Sulfuric Acid, then slowly add 800 ml Hydrogen Peroxide (30%)) in 5 liter glass container inside the acids hood.
+5. Wait for 5 minutes after the Piranha is made before you immerse the teflon cassette with the vertical wafers.
 6. Leave the wafers in Piranha for 10 minutes.
-7. Remove the cassette holder from the Pirahna and immediately after, rinse with water in 5 cycles of 2 minutes each.
+7. Remove the cassette holder from the Piranha and immediately after, rinse with water in 5 cycles of 2 minutes each.
 8. Use the aspirator to suck out all the left-over Piranha.
 9. Rinse all containers 3 times in water.
 10. Logout from the C16 Acids hood using the LabAccess terminal.
@@ -243,7 +243,7 @@ Done in the fume hood of the MBB lab.
 
 1. One 100 mm wafer fits perfectly at the bottom of a 2L beaker.
    1. This minimizes the waste of acetone.
-2. Sonicate in acetone solution for 4 minutes. **Time is very important here or you will loose all your patterns!**
+2. Sonicate in acetone solution for 4 minutes. **Time is very important here or you will lose all your patterns!**
 3. Rinse with isopropanol.
 4. Dry in N2 gas.
 

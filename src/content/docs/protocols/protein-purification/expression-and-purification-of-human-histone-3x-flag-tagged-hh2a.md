@@ -110,13 +110,13 @@ Reagent preparation:
 3. The next day, check fractions on a 15% SDS-PAGE gel. Combine fractions containing the histones (usually 40 ml total volume).
 4. Set up a 10 mL HiTrap Q and a 10 mL SP ion exchange column-GE Healthcare in tandem (or use only a 20 ml SP-Sepharose HP 16/20 column-GE Healthcare). The columns should be arranged so that the protein sample passes through the Q column first. Equilibrate the columns with SAU-100.
 5. Load combined fractions directly onto the Q/SP tandem columns at a flow rate of 0.5-1mL/min with a super loop, wash with several column volumes, remove the Q column and elute with a gradient from 0% - 100% SAU-600 (make 500 mL) over 20 CV (Buffer A: SAU-100; Buffer B: SAU-600). Collect 1.2 ml fractions.
-6. Check fractions on a 15% SDS-PAGE gel. Combine pure histone fractions and dialyse extensively using 7,000 MWCO dialysis tubing against H20/1 mM DTT O/N at 4°C.
+6. Check fractions on a 15% SDS-PAGE gel. Combine pure histone fractions and dialyse extensively using 7,000 MWCO dialysis tubing against H2O/1 mM DTT O/N at 4°C.
 7. Clean remaining proteins off the Q and SP columns with SAU-1000.
 8. The next day, measure protein concentration by running a BSA gel, aliquot into microfuge tubes (1 mg for H2A is most convenient) and lyophilize O/N \[make tiny hole on the microtubes lids, flash freeze with liquid nitrogen, turn on lyophilizer and wait until pressure goes to .133 bar, then add tubes; make sure to add a tube with just water as lyophilisation positive control). Freeze tubes in -20C.
 
 ## 5. Important Notes 3x FLAG Specific
 
-- be sure to increase all SP-spharose resin to over 25 mL
+- be sure to increase all SP-Sepharose resin to over 25 mL
 - be sure to use ≤100 mM NaCl in the SAU-100 buffer for Q-SP tandem columns **the protein will not bind the resin otherwise**
 - be sure to use **two** 5 mL Q-SP columns in tandem
 

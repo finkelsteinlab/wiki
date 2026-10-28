@@ -29,22 +29,22 @@ phi29 DNA Polymerase is the replicative polymerase from the Bacillus subtilis ph
 1. Transform 1 uL of ϕ29 (his/flag, his/tev, or his/tev/flag) plasmid into 50 uL of BL21(Arctic Express) cells.
 2. Flick 5 times.
 3. Place on ice for 5 minutes.
-4. Place in a 42<sup>o</sup>C water bath for 42 seconds.
+4. Place in a 42°C water bath for 42 seconds.
 5. Place on ice for 2 minutes.
-6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37<sup>o</sup>C, 250 rpm.
-7. Plate 200 uL of cells onto an LB-Carb plate and place in a 37<sup>o</sup>C incubator for 24 hours.
-8. You can hold plate for 2 weeks in 4<sup>o</sup>C if you parafilm the edges.
+6. Inject the cells into 500 uL of SOC and place in a shaking incubator for 1 hour at 37°C, 250 rpm.
+7. Plate 200 uL of cells onto an LB-Carb plate and place in a 37°C incubator for 24 hours.
+8. You can hold plate for 2 weeks in 4°C if you parafilm the edges.
 
 ### 2.2 Express
 
 1. Take one cell from BL21(A.E.) plate and inoculate 100 mL of LB in a 500 mL flask with a 50 ug/mL concentration of carbenicillin.
-2. Grow the flask overnight for 12-18 hours (37<sup>o</sup>C).
+2. Grow the flask overnight for 12-18 hours (37°C).
 3. In the morning, inoculate 9L (6x 1.5 L) of LB with 15 mL of overnight per 1.5 liters.
 4. Each 1.5 liters should have a carbenicillin concentration of 50 ug/mL.
-5. Grow @ 30<sup>o</sup>C until an O.D. 600 of 0.6-1.0.
+5. Grow @ 30°C until an O.D. 600 of 0.6-1.0.
 6. Once the O.D. 600 is reached, inoculate the cultures with a concentration of 0.4 mM IPTG.
-7. Grow O/N @ 18<sup>o</sup>C (16-20 hours).
-8. Harvest by centrifuging for 10 minutes at 5000 rpm (4oC).
+7. Grow O/N @ 18°C (16-20 hours).
+8. Harvest by centrifuging for 10 minutes at 5000 rpm (4°C).
 9. Decant the supernatant. **Keep pellet on ice and move to cold room ASAP**
 10. Resuspend each 3L pellet to 35 mL with resuspension buffer (105 mL total):
     - 25 mM Tris pH 7.5
@@ -58,7 +58,7 @@ phi29 DNA Polymerase is the replicative polymerase from the Bacillus subtilis ph
 
 1. Defrost the pellet on ice.
 2. Sonicate the lysate for a total of 90 seconds (15 second bursts with 90 second rests in between) on ice.
-3. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4<sup>o</sup>C.
+3. Centrifuge the lysate in the ultracentrifuge at 35K for 35 minutes at 4°C.
 4. Take a sample of the clarified lysate for later gel analysis.
 5. Load the clarified lysate onto a 5 mL pre-equilibrated <u>Ni column (HisTrap HP)</u>.
    - Equilibration buffer (Buffer A):
@@ -93,7 +93,7 @@ phi29 DNA Polymerase is the replicative polymerase from the Bacillus subtilis ph
    - 1 mM DTT
    - 0.1 mM EDTA
    - 50% Glycerol
-   - **CHECK pH OF SOLUTION. ADDING GLYCEROL WITH DECREASE OVERALL pH. pH with NaOH if needed**
+   - **CHECK pH OF SOLUTION. ADDING GLYCEROL WILL DECREASE OVERALL pH. pH with NaOH if needed**
 2. Aliquot fractions into 10-20 uL in 500 uL Eppendorf tubes and flash freeze with liquid nitrogen. Store in either -80 or - 20 freezer **Samples will not “freeze” because of high glycerol.**
 
 ### 2.5 Analysis

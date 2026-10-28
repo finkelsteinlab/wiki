@@ -166,7 +166,7 @@ This is the long day, so try to get this started as early as you can.
 
 1. Add 3ml of buffer L5. This will instantly create a white precipitate.
 2. Immediately swirl the solution GENTLY.
-3. Gently transfer the lyaste to a 15ml falcon tube.
+3. Gently transfer the lysate to a 15ml falcon tube.
 4. Centrifuge the lysate at 4°C for 30 minutes at 15000 G’s.
 
 ### 6.5 Clarification and pH adjustment
@@ -216,4 +216,4 @@ It should be clear if you have lambda during the isopropanol precipitation step.
 
 ## 8. Concentration Gel
 
-If you successfully purified DNA, you will need to know what the concentration is. If your DNA is free of genomic DNA and mononucleotide contamination use the nanodrop. If contamination is present you will need to use a dilution serires with NEB Lambda used as a standard.
+If you successfully purified DNA, you will need to know what the concentration is. If your DNA is free of genomic DNA and mononucleotide contamination use the nanodrop. If contamination is present you will need to use a dilution series with NEB Lambda used as a standard.

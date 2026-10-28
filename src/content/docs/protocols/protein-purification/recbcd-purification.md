@@ -8,7 +8,7 @@ Used in our paper:[^paper-1]
 
 This 3-4 day protocol is to purify wtRecBCD from 3-6 liters of cell culture. The protocol is adapted from Wigley’s crystal structure paper: [NATURE-V432-P187-2004](http://www.nature.com/nature/journal/v432/n7014/abs/nature02988.html). All RecBCD constructs were generated from plasmids provided by Jeff Gelles.
 
-To save time, it is recommended that all columns be pre-washed in appropriate buffers and liquid cultures pre-warmed to 37oC before adding cells.
+To save time, it is recommended that all columns be pre-washed in appropriate buffers and liquid cultures pre-warmed to 37°C before adding cells.
 
 ## Contents
 
@@ -27,9 +27,9 @@ To save time, it is recommended that all columns be pre-washed in appropriate bu
 ## 1. Materials
 
 - Media
-  - Liquid culture - 2YT (supplemented with 0.1 mM biotin for in vivo biotynilation; Sigma-Aldrich: Y2377-250G \$27.30)
+  - Liquid culture - 2YT (supplemented with 0.1 mM biotin for in vivo biotinylation; Sigma-Aldrich: Y2377-250G \$27.30)
 - Chemicals
-  - Carbinicillin
+  - Carbenicillin
   - Chloramphenicol
   - IPTG
   - DMSO - Make 10 mM stock

@@ -32,4 +32,4 @@ Please feel free to upload any useful macros here.
 
 1. [ijf_cliproifortracking.txt](/wiki/media/code/ijf_cliproifortracking.txt) - Create and save the current ROI as a sub-stack for eventual particle tracking.
 2. [ijf_cliproifortracking2.txt](/wiki/media/code/ijf_cliproifortracking2.txt) - Modified ‘ijf_cliproifortracking’. Fixes box ‘range’ for normal ImageJ. Also adds new sub macro to just box and not save.
-3. [default_traker.txt](/wiki/media/code/default_traker.txt) - Super simple macro to run Mosaic 2D partical traker with custom default values. For some reason you need to run twice
+3. [default_traker.txt](/wiki/media/code/default_traker.txt) - Super simple macro to run Mosaic 2D particle tracker with custom default values. For some reason you need to run twice

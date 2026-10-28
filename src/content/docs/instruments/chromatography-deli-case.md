@@ -17,7 +17,7 @@ title: "Chromatography/Deli Case"
 ## 2. Maintenance
 
 - [Manual](/wiki/media/instruments/chromatography_fridge_manual.pdf)
-- [Refriderator Parts List](/wiki/media/instruments/chromatography_fridge_parts.pdf)
+- [Refrigerator Parts List](/wiki/media/instruments/chromatography_fridge_parts.pdf)
 
 ## 3. Service and support
 

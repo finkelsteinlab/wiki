@@ -21,7 +21,7 @@ title: "ATPase Assay"
 
 ## 1. Overview
 
-The ATPase activity assay is a coupled reaction where the regeneration of hydrolyzed ATP, via phosphoenolpyruvate(PEP), Lactate dehydrogenase(LDH), and Pyruvate Kinase(PK), is coupled to the oxidation of NADH. The reaction occurs in a 1:1 ratio (1ATP hydrolyzed generates the loss of 1 NADH. Since NADH absorbs at 340nm and NAH+ does not, the result of spectrophotometer readings at OD340 over time give a negative slope.
+The ATPase activity assay is a coupled reaction where the regeneration of hydrolyzed ATP, via phosphoenolpyruvate(PEP), Lactate dehydrogenase(LDH), and Pyruvate Kinase(PK), is coupled to the oxidation of NADH. The reaction occurs in a 1:1 ratio (1ATP hydrolyzed generates the loss of 1 NADH. Since NADH absorbs at 340nm and NAD+ does not, the result of spectrophotometer readings at OD340 over time give a negative slope.
 
 <img src="/wiki/media/protocols/atp_nadh_coupled_reaction.png" width="200" alt="atp_nadh_coupled_reaction.png" />
 
@@ -85,7 +85,7 @@ Here’s an example spreadsheet of how I set up the assay (when setting up, add 
 
 ### 4.2 Assay
 
-Measurements made using continuous spectrophometer absorbance at 340 nm.
+Measurements made using continuous spectrophotometer absorbance at 340 nm.
 
 1. Take background reading for 5 minutes.
 2. Add 1 uM gp41 to the cuvette, mix, and incubate for 5 min at 37C. Then take slope (measurements every 30 sec for 5 min).
@@ -105,8 +105,8 @@ The calculated rates using an extinction coefficient for NADH of 6220 M-1 cm-1 s
 ## 5. References
 
 - General Assay:
-  - J.G. Norby, “Couples Assay of Na+, K+ -ATPase Activity” Methods in Enzymology Vol. 156 (1988)
-  - K. Kiianitsa, “NADH-coupled microplate photometric assay for kinetic studies of ATP-hydrolyzing enzymes with low and high specific activites”, Analytical Biochemistry 321 (2003) 266-271
+  - J.G. Norby, “Coupled Assay of Na+, K+ -ATPase Activity” Methods in Enzymology Vol. 156 (1988)
+  - K. Kiianitsa, “NADH-coupled microplate photometric assay for kinetic studies of ATP-hydrolyzing enzymes with low and high specific activities”, Analytical Biochemistry 321 (2003) 266-271
 - GP44/62 Specific:
   - Janzen & Reddy, “Comparison of Assembly of T4 Clamp Loader Complex expressed cis vs trans Genomic Configuration” (1999) Virology 260, 64-73
   - Janzen & Reddy, “In Vitro Reconstitution of T4 Clamp Loader Complex” (1999) JBC 274, 50, pp. 35938-35943

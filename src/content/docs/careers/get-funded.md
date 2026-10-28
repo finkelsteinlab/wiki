@@ -37,7 +37,7 @@ For examples of successful lab applications, ask the lab manager or Ilya.
 - [Life Sciences Research Foundation Fellowship](http://www.lsrf.org/pages/geninfo.htm) (dead link)
 - [HFSP Postdoc Fellowships](http://www.hfsp.org/funding/postdoctoral-fellowships) <a class="pdf-copy" href="/wiki/media/archive/www-hfsp-org-funding-postdoctoral-fellowships.pdf" title="Archived PDF copy">PDF</a>
 - [Helen Hay Whitney](http://www.hhwf.org/HTMLSrc/ResearchFellowships.html) <a class="pdf-copy" href="/wiki/media/archive/www-hhwf-org-htmlsrc-researchfellowships-html.pdf" title="Archived PDF copy">PDF</a>
-- [Daymon Runyon Fellowship](http://www.damonrunyon.org/for_scientists/more/fellowship_award_overview) (dead link)
+- [Damon Runyon Fellowship](http://www.damonrunyon.org/for_scientists/more/fellowship_award_overview) (dead link)
 - [American Cancer Society Fellowship](http://www.cancer.org/Research/ResearchProgramsFunding/postdoctoral-fellowships) (dead link)
 - [Jane Coffin Childs Fellowship](http://www.jccfund.org/fellowship-information) (dead link)
 

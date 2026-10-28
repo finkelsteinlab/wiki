@@ -24,7 +24,7 @@ SDS-PAGE (Polyacrylamide gel electrophoresis) is used to denature and separate p
 
 ## 2. Gel Percentage Reference
 
-The gel percentage refers to percent acrylamide in the gel. Higher numbers indicate more polyarylamide cross-linking and a smaller gel pore size. Thus, small proteins are resolved on high percentage gels, while large proteins will be run on lower percentage gels.
+The gel percentage refers to percent acrylamide in the gel. Higher numbers indicate more polyacrylamide cross-linking and a smaller gel pore size. Thus, small proteins are resolved on high percentage gels, while large proteins will be run on lower percentage gels.
 
 ![sds_page_tgx_precplus_broadrange_charts.gif](/wiki/media/protocols/sds_page_tgx_precplus_broadrange_charts.gif) SDS-PAGE percentage separation quick-reference, courtesy of [Bio-Rad](http://www3.bio-rad.com/pages/LSG/PGpop_Ready_SDS-PAGE_revb.html). The last four columns in the figure above are gradient gels and must be purchased, either from the [Gel Company](http://www.gelcompany.com/) (dead link) or [Lonza](http://www.lonza.com/products-services/bio-research/nucleic-acid-and-protein-electrophoresis/protein-electrophoresis.aspx).
 
@@ -36,7 +36,7 @@ Solid polyacrylamide is a potent neurotoxin and we will never handle it in the l
 
 :::
 
-We routinely pour two-layer stacking, discontinuous gels. The lower layer is called a **resolving layer** and will dependent on the size of your protein(s) of interest. It is poured first. The top layer will generally be a 5% polyacrylamide **focusing layer** and will be what you insert your comb into. When working on a protein purification, its convenient to pour several gels simultaneously and store them wrapped in a wet paper towel at 4oC. They can be stored for months or until the gels begin to dry out.
+We routinely pour two-layer stacking, discontinuous gels. The lower layer is called a **resolving layer** and will dependent on the size of your protein(s) of interest. It is poured first. The top layer will generally be a 5% polyacrylamide **focusing layer** and will be what you insert your comb into. When working on a protein purification, its convenient to pour several gels simultaneously and store them wrapped in a wet paper towel at 4°C. They can be stored for months or until the gels begin to dry out.
 
 ### 3.1 Recipe for ~7-8 gels
 
@@ -60,7 +60,7 @@ We routinely pour two-layer stacking, discontinuous gels. The lower layer is cal
 
 :::tip
 
-**10% APS** is made by dissolving 1g of Ammonium Persulfate to a final volume of 10 ml in H2O. It can be stored for up to a month at 4oC.
+**10% APS** is made by dissolving 1g of Ammonium Persulfate to a final volume of 10 ml in H2O. It can be stored for up to a month at 4°C.
 
 **TEMED** is Tetramethylethylenediamine and is stored under the flammable hood near the gel station.
 

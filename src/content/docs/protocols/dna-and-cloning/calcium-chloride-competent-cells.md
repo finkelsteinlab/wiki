@@ -41,7 +41,7 @@ This is a common protocol to make semi-competent E. coli cells (DH5alphas, BL21(
 
    :::tip
 
-   To respuspend, use a cold, sterile, 25ml serological pipette tip and pipet back and forth until chunks are gone. DO NOT VORTEX.
+   To resuspend, use a cold, sterile, 25ml serological pipette tip and pipet back and forth until chunks are gone. DO NOT VORTEX.
 
    :::
 

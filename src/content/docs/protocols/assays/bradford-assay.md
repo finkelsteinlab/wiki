@@ -15,7 +15,7 @@ Bradford assays are used to determine the concentration of a protein by comparin
 
 To make the standard curve follow the table below:
 
-| Standard | Bovine Serume Albumin (uL) | Comassie Reagent (mL) | ddH20 (uL) | Concentration ug/mL |
+| Standard | Bovine Serum Albumin (uL) | Coomassie Reagent (mL) | ddH2O (uL) | Concentration ug/mL |
 |----|----|----|----|----|
 | A | 30.00 | 1.5 | 0.0000 | 2000 |
 | B | 22.50 | 1.5 | 7.5000 | 1500 |

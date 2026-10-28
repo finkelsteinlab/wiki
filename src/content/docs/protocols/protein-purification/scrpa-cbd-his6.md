@@ -35,11 +35,11 @@ For the Ni-NTA + HiTrap Q purification of GFP-tagged yeast RPA without a chitin 
 
 ## 2. Express
 
-1. Take one cell from the Rossetta plate and inoculate 100 mL of LB in a 500 mL flask with a 50 ug/mL concentration of carbenicillin.
+1. Take one cell from the Rosetta plate and inoculate 100 mL of LB in a 500 mL flask with a 50 ug/mL concentration of carbenicillin.
 2. Grow the flask overnight for 12-18 hours at 37 C.
 3. In the morning, inoculate 6L of LB with 15 mL of overnight per liter.
    - Each liter should have a carbenicillin concentration of 50 ug/mL
-4. Grow until an O.D. 600 of 0.6-1.0. Rossetta take about 5 hours.
+4. Grow until an O.D. 600 of 0.6-1.0. Rosetta take about 5 hours.
 5. Once the O.D. 600 is reached, put each 1.5L flasks on ice and in the cold room to get temperature down to 18C. This takes about 25 minutes.
 6. Inoculate the cultures with a concentration of 0.3 mM IPTG and put inside shakers at 18C.
 7. Allow to grow for 14 to 16 hours and then harvest.
@@ -73,7 +73,7 @@ For the Ni-NTA + HiTrap Q purification of GFP-tagged yeast RPA without a chitin 
      - 500 mM imidazole, pH 8
      - 10% glycerol.
      - **Note: Adjust buffer pH after adding imidazole.**
-9. scaRPA elutes at about 250mM imidazole.
+9. scRPA elutes at about 250mM imidazole.
 10. Use the fractionation_900 on the FPLC to collect 1 ml fractions. You may have about 13 ml with protein.
 11. Load the selected fractions from previous column into a 5 mL pre-equilibrated chitin column.
     - Equilibration buffer (Buffer A):
@@ -102,7 +102,7 @@ At this point, after the HisTrap FF column, the RPA is in 1xlysis buffer with **
      - 20mM Tris-HCl, pH 7.5
      - 0.5 mM EDTA,
      - 10% glycerol
-   - Dialysis is done in Snake Skin tube from ThermoSchientific.
+   - Dialysis is done in Snake Skin tube from Thermo Scientific.
 3. Have a 1 ml HiTrap Q column installed in the FPLC. Equilibrate the column in Equilibration Buffer R.
    - Buffer R:
      - 50 mM KCl

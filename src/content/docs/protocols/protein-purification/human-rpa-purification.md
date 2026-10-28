@@ -35,10 +35,10 @@ For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragmen
 
 ## 2. Express
 
-1. Take one cell colony from the Rosetta(DE3)/pLysS plate and inoculate 50 mL of LB in a 500 mL flask with a 50 ug/mL concentration of carbenicillin and 34 ug/ml chloroamphenicol.
+1. Take one cell colony from the Rosetta(DE3)/pLysS plate and inoculate 50 mL of LB in a 500 mL flask with a 50 ug/mL concentration of carbenicillin and 34 ug/ml chloramphenicol.
 2. Grow the flask overnight for 12-18 hours at 37 C.
 3. In the morning, inoculate 6L of LB with 15 mL of overnight per liter.
-   - Each liter should have a carbenicillin concentration of 50 ug/mL and 34 ug/ml chloroamphenicol.
+   - Each liter should have a carbenicillin concentration of 50 ug/mL and 34 ug/ml chloramphenicol.
 4. Grow until an O.D. 600 of 0.6-1.0.
 5. Once the O.D. 600 is reached, put each 1.5L flasks on ice and in the cold room to get temperature down to 16C. This takes about 25 minutes. Periodically shake the flask to make sure cells don’t settle at the bottom.
 6. Inoculate the cultures with a concentration of 1 mM IPTG and put inside shakers at 16C.
@@ -92,7 +92,7 @@ For truncated human RPA constructs (AB-His and A1B2-His), see [Human RPA Fragmen
       - 1 mM DTT
       - 0.5 mM EDTA,
       - 10% glycerol
-    - Dialysis is done in Snake Skin tube from ThermoSchientific.
+    - Dialysis is done in Snake Skin tube from Thermo Scientific.
 
 ### 3.2 Day 2
 

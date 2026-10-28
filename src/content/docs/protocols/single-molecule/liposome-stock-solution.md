@@ -30,7 +30,7 @@ Lipids buffer:
 3. Rinse a glass Hamilton syringe three times with chloroform.
 4. Transfer 220 µl of the lipids master mix into the glass vial using the Hamilton Syringe.
 5. This mixture of lipids is evaporated by carefully blowing a weak stream of nitrogen gas while rotating the vial continuously to form a thin, uniform layer of dried lipid on the side walls.
-6. The glass vial is then placed in a vacuum dessicator overnight to ensure complete removal of all residual chloroform. **Do not place dessicated lipids in a vacuum oven as they will degrade when heated.**
+6. The glass vial is then placed in a vacuum desiccator overnight to ensure complete removal of all residual chloroform. **Do not place desiccated lipids in a vacuum oven as they will degrade when heated.**
 7. Add 2 ml of lipids buffer to the dried lipid mixture and allow it to hydrate for at least 2 h to overnight.
 8. Vortex the hydrated lipid mixture for 2–3 min to form large multilamellar vesicles. At this point, the liposomes should appear as an opaque, cloudy white solution.
 9. Transfer the liposome solution to a 5 ml polypropylene culture tube for sonication. Sonicate the liposomes using a probe tip sonicator to form small unilamellar vesicles under the following settings: (VirSonic or Fisher 1/8” microtip sonicator) set the power output to 15%. Sonicate for 1.5 min with 2-min intervals on ice. Repeat this cycle two more times. After sonication, the liposome solution should clear considerably and become translucent.

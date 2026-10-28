@@ -19,7 +19,7 @@ Gibson Assembly was developed by Dr. Daniel Gibson and his colleagues at the J. 
 - Gibson blocks can be created by restriction digesting plasmids, by PCR or by *de novo* synthesis.
 - Synthetic dsDNA “gene-blocks” up to 500 bp long can be purchased from [IDT](http://www.idtdna.com/site).
 
-**Note: These blocks have ahigh error rate (10% per block). Use these blocks only if you have to and make sure to sequence your constructs after Gibson assembly**
+**Note: These blocks have a high error rate (10% per block). Use these blocks only if you have to and make sure to sequence your constructs after Gibson assembly**
 
 ## 2. Protocol
 

@@ -15,7 +15,7 @@ title: "InGenius Darkroom Cabinet"
 
 ## 1. Overview
 
-<img src="/wiki/media/instruments/ingenius-gel-doc-system-for-fluorescence-applications.jpg" width="150" alt="InGenius Darkroom Cabinet" /> The InGenius Darkroom Cabinet is used for gel imaging. We are able to view ethidium bromide stained agarose gels using the UV light or protein gels using a white light screen that fits neatly onto the image screen. For storage of our gels, you may capture a picture using the Sysgene software and print on the Mitubishi printer. **The printing paper is expensive so please make all adjustments to your gel before printing**.
+<img src="/wiki/media/instruments/ingenius-gel-doc-system-for-fluorescence-applications.jpg" width="150" alt="InGenius Darkroom Cabinet" /> The InGenius Darkroom Cabinet is used for gel imaging. We are able to view ethidium bromide stained agarose gels using the UV light or protein gels using a white light screen that fits neatly onto the image screen. For storage of our gels, you may capture a picture using the Sysgene software and print on the Mitsubishi printer. **The printing paper is expensive so please make all adjustments to your gel before printing**.
 
 ## 2. Operation
 

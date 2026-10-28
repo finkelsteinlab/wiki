@@ -16,7 +16,7 @@ The Polymerase Chain Reaction (PCR) depends on short pieces of DNA, called prime
 1. Primers should be 17-24 bases in length.
 2. Base composition should be 50-60% (G+C).
 3. Primers should end (3‘) in a G or C, or CG or GC. This “GC-clamp” prevents “breathing” of ends and increases efficiency of priming.
-   - Melting temperatures (Tm) between 55-70oC are preferred.
+   - Melting temperatures (Tm) between 55-70°C are preferred.
    - 3’-ends of primers should not be complementary (ie. base pair), as otherwise primer dimers will be synthesised preferentially to any other product.
 4. Primer self-complementarity (ability to form secondary structures such as hairpins) should be avoided.
 5. Runs of three or more Cs or Gs at the 3’-ends of primers may promote mispriming at G or C-rich sequences (because of stability of annealing), and should be avoided.
@@ -26,5 +26,5 @@ The Polymerase Chain Reaction (PCR) depends on short pieces of DNA, called prime
 ## 2. Resources on the Web
 
 - [NEB Tm calculator](http://www.neb.com/nebecomm/tech_reference/TmCalc/Default.asp#.UFexd6S1NH8) <a class="pdf-copy" href="/wiki/media/archive/www-neb-com-nebecomm-tech-reference-tmcalc-default-asp.pdf" title="Archived PDF copy">PDF</a> – estimates the primer annealing temperature in a variety of NEB-specific buffers. Very useful when putting together a PCR protocol with NEB polymerases.
-- [OligoCalc](http://www.basic.northwestern.edu/biotools/oligocalc.html) (dead link) – a quick oligo calculator that’s useful for estimating melting temperatures and self-complimentarity.
+- [OligoCalc](http://www.basic.northwestern.edu/biotools/oligocalc.html) (dead link) – a quick oligo calculator that’s useful for estimating melting temperatures and self-complementarity.
 - [Primer3Plus](http://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi) – a very powerful web-based program for designing and checking primers

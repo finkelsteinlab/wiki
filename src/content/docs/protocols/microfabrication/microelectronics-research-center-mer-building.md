@@ -307,10 +307,10 @@ Before you go to the clean room be sure that you have marked on the back side of
       - Make sure that after each cut the blade moves 22 mm or so.
       - After done, press “alarm” button and remove the 4 pieces by pressing “vac” button off.
    2. Sometimes you will have to press the “vac” button twice.
-10. If you have other wafes to cut do not press exit or you will have to start from the beginning again.
+10. If you have other wafers to cut do not press exit or you will have to start from the beginning again.
    1. Every time you press the “vac” button and your sample is released you will have to align the sample or next sample again.
    2. Channel 1 is the first cutting instruction after alignment. To turn to channel 2 instruction you need to press “theta” rotation.
-11. Turning off the Dicyng Saw
+11. Turning off the Dicing Saw
    1. Turn off the spindle by pressing “spindle” button.
    2. Turn the key to the off position
    3. Turn the nitrogen off on the wall

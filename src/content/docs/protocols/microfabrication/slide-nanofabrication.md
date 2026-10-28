@@ -105,9 +105,9 @@ For the general SEM and Raith50 manual, ask the cleanroom staff. For the particu
       - Once you get there, open the “origin” tab and click on “adjust”
 
    Now the Raith50 computer knows the horizontal axis of your drawing and the origin of the drawing.
-2. Find small white crystals a few millimeters away from the center and focus the beam starting at 100x and up to 50kX. A good focus at magnification ~500nm is good enough. Only at the highest magnification adjust the astigmation as well.
+2. Find small white crystals a few millimeters away from the center and focus the beam starting at 100x and up to 50kX. A good focus at magnification ~500nm is good enough. Only at the highest magnification adjust the astigmatism as well.
 3. Move the stage to one of the sides of the crystal you just focused on and Click on “Beam” and “Spot” to make a spot mark on the PMMA. After ~ 1 minute click on “beam” and “TV” to go back to the TV mode to see how circular is your beam spot mark.
-   - Adjust the focus and astigmation to make the best circular spot mark around that area.
+   - Adjust the focus and astigmatism to make the best circular spot mark around that area.
 4. After having a good spot mark go back to the Raith50 computer and “blank the beam” from the Raith50 computer.
    1. From the menu bar open “file” and then “New position list”.
    2. From the “GDSII” window select your design without opening it and drag it to the “New position list” window.

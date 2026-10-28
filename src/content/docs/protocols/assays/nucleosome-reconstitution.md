@@ -33,22 +33,22 @@ You need concentrated DNA and histone octamer to assemble nucleosomes in vitro.
 
 ### 2.2 Microreconstitution
 
-- This protocol is typically used when lower quantities of nucs are needed. The DNA can be radiolabelled or labeled with a fluroscent dye before the reconstitution for better resolution of the product.
-- This protocol is also at least three to four times faster than the large scale reconstituion, which can run 18 to 24 hrs.
+- This protocol is typically used when lower quantities of nucs are needed. The DNA can be radiolabelled or labeled with a fluorescent dye before the reconstitution for better resolution of the product.
+- This protocol is also at least three to four times faster than the large scale reconstitution, which can run 18 to 24 hrs.
 - The DNA to Octamer ratios typically used for this protocol are 1:1.6, 1:1.7, 1:1.8, etc.
-- The final reaction will contain approx. 1000 ng of DNA, octamer at least 1.6 x moles of DNA, 2M NaCl-Te. The final volume will be 10 ul for these conditions. You can definitely start with a half reaction, which I have tried before. I have, however, not tried doubling the reaction, but I don’t see why it wouldn’t work.
+- The final reaction will contain approx. 1000 ng of DNA, octamer at least 1.6 x moles of DNA, 2M NaCl-TE. The final volume will be 10 ul for these conditions. You can definitely start with a half reaction, which I have tried before. I have, however, not tried doubling the reaction, but I don’t see why it wouldn’t work.
 - Example Reaction: 100 ng/ul of 278 bp 601 dsDNA is 0.5543 nM. Set up 3 reactions with 0.887 nM, 0.942 nM, and 0.998 nM octamer each.
 - Make sure ALL buffers are pH 7.6.
-- Always dilute the octamer in 2M NaCl-Te and add the octamer to the reaction last.
+- Always dilute the octamer in 2M NaCl-TE and add the octamer to the reaction last.
 
 Steps:
 
 1. Once the reaction is lightly vortexed (so that the solution does not splash everywhere) and spun down, incubate for 30 min at RT.
-2. Add 10 ul of Te and incubate for an hour at RT.
+2. Add 10 ul of TE and incubate for an hour at RT.
 3. For each dilution step, incubate for an hour at RT:
-   1. Add 5 ul Te (0.8 M NaCl).
-   2. Add 5 ul Te (.67 M).
-   3. Add 70 ul Te (0.2 M).
-   4. OPTIONAL: Add 100 ul Te to get to 100 mM NaCl and incubate.
+   1. Add 5 ul TE (0.8 M NaCl).
+   2. Add 5 ul TE (.67 M).
+   3. Add 70 ul TE (0.2 M).
+   4. OPTIONAL: Add 100 ul TE to get to 100 mM NaCl and incubate.
 4. Tip: Be very careful handling the nucs. Once incubations are done, store in the large 4C in a water bucket. The better handling, the longer the nucs will last.
 5. Prerun a 5% Native page gel at 150 V until the resistance reaches 5 mA in 4C conditions. Clean out the wells and run the nucs for an hour and visualize on the Typhoon.

@@ -138,8 +138,8 @@ Procedure:
    1. Take a glass bottle that is bigger than the mask.
    2. Dip the mask in the developer we use, and shake gently for a minute.
    3. Wash with water thoroughly, then use N2 gun.
-   4. Dip the mask in acetone for 5 minutes, shake accasionally.
-   5. Immediately wash with IPA thoroughly, the use N2 gun.
+   4. Dip the mask in acetone for 5 minutes, shake occasionally.
+   5. Immediately wash with IPA thoroughly, then use N2 gun.
    6. Use dish wash soap: Hand wash gently using soaping detergent –\> wash with water, then use N2 gun.
 
 ## 6. When you are finished using the aligner
@@ -315,6 +315,6 @@ Done in the fume hood of the MBB lab.
 
 1. One 100 mm wafer fits perfectly at the bottom of a 2L beaker.
    1. This minimizes the waste of acetone.
-2. Sonicate in acetone solution for 1 minute. **Time is very important here or you will loose all your patterns!**
+2. Sonicate in acetone solution for 1 minute. **Time is very important here or you will lose all your patterns!**
 3. Rinse with isopropanol.
 4. Dry in N2 gas.

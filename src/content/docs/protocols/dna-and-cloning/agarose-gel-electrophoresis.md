@@ -34,7 +34,7 @@ Almost all of our gels will use routine agarose from Genesee Scientific or Fishe
 
     Example: to make 250 mL of 1% agarose, add 2.5 grams of agarose into 250 mL of 1x TAE buffer. 
 
-1. Heat the TAE-agarose mixture in a microwave, with gentle swirling every minute or so until the agarose is **completely** disolved. The mixture will need to be very close to boiling to make sure the agarose is dissolved completely.
+1. Heat the TAE-agarose mixture in a microwave, with gentle swirling every minute or so until the agarose is **completely** dissolved. The mixture will need to be very close to boiling to make sure the agarose is dissolved completely.
 
 :::danger
 
@@ -42,7 +42,7 @@ Make sure that the very hot solution does not bump. Point bottle away from your 
 
 :::
 
-2. Cool the desired amount of agarose to ~55 oC by either leaving it on the bench or putting it in a water bath. Agarose will start to solidify below ~50oC.
+2. Cool the desired amount of agarose to ~55 °C by either leaving it on the bench or putting it in a water bath. Agarose will start to solidify below ~50 °C.
 3. Add Ethidium Bromide to a final concentration of 0.5 μg/ml. Mix the gel solution thoroughly by gentle swirling. **Ethidium Bromide** is toxic and gloves should be worn at all times.
 4. Cast the gel in our Bio-Rad [casting apparatus](/wiki/instruments/gel-electrophoresis-systems/).
 

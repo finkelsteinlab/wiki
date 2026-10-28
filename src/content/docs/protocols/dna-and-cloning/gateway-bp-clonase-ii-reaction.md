@@ -14,7 +14,7 @@ Note: This protocol is NOT compatible with BP Clonase (it is specifically for BP
 
 ## 1. Overview
 
-**Protips:** The pEXP7-tet fragment is a tetracyclin resistance gene flanked by attB sites. It comes with the Clonase kit and can be used as a positive control. Stoichiometry of DNA is important and significantly affects the efficiency of the reaction. The reaction must be run for at least one hour which should suffice for most purposes, however, it can run as long as 18 hours. Running it for 18 hours yields 5-10 times as many colonies as a one-hour reaction. It is important that your DNA fragment and pDONR plasmid be concentrated enough that your total reaction volume remains below 10µL, as this can affect efficiency. There’s a lot of glycerol in these reactions so vortexing is important.
+**Protips:** The pEXP7-tet fragment is a tetracycline resistance gene flanked by attB sites. It comes with the Clonase kit and can be used as a positive control. Stoichiometry of DNA is important and significantly affects the efficiency of the reaction. The reaction must be run for at least one hour which should suffice for most purposes, however, it can run as long as 18 hours. Running it for 18 hours yields 5-10 times as many colonies as a one-hour reaction. It is important that your DNA fragment and pDONR plasmid be concentrated enough that your total reaction volume remains below 10µL, as this can affect efficiency. There’s a lot of glycerol in these reactions so vortexing is important.
 
 **Detailed manual:** <http://tools.lifetechnologies.com/content/sfs/manuals/gateway_clonaseii_man.pdf> <a class="pdf-copy" href="/wiki/media/archive/gateway_clonaseii_man.pdf" title="Archived PDF copy">PDF</a>
 
