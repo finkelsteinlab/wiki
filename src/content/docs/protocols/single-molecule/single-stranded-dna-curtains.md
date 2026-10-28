@@ -25,14 +25,14 @@ All broken glass, including the microscope cover slips, needs to be disposed int
 
 1. Combine:
    - 20 ul of M13mp18 ssDNA (N4040S, NEB) (Cf: 40 nM)
-   - 1.5 ul of 1 uM of biotin-primer (Cf: 33.3 nM)
+   - 1.5 ul of 1 uM of biotin-primer (Cf: 30 nM in 50 ul total)
    - 5 ul of 10x annealing buffer (Cf: 1x)
    - 23.5 ul of H2O
-2. Heat the mixture at 95˚C for 10 min and slowly cool down to RT.
+2. Heat the mixture at 95°C for 10 min and slowly cool down to RT.
 
 No further purification is necessary because M13 ssDNA concentration is higher than that of the biotin-primer.
 
-Aliquot and store at 4˚C for short-term storage (\< 1 month). For long-term storage, -20C is recommended.
+Aliquot and store at 4°C for short-term storage (\< 1 month). For long-term storage, -20°C is recommended.
 
 Sometimes, the annealed M13&biotin-primers is suddenly degraded. We do not know the reason. Just throw out that aliquot and go to the next sample.
 
@@ -52,7 +52,7 @@ Sometimes, the annealed M13&biotin-primers is suddenly degraded. We do not know 
 
 **Total volume: 50 ul**
 
-1. Incubate at 30˚C for 25 min. Note: 25 min is not critical. But the longer time you incubate, the longer ssDNA you will get.
+1. Incubate at 30°C for 25 min. Note: 25 min is not critical. But the longer time you incubate, the longer ssDNA you will get.
 2. After the rolling circle reaction is done, add ~850 ul of BSA-buffer (with 1 mM DTT) to the reaction.
 3. Inject into the flowcell coated with streptavidin. Use same day, the long ssDNA does not store well.
 

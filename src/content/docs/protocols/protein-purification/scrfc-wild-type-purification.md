@@ -6,7 +6,7 @@ title: "scRFC wild-type Purification"
 
 Used in our paper:[^paper-1]
 
-Relication Factor C (RFC) consists of five protein subunits and binds PCNA and load onto DNA mainly during replication.
+Replication Factor C (RFC) consists of five protein subunits and binds PCNA and loads onto DNA mainly during replication.
 
 ## Contents
 
@@ -31,7 +31,7 @@ Relication Factor C (RFC) consists of five protein subunits and binds PCNA and l
 
 1. In the morning, Take one colony from the LB/Carb/Kan plate and inoculate in 680uL LB.
 2. Vortex Well.
-3. Prepare autoclaved 6L (3x 2L) LB flasks, add 50ng/uL into each LB flask.
+3. Prepare autoclaved 6 L (3 × 2 L) LB flasks, and add 50 µg/mL (50 ng/µL) carbenicillin and kanamycin into each LB flask.
 4. Add 200uL cells into each 2L LB containing carb and Kan.
 5. Grow cells at 30C, 230rpm.
 6. Grow until an O.D. 600 of 0.6-0.8. (It takes about more than 7h.)
@@ -59,7 +59,7 @@ Relication Factor C (RFC) consists of five protein subunits and binds PCNA and l
    - Buffer B: 30mM HEPES (pH7.5), 0.25mM EDTA, 5% glycerol, 1M NaCl.
 7. Load the clarified lysate onto 7 mL pre-equilibrated SP FF column.
 8. Inject the sample at 0.5mL/min.
-9. right before wahsing step, add 1mM PMSF in the buffer A.
+9. Right before washing step, add 1mM PMSF in the buffer A.
 10. Wash with 35mL 25% Buffer B at 1mL/min.
 11. Elution: 100mL, 25-100% B at 1mL/min.
 12. Collect 1.1mL fraction.

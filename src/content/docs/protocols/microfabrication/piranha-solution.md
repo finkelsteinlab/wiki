@@ -37,8 +37,8 @@ This protocol (3:1 H<sub>2</sub>SO<sub>4</sub>:H<sub>2</sub>O<sub>2</sub>) is us
 ### 2.2 Protocol
 
 1. In the acid hood, place the smaller beaker in the larger beaker.
-2. Use a graduated cylinder to measure and add 10ml hydrogen peroxide.
-3. Use a separate graduated cylinder to add 30ml of sulfuric acid to the small beaker.
+2. Use a graduated cylinder to measure and add **30 mL of concentrated sulfuric acid** to the small beaker first.
+3. Use a separate graduated cylinder to measure **10 mL of 30% hydrogen peroxide** and add it **very slowly** to the sulfuric acid in the small beaker (**always add peroxide to acid, never acid to peroxide**).
 4. Let the piranha stand and react for 5 minutes.
 5. Place a single slide into the small beaker on its end so that a small edge is still exposed. Let the slide clean for one minute.
 6. After cleaning, wash the slide in water. Leave all slides in the water until piranha for all samples is done.

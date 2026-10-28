@@ -6,6 +6,10 @@ title: "BLM Purification"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3]
 
+:::note
+For the other human DNA resection complex components purified from Sf21 insect cells, see [MRN Purification](/wiki/protocols/protein-purification/mrn-purification/) and [DNA2 Purification](/wiki/protocols/protein-purification/dna2-purification/).
+:::
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -13,9 +17,9 @@ Used in our papers:[^paper-1][^paper-2][^paper-3]
 
 ## 1. Materials
 
-- **BLM Lysis Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM b-mercaptoehtanol; 400 μL 50% Tween-20; 400 μL of phenylmethylsulfonyl fluoride (PMSF; 17 mg mL-1; AC215740500; Fisher Scientific)
-- **Ni2+ A Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM b-mercaptoethanol
-- **Ni2+ A Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 250 mM imidazole; 20 mM b-mercaptoehtanol
+- **BLM Lysis Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM β-mercaptoethanol; 400 μL 50% Tween-20; 400 μL of phenylmethylsulfonyl fluoride (PMSF; 17 mg mL-1; AC215740500; Fisher Scientific)
+- **Ni2+ A Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM β-mercaptoethanol
+- **Ni2+ B Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 250 mM imidazole; 20 mM β-mercaptoethanol
 - **A Buffer:** 25 mM Tris·HCl pH 8.0, 100 mM NaCl, 10% (vol/vol) glycerol, 1 mM DTT
 - **B Buffer:** 25 mM Tris·HCl pH 8.0, 1 M NaCl, 10% (vol/vol) glycerol, 1 mM DTT
 - Ni2+-NTA resin (Qiagen; 30410)
@@ -33,7 +37,7 @@ Used in our papers:[^paper-1][^paper-2][^paper-3]
 7. Centrifuge the sample at 1,500 rpm for 2 minutes (Beckman Avanti J-26XP; JLA-16.250 rotor). Keep a small aliquot for analysis.
 8. Transfer Ni-NTA resin to a disposable column.
 9. Wash the resin with 50 mL of BLM Lysis Buffer three times.
-10. Add 15 mL of Ni2+ B Buffer: to resin and incubate for 30 minutes at 4°C.
+10. Add 15 mL of Ni2+ B Buffer to resin and incubate for 30 minutes at 4°C.
 11. Elute the sample from the Ni-NTA resin. Keep a small aliquot for analysis.
 12. Add sample to 0.8 mL of equilibrated anti-FLAG M2 affinity resin and incubate for 30 minutes at 4°C.
 13. Transfer FLAG resin to a disposable column.

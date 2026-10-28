@@ -6,6 +6,10 @@ title: "MRN Purification"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3]
 
+:::note
+For the other human DNA resection complex components purified from Sf21 insect cells, see [BLM Purification](/wiki/protocols/protein-purification/blm-purification/) and [DNA2 Purification](/wiki/protocols/protein-purification/dna2-purification/).
+:::
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -15,24 +19,25 @@ Used in our papers:[^paper-1][^paper-2][^paper-3]
 
 ### 1.1 Buffers
 
-- **MRN Lysis Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM b-mercaptoehtanol; 400 μL 50% Tween-20; 400 μL of phenylmethylsulfonyl fluoride (PMSF; 17 mg mL-1; AC215740500; Fisher Scientific)
-- **High-salt Ni2+ A Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM b-mercaptoethanol
-- **Low-salt Ni2+ A Buffer:** 50 mM Potassium Phosphate (KH2PO4), 50 mM KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM b-mercaptoethanol
-- **Low-salt Ni2+ B Buffer:** 50 mM Potassium Phosphate (KH2PO4), 50 mM KCl; 10% (vol/vol) glycerol; 250 mM imidazole; 20 mM b-mercaptoehtanol
+- **MRN Lysis Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM β-mercaptoethanol; 400 μL 50% Tween-20; 400 μL of phenylmethylsulfonyl fluoride (PMSF; 17 mg mL-1; AC215740500; Fisher Scientific)
+- **High-salt Ni2+ A Buffer:** 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM β-mercaptoethanol
+- **Low-salt Ni2+ A Buffer:** 50 mM Potassium Phosphate (KH2PO4), 50 mM KCl; 10% (vol/vol) glycerol; 25 mM imidazole; 20 mM β-mercaptoethanol
+- **Low-salt Ni2+ B Buffer:** 50 mM Potassium Phosphate (KH2PO4), 50 mM KCl; 10% (vol/vol) glycerol; 250 mM imidazole; 20 mM β-mercaptoethanol
 - **A Buffer:** 25 mM Tris·HCl pH 8.0, 100 mM NaCl, 10% (vol/vol) glycerol, 1 mM DTT
-- **0-salt A Buffer:** 25 mM Tris·HCl pH 8.0, 100 mM NaCl, 10% (vol/vol) glycerol, 1 mM DTT
+- **0-salt A Buffer:** 25 mM Tris·HCl pH 8.0, 10% (vol/vol) glycerol, 1 mM DTT (no NaCl; used to dilute Q-column fractions below 100 mM NaCl)
 - **B Buffer:** 25 mM Tris·HCl pH 8.0, 1 M NaCl, 10% (vol/vol) glycerol, 1 mM DTT
 
 ### 1.2 Resins and columns
 
 - Ni2+-NTA resin (Qiagen; 30410)
 - Anti-FLAG M2 resin (A2220; Sigma-Aldrich)
+- Hi-Trap Q column (17115301; GE Healthcare)
 - Hi-Trap SP column (17115101; GE Healthcare)
 - Superose 6 30/300 GL Increase column
 
 ## 2. Purification
 
-1. Follow the above protocol for producing a pellet of insect cells expressing MRN from 60 15-cm dishes.
+1. Grow Sf21 insect cells in 60 15-cm dishes (2 L total) co-infected with baculoviruses expressing Mre11, Rad50, and Nbs1 for 72 hours, centrifuge at 4,000 × g to pellet the cells, snap freeze in liquid nitrogen, and store at -80°C until purification (see [BLM Purification](/wiki/protocols/protein-purification/blm-purification/)).
 2. Quickly thaw the pellet and resuspend in 40 mL of MRN Lysis Buffer.
 3. Homogenize pellet in a 50 mL Dounce homogenizer using an “A” piston.
 4. Sonicate cells on ice three times for 30s each time with a 30-s recovery on ice.

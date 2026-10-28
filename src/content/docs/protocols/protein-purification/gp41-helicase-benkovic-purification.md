@@ -58,7 +58,7 @@ This purification scheme was adopted from the 2002 Benkovic paper in order to in
      - 0.1 mM EDTA
      - 10% Glycerol
 6. Wash the column with 1L of Wash Buffer (Buffer A) (Save 20 mL to convert into cleavage buffer).
-7. Take the saved Buffer B and add a 100 mM Concentration of DTT (Cleavage Buffer).
+7. Take the saved 20 mL of Buffer A and add a 100 mM final concentration of DTT (Cleavage Buffer).
 8. Add 20 mL of cleavage buffer to the chitin beads and allow 10 mL to drip through.
 9. Allow the other 10 mL to sit overnight.
 10. In the morning collect 1 mL fractions and analyze all fractions collected throughout the process on a 10-12% gel.

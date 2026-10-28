@@ -6,6 +6,10 @@ title: "DNA2 Purification"
 
 Used in our papers:[^paper-1][^paper-2][^paper-3]
 
+:::note
+For the other human DNA resection complex components purified from Sf21 insect cells, see [BLM Purification](/wiki/protocols/protein-purification/blm-purification/) and [MRN Purification](/wiki/protocols/protein-purification/mrn-purification/).
+:::
+
 ## Contents
 
 1. [Materials](#1-materials)
@@ -13,7 +17,7 @@ Used in our papers:[^paper-1][^paper-2][^paper-3]
 
 ## 1. Materials
 
-- DNA2 Lysis Buffer: 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 20 mM b-mercaptoehtanol; 400 μL 50% Tween-20; 400 μL of phenylmethylsulfonyl fluoride (PMSF; 17 mg mL-1; AC215740500; Fisher Scientific)
+- DNA2 Lysis Buffer: 50 mM Potassium Phosphate (KH2PO4), 0.5 M KCl; 10% (vol/vol) glycerol; 20 mM β-mercaptoethanol; 400 μL 50% Tween-20; 400 μL of phenylmethylsulfonyl fluoride (PMSF; 17 mg mL-1; AC215740500; Fisher Scientific)
 - A Buffer: 25 mM Tris·HCl pH 8.0, 100 mM NaCl, 10% (vol/vol) glycerol, 1 mM DTT
 - B Buffer: 25 mM Tris·HCl pH 8.0, 1 M NaCl, 10% (vol/vol) glycerol, 1 mM DTT
 - Anti-FLAG M2 resin (A2220; Sigma-Aldrich)
@@ -24,7 +28,7 @@ Used in our papers:[^paper-1][^paper-2][^paper-3]
 1. Grow Sf21 insect cells in 60 15-cm dishes with a baculovirus harboring DNA2-FLAG, as recommended by the manufacturer.
 2. Harvest 2 L of Sf21 cells 72 hours after infection. Centrifuge at 4,000 x g to pellet the cells, snap freeze in liquid nitrogen, and store at -80°C until purification.
 3. Thaw the pellet quickly at room temperature.
-4. Homogenize pellet obtained from in 40 mL of DNA2 Lysis Buffer in a Dounce homogenizer.
+4. Homogenize the cell pellet in 40 mL of DNA2 Lysis Buffer in a Dounce homogenizer.
 5. Sonicate cells on ice three times for 30 s each time with a 30 s recovery on ice.
 6. Centrifuge the mixture at 35,000 rpm (Beckman Optima XE ultracentrifuge; 45Ti rotor) for 1 hr at 4°C to obtain soluble extract. Keep a small aliquot for analysis.
 7. Incubate supernatant with 0.8 mL of equilibrated anti-FLAG M2 Affinity Gel and incubate for 1 hour at 4°C with gentle rocking.

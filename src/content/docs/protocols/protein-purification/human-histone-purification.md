@@ -114,7 +114,7 @@ and then with ~150 ml SAU-200 buffer during the day.
 4. Pack 8ml (bed volume) SP-Sepharose Fast Flow (GE Healthcare) in a 100ml gravity column by marking 8ml and pouring the slurry up to that mark.
 
    Sepharose beads are supplied in 10% ethanol. Hence wash 8ml bed volume beads with 10 column volumes (i.e., 80 ml) of water.
-5. Equiliberate the column with 10 column volumes of wash buffer.
+5. Equilibrate the column with 10 column volumes of wash buffer.
 6. Add supernatant (100ml) to the equilibrated SP-Sepharose Fast Flow and rotate for 30 min at RT.
 7. Let the beads settle down by loading onto a gravity flow (OR Spin down beads at 1000 g and RT) and wash 1x with 40 ml wash buffer.
 8. Let excess buffer drain and then elute 5x with 5 ml Elution buffer. Combine all elutions (25 ml).
@@ -144,7 +144,7 @@ Purification will also work at 4°C but buffer is close to precipitation at this
 5. Load combined fractions directly onto the Q/SP tandem columns at a flow rate of 0.5-1mL/min with a super loop.
 6. Wash with several column volumes, remove the Q column and elute with a gradient from 0% - 100% SAU-600 over 20 CV (Buffer A: SAU-200; Buffer B: SAU-600). Collect 3 ml fractions.
 7. Check fractions on a 15% SDS-PAGE gel and combine pure histone fractions.
-8. Dialyse extensively using 7,000 MWCO dialysis tubing against H20/1 mM DTT O/N at 4°C.
+8. Dialyse extensively using 7,000 MWCO dialysis tubing against H2O / 1 mM DTT O/N at 4°C.
 
 ### 1.5 Day4: Determination of H2A concentration and storage
 
@@ -160,8 +160,8 @@ Expected yields are: H2A: ~20 mg for 4 L of culture
 
 ### 2.1 Preparation
 
-- E. coli Rossetta strain or BL-21(DE3)pLysS for protein expression and plasmids for histone expression. All plasmids are maintained and propagated in E. coli XL1 Blue.
-- LB broth supplemented with 34 μg/mL chloramphenicol and 1 μg/mL carbenicillin; 1 M IPTG (isopropyl β-d-1-thiogalactopyranoside).
+- E. coli Rosetta strain or BL-21(DE3)pLysS for protein expression and plasmids for histone expression. All plasmids are maintained and propagated in E. coli XL1 Blue.
+- LB broth supplemented with 34 μg/mL chloramphenicol and 100 μg/mL carbenicillin; 1 M IPTG (isopropyl β-d-1-thiogalactopyranoside).
 - TW buffer for pellet resuspension: 50 mM Tris–HCl (pH 7.5), 100 mM NaCl, 1 mM EDTA.
 - TW buffer for inclusion bodies: 50 mM Tris–HCl (pH 7.5), 100 mM NaCl, 1 mM EDTA, 5 mM β-mercaptoethanol (βME), 1 mM benzamidine, and 1% (w/v) Triton X-100.
 - Urea buffer: 10 mM Tris–HCl (pH 8.0), 7 M urea, 1 mM EDTA, 5 mM βME, and 100 mM NaCl for wt and HA-tagged H2B, 200 mM NaCl for wt and HA-tagged H3 and H4,
@@ -181,7 +181,7 @@ Expected yields are: H2A: ~20 mg for 4 L of culture
 ### 2.2 Day 1: Expression of Human Histones
 
 1. Histones are expressed from plasmids pET21b (+), and grown in E. coli Rosetta cells or BL-21 cells.
-2. Bacteria are grown at 37°C in LB broth with 34 mg/mL chloramphenicol and 1 mg/mL carbenicillin/ ampicillin.
+2. Bacteria are grown at 37°C in LB broth with 34 μg/mL chloramphenicol and 100 μg/mL carbenicillin/ampicillin.
 3. Induction is performed at OD600 = 0.6–0.8 using 200 uL of 1 M IPTG (0.2mM IPTG working stock) per 1 L of culture, and growth is continued for 3 h at 37°C.
 4. Cells are harvested by centrifugation at 5000g for 15-20 min at RT. Cell pellets are resuspended in 25 mL TW buffer 1 per 1 L culture and then frozen at −80°C.
 5. Samples (uninduced and induced) are analyzed for histones overexpression by SDS-PAGE and Coomassie staining before proceeding to next step.

@@ -33,7 +33,7 @@ Ligation Reaction Set-up:
 
 Above papers say to let sit at RT for 5 hours. I have done incubations between 3-5 hours and have not noticed a significant difference.
 
-If you are wondering why there is a different concentration for the two oligos… we want to limit the amount of free biotinylated oligos (not bound to 239) that will bind the straptavidin on surface.
+If you are wondering why there is a different concentration for the two oligos… we want to limit the amount of free biotinylated oligos (not bound to 239) that will bind the streptavidin on surface.
 
 ## 2. A new method of oligonucleotide annealing
 
@@ -53,13 +53,13 @@ Ligation Reaction Set-up:
 
 ## 3. Rolling Circle Reaction
 
-Rolling Circle Reaction Set-up:
+Rolling Circle Reaction Set-up (50 µL total):
 
 - 1 uL Ligation Reaction (above) - (Dilute 20x if using the new Ligation protocol)
-- 10 uL 10x Phi29 NEB Buffer
+- 5 uL 10x Phi29 NEB Buffer
 - 2.5 uL 10 mM dTTP
 - 2.5 uL 10 mM dCTP
-- 1 uL 1 mg/mL BSA (100X BSA)
+- 0.5 uL 10 mg/mL BSA (100X BSA; or 1 uL of 1 mg/mL BSA)
 - 1.5 uL of homemade Phi29 DNAP (currently using the pET19 made WT phi29 - pIF376)
 - 37 uL H2O
 

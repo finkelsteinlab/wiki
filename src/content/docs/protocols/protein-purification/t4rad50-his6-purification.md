@@ -6,7 +6,7 @@ title: "T4Rad50-His6 Purification"
 
 Used in our paper:[^paper-1]
 
-gp46 is Rad50 and is part of the MR complex present int he T4 phage. Rad50 is an ATPase and binds DNA. It has human and yeast homologs.
+gp46 is Rad50 and is part of the MR complex present in the T4 phage (for the partner subunit gp47/Mre11, see [T4Mre11-His6 Purification](/wiki/protocols/protein-purification/t4mre11-his6-purification/)). Rad50 is an ATPase and binds DNA. It has human and yeast homologs.
 
 ## Contents
 
@@ -35,7 +35,7 @@ gp46 is Rad50 and is part of the MR complex present int he T4 phage. Rad50 is an
 2. Grow the flask overnight for 12-18 hours at 37 C.
 3. In the morning, inoculate 6L of LB with 15 mL of overnight per liter.
    - Each liter should have a carbenicillin concentration of 50 ug/mL
-4. Grow until an O.D. 600 of 0.6-1.0. BL31(DE3)take about 5 hours and ArcticExpress about 8 hours.
+4. Grow until an O.D. 600 of 0.6-1.0. BL21(DE3) take about 5 hours and ArcticExpress about 8 hours.
 5. Once the O.D. 600 is reached, put each 1.5L flasks on ice and in the cold room to get temperature down to 18C. This takes about 25 minutes.
 6. Inoculate the cultures with a concentration of 0.2 mM IPTG and put inside shakers at 18C.
 7. Allow to grow for 14 to 16 hours and then harvest. ArcticExpress cells grow in 16 hours.
@@ -73,7 +73,7 @@ gp46 is Rad50 and is part of the MR complex present int he T4 phage. Rad50 is an
 
 ### 3.2 P11 column
 
-1. Select the fractions that have the protein and use the FPLC to inject them into a P11 comumn.
+1. Select the fractions that have the protein and use the FPLC to inject them into a P11 column.
    - The P11 column is an econo column that has been packed in house with:
      - Whatman™ 4071-050 Grade P11 Dry Fibrous Cellulose Phosphate Cation Exchange Cellulose Media
      - The Cellulose Media was prepared according to the manufacturer recommendations:
@@ -111,7 +111,7 @@ gp46 is Rad50 and is part of the MR complex present int he T4 phage. Rad50 is an
      - 20 mM Tris pH 8
      - 200  mM NaCl
      - 20% glycerol
-2. Aliquot fractions into 10-20 uL in 10 uL Eppendorf tubes and flash freeze with liquid nitrogen.
+2. Aliquot fractions into 10-20 µL in 500 µL Eppendorf tubes and flash freeze with liquid nitrogen.
 3. Store fractions at -80 C.
 
 [^paper-1]: Myler et al. (2017). [Single-molecule imaging reveals how Mre11-Rad50-Nbs1 initiates DNA break repair](https://finkelsteinlab.org/papers/paper/mrn-dna-curtains). *Molecular Cell*.
