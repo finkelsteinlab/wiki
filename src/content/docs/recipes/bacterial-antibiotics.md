@@ -84,7 +84,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 <td style="text-align: center;"><a href="#24-d-cycloserine">D-cycloserine</a></td>
 <td>10 (0.1M NaP pH8.0)</td>
 <td>+4</td>
-<td style="text-align: left;">2</td>
+<td style="text-align: left;">200</td>
 <td>20 µl/ml</td>
 <td></td>
 <td></td>
@@ -224,7 +224,7 @@ Working concentrations and stock solutions taken from <http://molbiol.edu.ru/eng
 - some laboratories use 96% (or 50%) EtOH for ampicillin solubilization. There are two advantages in this method:
   - solution is liquid at -20˚C
   - the solution is self sterilizing.
-- **But the disadvantage it very serious:** ethanol is a weak catalyst of b-lactam ring disruption. So, solution is unstable.
+- **But the disadvantage is very serious:** ethanol is a weak catalyst of β-lactam ring disruption. So, solution is unstable.
 
 ### 2.2 Carbenicillin
 

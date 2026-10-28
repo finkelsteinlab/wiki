@@ -15,21 +15,13 @@ For the RNA polymerase roadblock assay, see [Cas3 Roadblocks-RNAP](/wiki/protoco
 
 ## 1. Preparation
 
-:::caution
-
-Important Info
-
-:::
+:::caution[Important Info]
 
 - Need to make and purify PBamp lysogen \#386
 - Use the [lambda DNA purification protocol](/wiki/protocols/dna-and-cloning/lambda-dna-purification/)
 - Use LacI in BB10.4c (11 uM). Colored tubes are stocks. Clear tubes are 10 uL aliquots.
 
 1. Make a working dilution of LacI (63 nM) by diluting 2 uL of stock into 350 uL BSA buffer - DTT.
-
-:::caution
-
-Important Info
 
 :::
 

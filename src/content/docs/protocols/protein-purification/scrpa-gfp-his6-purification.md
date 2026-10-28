@@ -61,7 +61,7 @@ For the chitin-column (CBD-His6) purification of *S. cerevisiae* RPA, see [scRPA
 4. Take 14 ml of HisPur Ni-NTA Resin and put it in a 50ml transparent conical tube for centrifuge, (rotor 16.2 JLA).
 5. Centrifuge at 700xg for 2 minutes. Decant supernatant and keep the ~7ml resin volume.
 6. Dissolve the ~7 ml resin into an equal volume of equilibration buffer.
-   - Equilibration buffer (Buffer A):
+   - Equilibration Buffer N (Buffer NA):
      - 50 mM KPO4 pH 7.9
      - 250 mM NaCl
      - 20 mM Imidazole
@@ -84,7 +84,7 @@ For the chitin-column (CBD-His6) purification of *S. cerevisiae* RPA, see [scRPA
 19. Dilute the salt of the Eluted Ni-NTA protein.
     1. The resin elution was done in Buffer NB with 250 mM NaCl but we need to diluted 3x before loading into the next Q column.
     2. For dilution, make Buffer NB with all components but instead use 0 mM NaCl, (Buffer NB-NaCl).
-    3. Add 30 mL of Buffer NB-NaCl to the 14 ml of the Ni-NTA eluted protein. (3 x dilution)
+    3. Add 30 mL of Buffer NB-NaCl to the 14 ml of the Ni-NTA eluted protein (~3x dilution to ~80 mM NaCl).
 20. Have a 1 ml HiTrap Q column installed in the FPLC. Equilibrate the column in Equilibration Buffer Q (Buffer QA).
     - Equilibration Buffer Q (Buffer QA)
       - 30 mM Hepes pH 7.9

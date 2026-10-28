@@ -23,8 +23,8 @@ Used in our paper:[^paper-1]
 3. Clarify the lysate by centrifugation at 20,000xg for 10 minutes.
 4. Determine concentration of extract via Bradford assay and adjusted to 10 mg mL-1.
 5. Combine in a 50µL solution.
-   1. 20 µL Buffer (final concentrations: 40mM HEPES pH 7.5, 8mM MgCl2, 0.5mM DTT, 3mM ATP, 100 ng of pcDNA3 plasmid DNA (an SV40 replication origin containing plasmid)
-   2. 20 µL of 2-5 mg mL-1 HEK293T extract (final concentration: 0.8-2-5 mg mL-1)
+   1. 20 µL Buffer (final concentrations: 40mM HEPES pH 7.5, 8mM MgCl2, 0.5mM DTT, 3mM ATP, 100 ng of pcDNA3 plasmid DNA (an SV40 replication origin containing plasmid))
+   2. 20 µL of 2-5 mg mL-1 HEK293T extract (final concentration: 0.8-2.0 mg mL-1)
    3. 10 µL 10 µM purified RPA (final concentration: 2 µM).
 6. Incubated at 37˚C for 2 hours.
 7. Purify from the extract by using a 1 mL HiTrap Q.

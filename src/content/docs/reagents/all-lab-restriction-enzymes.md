@@ -18,7 +18,7 @@ If you receive a new restriction enzyme, please put it on the list. Most enzymes
 :::
 
 - ApoI
-- ApalI
+- ApaLI
 - ApaI
 - AseI-HF
 - AvrII
@@ -32,14 +32,14 @@ If you receive a new restriction enzyme, please put it on the list. Most enzymes
 - EcoRI-HF
 - ExoV
 - HaeIII
-- HinDIII-HF
+- HindIII-HF
 - KpnI
 - Nb.BsrDI
 - MseI
 - NheI-HF
 - NotI
 - NotI-HF
-- Nt.BbvcI
+- Nt.BbvCI
 - Nt.BspQI
 - NcoI-HF
 - NdeI
@@ -53,7 +53,7 @@ If you receive a new restriction enzyme, please put it on the list. Most enzymes
 - SalI
 - StuI
 - SphI-HF
-- ScaII
+- SacII
 - SpeI
 - XbaI
 - XhoI

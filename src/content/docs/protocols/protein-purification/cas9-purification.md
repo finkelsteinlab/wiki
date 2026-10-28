@@ -60,7 +60,7 @@ Used in our papers:[^paper-1][^paper-2][^paper-3]
 
 ### 4.1 Day 4
 
-1. Thaw pellet and add 1mM DNase (if not already added).
+1. Thaw pellet and add DNase I (100 µL of 2,000 units/mL stock, if not already added).
 2. Make sure that it is mostly resuspended. Use a serological pipette or cell scraper to aid in this process.
 3. Sonicate cells (on ice) to lyse.
    1. Amplitude =30, Processing time = 1:30, Pulse time = 15 s, Rest time = 1:30.

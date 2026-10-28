@@ -22,7 +22,7 @@ GP32 binds to single stranded DNA to promote stabilization. Each molecule binds 
 
 ### 1.1 Transform
 
-1. Transform 1 uL of GP59 plasmid into 50 uL of BL21(Arctic Express) cells.
+1. Transform 1 uL of GP32 plasmid into 50 uL of BL21(Arctic Express) cells.
 2. Flick 5 times.
 3. Place on ice for 5 minutes.
 4. Place in a 42C water bath for 42 seconds.
@@ -83,7 +83,7 @@ GP32 binds to single stranded DNA to promote stabilization. Each molecule binds 
 ### 1.5 Concentration
 
 - The protein can be concentrated using a 10K Amicon concentrator
-- Vanessa Landsteiner has concentrated the protein to around 60 mM
+- Vanessa Landsteiner has concentrated the protein to around 60 µM
 - The concentrator will also eat about 9/10 of the protein
 
 ### 1.6 Storage

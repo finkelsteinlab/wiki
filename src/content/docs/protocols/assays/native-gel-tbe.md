@@ -16,7 +16,7 @@ Native PAGE separations are run in non-denaturing conditions. Detergents are use
 
 | Resolving Layer | 5%    | 6%  | 8 %  | 10%  | 12%  | 15%   |
 |-----------------|:------|:----|------|:-----|------|-------|
-| H2O (ml)        | 38.25 | 37  | 34.5 | 32   | 30   | 25.75 |
+| H2O (ml)        | 38.25 | 37  | 34.5 | 32   | 29.5 | 25.75 |
 | 5X TBE (ml)     | 5     | 5   | 5    | 5    | 5    | 5     |
 | 40% Acryl (ml)  | 6.25  | 7.5 | 10.0 | 12.5 | 15.0 | 18.75 |
 | 10% APS (ml)    | 0.5   | 0.5 | 0.5  | 0.5  | 0.5  | 0.5   |
@@ -39,6 +39,6 @@ Native PAGE separations are run in non-denaturing conditions. Detergents are use
 1. Run TBE gel in 0.5X TBE buffer <http://cshprotocols.cshlp.org/content/2006/1/pdb.rec8458>.
 2. Pre-run the gel for 10 minutes at 80V. This ensures acrylamide won’t react with protein samples (for our lab). It also heats the gel up so your DNA stays denatured while running the sample.
 3. Run the gel at 80V for 45-60 minutes. **Be sure to watch the solvent front**.
-4. Remove the gel from the casing and soak for 15-20 minutes in 0.5% Ethidium bromide. **Gel is gooey, please be careful**.
+4. Remove the gel from the casing and soak for 15-20 minutes in 0.5 µg/mL Ethidium bromide. **Gel is gooey, please be careful**.
 5. Remove from Ethidium Bromide and rinse with water 5 times. Let soak in water for 15 minutes.
 6. Image the gel as you would a agarose gel.

@@ -17,7 +17,7 @@ For a mechanical lysis alternative using glass beads and phenol/chloroform extra
 
 - **Zymolyase**: Chris Yellman in the Marcotte lab said: *The enzyme is specified by activity level, and that is a 100T activity enzyme.  You may find zymo from different suppliers and I think it will work just as well, but pay attention to the activity level number so that you know how much to use.  I think the enzyme is also frequently sold with activity level 20T.* In the past we used zymolyase from Seikagaku but they discontinued its production.
 - **Yeast lysis solution**: 1X TE, 2% SDS, 1M NaCl. You will need to microwave for 10-30 seconds until dissolved.
-- **SCE**
+- **SCE**: 1 M sorbitol, 0.1 M sodium citrate pH 7.0, 60 mM EDTA
 - **PCR cleanup kit**
 
 ## 2. Protocol

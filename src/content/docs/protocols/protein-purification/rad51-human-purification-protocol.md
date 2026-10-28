@@ -31,7 +31,7 @@ Plasmid and Protocol from Dr. Mauro Modesti. Adapted by J. Schaub.
 
 - 50 mM Tris-HCl pH 7.2 (12.5 mL 1M stock)
 - 300 mM NaCl (15 mL 5M stock)
-- 200 mM Imidazole (5.1 g)
+- 200 mM Imidazole (3.4 g; note: 5.1 g gives 300 mM)
 
 **Heparin A Buffer (1L)**
 
@@ -85,7 +85,7 @@ Plasmid and Protocol from Dr. Mauro Modesti. Adapted by J. Schaub.
 12. Wash with one step of 200 mM NaCl.
     1. BRC4 eluted here.
 13. Wash with a gradient of 200 mM to 1 M NaCl.
-    1. RAD51 eluted near 800 mm NaCl, very strong binding.
+    1. RAD51 eluted near 800 mM NaCl, very strong binding.
 14. Run gel to determine which fractions to pool.
     1. My first prep (7/18/16) was very pure at this step.
 
@@ -93,7 +93,7 @@ Plasmid and Protocol from Dr. Mauro Modesti. Adapted by J. Schaub.
 
 1. Label the Rad51 C319S construct using a Maleimide conjugated dye.
 2. Concentrate RAD51 C319S to \> 1 mg/mL.
-3. Perform Labeling reaction in 20 mmM HEPES pH 7.2, 500 mM KCl, 0.5 mM TCEP (tip from Modesti). Either do an overnight dialysis, or do a buffer exchange. ALL DTT MUST BE REMOVED. This will interfere with labeling.
+3. Perform Labeling reaction in 20 mM HEPES pH 7.2, 500 mM KCl, 0.5 mM TCEP (tip from Modesti). Either do an overnight dialysis, or do a buffer exchange. ALL DTT MUST BE REMOVED. This will interfere with labeling.
 4. Incubate RAD51 in the new buffer for 30 minutes to ensure reduction of disulfides.
 5. May need to purge oxygen from buffers to prevent oxidizing environment.
 6. Make the dye into a 10-20 mM stock and add a 5:1 Molar excess to the RAD51.

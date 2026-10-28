@@ -25,7 +25,7 @@ The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynu
 1. Transform SNgp43 (Scott Nelson’s gp43 plasmid) into BL21(DE3) cells.
    1. Use 50 uL of Bl21(DE3) cells and add 1 uL of 20ng/uL of SNgp43.
    2. Flick 5 times to mix and place on ice for 5 minutes.
-   3. Place the cells in a 42C water for 42 seconds.
+   3. Place the cells in a 42°C water bath for 42 seconds.
    4. Remove and immediately place on ice for 2 minutes.
    5. Add the cells to 500 uL of SOC.
    6. Allow to grow in a shaker at 37C, 250rpm for 1 hour.
@@ -39,7 +39,7 @@ The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynu
 4. Cool cultures to 16C then inoculate the cultures with a concentration of 0.4 mM IPTG.
 5. Allow cultures to grow overnight at 12C in shaking incubator for 18-24 hours.
 6. Harvest by centrifuging for 10 minutes at 5000 rpm.
-7. Decant the supernatant and keep the pellet Do this on ice in the cold room.
+7. Decant the supernatant and keep the pellet. Do this on ice in the cold room.
 8. Resuspend pellets in 70 mL with resuspension buffer:
    - 50 mM Tris pH 7.5
    - 500 mM NaCl
@@ -73,7 +73,7 @@ The T4 DNA Polymerase is responsible for catalyzing the incorporation of deoxynu
     - 150 mM NaCl
     - 10% glycerol
     - **Check pH!**
-14. Aliquot protein into 10 uL samples into 0.5 uL Eppendorf tubes.
+14. Aliquot protein into 10 uL samples into 0.5 mL Eppendorf tubes.
 15. Flash freeze protein aliquots using liquid nitrogen.
 16. Store at -80C.
 

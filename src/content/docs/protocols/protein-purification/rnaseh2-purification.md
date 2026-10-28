@@ -1,10 +1,10 @@
 ---
-title: "Rnaseh2 purification"
+title: "RNase H2 Purification"
 ---
 
 <!-- migrated from DokuWiki page protocols:rnaseh2_purification -->
 
-Human RNase H2 Purification (for human RNase H1, see [Rnaseh1 purification](/wiki/protocols/protein-purification/rnaseh1-purification/)).
+Human RNase H2 Purification (for human RNase H1, see [RNase H1 Purification](/wiki/protocols/protein-purification/rnaseh1-purification/)).
 
 ## Contents
 
@@ -19,7 +19,7 @@ Polycistronic construct, His tag on each subunit, Made from pet15B original vect
 
 This should work for 3XFlag or other modifications, as long as the subunits remain his tagged.
 
-RNase H2 is grown in a temperature sensitive yeast strain (MIC1066), and elutes as a 1:1:1 complex. Try not to collect fractions with disproportionate subunit elution.
+RNase H2 is grown in a temperature-sensitive *E. coli* strain (MIC1066, *rnhA*/*rnhB* mutant), and elutes as a 1:1:1 complex. Try not to collect fractions with disproportionate subunit elution.
 
 ## 2. Expression
 
@@ -41,14 +41,14 @@ RNase H2 is grown in a temperature sensitive yeast strain (MIC1066), and elutes 
 
 5. Dilute protein 10X with 20 mM Tris HCl pH 7.5, 1 mM EDTA (Heparin Dilution Buffer) to reduce salt for Heparin loading.
 6. Load on Hitrap Heparin HP (1 or 5 ml, preequilibrated with Heparin Dilution Buffer). Wash with 20 mM Tris HCl 7.5, 0.5 M NaCl, 1 mM EDTA (Heparin Wash Buffer). Elute with gradient of 20 mM Tris HCl 7.5, 1.5 M NaCl, 1 mM EDTA (Heparin Elution Buffer).
-(Optional) 7. Dialyse against 20 mM Tris HCl 7.5, 150 mM NaCl, 1 mM EDTA (Storage Buffer) and concentrate (or just leave in elution buffer and estimate salt concentration).
+7. (Optional) Dialyze against 20 mM Tris HCl 7.5, 150 mM NaCl, 1 mM EDTA (Storage Buffer) and concentrate (or just leave in elution buffer and estimate salt concentration).
 
 ## 4. Buffers
 
 - **Lysis Buffer:** 20 mM Tris HCl 7.5, 0.5 M NaCl, 30 mM Imidazole
 - **Ni Wash Buffer:** 20 mM Tris HCl 7.5, 0.5 M NaCl, 75 mM Imidazole
 - **Ni Elution Buffer:** 20 mM Tris HCl 7.5, 0.5 M NaCl, 500 mM Imidazole
-- **Heparin Dilution Buffer:** Tris HCl pH 7.5, 1 mM EDTA
+- **Heparin Dilution Buffer:** 20 mM Tris HCl pH 7.5, 1 mM EDTA
 - **Heparin Wash Buffer:** 20 mM Tris HCl 7.5, 0.5 M NaCl, 1 mM EDTA
 - **Heparin Elution Buffer:** 20 mM Tris HCl 7.5, 1.5 M NaCl, 1 mM EDTA
 - **Storage Buffer:** 20 mM Tris HCl 7.5, 150 mM NaCl, 1 mM EDTA

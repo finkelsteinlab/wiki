@@ -1,10 +1,10 @@
 ---
-title: "Rnaseh1 purification"
+title: "RNase H1 Purification"
 ---
 
 <!-- migrated from DokuWiki page protocols:rnaseh1_purification -->
 
-RNase H1 purification, 1XFLAG-His. Size: Around 34 Kd. (For the trimeric human RNase H2 complex, see [Rnaseh2 purification](/wiki/protocols/protein-purification/rnaseh2-purification/).)
+RNase H1 purification, 1XFLAG-His. Size: Around 34 Kd. (For the trimeric human RNase H2 complex, see [RNase H2 Purification](/wiki/protocols/protein-purification/rnaseh2-purification/).)
 
 ## Contents
 

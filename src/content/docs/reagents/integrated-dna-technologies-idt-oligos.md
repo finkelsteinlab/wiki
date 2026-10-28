@@ -21,7 +21,7 @@ Please create an IDT account via the ICMB portal. The benefits include:
 
 ## 2. Oligo Purity
 
-For PCR and routine cloning, purchase the cheapest (25 nm scale, de-salted, no purification) oligos. Anything else adds time and money to your order. We frequently need oligos with common modifications:
+For PCR and routine cloning, purchase the cheapest (25 nmol scale, de-salted, no purification) oligos. Anything else adds time and money to your order. We frequently need oligos with common modifications:
 
 - Phosphorylation – Unless absolutely required by your assay, you probably don’t need purification
 - Biotin – PAGE-purification is best

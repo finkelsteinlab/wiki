@@ -17,7 +17,7 @@ Protocol taken from paper by Minoru Suga and Toyomasa Hatakeyama “A rapid and 
 
 - 30% glycerol in 0.1M LiAc pH4.9
 - 50% PEG4000 ( Sigma-Aldrich- 95904)
-- minimal medium with low carbon source. Paper uses SLD 0.67% YNB, 0.5% glucose, but we have found that synthetic complete medium with 3% glucose and 6.7% YNB works also.
+- minimal medium with low carbon source. Paper uses SLD 0.67% YNB, 0.5% glucose, but we have found that synthetic complete medium with 3% glucose and 0.67% YNB (6.7 g/L) works also.
 - 1/2 YE -\> 0.25% yeast extract (Apex - 20-255), 1.5% glucose (Acros - 50-99-7)
 
 ## 2. Cryopreservation of competent cells

@@ -15,7 +15,7 @@ Bradford assays are used to determine the concentration of a protein by comparin
 
 To make the standard curve follow the table below:
 
-| Standard | Bovine Serum Albumin (uL) | Coomassie Reagent (mL) | ddH2O (uL) | Concentration ug/mL |
+| Standard | Bovine Serum Albumin (uL, 2 mg/mL stock) | Coomassie Reagent (mL) | ddH2O (uL) | Concentration ug/mL |
 |----|----|----|----|----|
 | A | 30.00 | 1.5 | 0.0000 | 2000 |
 | B | 22.50 | 1.5 | 7.5000 | 1500 |
@@ -33,6 +33,6 @@ Use the Nanodrop to make the standard curve. It should be linear.
 
 1. Blank the nanodrop by depositing 1 mL of H2O into a cuvette.
 2. Place the cuvette in the machine (clear windows following the arrow) and click blank.
-3. Now measure each standard (A-G). Note: Re-use the same cuvette for all standards, starting with most dilute first.
+3. Now measure each standard (A–I). Note: Re-use the same cuvette for all standards, starting with most dilute first.
 4. Once done, measure your sample.
 5. Throw away cuvettes.

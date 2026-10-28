@@ -24,7 +24,7 @@ You need concentrated DNA and histone octamer to assemble nucleosomes in vitro.
 ### 2.1 Large Scale
 
 1. Prepare COLD 400 ml of high salt buffer (2M NaCl-TE, Tris-HCl pH 7.5, EDTA pH 8, 1 mM DTT) and 2 L no salt buffer ( Tris-HCl pH 7.5, EDTA pH 8, 1 mM DTT).
-2. Prepare histone octamer in TE-2M buffer. If the octamer was in -20C with 50% glycerol, you can either dialyze or dilute using 2M-TE buffer containing 1M DTT.
+2. Prepare histone octamer in TE-2M buffer. If the octamer was in -20C with 50% glycerol, you can either dialyze or dilute using 2M-TE buffer containing 1 mM DTT.
 3. Decide which molar ratio you want to try (DNA:octamer molar ratio). Typically we try around 1:1 ratio (1:0.8, 1:1, 1:1.2 etc).
 4. Set the reactions up in cold tubes and keep on ice until the reaction is moved to dialysis buttons. Tip: Wash the dialysis buttons with the high salt buffer before dialyzing the reactions.
 5. Dialyze reactions for at least 18 h using peristaltic pump moving salt from 2 M to 0.25 M.
@@ -37,7 +37,7 @@ You need concentrated DNA and histone octamer to assemble nucleosomes in vitro.
 - This protocol is also at least three to four times faster than the large scale reconstitution, which can run 18 to 24 hrs.
 - The DNA to Octamer ratios typically used for this protocol are 1:1.6, 1:1.7, 1:1.8, etc.
 - The final reaction will contain approx. 1000 ng of DNA, octamer at least 1.6 x moles of DNA, 2M NaCl-TE. The final volume will be 10 ul for these conditions. You can definitely start with a half reaction, which I have tried before. I have, however, not tried doubling the reaction, but I don’t see why it wouldn’t work.
-- Example Reaction: 100 ng/ul of 278 bp 601 dsDNA is 0.5543 nM. Set up 3 reactions with 0.887 nM, 0.942 nM, and 0.998 nM octamer each.
+- Example Reaction: 100 ng/ul of 278 bp 601 dsDNA is 0.554 µM (554 nM). Set up 3 reactions with 0.887 µM, 0.942 µM, and 0.998 µM octamer each (corresponding to 1:1.6, 1:1.7, and 1:1.8 molar ratios).
 - Make sure ALL buffers are pH 7.6.
 - Always dilute the octamer in 2M NaCl-TE and add the octamer to the reaction last.
 
@@ -51,4 +51,4 @@ Steps:
    3. Add 70 ul TE (0.2 M).
    4. OPTIONAL: Add 100 ul TE to get to 100 mM NaCl and incubate.
 4. Tip: Be very careful handling the nucs. Once incubations are done, store in the large 4C in a water bucket. The better handling, the longer the nucs will last.
-5. Prerun a 5% Native page gel at 150 V until the resistance reaches 5 mA in 4C conditions. Clean out the wells and run the nucs for an hour and visualize on the Typhoon.
+5. Prerun a 5% Native page gel at 150 V until the current reaches 5 mA in 4C conditions. Clean out the wells and run the nucs for an hour and visualize on the Typhoon.

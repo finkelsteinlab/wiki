@@ -52,7 +52,7 @@ To calibrate the flow-force dependent elongation of λ-DNA conjugated beads, sin
 
 ## 4. Calibration Results
 
-I found that Force=flowrate(uL/min)/ 7.68\*10.^13. Therefore 500uL/min give a force of 6.5 pN
+I found that Force (N) = flowrate (µL/min) / (7.68 × 10¹³) [or Force (pN) = flowrate (µL/min) / 76.8]. Therefore, 500 µL/min gives a force of 6.5 pN.
 
 For my actual calibration curve, look at the paper me and Kaylee put on bio-archive
 

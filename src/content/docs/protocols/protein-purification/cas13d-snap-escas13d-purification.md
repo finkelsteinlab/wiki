@@ -31,7 +31,7 @@ Used in our papers:[^paper-1][^paper-2]
 
 ## 1. Buffers
 
-- **Filter all buffer with 0.22uM filter and store at 4C.**
+- **Filter all buffers with a 0.22 µm filter and store at 4°C.**
 
 ### 1.1 Lysis Buffer (500 mL, pH 7.4)
 

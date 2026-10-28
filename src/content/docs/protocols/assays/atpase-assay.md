@@ -21,7 +21,7 @@ title: "ATPase Assay"
 
 ## 1. Overview
 
-The ATPase activity assay is a coupled reaction where the regeneration of hydrolyzed ATP, via phosphoenolpyruvate(PEP), Lactate dehydrogenase(LDH), and Pyruvate Kinase(PK), is coupled to the oxidation of NADH. The reaction occurs in a 1:1 ratio (1ATP hydrolyzed generates the loss of 1 NADH. Since NADH absorbs at 340nm and NAD+ does not, the result of spectrophotometer readings at OD340 over time give a negative slope.
+The ATPase activity assay is a coupled reaction where the regeneration of hydrolyzed ATP, via phosphoenolpyruvate(PEP), Lactate dehydrogenase(LDH), and Pyruvate Kinase(PK), is coupled to the oxidation of NADH. The reaction occurs in a 1:1 ratio (1 ATP hydrolyzed generates the loss of 1 NADH). Since NADH absorbs at 340nm and NAD+ does not, the result of spectrophotometer readings at OD340 over time give a negative slope.
 
 <img src="/wiki/media/protocols/atp_nadh_coupled_reaction.png" width="200" alt="atp_nadh_coupled_reaction.png" />
 
@@ -36,7 +36,7 @@ The ATPase activity assay is a coupled reaction where the regeneration of hydrol
 ### 3.1 Conditions
 
 - Typical assay volume of 300 μL.
-- Buffer is 25 mM Tris-OAc, pH 7.5, 150 mM KOAc, 10 mM Mg(OAC)2, 10 mM 2-BME
+- Buffer is 25 mM Tris-OAc, pH 7.5, 150 mM KOAc, 10 mM Mg(OAc)2, 10 mM 2-BME
 - Other assay components: 1 mM ATP, 0.2 mM NADH, 0.5 μM streptavidin, 3.6 U pyruvate kinase/ml assay, 2.5 U lactate dehydrogenase/ml assay, 3 mM PEP
 
 DNA substrate is a small replication fork with biotin on the 3’ end of the template (Bio62/34/36):
@@ -61,21 +61,23 @@ Continuous read on spectrophotometer at 340 nm.
 
 The calculated rates using an extinction coefficient for NADH of 6220 M-1 cm-1 should be about:
 
-- +gp44/62) 5 nM ADP/sec
-- +gp45) 90 nM ADP/sec
-- +Bio62/34/36) 500 nM ADP/sec
-- +gp43) 125 nM ADP/sec
+- +gp44/62 - 5 nM ADP/sec
+- +gp45 - 90 nM ADP/sec
+- +Bio62/34/36 - 500 nM ADP/sec
+- +gp43 - 125 nM ADP/sec
 
 ### 3.4 Calculation
 
-Slope= change in Absorbance (OD340) /time ATPase Rate= Slope/(pathlength (1cm))\*(Extinction coefficient on NADH (6.22 mM cm-1 ) ATP Hydrolysis/enzyme unit= ATPase Rate/\[enzyme\]
+- **Slope** = change in Absorbance (OD340) / time
+- **ATPase Rate** = Slope / (pathlength (1 cm) × Extinction coefficient of NADH (6.22 mM⁻¹ cm⁻¹))
+- **ATP Hydrolysis / enzyme unit** = ATPase Rate / [enzyme]
 
 ## 4. gp41
 
 ### 4.1 Conditions
 
 - Typical assay volume of 300 μL.
-- Buffer is 25 mM Tris-OAc, pH 7.5, 150 mM KOAc, 10 mM Mg(OAC)2, 10 mM 2-BME
+- Buffer is 25 mM Tris-OAc, pH 7.5, 150 mM KOAc, 10 mM Mg(OAc)2, 10 mM 2-BME
 - Other assay components: 1 mM ATP, 0.2 mM NADH, 0.5 μM streptavidin, 3.6 U pyruvate kinase/ml assay, 2.5 U lactate dehydrogenase/ml assay, 3 mM PEP
 - DNA substrate is ssM13mp18 (purchased from NEB)
 
@@ -100,7 +102,7 @@ The calculated rates using an extinction coefficient for NADH of 6220 M-1 cm-1 s
 - +gp41 - 180 nM ADP/sec
 - +ssM13mp18 - 1300 nM ADP/sec
 - +gp32 - 300 nM ADP/sec
-- +gp59 - 1200 uM ADP/sec
+- +gp59 - 1200 nM ADP/sec
 
 ## 5. References
 

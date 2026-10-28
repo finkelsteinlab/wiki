@@ -16,7 +16,7 @@ Used in our paper:[^paper-1]
 
 ## 1. Buffers
 
-1) **Lysis/Size Exclusion Buffer:** 10mM Tris-Cl, pH=7.4, 1M NaCl
+1. **Lysis/Size Exclusion Buffer:** 10mM Tris-Cl, pH=7.4, 1M NaCl
 2. **Wash Buffer:** 10mM Tris-Cl, pH=7.4, 1M NaCl, 10mM imidazole
 3. **Elution Buffer:** 10 mM Tris-Cl, pH=7.4, 1M NaCl, 250 mM imidazole
 
@@ -46,14 +46,14 @@ Transform plasmid into BL21 (DE3) cells.
 
 ## 4. Purification
 
-1) Thaw pellet by rocking slurry at room temperature for 1 hr, turning after 30 minutes to get even thawing.
-2) Sonicate cells (on ice) to lyse.
+1. Thaw pellet by rocking slurry at room temperature for 1 hr, turning after 30 minutes to get even thawing.
+2. Sonicate cells (on ice) to lyse.
    - Amplitude =30, Processing time = 1:30, Pulse time = 15 s, Rest time = 1:30
-3) Clarify lysate by centrifugation using the ultracentrifuge.
+3. Clarify lysate by centrifugation using the ultracentrifuge.
    - Ti-45 rotor, 35000 RCF, 35 minutes, 25 C
-4) Ni-NTA Resin: 5mL resin in 50mL conical (batch)
+4. Ni-NTA Resin: 5mL resin in 50mL conical (batch)
    1. Equilibrate resin with lysis buffer.
-      - Spin resin in swing bucket rotor for 10 minutes at 4000 RSF
+      - Spin resin in swing bucket rotor for 10 minutes at 4000 RCF
       - Carefully remove the liquid from above the resin pellet and add 40mL of ddi H2O.
       - Repeat steps i and ii once more with water, then with 40mL lysis buffer.
       - Spin resin down a final time. After removing buffer from above the resin, add lysate.
@@ -69,7 +69,7 @@ Transform plasmid into BL21 (DE3) cells.
   - If dark precipitate forms, turn the solution a few times and it will return to solution.
   - Yellow tint is okay – indicative of high protein concentration.
 
-6) SEC Column: Superdex 200 (25mL Increase)
+5. SEC Column: Superdex 200 (25mL Increase)
    1. Equilibrate column with 30 mL SEC buffer.
    2. Load 1 mL of concentrated sample onto column using a 1mL loop.
    3. Collect 1 mL fractions. As soon as peak is observed, inject another 1mL of protein onto column.

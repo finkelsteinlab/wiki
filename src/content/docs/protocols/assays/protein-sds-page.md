@@ -116,4 +116,4 @@ Photograph and print your gel using the [InGenius Darkroom Cabinet](/wiki/instru
 
 ## 6. Protein Ladders
 
-Coming soon
+See the Bio-Rad Precision Plus Protein Standards migration chart in [Section 2 (Gel Percentage Reference)](#2-gel-percentage-reference).

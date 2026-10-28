@@ -57,7 +57,7 @@ title: "TEV Protease Purification"
 
 ### 4.1 Day 4
 
-1. Thaw pellet and add 1mM DNase.
+1. Thaw pellet and add DNase I (100 µL of 2,000 units/mL stock, or ~5–10 µg/mL).
 2. Sonicate cells (on ice) to lyse.
    1. Amplitude =30, Processing time = 1:30, Pulse time = 15 s, Rest time = 1:30.
 3. Clarify lysate by centrifugation using the ultracentrifuge.

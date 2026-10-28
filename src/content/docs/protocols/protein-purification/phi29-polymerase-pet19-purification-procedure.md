@@ -70,7 +70,7 @@ Plasmid cloned from the previous [Φ29 (phi29) DNA Polymerase](/wiki/protocols/p
 2. Suspend pellet in ~25 mL of Lysis Buffer. Homogenize with pipetting.
 3. Sonicate at 30% power for 15s ON and 90s OFF (90s total).
 4. Centrifuge pellet at 35k x g for 35 minutes.
-5. 5 mL StrepTactin Superflow Ni-NTA slurry washed with H2O and Lysis Buffer.
+5. 5 mL Strep-Tactin Superflow slurry washed with H2O and Lysis Buffer.
 6. Supernatant loaded and washed with Lysis Buffer until no detection via Bradford assay.
 7. Wash with high salt buffer. Re-equilibrate with Lysis Buffer.
 8. Elute resin with Elution buffer in 5 mL fractions.

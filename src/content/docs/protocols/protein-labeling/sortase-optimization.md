@@ -57,7 +57,7 @@ For a Sortase optimization reaction, you want to test both sortase variants, amo
 
 - Variable 1 Sortase: 7M and 5M
 - Variable 2 Temp: 4°C, 15°C, 25°C
-- Variable 2 Time: 0.5h, 1h, 2h, 4h, 12h
+- Variable 3 Time: 0.5h, 1h, 2h, 4h, 12h
 
 ## 3. Procedure
 

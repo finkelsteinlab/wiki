@@ -29,7 +29,7 @@ STEN buffer: 0.1 M Tris pH 8.0, 0.1 M NaCl, 1 mM EDTA pH 8.0, 1% SDS
 
 1. Inoculate one S. pombe colony in 5 ml of YES at 30°C until stationary phase (OD600~2).
 2. Spin the cells for 5 min at 5000 rpm and resuspend in 250 µl of STEN buffer.
-3. Transfer the supernatant in a screw cap 1.5 ml tube filled up to 250 µl with glass beads. Add 250 µl of PCI. Break for 30 sec at speed 5 in the FastPrep instrument.
+3. Transfer the resuspended cells into a screw-cap 1.5 ml tube filled up to 250 µl with glass beads. Add 250 µl of PCI. Break for 30 sec at speed 5 in the FastPrep instrument.
 4. Spin for 3 min at 15,000 rpm and take 225 µl of the aqueous phase to a 1.5 ml Eppendorf tube. Add TE up to 500 µl.
 5. Repeat the PCI extraction and take 400 µl of the aqueous phase to a new tube.
 6. Add 2 volumes of ethanol, spin 5 min at 15,000 rpm.

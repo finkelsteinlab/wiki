@@ -34,8 +34,9 @@ title: "Plates"
 | Component | Amount | Final concentration |
 |:---|:---|:---|
 | SC-Ade Powder | 0.99 g | |
-| Yeast Nitrogen Base w/o Amino Acid | 3.35 g | |
-| agar | 7.5g | |
+| Yeast Nitrogen Base w/o Amino Acid | 3.35 g | 0.67% |
+| glucose | 10 g | 2% |
+| agar | 7.5 g | 1.5% |
 | H2O | to 500 mL | |
 
 1. Autoclave 15-20 minutes on liquid cycle.
