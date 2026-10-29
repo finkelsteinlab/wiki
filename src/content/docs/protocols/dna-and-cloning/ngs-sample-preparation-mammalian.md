@@ -2,173 +2,170 @@
 title: "NGS Sample Preparation (Mammalian)"
 ---
 
-Bench protocol for preparing indexed NGS libraries from mammalian samples: gDNA extraction through cleanup of indexed PCR products. Adapted from [Huang et al., Nature Biotechnology (2025)](https://www.nature.com/articles/s41587-025-02879-3) with laboratory modifications.
+Bench protocol for preparing indexed NGS libraries from mammalian samples, from genomic DNA extraction through cleanup of indexed PCR products. Adapted from [Buffington et al., *Nature Biotechnology* (2025)](https://doi.org/10.1038/s41587-025-02879-3) with current laboratory modifications.
 
 ## Contents
 
-- [1. Reagents](#1-reagents)
-- [2. Genomic DNA extraction](#2-genomic-dna-extraction)
-- [3. First-round PCR](#3-first-round-pcr)
-- [4. Agarose gel electrophoresis and band excision](#4-agarose-gel-electrophoresis-and-band-excision)
-- [5. Gel extraction of first-round PCR products](#5-gel-extraction-of-first-round-pcr-products)
-- [6. Second-round PCR: P5/P7 indexing](#6-second-round-pcr-p5p7-indexing)
-- [7. Cleanup of indexed PCR products](#7-cleanup-of-indexed-pcr-products)
-- [8. Endpoint](#8-endpoint)
-- [9. Notes](#9-notes)
+1. [Reagents and equipment](#1-reagents-and-equipment)
+2. [Genomic DNA extraction](#2-genomic-dna-extraction)
+3. [First-round PCR](#3-first-round-pcr)
+4. [Agarose gel electrophoresis and band excision](#4-agarose-gel-electrophoresis-and-band-excision)
+5. [Gel extraction of first-round PCR products](#5-gel-extraction-of-first-round-pcr-products)
+6. [Second-round PCR: P5/P7 indexing](#6-second-round-pcr-p5p7-indexing)
+7. [Cleanup of indexed PCR products](#7-cleanup-of-indexed-pcr-products)
+8. [Endpoint](#8-endpoint)
+9. [Notes and references](#9-notes-and-references)
 
-## 1. Reagents
+## 1. Reagents and equipment
 
-- QIAGEN DNeasy Blood & Tissue Kit, including proteinase K and the required kit buffers
-- PBS and nuclease-free water (NFW)
-- KOD One Blue 2× PCR master mix (Toyobo)
-- Target-specific first-round PCR primers
-- P5 and P7 indexing primers for each sample
-- Agarose, TAE buffer, DNA stain, and 100 bp DNA ladder
-- QIAGEN gel extraction kit, Buffer QG, isopropanol, and the kit wash buffer
-- QIAGEN PCR cleanup kit, Buffer PB, and the kit wash buffer
-- Ethanol for kit buffer preparation and extraction steps, as specified by the applicable kit instructions
-- PCR tubes or plates, 1.5 mL collection tubes, pipettes, and filtered tips
-- Thermocycler, 56 °C heat block or incubator, electrophoresis apparatus, gel visualization system, and clean gel-excision tools
-- Vacuum manifold with suitable column adapters and a microcentrifuge
+### 1.1 Kits and reagents
 
-Prepare kit buffers as directed by the applicable kit instructions. Use the kit-specific loading and wash sequence for each purification; the shared manifold workflow does not imply interchangeable buffers.
+- **QIAGEN DNeasy Blood & Tissue Kit** (QIAGEN, cat. no. 69504), including proteinase K and Buffers AL, AW1, and AW2
+- **PBS** and **nuclease-free water (NFW)**
+- **KOD One Blue 2× PCR Master Mix** (Toyobo, cat. no. KMM-201; non-dye version: KMM-101)
+- **Target-specific first-round PCR primers** (100 µM stocks, combined into a 10 µM forward + reverse working mix)
+- **Illumina P5 and P7 indexing primers** (100 µM stocks, diluted to 10 µM working stocks)
+- **Agarose**, [1× TAE buffer](/wiki/recipes/electrophoresis-buffers/), DNA stain, and 100 bp DNA ladder
+- **QIAquick Gel Extraction Kit** (QIAGEN, cat. no. 28704), including Buffer QG, Buffer PE, and spin columns
+- **QIAquick PCR Purification Kit** (QIAGEN, cat. no. 28104), including Buffer PB, Buffer PE, and spin columns
+- **Isopropanol** (100%) and **ethanol** (100%, for kit buffer preparation and gDNA extraction)
+
+### 1.2 Consumables and equipment
+
+- PCR tubes or 96-well PCR plates, 1.5 mL microcentrifuge tubes, pipettes, and filtered tips
+- [Thermocycler](/wiki/instruments/master-cycler/), heat block or incubator (50 °C and 56 °C / ~63 °C block setting)
+- [Agarose gel electrophoresis](/wiki/protocols/dna-and-cloning/agarose-gel-electrophoresis/) apparatus, transilluminator / gel documentation system, and clean scalpels or razor blades
+- Vacuum manifold with column adapters and a [benchtop microcentrifuge](/wiki/instruments/centrifuges/#3-bench-top-centrifuges)
+- [NanoDrop 2000c](/wiki/instruments/nanodrop-2000c/) spectrophotometer
+
+Prepare kit buffers (including adding ethanol to Buffers AW1, AW2, and PE before first use) as directed by the manufacturer's instructions. Use the kit-specific binding and wash buffers for each purification step; the shared vacuum-manifold workflow does not imply interchangeable buffers.
 
 ## 2. Genomic DNA extraction
 
-Raise heat blocks to ~63 °C before starting.
+Raise the heat block to ~63 °C before starting so that tube contents reach 56 °C during the 20 min lysis incubation.
 
-1. Label extraction columns and collection tubes with the sample identifiers.
-2. Resuspend each sample in 200 µL PBS.
+1. Label DNeasy spin columns and collection tubes with the sample identifiers.
+2. Resuspend each cell pellet in 200 µL PBS.
 3. Add 10 µL proteinase K per sample.
 
    :::caution
-   This is the laboratory modification to the usual 20 µL amount.
+   Using 10 µL proteinase K per sample is a laboratory modification to the standard 20 µL kit volume.
    :::
 
-4. Add 200 µL of Buffer AL to each sample.
-5. Incubate at 56 °C for 20 minutes.
-6. Add 200 µL of 100% EtOH to each sample. Pipette up and down vigorously to mix. Transfer 600 µL solution to binding columns.
-7. Load the samples onto the columns using the vacuum manifold.
-8. Wash the columns with 600 µL of wash buffer **AW1**.
-9. Wash the columns with 800 µL of wash buffer **AW2**.
-10. Transfer the columns back to collection tubes and centrifuge at 21,000 × g to remove residual buffer.
-11. Transfer each column to a clean, labeled tube and elute the gDNA in 100 µL NFW using the kit elution procedure.
+4. Add 200 µL Buffer AL to each sample and mix thoroughly.
+5. Incubate at 56 °C (~63 °C heat-block setting) for 20 minutes.
+6. Add 200 µL of 100% ethanol to each sample (~610 µL total volume). Pipette up and down vigorously to mix, then transfer ~600 µL of the mixture to the labeled DNeasy binding columns.
+7. Draw the samples through the columns using the vacuum manifold.
+8. Wash each column with 600 µL of wash buffer **AW1**.
+9. Wash each column with 800 µL of wash buffer **AW2**.
+10. Transfer the columns to collection tubes and centrifuge at 21,000 × *g* for 1–2 minutes to remove residual wash buffer.
+11. Transfer each column to a clean, labeled 1.5 mL tube, add 100 µL NFW directly to the membrane, incubate at room temperature for 1 minute, and centrifuge to elute the gDNA.
 
 ## 3. First-round PCR
 
 ### 3.1 Reaction setup
 
-Prepare one 40 µL reaction per sample.
+Prepare one 40 µL reaction per sample. Forward and reverse target-specific primers (100 µM stocks) are combined into a single working solution containing 10 µM of each primer.
 
 | Component | Volume per reaction |
 |---|---|
 | KOD One Blue 2× MM | 20 µL |
 | NFW | 13 µL |
-| Target-specific primer preparation (10 µM F+R mix) | 2 µL |
-| gDNA | 5 µL |
+| Target-specific primer mix (10 µM F + 10 µM R) | 2 µL |
+| Template gDNA | 5 µL |
 | **Total** | **40 µL** |
 
-The 2 µL primer entry is the total primer volume. Forward and reverse primers are mixed into one solution. Stock primers are at 100 µM, diluted to 10 µM.
-
-1. Assemble the reactions using the sample-specific primer assignments.
-2. Mix and briefly centrifuge to collect the reaction at the bottom of each tube or well.
-3. Run the laboratory's standard KOD One Blue thermocycler program.
+1. Assemble the reactions on ice using the sample-specific primer assignments.
+2. Mix gently and briefly centrifuge to collect the reaction at the bottom of each tube or well.
+3. Run the first-round thermocycler program below.
 
 ### 3.2 Thermocycler program
 
-:::caution
-`TODO: value` — Record the validated thermocycler program before using this as a standalone protocol.
-:::
+Adjust the annealing temperature (typically 57–59 °C) and extension time as needed for the primer pair and amplicon length.
 
-| Parameter | Value |
-|---|---|
-| Initial step | `TODO: value` |
-| Denaturation | `TODO: temperature and time` |
-| Annealing | `TODO: temperature and time` |
-| Extension | `TODO: temperature and time` |
-| Number of cycles | `TODO: value` |
-| Final extension | `TODO: temperature and time` |
-| Final hold | `TODO: value` |
+| Step | Temperature | Duration | Cycles |
+|---|---|---|---|
+| Initial denaturation | 95 °C | 3 min | 1 |
+| Denaturation | 98 °C (or 95 °C) | 20 s | 28 |
+| Annealing | 57–59 °C (primer-$T_m$ dependent) | 15 s | 28 |
+| Extension | 72 °C | 20 s | 28 |
+| Final extension | 72 °C | 2 min | 1 |
+| Hold | 4–10 °C | $\infty$ | — |
 
 ## 4. Agarose gel electrophoresis and band excision
 
-1. Prepare a 1% agarose gel using TAE buffer and DNA stain.
-2. Load the unpurified first-round PCR reactions and 100 bp DNA ladder.
+1. Prepare a 1% agarose gel in [1× TAE buffer](/wiki/recipes/electrophoresis-buffers/) with DNA stain (see [Agarose Gel Electrophoresis](/wiki/protocols/dna-and-cloning/agarose-gel-electrophoresis/)).
+2. Load the unpurified first-round PCR reactions directly onto the gel (KOD One Blue 2× MM contains loading dye) alongside a 100 bp DNA ladder.
 3. Run the gel at 120 V for 30 minutes.
-4. Identify the target bands by comparison with the ladder and the expected amplicon size.
-5. Excise the ~250 bp bands and place each gel slice into a separate labeled 1.5 mL tube.
+4. Identify the target amplicon bands by comparison with the DNA ladder and expected amplicon size.
+5. Excise the target bands (typically ~250 bp for standard single-step amplicons, or ~1.2–1.5 kb when priming outside retron homology arms) and place each gel slice into a separate labeled 1.5 mL tube.
 
 ## 5. Gel extraction of first-round PCR products
 
-Raise heat block to 50 °C before starting.
+Raise a heat block to 50 °C before starting.
 
 1. Add 500 µL Buffer QG to each gel slice.
-2. Dissolve the gel by incubating the tubes at 50 °C for 10 minutes.
-3. After the gel has dissolved, add 250 µL isopropanol and mix.
-4. Load the sample onto a gel extraction column using the vacuum manifold. Use successive loads if needed to remain within the column reservoir capacity.
-5. Wash the column with ~1 mL of wash Buffer PE.
-6. Transfer the column to a collection tube and centrifuge at 21,000 × g to remove residual buffer.
-7. Transfer the column to a clean, labeled tube and elute in 25 µL NFW using the kit elution procedure.
+2. Dissolve the agarose by incubating the tubes at 50 °C for 10 minutes, vortexing or inverting periodically to ensure complete dissolution.
+3. After the gel has completely dissolved, add 250 µL of 100% isopropanol and mix well.
+4. Load the mixture onto a QIAquick Gel Extraction column using the vacuum manifold (in two passes if needed to stay within the column reservoir capacity).
+5. Wash each column with ~1 mL of Buffer PE.
+6. Transfer the columns to collection tubes and centrifuge at 21,000 × *g* for 1–2 minutes to remove residual wash buffer.
+7. Transfer each column to a clean, labeled 1.5 mL tube, add 25 µL NFW to the center of the membrane, incubate for 1 minute at room temperature, and centrifuge to elute the purified first-round PCR product.
 
 :::note
-The 500 µL QG and 250 µL isopropanol amounts are laboratory modifications.
+Using fixed volumes of 500 µL Buffer QG and 250 µL isopropanol per excised band is a laboratory modification to the standard weight-based kit protocol.
 :::
 
 ## 6. Second-round PCR: P5/P7 indexing
 
-Use the previously assigned P5/P7 indexing primer combination for each sample.
+Use a unique assigned Illumina P5/P7 indexing primer combination for each sample.
 
 ### 6.1 Reaction setup
 
-This reaction uses the same master mix and volume as round 1, substituting indexing primers and gel-purified product as template.
-
-:::caution
-`TODO: value` — Confirm KOD One Blue and 5 µL purified first-round product for the indexing reaction. The original publication used Q5 HotStart high-fidelity master mix for this step.
-:::
+Prepare one 40 µL indexing reaction per sample using 10 µM working stocks of the assigned P5 and P7 indexing primers.
 
 | Component | Volume per reaction |
 |---|---|
 | KOD One Blue 2× MM | 20 µL |
 | NFW | 13 µL |
-| Assigned P5 indexing primer | 1 µL |
-| Assigned P7 indexing primer | 1 µL |
+| Assigned P5 indexing primer (10 µM) | 1 µL |
+| Assigned P7 indexing primer (10 µM) | 1 µL |
 | Gel-purified first-round PCR product | 5 µL |
 | **Total** | **40 µL** |
 
-1. Verify each sample's assigned P5/P7 primer combination before adding primers.
-2. Assemble, mix, and briefly centrifuge the reactions.
-3. Run the laboratory's validated indexing PCR program.
-
-:::caution
-`TODO: value` — Record index primer concentrations and the second-round cycling program. The same reaction composition does not establish the same cycling program as round 1.
+:::note
+The current laboratory workflow uses KOD One Blue 2× Master Mix for both PCR rounds; [Buffington et al. (2025)](https://doi.org/10.1038/s41587-025-02879-3) used NEB Q5 HotStart High-Fidelity 2× Master Mix for the second-round barcoding PCR.
 :::
+
+1. Verify each sample's assigned P5/P7 index combination before adding primers.
+2. Assemble, mix gently, and briefly centrifuge the reactions.
+3. Run the second-round indexing PCR program below.
+
+### 6.2 Thermocycler program
+
+| Step | Temperature | Duration | Cycles |
+|---|---|---|---|
+| Initial denaturation | 95 °C | 3 min | 1 |
+| Denaturation | 98 °C (or 95 °C) | 20 s | 18–20 |
+| Annealing | 57 °C | 15 s | 18–20 |
+| Extension | 72 °C | 15 s | 18–20 |
+| Final extension | 72 °C | 2 min | 1 |
+| Hold | 4–10 °C | $\infty$ | — |
 
 ## 7. Cleanup of indexed PCR products
 
-1. Add 200 µL Buffer PB to each complete 40 µL indexing PCR reaction and mix (5:1 PB-to-reaction ratio).
-2. Load the mixture onto a QIAGEN PCR cleanup column using the vacuum manifold.
-3. Wash with ~1 mL of wash Buffer PE.
-4. Transfer the column to a collection tube and centrifuge at 21,000 × g to remove residual buffer.
-5. Transfer the column to a clean, labeled tube and elute the indexed product in 25 µL NFW.
-6. Measure concentrations of all indexed PCR products on the NanoDrop.
-
-:::caution
-`TODO: value` — Confirm the final cleanup elution volume and eluent. The 25 µL NFW used above matches the gel extraction step; the laboratory update does not specify these values for the final PCR cleanup.
-:::
+1. Add 200 µL Buffer PB to each 40 µL indexing PCR reaction (5:1 PB-to-reaction ratio) and mix well.
+2. Load the mixture onto a QIAquick PCR Purification column using the vacuum manifold.
+3. Wash each column with ~1 mL of Buffer PE.
+4. Transfer the columns to collection tubes and centrifuge at 21,000 × *g* for 1–2 minutes to remove residual wash buffer.
+5. Transfer each column to a clean, labeled 1.5 mL tube and elute the indexed product in 25 µL NFW.
+6. Measure the concentration of each purified, indexed PCR product on the [NanoDrop 2000c](/wiki/instruments/nanodrop-2000c/).
 
 ## 8. Endpoint
 
-The output is a set of individually purified, indexed PCR products. Library quantification, size-quality assessment, pooling, storage, and sequencing submission conditions are not specified here. The original publication used Illumina NovaSeq sequencing.
+The output is a set of individually purified, P5/P7-indexed PCR amplicons ready for equimolar pooling and Illumina short-read sequencing (e.g., NovaSeq PE150) followed by demultiplexing and alignment with CRISPResso2.
 
-## 9. Notes
+## 9. Notes and references
 
-NFW = nuclease-free water; MM = master mix; gDNA = genomic DNA.
-
-Adapted from the methods in [Huang et al., Nature Biotechnology (2025), DOI: 10.1038/s41587-025-02879-3](https://www.nature.com/articles/s41587-025-02879-3) together with current laboratory modifications. Current updates take precedence. This document does not reproduce or independently verify the manufacturers' complete kit protocols.
-
-### 9.1 Details to finalize
-
-- [ ] Record the thermocycler programs and cycle counts for both PCR rounds
-- [ ] Confirm KOD One Blue and 5 µL purified first-round product for the indexing reaction
-- [ ] Specify the exact QIAGEN cleanup products and the applicable kit loading/wash volumes
-- [ ] Specify the final PCR cleanup eluent and elution volume
+- **Abbreviations:** NFW = nuclease-free water; MM = master mix; gDNA = genomic DNA.
+- **Reference:** Buffington JD, Kuo H-C, Hu K, Chang Y-C, Javanmardi K, Voigt B, Li Y-R, Little ME, Devanathan SK, Xhemalçe B, Gray RS, Finkelstein IJ. Discovery and engineering of retrons for precise genome editing. *Nature Biotechnology* (2025). [doi:10.1038/s41587-025-02879-3](https://doi.org/10.1038/s41587-025-02879-3)
